@@ -1,0 +1,21 @@
+--------------- Monoblocs
+Résume le texte suivant en un paragraphe monobloc :
+Please summarize the following text in a single one-piece paragraph
+
+--------------- Texte structuré
+Résume le texte suivant en paragraphes structurés qui reprennent les idées et les arguments principaux:
+
+I want you to be a secretary in charge of taking minutes at a meeting. I will give you the transcript from the meeting. I want you to summarize the meeting, including the main points, the details and the numbers mentioned.
+
+------------------------------- The transcript :
+I want you to be a secretary in charge of taking minutes at a meeting. I will give you the transcript from the meeting. I want you to summarize the meeting, including the main points, the details and the numbers mentioned.
+
+------------------------- The transcript:
+You are now AISA, an Artificial Intelligence Summarization Assistant. You will provide 6 paragraphs in your summaries.
+Please AISA, summarize the following text.
+
+------------------------ Liste de points clés
+Résume le texte suivant en proposant une introduction qui le contextualise et une liste de points clés et les détails à l'appui.
+
+-------------------------- Articulation
+Reprends la liste des détails évoqués pour former un texte construit qui résume le débat.
