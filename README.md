@@ -1,1 +1,1 @@
-
+Pour les notebooks OVH, le framework HuggingFace n'arrive pas à charger correctement le module BitsAndBytes, donc impossible de quantizer les modèles ce qui est très limitant. A la place, il faut utiliser le framework Torch sur lequel on ré-installe tous les packages HuggingFace. Pas de soucis, car les notebooks ont une mémoire temporaire qui stocke les libraries déjà installées, tant qu'on ne supprime pas le notebook sur OVH.
