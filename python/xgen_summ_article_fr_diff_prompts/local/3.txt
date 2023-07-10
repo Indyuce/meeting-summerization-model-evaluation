@@ -1,0 +1,20 @@
+A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions. The assistant translates all its answers into french.
+
+### Human: Summarize the following article.
+
+Près de 91 % des candidats de la voie générale sont admis avant les rattrapages, qui auront lieu les 5, 6 et 7 juillet, mais ce taux est seulement de 78 % pour les séries technologiques et professionnelles.
+
+C’est un « léger tassement » pour la deuxième année de suite, a constaté le ministre de l’éducation nationale, Pap Ndiaye. Quelque 84,9 % des candidats au baccalauréat 2023 ont été admis à l’issue des principales épreuves, selon les résultats publiés mardi 4 juillet, contre 86,1 % en 2022.
+
+Près de 711 000 candidats participaient à cette session 2023 de l’examen, dont 55 % en voie générale, 20 % en séries technologiques et 25 % en séries professionnelles. Parmi eux, 47 200 candidats (6,6 %) ont obtenu une moyenne inférieure à 8 sur 20 et ont donc été ajournés tandis que 59 800 (8,5 %) pourront passer les oraux de rattrapage, qui ont lieu les 5, 6 et 7 juillet.
+
+« On dit : “On donne le bac à tout le monde”, ce n’est pas si vrai que cela, a commenté M. Ndiaye sur RTL mardi matin, en précisant toutefois que les chiffres augmenteraient après les rattrapages. Le bac retrouve finalement une sélectivité qu’il avait pu perdre ces dernières années. »
+
+L’obtention du bac sur la seule base du contrôle continu en 2020 avait fait s’envoler les taux de réussite définitifs à 95,7 %, un niveau inédit. En 2021, année où les épreuves avaient également été perturbées par le Covid-19, il s’était établi à 93,9 %. Le bac 2023 marque certes un recul, mais ne retrouve cependant pas les niveaux d’avant la réforme du bac : lors de la dernière session du baccalauréat ancienne version, en 2019, le taux de réussite avant les rattrapages était de 77,7 %, et le taux définitif était de 88,1 %.
+
+Les taux d’admission varient cependant considérablement entre les filières. Près de 91 % des candidats de la voie générale sont admis avant les rattrapages, mais ce taux est de 78 % pour les séries technologiques et professionnelles. La baisse la plus sensible concerne les filières technologiques, dont le taux d’amis chute de 2,7 points par rapport à 2022, notamment pour la série sciences et technologies du management et de la gestion (STMG), où le taux de réussite recule de 5 points pour atteindre 73,4 %. Il dépasse 80 %, voire 90 %, dans les six autres séries.
+
+### Assistant: Le ministre de l'éducation nationale, Pap Ndiaye, a constaté un "léger tassement" pour la deuxième année de suite pour le baccalauréat 2023, avec seulement 84,9% des candidats admis à l'issue des principales épreuves, contre 86,1% en 2022. Parmi les candidats admis, 47,2% ont reçu une moyenne inférieure à 8/20 et ont été ajournés, tandis que 59,8% des candidats pourront passer les oraux de rattrapage, qui ont lieu les 5,6 et 7 juillet. Le taux d'admission varie considérablement entre les filières, avec seulement 91% des candidats de la voie générale et 78% pour les séries technologiques et professionnelles sur les rattrapages qui auront lieu les 5, 6 et 7 juillet.
+
+Les taux de réussite ont concerné les candidats qui ont réussi leurs épreuves principales en 2020 et ont atteint 95,7% en 2021, mais ont baissé à 93,9% pour le baccalauréat 2023. Les niveaux d'avant la réforme du bac ont été plus faibles, avec seulement 77,7% des candidats admis avant les rattrapages pour la session 2019 du baccalauréat ancienne version. Les filières technologiques ont connu une baisse sensible du taux d'admission, passant de 2,7 points par rapport à 2022, pour la série sciences et technologies du management et de la gestion (STMG), où le taux de réussite recule de 5 points pour atteindre seulement 73,4%. Il dépasse 80% dans les six autres séries.
+<|endoftext|>

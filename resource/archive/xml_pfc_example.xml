@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TEXT SYSTEM "https://cocoon.huma-num.fr/schemas/Archive.dtd">
+<TEXT id="crdo-FRA_42acl1lg" xml:lang="fr">
+    <HEADER/>
+    <S id="pfc42acl1lgs2" who="E2">
+        <AUDIO start="0.0" end="3.9220252403846168"/>
+        <FORM kindOf="ortho">Dis voir Christiane, tu vas descendre bientôt chez ta soeur à Istres?</FORM>
+    </S>
+    <S id="pfc42acl1lgs3" who="C">
+        <AUDIO start="3.9220252403846168" end="9.105919471153848"/>
+        <FORM kindOf="ortho">(bruit de papier) Ah ben euh, on descend pour le mariage de Myriam et, et Emmanuel.</FORM>
+    </S>
+    <S id="pfc42acl1lgs4" who="C">
+        <AUDIO start="9.105919471153848" end="13.83068245895787"/>
+        <FORM kindOf="ortho">Oui, (XX) sont en plein préparatifs, bien entendu.</FORM>
+    </S>
+    <S id="pfc42acl1lgs5" who="C">
+        <AUDIO start="13.83068245895787" end="17.00240721857325"/>
+        <FORM kindOf="ortho">La petite Arlésienne, elle est mignonne comme tout, enfin bon.</FORM>
+    </S>
+    <S id="pfc42acl1lgs6" who="E2">
+        <AUDIO start="17.00240721857325" end="19.56024976665017"/>
+        <FORM kindOf="ortho">Et alors elle aura la robe de l'Arlésienne non?</FORM>
+    </S>
+    <S id="pfc42acl1lgs7" who="C">
+        <AUDIO start="19.56024976665017" end="23.261875735223434"/>
+        <FORM kindOf="ortho">Oh non, je pense pas qu'elle ait un costume régional, je pense.</FORM>
+    </S>
+    <S id="pfc42acl1lgs8" who="C">
+        <AUDIO start="23.261875735223434" end="27.797783187146507"/>
+        <FORM kindOf="ortho">Je pense qu'elle aura une tenue euh &lt;E2: De mariage traditionnel.&gt; classique de mariée. Je pense.</FORM>
+    </S>
+    <S id="pfc42acl1lgs9" who="C">
+        <AUDIO start="27.797783187146507" end="31.978074101353634"/>
+        <FORM kindOf="ortho">Remarque, on sait jamais hein, ça peut être la surprise, j'aimerais bien parce que c'est,</FORM>
+    </S>
+    <S id="pfc42acl1lgs10" who="C">
+        <AUDIO start="31.978074101353634" end="34.57002121673825"/>
+        <FORM kindOf="ortho">c'est vrai que c'est joli, le costume d'Arlésienne. &lt;Y: C'est très folklorique, oui, oui.&gt;</FORM>
+    </S>
+    <S id="pfc42acl1lgs11" who="C">
+        <AUDIO start="34.57002121673825" end="40.40190222635362"/>
+        <FORM kindOf="ortho">Je sais pas si elle, &lt;Y: C'est très, très joli.&gt; si elle en a un, (bruit de papier) j'ai jamais eu l'occasion de, &lt;Y: Mais c'est fort possible que pour le mariage elle ait euh.&gt; de voir.</FORM>
+    </S>
+    <S id="pfc42acl1lgs12" who="C">
+        <AUDIO start="40.40190222635362" end="44.153404630199766"/>
+        <FORM kindOf="ortho">Oui, c'est possible, oui, oui, parce que sa grand-mère est native,</FORM>
+    </S>
+    <S id="pfc42acl1lgs13" who="C">
+        <AUDIO start="44.153404630199766" end="47.56386136096899"/>
+        <FORM kindOf="ortho">est de là-bas aussi hein, donc elle est Arlésienne pur sucre.</FORM>
+    </S>
+    <S id="pfc42acl1lgs14" who="C">
+        <AUDIO start="47.56386136096899" end="53.2630859360571"/>
+        <FORM kindOf="ortho">Et bon euh, c'est bien possible que dans la famille, ils aient un, un costume d'Arlésienne,</FORM>
+    </S>
+    <S id="pfc42acl1lgs15" who="C">
+        <AUDIO start="53.2630859360571" end="58.5833984360571"/>
+        <FORM kindOf="ortho">mais. &lt;E2: Et qu'elle en hérite un.&gt; Oui, c'est possible. J'en, j'en n'ai pas entendu parler, je sais que euh, que euh</FORM>
+    </S>
+    <S id="pfc42acl1lgs16" who="C">
+        <AUDIO start="58.5833984360571" end="63.46035156105711"/>
+        <FORM kindOf="ortho">la voiture sera la, la voiture du grand-père costellois, la euh.</FORM>
+    </S>
+    <S id="pfc42acl1lgs17" who="E2">
+        <AUDIO start="63.46035156105711" end="67.17774939759556"/>
+        <FORM kindOf="ortho">Ah la, la traction? &lt;C: Euh oui, la traction, la fameuse traction avant.&gt;</FORM>
+    </S>
+    <S id="pfc42acl1lgs18" who="C">
+        <AUDIO start="67.17774939759556" end="72.37637331772876"/>
+        <FORM kindOf="ortho">Ils vont la faire, la faire décorer, et je pense que, que ça sera joli.</FORM>
+    </S>
+    <S id="pfc42acl1lgs19" who="E2">
+        <AUDIO start="72.37637331772876" end="75.88914375042108"/>
+        <FORM kindOf="ortho">Alors ta soeur est en pleins préparatifs. (bruits de conversation) &lt;C: Ah ben, oui, ça c'est sûr que.&gt;</FORM>
+    </S>
+    <S id="pfc42acl1lgs20" who="C">
+        <AUDIO start="75.88914375042108" end="77.79899951965186"/>
+        <FORM kindOf="ortho">C'est du souci pour préparer tout ça.</FORM>
+    </S>
+    <S id="pfc42acl1lgs21" who="E2">
+        <AUDIO start="77.79899951965186" end="78.68571826965186"/>
+        <FORM kindOf="ortho">Bien sûr.</FORM>
+    </S>
+    <S id="pfc42acl1lgs22" who="C">
+        <AUDIO start="78.68571826965186" end="82.84167091154607"/>
+        <FORM kindOf="ortho">Ils ont retenu euh dans le cadre, comment ça s'appelle?</FORM>
+    </S>
+    <S id="pfc42acl1lgs23" who="C">
+        <AUDIO start="82.84167091154607" end="87.75272860385377"/>
+        <FORM kindOf="ortho">Latitude, c'est un lieu de, de vacances, il y a des, des appartements qui sont loués.</FORM>
+    </S>
+    <S id="pfc42acl1lgs24" who="C">
+        <AUDIO start="87.75272860385377" end="92.04990408462301"/>
+        <FORM kindOf="ortho">C'est un terrain qui est, qui est clos, il y a des gardiens euh.</FORM>
+    </S>
+    <S id="pfc42acl1lgs25" who="C">
+        <AUDIO start="92.04990408462301" end="97.93302135756237"/>
+        <FORM kindOf="ortho">Euh il y a des hum euh, des étangs. C'est très joli et c'est bien.</FORM>
+    </S>
+    <S id="pfc42acl1lgs26" who="C">
+        <AUDIO start="97.93302135756237" end="103.76490236717777"/>
+        <FORM kindOf="ortho">Il y a des piscines, il y a. Le, le seul défaut, c'est que Arles, je sais pas si tu connais un peu, c'est les moustiques.</FORM>
+    </S>
+    <S id="pfc42acl1lgs27" who="E2">
+        <AUDIO start="103.76490236717777" end="104.41288914602393"/>
+        <FORM kindOf="ortho">Ah oui.</FORM>
+    </S>
+    <S id="pfc42acl1lgs28" who="C">
+        <AUDIO start="104.41288914602393" end="107.00003224810382"/>
+        <FORM kindOf="ortho">Oh purée, alors là euh, (rires) tu peux y aller que.</FORM>
+    </S>
+    <S id="pfc42acl1lgs29" who="Y">
+        <AUDIO start="107.00003224810382" end="109.25093369041153"/>
+        <FORM kindOf="ortho">Oh, peut-être pas trop &lt;C: Oui, oui euh.&gt; à cette saison.</FORM>
+    </S>
+    <S id="pfc42acl1lgs30" who="E2">
+        <AUDIO start="109.25093369041153" end="110.88795292118076"/>
+        <FORM kindOf="ortho">Eh ben au lieu &lt;C: Là oui mais euh.&gt; de mettre</FORM>
+    </S>
+    <S id="pfc42acl1lgs31" who="C">
+        <AUDIO start="110.88795292118076" end="113.95736397887308"/>
+        <FORM kindOf="ortho">En été euh, &lt;Y: Ah mais en juillet c'est?&gt; là, ah ben c'est à, c'est au mois de juillet.</FORM>
+    </S>
+    <S id="pfc42acl1lgs32" who="E2">
+        <AUDIO start="113.95736397887308" end="118.22043489233462"/>
+        <FORM kindOf="ortho">Au lieu de mettre le Cinq de Chanel, vous mettrez le Cinq-Cinq (rires).</FORM>
+    </S>
+    <S id="pfc42acl1lgs33" who="C">
+        <AUDIO start="118.22043489233462" end="123.2509379825817"/>
+        <FORM kindOf="ortho">On emportera la bombe anti bus/, moustique. Enfin bon, mais je pense que ça devrait euh.</FORM>
+    </S>
+    <S id="pfc42acl1lgs34" who="E2">
+        <AUDIO start="123.2509379825817" end="128.46893678065865"/>
+        <FORM kindOf="ortho">Et alors, les mariages là-bas, c'est, c'est comme chez nous? Il y a, il y a les dragées, il y a la distribution des dragées, comment? Non?</FORM>
+    </S>
+    <S id="pfc42acl1lgs35" who="C">
+        <AUDIO start="128.46893678065865" end="131.26551129988943"/>
+        <FORM kindOf="ortho">Ah oui, oui, ils achètent des dragées. &lt;E2: Ah oui.&gt; Oui, oui. Oui, oui.</FORM>
+    </S>
+    <S id="pfc42acl1lgs36" who="C">
+        <AUDIO start="131.26551129988943" end="136.04631456432213"/>
+        <FORM kindOf="ortho">Je sais qu'il y a une variante, c'est au niveau de la cérémonie euh, à l'église,</FORM>
+    </S>
+    <S id="pfc42acl1lgs37" who="C">
+        <AUDIO start="136.04631456432213" end="138.5700525450914"/>
+        <FORM kindOf="ortho">ils ont un bouquet à la vierge, ils appellent ça.</FORM>
+    </S>
+    <S id="pfc42acl1lgs38" who="E2">
+        <AUDIO start="138.5700525450914" end="139.59318956432216"/>
+        <FORM kindOf="ortho">Ah? &lt;C: Hum, hum.&gt;</FORM>
+    </S>
+    <S id="pfc42acl1lgs39" who="E2">
+        <AUDIO start="139.59318956432216" end="141.93318669363407"/>
+        <FORM kindOf="ortho">Alors le bouquet de la mariée est donné à la vierge? &lt;C: Le, le bouquet, oui.&gt;</FORM>
+    </S>
+    <S id="pfc42acl1lgs40" who="C">
+        <AUDIO start="141.93318669363407" end="145.62969797778374"/>
+        <FORM kindOf="ortho">Je crois que c'est le bouquet de la mariée que les jeunes mariés vont porter euh,</FORM>
+    </S>
+    <S id="pfc42acl1lgs41" who="C">
+        <AUDIO start="145.62969797778374" end="147.91470398739912"/>
+        <FORM kindOf="ortho">au, à la chapelle de, de la vierge.</FORM>
+    </S>
+    <S id="pfc42acl1lgs42" who="E2">
+        <AUDIO start="147.91470398739912" end="148.80142273739912"/>
+        <FORM kindOf="ortho">Ah oui.</FORM>
+    </S>
+    <S id="pfc42acl1lgs43" who="C">
+        <AUDIO start="148.80142273739912" end="151.98907763336504"/>
+        <FORM kindOf="ortho">Autrement je sais pas s'il y a des choses,</FORM>
+    </S>
+    <S id="pfc42acl1lgs44" who="C">
+        <AUDIO start="151.98907763336504" end="154.23997907567275"/>
+        <FORM kindOf="ortho">des traditions euh particulières.</FORM>
+    </S>
+    <S id="pfc42acl1lgs45" who="C">
+        <AUDIO start="154.23997907567275" end="158.67357282567275"/>
+        <FORM kindOf="ortho">Je pense qu'il doit y avoir le riz à la sortie de l'église (bruits de conversation) comme, &lt;Y: Sûrement.&gt; comme chez nous.</FORM>
+    </S>
+    <S id="pfc42acl1lgs46" who="C">
+        <AUDIO start="158.67357282567275" end="161.43604277759584"/>
+        <FORM kindOf="ortho">C'est, &lt;Y: Sûrement.&gt; ah oui, oui je, je pense hein.</FORM>
+    </S>
+    <S id="pfc42acl1lgs47" who="C">
+        <AUDIO start="161.43604277759584" end="163.38000311413433"/>
+        <FORM kindOf="ortho">Enfin je sais pas autrement s'il y a des.</FORM>
+    </S>
+    <S id="pfc42acl1lgs48" who="E2">
+        <AUDIO start="163.38000311413433" end="165.2898588833651"/>
+        <FORM kindOf="ortho">Et vous et vous allez être nombreux?</FORM>
+    </S>
+    <S id="pfc42acl1lgs49" who="C">
+        <AUDIO start="165.2898588833651" end="168.57982748125409"/>
+        <FORM kindOf="ortho">Oh je pense une centaine de, &lt;E2: De personnes.&gt; de personnes, oui, oui, oui, oui.</FORM>
+    </S>
+    <S id="pfc42acl1lgs50" who="C">
+        <AUDIO start="168.57982748125409" end="171.2740882985618"/>
+        <FORM kindOf="ortho">Ils ont quand même pas mal, pas mal d'amis les jeunes.</FORM>
+    </S>
+    <S id="pfc42acl1lgs51" who="Y">
+        <AUDIO start="171.2740882985618" end="174.68454502933105"/>
+        <FORM kindOf="ortho">Mais c'est des p/, c'est un petit, c'est des petits-enfants à ta soeur?</FORM>
+    </S>
+    <S id="pfc42acl1lgs52" who="C">
+        <AUDIO start="174.68454502933105" end="177.7198515197157"/>
+        <FORM kindOf="ortho">C'est ses enfants, &lt;E2: Son fils.&gt; c'est son fils Emmanuel.</FORM>
+    </S>
+    <S id="pfc42acl1lgs53" who="M">
+        <AUDIO start="177.7198515197157" end="178.47015200048492"/>
+        <FORM kindOf="ortho">Petit chocolat.</FORM>
+    </S>
+    <S id="pfc42acl1lgs54" who="C">
+        <AUDIO start="178.47015200048492" end="181.50545849086956"/>
+        <FORM kindOf="ortho">Emmanuel, c'est le, le deuxième dans la lignée, ils ont,</FORM>
+    </S>
+    <S id="pfc42acl1lgs55" who="C">
+        <AUDIO start="181.50545849086956" end="185.8367385389465"/>
+        <FORM kindOf="ortho">ils ont trois enfants euh, donc c'est le, c'est le troisième.</FORM>
+    </S>
+    <S id="pfc42acl1lgs56" who="C">
+        <AUDIO start="185.8367385389465" end="189.6029706321565"/>
+        <FORM kindOf="ortho">L'aîné est déjà marié. Merci Maurice, tout à l'heure. (rires)</FORM>
+    </S>
+    <S id="pfc42acl1lgs57" who="C">
+        <AUDIO start="189.6029706321565" end="193.49089130523348"/>
+        <FORM kindOf="ortho">Et puis voilà quoi. Il reste encore le plus jeune, alors qui euh</FORM>
+    </S>
+    <S id="pfc42acl1lgs58" who="C">
+        <AUDIO start="193.49089130523348" end="198.29963529561812"/>
+        <FORM kindOf="ortho">fréquente une petite jeune fille là, une Arlésienne aussi. &lt;E2: Ah une Arlésienne aussi.&gt; Oui, oui, oui.</FORM>
+    </S>
+    <S id="pfc42acl1lgs59" who="C">
+        <AUDIO start="198.29963529561812" end="201.67598745907966"/>
+        <FORM kindOf="ortho">Et euh, ça a l'air de très bien marcher d'ailleurs.</FORM>
+    </S>
+    <S id="pfc42acl1lgs60" who="C">
+        <AUDIO start="201.67598745907966" end="208.0585038273082"/>
+        <FORM kindOf="ortho">Ils ont l'air de vouloir parler mariage, &lt;E2: Ah aussi, ah oui.&gt; enfin avenir, puisqu'ils envisagent déjà de,</FORM>
+    </S>
+    <S id="pfc42acl1lgs61" who="C">
+        <AUDIO start="208.0585038273082" end="212.69672498115435"/>
+        <FORM kindOf="ortho">p/, peut peut-être de faire construire ou d'acheter quelque chose pour vivre ensemble.</FORM>
+    </S>
+    <S id="pfc42acl1lgs62" who="C">
+        <AUDIO start="212.69672498115435" end="215.04994012538515"/>
+        <FORM kindOf="ortho">Alors c'est déjà un premier, un premier pas.</FORM>
+    </S>
+    <S id="pfc42acl1lgs63" who="E2">
+        <AUDIO start="215.04994012538515" end="215.80024060615438"/>
+        <FORM kindOf="ortho">Eh oui.</FORM>
+    </S>
+    <S id="pfc42acl1lgs64" who="C">
+        <AUDIO start="215.80024060615438" end="220.3532797540937"/>
+        <FORM kindOf="ortho">Ah oui. C'est qu'il avait été bien déçu, il avait vécu pendant quelques années avec euh,</FORM>
+    </S>
+    <S id="pfc42acl1lgs65" who="C">
+        <AUDIO start="220.3532797540937" end="224.4799323983245"/>
+        <FORM kindOf="ortho">avec une jeune fille, et puis finalement euh, ça a cassé, bon.</FORM>
+    </S>
+    <S id="pfc42acl1lgs66" who="C">
+        <AUDIO start="224.4799323983245" end="229.22046725409376"/>
+        <FORM kindOf="ortho">Et ça a été très dur pour lui de s'en remettre hein euh, ça a été duraille.</FORM>
+    </S>
+    <S id="pfc42acl1lgs67" who="C">
+        <AUDIO start="229.22046725409376" end="232.8758197973726"/>
+        <FORM kindOf="ortho">Ben finalement, bon ben, ça y est, il a retrouvé une petite &lt;E2: Il a tourné la page.&gt; copine alors.</FORM>
+    </S>
+    <S id="pfc42acl1lgs68" who="C">
+        <AUDIO start="232.8758197973726" end="236.3483218214015"/>
+        <FORM kindOf="ortho">Ça va mieux, il a repris le moral, il joue de la guitare, enfin.</FORM>
+    </S>
+    <S id="pfc42acl1lgs69" who="E2">
+        <AUDIO start="236.3483218214015" end="239.52621042237266"/>
+        <FORM kindOf="ortho">Oui, il a repris son, &lt;C: Voilà, il a repris.&gt; son tonus habituel. &lt;C: Oui, oui, il a repris son tonus.&gt;</FORM>
+    </S>
+    <S id="pfc42acl1lgs70" who="C">
+        <AUDIO start="239.52621042237266" end="241.1291250858342"/>
+        <FORM kindOf="ortho">Il est facteur, tu sais.</FORM>
+    </S>
+    <S id="pfc42acl1lgs71" who="E2">
+        <AUDIO start="241.1291250858342" end="241.77711186468036"/>
+        <FORM kindOf="ortho">Ah bon?</FORM>
+    </S>
+    <S id="pfc42acl1lgs72" who="C">
+        <AUDIO start="241.77711186468036" end="245.46040513391117"/>
+        <FORM kindOf="ortho">Il est facteur maintenant, il a une tournée, il achète une tournée comme il dit.</FORM>
+    </S>
+    <S id="pfc42acl1lgs73" who="C">
+        <AUDIO start="245.46040513391117" end="252.24721402814197"/>
+        <FORM kindOf="ortho">En fait, c'est pas acheter une tournée, c'est un terme qu'ils ont euh dans le milieu de, de la poste hein.</FORM>
+    </S>
+    <S id="pfc42acl1lgs74" who="C">
+        <AUDIO start="252.24721402814197" end="256.3301540784555"/>
+        <FORM kindOf="ortho">Et puis voilà quoi, alors euh, il est content parce que.</FORM>
+    </S>
+    <S id="pfc42acl1lgs75" who="E2">
+        <AUDIO start="256.3301540784555" end="260.2180747515324"/>
+        <FORM kindOf="ortho">Et la petite, elle est? &lt;C: Et la petite, alors elle est d'Arles, (bruits de conversation) elle est infirmière.&gt;</FORM>
+    </S>
+    <S id="pfc42acl1lgs76" who="C">
+        <AUDIO start="260.2180747515324" end="264.0718908573017"/>
+        <FORM kindOf="ortho">Et elle va essayer, elle est en libéral pour le moment.</FORM>
+    </S>
+    <S id="pfc42acl1lgs77" who="C">
+        <AUDIO start="264.0718908573017" end="269.4604124919171"/>
+        <FORM kindOf="ortho">Et elle voudrait essayer de re/, de reprendre du travail en hôpital, en milieu hospitalier.</FORM>
+    </S>
+    <S id="pfc42acl1lgs78" who="C">
+        <AUDIO start="269.4604124919171" end="274.38740087691485"/>
+        <FORM kindOf="ortho">Pour s'installer comme ça euh, ça sera plus hum pratique pour euh,</FORM>
+    </S>
+    <S id="pfc42acl1lgs79" who="C">
+        <AUDIO start="274.38740087691485" end="277.5250210692226"/>
+        <FORM kindOf="ortho">pour se voir, pour le, le travail, enfin bon, elle.</FORM>
+    </S>
+    <S id="pfc42acl1lgs80" who="E2">
+        <AUDIO start="277.5250210692226" end="279.6053996749918"/>
+        <FORM kindOf="ortho">Oui et puis pour, pour mener une vie à deux &lt;C: Voilà.&gt; quoi.</FORM>
+    </S>
+    <S id="pfc42acl1lgs81" who="C">
+        <AUDIO start="279.6053996749918" end="286.181575592406"/>
+        <FORM kindOf="ortho">Et puis euh, donc François, il va pouvoir euh demander après sa mutation, sur Arles.</FORM>
+    </S>
+    <S id="pfc42acl1lgs82" who="E2">
+        <AUDIO start="286.181575592406" end="289.8307642943291"/>
+        <FORM kindOf="ortho">Ah oui. &lt;C: Voilà alors ça fait que.&gt; Et alors après le mariage, vous revenez là?</FORM>
+    </S>
+    <S id="pfc42acl1lgs83" who="E2">
+        <AUDIO start="289.8307642943291" end="294.16204434240603"/>
+        <FORM kindOf="ortho">Ou, si vous partez directement en vacances? &lt;C: Alors, non, on va partir en vacances pour une fois. (rires)&gt;</FORM>
+    </S>
+    <S id="pfc42acl1lgs84" who="C">
+        <AUDIO start="294.16204434240603" end="297.64071020779"/>
+        <FORM kindOf="ortho">Mon mari s'est décidé à &lt;E2: Ça y est?&gt; vouloir partir.</FORM>
+    </S>
+</TEXT>
