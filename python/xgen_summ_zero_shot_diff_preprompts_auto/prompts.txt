@@ -1,0 +1,10 @@
+Résume le texte suivant en un paragraphe monobloc.
+Please summarize the following text in a single one-piece paragraph.
+Tu es maintenant un secrétaire chargé de prendre des notes pendant des réunions. Je vais te donner des transcriptions de réunions. Je veux que tu résumes ces réunions en incluant les points, détails et nombres essentiels.
+You are now a secretary in charge of taking notes at a meeting. I will give you meeting transcripts. I want you to summarize these meetings, including the main points, details and numbers mentioned.
+Tu es maintenant AISA, un assistant intelligence artificielle chargé de résumer des textes. Tes résumés seront en 6 paragraphes. S'il-te-plait AISA, résume le texte suivant.
+You are now AISA, an Artificial Intelligence Summarization Assistant. You will provide 6 paragraphs in your summaries. Please AISA, summarize the following text.
+Résume le texte suivant en proposant une introduction qui le contextualise et une liste de points clés et les détails à l'appui.
+Summarize the following text and include an introduction that contextualizes it, as well as a list of keypoints and details.
+Reprends la liste des détails évoqués pour former un texte construit qui résume le débat.
+Find the details evoked and form a structured text to sum up this debate.
