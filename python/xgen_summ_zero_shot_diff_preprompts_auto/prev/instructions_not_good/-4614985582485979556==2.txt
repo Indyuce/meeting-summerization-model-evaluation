@@ -1,0 +1,23 @@
+A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.
+
+### Human: Reprends la liste des détails évoqués pour former un texte construit qui résume le débat.
+
+E2: Dis voir Christiane, tu vas descendre bientôt chez ta soeur à Istres?
+C: (bruit de papier) Ah ben euh, on descend pour le mariage de Myriam et, et Emmanuel.
+C: Oui, (XX) sont en plein préparatifs, bien entendu.
+C: La petite Arlésienne, elle est mignonne comme tout, enfin bon.
+E2: Et alors elle aura la robe de l'Arlésienne non?
+C: Oh non, je pense pas qu'elle ait un costume régional, je pense.
+C: Je pense qu'elle aura une tenue euh <E2: De mariage traditionnel.> classique de mariée. Je pense.
+
+### Assistant: E2: Will you be going to visit your sister in Istres soon?
+C: (sound of paper) Ah, yes, we will go to see the wedding of Myriam and Emmanuel.
+C: Yes, (XX) are in full preparation mode, of course.
+C: The little one from Arles, she's cute as can be, in fact.
+
+E2: And then she will have the dress of the Arlèsienne, right?
+C: Oh, no, I don't think she will have a regional costume, I don't think.
+C: I think she will have a traditional wedding dress. I think.
+
+In summary, E2 and their sister C discuss the upcoming wedding of Myriam and
+<|endoftext|>

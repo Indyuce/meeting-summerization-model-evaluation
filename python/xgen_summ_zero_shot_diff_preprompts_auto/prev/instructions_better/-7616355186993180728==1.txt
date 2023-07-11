@@ -1,0 +1,34 @@
+A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.
+
+### Human: Find in the following dialogue the main details, facts, numbers, arguments evoked and form a structured summary.
+
+E2: Dis voir Christiane, tu vas descendre bientôt chez ta soeur à Istres?
+C: (bruit de papier) Ah ben euh, on descend pour le mariage de Myriam et, et Emmanuel.
+C: Oui, (XX) sont en plein préparatifs, bien entendu.
+C: La petite Arlésienne, elle est mignonne comme tout, enfin bon.
+E2: Et alors elle aura la robe de l'Arlésienne non?
+C: Oh non, je pense pas qu'elle ait un costume régional, je pense.
+C: Je pense qu'elle aura une tenue euh <E2: De mariage traditionnel.> classique de mariée. Je pense.
+
+### Assistant: The speaker asks Christiane if she is going to visit her sister in Istres soon, to which Christiane responds with a noise of paper. The speaker continues to inquire about the upcoming marriage of Myriam and Emmanuel, to which Christiane confirms that they are in the midst of preparations. The speaker then asks if the bride-to-be will wear the traditional dress of the Midi, but Christiane replies that she does not think so and that she thinks she will wear a traditional wedding dress.
+
+Main details:
+
+* The speaker asks Christiane if she is going to visit her sister in Istres soon.
+* Christiane confirms that she is going to visit her sister.
+* The speaker inquires about the upcoming marriage of Myriam and Emmanuel.
+* Christiane confirms that they are in the midst of preparations
+* The speaker asks if the bride-to-be will wear the traditional dress of the Midi.
+* Christiane replies that she does not think so and that she thinks she will wear a traditional wedding dress.
+
+Facts evoked:
+
+* The speaker mentions that Christiane is going to visit her sister in Istres.
+* Christiane mentions that she is going to visit her sister and that they are in the midst of preparations for the upcoming marriage of Myriam and Emmanuel.
+* The speaker asks if the bride-to-be will wear the traditional dress of the Midi, to which Christiane replies that she does not think so.
+
+Arguments:
+
+* The speaker is trying to learn more about the upcoming wedding.
+* Christiane is giving information about the wedding and is suggesting that the bride-to-be will wear a traditional wedding dress.
+<|endoftext|>

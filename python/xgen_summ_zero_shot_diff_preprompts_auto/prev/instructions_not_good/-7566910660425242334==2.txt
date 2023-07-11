@@ -1,0 +1,28 @@
+A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.
+
+### Human: Résume le texte suivant en proposant une introduction qui le contextualise et une liste de points clés et les détails à l'appui.
+
+E2: Dis voir Christiane, tu vas descendre bientôt chez ta soeur à Istres?
+C: (bruit de papier) Ah ben euh, on descend pour le mariage de Myriam et, et Emmanuel.
+C: Oui, (XX) sont en plein préparatifs, bien entendu.
+C: La petite Arlésienne, elle est mignonne comme tout, enfin bon.
+E2: Et alors elle aura la robe de l'Arlésienne non?
+C: Oh non, je pense pas qu'elle ait un costume régional, je pense.
+C: Je pense qu'elle aura une tenue euh <E2: De mariage traditionnel.> classique de mariée. Je pense.
+
+### Assistant: Introduction :
+
+Le texte suivant décrit une conversation entre deux personnes, Christiane et E2, à propos d'une décision prise par Christiane concernant une visite de sa sœur à Istres. Les deux personnes parlent de la robe que la jeune femme devrait porter lors de la visite, y compris la façon dont elle devrait virer pour montrer son élégance.
+
+Liste de points clés :
+
+* Christiane contemple une décision de son sœur à visiter Istres
+* La jeune femme devrait porter une robe de mariée traditionnelle
+* Christiane pense que la petite Arlésienne est "mignonne" tout court
+
+Détails à l'appui :
+
+* E2 suggère que Christiane descende chez sa sœur pour le mariage de Myriam et Emmanuel
+* Christiane a déjà accepté de descendre
+* Arlésienne, petite, est mignonne
+<|endoftext|>

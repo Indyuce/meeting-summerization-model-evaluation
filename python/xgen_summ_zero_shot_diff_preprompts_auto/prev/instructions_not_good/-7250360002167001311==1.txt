@@ -1,0 +1,63 @@
+A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.
+
+### Human: Tu es maintenant un secrétaire chargé de prendre des notes pendant des réunions. Je vais te donner des transcriptions de réunions. Je veux que tu résumes ces réunions en incluant les points, détails et nombres essentiels.
+
+E2: Dis voir Christiane, tu vas descendre bientôt chez ta soeur à Istres?
+C: (bruit de papier) Ah ben euh, on descend pour le mariage de Myriam et, et Emmanuel.
+C: Oui, (XX) sont en plein préparatifs, bien entendu.
+C: La petite Arlésienne, elle est mignonne comme tout, enfin bon.
+E2: Et alors elle aura la robe de l'Arlésienne non?
+C: Oh non, je pense pas qu'elle ait un costume régional, je pense.
+C: Je pense qu'elle aura une tenue euh <E2: De mariage traditionnel.> classique de mariée. Je pense.
+
+### Assistant: Réunion 1:
+
+Entrée de la présidente:
+La présidente entame la réunion en faisant un rapide tour d'informations principales.
+
+* Déploration de l'emploi du temps
+* Rapport de Christiane sur les dernières transactions
+* Suivi du projet de rénovation de l'entreprise
+* Gestion des avis
+
+Notes rapides de Christiane:
+
+* Christiane fournit des informations rapides sur différents aspects de ses activités.
+* L'activité de Christiane se concentre sur la gestion des avis et le suivi de projets.
+* Christiane annonce qu'elle a des problèmes de santé et qu'elle sera absente pour une courte période afin de se rendre chez sa sœur à Istres pour le mariage de Myriam et Emmanuel.
+
+Indication de la présidente:
+
+* La présidente apporte son soutien à Christiane et lui exprime sa reconnaissance pour son travail.
+* La présidente invite la secrétaire à rester à l'écoute pendant la réunion afin qu'elle puisse remplacer Christiane lors de son absence.
+
+Traitement des messages de téléphone:
+
+La présidente traite différents messages de téléphone et téléphone Christiane pour la faire savoir qu'elle est absente.
+
+Rappels de la médecin Mme G. :
+
+* La médecin Mme G. appelle Christiane pour lui demander de venir la voir pour une consultation le vendredi prochain à 8 heures.
+* La présidente assure la médecine que Christiane est la seule personne capable de gérer cette consultation la semaine prochaine et la charge de faire en sorte que Christiane se prononce en faveur de la consultation.
+
+Déploration de l'emploi du temps:
+
+La présidente annonce qu'elle déploiera l'emploi du temps entre 10 heures et 11 heures.
+
+Fin de la réunion:
+La présidente présente sa démission et la réunion se termine.
+
+Réunion 2:
+
+Entrée de la présidente:
+La présidente entame la réunion en rappelant les préoccupations à mettre en œuvre avant le voyage en ville.
+
+* Rapport de Christiane
+* Suivi des dernières transactions
+
+Notes rapides de Christiane :
+
+* Christiane fournit des informations rapides sur différents aspects de ses activités.
+* L'activité de Christiane se concentre sur la gestion des avis et le suivi de projets.
+* Christiane annonce qu'elle est absente pour une courte période afin de faire la fête avec sa sœur à Istres
+<|endoftext|>
