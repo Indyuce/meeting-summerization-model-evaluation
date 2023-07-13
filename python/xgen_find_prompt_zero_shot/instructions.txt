@@ -1,0 +1,6 @@
+Summarize the following text.
+Summarize the following dialogue.
+First give a list of keypoints from the following dialogue, then summarize it.
+Provide an introduction and a list of keypoints for the following text. Then, summarize it.
+I am a busy manager, and I do not have the time to read the following document. Please briefly summarize it for me.
+I am a busy manager, and I do not have the time to read the following document. Provide an introduction and the list of keypoints for the following document. I also need a summary.

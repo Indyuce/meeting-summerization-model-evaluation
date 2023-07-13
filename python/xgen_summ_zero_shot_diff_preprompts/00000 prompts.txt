@@ -1,6 +1,6 @@
 --------------- Monoblocs
 Résume le texte suivant en un paragraphe monobloc :
-Please summarize the following text in a single one-piece paragraph
+Summarize the following text in a single one-piece paragraph
 
 --------------- Texte structuré
 Résume le texte suivant en paragraphes structurés qui reprennent les idées et les arguments principaux:
