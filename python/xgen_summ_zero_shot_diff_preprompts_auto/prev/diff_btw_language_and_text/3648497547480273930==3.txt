@@ -1,0 +1,31 @@
+A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.
+
+### Human: Summarize the following dialogue.
+
+E2: Dis voir Christiane, tu vas descendre bientôt chez ta soeur à Istres?
+C: (bruit de papier) Ah ben euh, on descend pour le mariage de Myriam et, et Emmanuel.
+C: Oui, (XX) sont en plein préparatifs, bien entendu.
+C: La petite Arlésienne, elle est mignonne comme tout, enfin bon.
+E2: Et alors elle aura la robe de l'Arlésienne non?
+C: Oh non, je pense pas qu'elle ait un costume régional, je pense.
+C: Je pense qu'elle aura une tenue euh <E2: De mariage traditionnel.> classique de mariée. Je pense.
+C: Remarque, on sait jamais hein, ça peut être la surprise, j'aimerais bien parce que c'est,
+C: c'est vrai que c'est joli, le costume d'Arlésienne. <Y: C'est très folklorique, oui, oui.>
+C: Je sais pas si elle, <Y: C'est très, très joli.> si elle en a un, (bruit de papier) j'ai jamais eu l'occasion de, <Y: Mais c'est fort possible que pour le mariage elle ait euh.> de voir.
+C: Oui, c'est possible, oui, oui, parce que sa grand-mère est native,
+C: est de là-bas aussi hein, donc elle est Arlésienne pur sucre.
+C: Et bon euh, c'est bien possible que dans la famille, ils aient un, un costume d'Arlésienne,
+C: mais. <E2: Et qu'elle en hérite un.> Oui, c'est possible. J'en, j'en n'ai pas entendu parler, je sais que euh, que euh
+C: la voiture sera la, la voiture du grand-père costellois, la euh.
+E2: Ah la, la traction? <C: Euh oui, la traction, la fameuse traction avant.>
+C: Ils vont la faire, la faire décorer, et je pense que, que ça sera joli.
+E2: Alors ta soeur est en pleins préparatifs. (bruits de conversation) <C: Ah ben, oui, ça c'est sûr que.>
+C: C'est du souci pour préparer tout ça.
+E2: Bien sûr.
+C: Ils ont retenu euh dans le cadre, comment ça s'appelle?
+C: Latitude, c'est un lieu de, de vacances, il y a des, des appartements qui sont loués.
+C: C'est un terrain qui est, qui est clos, il y a des gardiens euh.
+C: Euh il y a des hum euh, des étangs. C'est très joli et c'est bien.
+
+### Assistant: The speaker E2 asks Christiane if she is going to visit her sister in Istres soon. Christiane responds that she is going to go to her sister's wedding in Istres and that preparations are underway. She mentions that her sister's little niece will wear a traditional wedding dress. E2 asks if the bride will wear an Arlésienne dress and Christiane replies that she thinks she will wear a classic wedding dress instead. She adds that it could be a surprise and that she would like it because it is very folkloric. E2 asks if the bride has a dress from the region and Christiane replies that she doesn't know if she does, but it's possible. E2 mentions that her sister's grandmother is from there and that the family may have an Arlésienne dress. Christiane agrees that it's possible and mentions that the wedding car will be decorated with the famous "traction avant" engine. E2 mentions that the sister is busy preparing for the wedding and that it's a big responsibility. Christiane agrees and mentions that the wedding is called "Latitude," which is a vacation spot with rented apartments and private grounds with lakes.
+<|endoftext|>

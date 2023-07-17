@@ -1,0 +1,27 @@
+A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.
+
+### Human: Summarize the following text and include an introduction that contextualizes it, as well as a list of keypoints and details.
+
+E2: Dis voir Christiane, tu vas descendre bientôt chez ta soeur à Istres?
+C: (bruit de papier) Ah ben euh, on descend pour le mariage de Myriam et, et Emmanuel.
+C: Oui, (XX) sont en plein préparatifs, bien entendu.
+C: La petite Arlésienne, elle est mignonne comme tout, enfin bon.
+E2: Et alors elle aura la robe de l'Arlésienne non?
+C: Oh non, je pense pas qu'elle ait un costume régional, je pense.
+C: Je pense qu'elle aura une tenue euh <E2: De mariage traditionnel.> classique de mariée. Je pense.
+
+### Assistant: The speakers are E2 and C, who are discussing the upcoming wedding of Myriam and Emmanuel. E2 asks C if they will be going to the wedding in Istres, and C responds that they will be going. They discuss the details of the wedding, including the fact that the bride-to-be, Arlésienne, is "mignonne" and that she will be wearing a traditional wedding dress.
+
+Keypoints:
+
+* E2 and C are discussing the upcoming wedding of Myriam and Emmanuel.
+* E2 asks C if they will be going to the wedding in Istres.
+* C responds that they will be going.
+* They discuss the details of the wedding, including the fact that the bride-to-be, Arlésienne, will be wearing a traditional wedding dress.
+* The exact location of the wedding is not specified.
+* E2 asks C if they will be wearing traditional clothing at the wedding, but C responds that they think the bride will wear a non-traditional dress.
+* They also discuss that there might be a "De mariage traditionnel"
+* There are no detail on the color of the dress or the type of shoes.
+* There is some banter between the two speakers, but it is not clear who Christiane is or what her relationship is to the wedding party.
+* The two speakers generally speak in short phrases and have an informal and colloquial tone.
+<|endoftext|>

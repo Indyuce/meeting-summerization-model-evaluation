@@ -1,0 +1,17 @@
+A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.
+
+### Human: You are now a secretary in charge of taking notes at a meeting. I will give you meeting transcripts. I want you to summarize these meetings, including the main points, details and numbers mentioned.
+
+E2: Dis voir Christiane, tu vas descendre bientôt chez ta soeur à Istres?
+C: (bruit de papier) Ah ben euh, on descend pour le mariage de Myriam et, et Emmanuel.
+C: Oui, (XX) sont en plein préparatifs, bien entendu.
+C: La petite Arlésienne, elle est mignonne comme tout, enfin bon.
+E2: Et alors elle aura la robe de l'Arlésienne non?
+C: Oh non, je pense pas qu'elle ait un costume régional, je pense.
+C: Je pense qu'elle aura une tenue euh <E2: De mariage traditionnel.> classique de mariée. Je pense.
+
+### Assistant: Hello, I'm your assistant for taking notes at the meeting. The meeting is about discussion about the upcoming wedding of Myriam and Emmanuel and preparations for it.
+Christiane mentions that they will go to her sister's house in Istres soon, as they already got preparations in place. 
+The little Arlesian, a cute child is born. 
+Christiane mentions that she thinks the girl won't wear a traditional dress (dress), instead a classic wedding dress for the wedding.
+<|endoftext|>

@@ -1,0 +1,29 @@
+A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.
+
+### Human: Summarize the following text and include an introduction that contextualizes it, as well as a list of keypoints and details.
+
+E2: Dis voir Christiane, tu vas descendre bientôt chez ta soeur à Istres?
+C: (bruit de papier) Ah ben euh, on descend pour le mariage de Myriam et, et Emmanuel.
+C: Oui, (XX) sont en plein préparatifs, bien entendu.
+C: La petite Arlésienne, elle est mignonne comme tout, enfin bon.
+E2: Et alors elle aura la robe de l'Arlésienne non?
+C: Oh non, je pense pas qu'elle ait un costume régional, je pense.
+C: Je pense qu'elle aura une tenue euh <E2: De mariage traditionnel.> classique de mariée. Je pense.
+
+### Assistant: Introduction:
+
+The text is a conversation between two individuals, E2 and C, discussing wedding preparations for a friend's upcoming marriage. C mentions that they are going to visit their sister in Istres soon and asks E2 if they are also going to attend the wedding. E2 responds by asking more details about the wedding preparations. C then confirms that they will be attending the wedding and states that the bride-to-be, Myriam, is from the region and will wear a traditional dress.
+
+Keypoints:
+
+* E2 is inquiring about their friend's wedding preparations
+* C confirms their participation in the wedding
+* C states that the bride-to-be, Myriam, will be wearing a traditional dress
+
+Details:
+
+* E2 asks their friend if they are going to attend the wedding in Istres
+* C replies, stating that they will be attending the wedding
+* C specifies that the bride-to-be, Myriam, is from the region and will wear a traditional dress for the ceremony
+* E2 notes that this is traditional wedding attire for Arlésienne region
+<|endoftext|>
