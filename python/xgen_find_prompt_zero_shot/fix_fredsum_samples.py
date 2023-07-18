@@ -13,7 +13,7 @@ matches = 0
 for random_folder_path in sample_names:
     
     for i in range(10):
-        existing_sample_file = open('../xgen_find_prompt_zero_shot/input/fredsum/texts/sample_' + str(i + 1) + '.txt', 'r', encoding='utf-8')
+        existing_sample_file = open('input/fredsum/texts/sample_' + str(i + 1) + '.txt', 'r', encoding='utf-8')
         existing_sample_content = existing_sample_file.readlines()
         existing_sample_file.close()
 
@@ -28,7 +28,7 @@ for random_folder_path in sample_names:
                 for j in [1, 2, 3, 4]:
                     try:
                         summary_file_path = DATASET_PATH + '/' + random_folder_path + '/sum' + str(j) + '.txt'
-                        paste_path = '../xgen_find_prompt_zero_shot/input/fredsum/summaries/sample_' + str(1 + i) + '_' + str(j) + '.txt'
+                        paste_path = 'input/fredsum/summaries/sample_' + str(1 + i) + '_' + str(j) + '.txt'
                         shutil.copyfile(summary_file_path, paste_path)
                     except:
                         traceback.print_exc()
