@@ -1,0 +1,795 @@
+A: .
+A: .
+A: .
+A: So is Why not save that .
+D: No , you'll ha have to open it up from elsewhere .
+A: Do you want to replace existing file , no .
+A: I actually tried to transfer it to My Documents , but spreadsheet .
+D: Yeah , you have to you have to close that window .
+D: 'Cause that's the save one isn't it , so And then find it .
+A: Yeah , but I've ta uh right , I'll just re-do it .
+A: That's the easiest way .
+A: Right .
+C: Well we've made our prototype anyway .
+C: We can have a good look at that .
+D: You pass it round to have a look .
+C: Mm-hmm .
+C: Y no , it's a slightly curved around the sides .
+D: Mm very nice .
+C: Um , it's almost curved like up to the main display as well .
+D: Mm-hmm .
+C: And the little line at the bottom indicates the bit the panel that you pull down .
+C: And the extra function buttons are below that panel on the little line .
+D: Mm-hmm .
+C: And we've got the stick on the button with the company logo on .
+D: Mm-hmm .
+B: We also have a apple slash cherry design at the top .
+D: So it is , yeah .
+D: Cherry would be alright actually .
+D: Yeah .
+C: Yeah , it's a bit more fun , isn't it ?
+C: And it's kinda not really at a kind of you think apple , you think computers , like Apple Mac .
+B: Yeah , yeah , we might get a For the M_ .
+D: Mm-hmm .
+D: Copyright , yeah .
+D: What's this this one ?
+C: Yeah , and cherries are fun , summery .
+D: What's that one there ?
+C: Ah , that's the mute .
+D: Oh , okay .
+D: Right .
+C: It it'd probably have to be labelled mute .
+D: Uh-huh .
+C: But um , we didn't have anything small enough to write .
+B: They're thinking For the first time , well it was hard to get the h um the actual labelling on the individual buttons .
+D: Okay .
+D: Mm-hmm .
+C: Yeah .
+C: Uh , we just chose simple shapes for all them .
+C: Um , the important ones are the volume ones .
+C: So we made them a bit bigger .
+D: Mm-hmm .
+C: The mute could possibly be a bit smaller .
+B: Hum , you separate off in colour the volume related buttons from the channel related buttons , so you've got the volume in orange on design there , and the the channel is in blue .
+D: Yeah .
+C: Mm-hmm .
+A: R right .
+C: Yeah , and we chose a V_ plus and V_ minus .
+A: Um , all these things have cost implications .
+A: And so when I done my thing on cost a I had assumed that the only uh button that would be a different colour would be the uh the red apple button .
+A: So However , I've now .
+A: But um , yeah so uh but there would be a cost implication on that , and uh as I suppose that so whether wanted to put in all these colours , would be uh open to debate , I suppose .
+D: I'll see if I can find them .
+B: Yeah , sis Yes , we'll have the slide-away .
+C: Well the colours wouldn't like that's they wouldn't be too important , but we didn't have any white Play-Doh .
+D: Have Mm-hmm .
+C: So that's where the colour buttons came from .
+A: An important consideration .
+A: Right , okay so um And the second one underneath would be the idea for the Right , okay .
+B: Bottom .
+A: So we've got um detail design meeting .
+A: Right .
+A: So So , we've got prototype presentation , which we've just done , evaluation criteria , um and finance , so I guess w we have to evaluate if that meets the various uh aspects that we're looking for uh from um our previous meeting .
+A: So other than the fact that it doesn't have the second layer , but um obviously obviously it would .
+D: Mm-hmm .
+B: Mm-hmm .
+A: But other than that , we got the red apple .
+A: We got the buttons and the only thing that has really changed is the is the colouration of the buttons , and the bit after the evaluation criteria is uh is the finance .
+B: Yes , yes .
+D: Right .
+B: Okay .
+A: And the and the cost implication .
+A: The only snag about this is that uh the cost is probably kind of important .
+A: So um , and then the production evaluation , as to how easy that would be to uh to manufacture .
+B: Mm-hmm .
+A: Um , and whether it would uh Right , so uh as far as the the finance of it would be concern would be to make sure that the cost aye the production cost 'cause you may remember that was one of the first uh considerations was to be in d under um uh twelve fifty or two and a half uh twelve and a half Euros .
+D: So if you had to do a presentation or will you just work it on the prototype ?
+C: Uh , that's it .
+B: This this is a yes , this is our presentation of the prototype .
+D: That's the pr Okay .
+B: Mm-hmm .
+A: So , there's no redesign .
+A: So that should uh Right , so , seems to me that the thing that I have to do is is quickly find that uh Right .
+B: Could we get this on the board just so we can see or do you mean do you have the figures there ?
+D: we should plug it in .
+D: Do you wanna plu do you wanna plug it in into the the back of that one .
+A: Okay .
+B: 'Kay , Alice .
+B: So , sh 'Kay this should be then .
+D: We could do it as we d go along , the production costs , looking at the prototype .
+A: Right .
+A: Okay , so , by the fact that we've got uh the simple chip and the uh kinetic energy source , we've got a single curved case .
+A: We've got a rubber uh case materials supplements .
+A: So , we had decided that we're having rubber buttons and Okay .
+B: Mm-hmm .
+B: Have a push button interface .
+A: W the button supplements .
+B: Um Um Yeah .
+A: Well , originally , I thought there would just be uh one in there because it was the one red apple .
+A: But So the so the real w the real question then would come in .
+A: Do you make all the buttons O Well , so we've got one special button form , which was the apple .
+D: Well do we'll do it on the prototype , so do two , see how much it is .
+A: Everything else is gonna be a standard .
+D: Yeah .
+B: And then we'd have So that's nine point one there so we've got some 'Kay .
+A: We've got special material , rubber , wood , titanium , et cetera and that , so , I was originally , I was thinking rubber wasn't special , but according to this , maybe it is .
+D: Mm-hmm .
+D: Mm-hmm .
+A: So And the r I mean effectively we've got sixteen buttons that we're gonna have on there .
+D: Yeah .
+D: I think you just do one , don't you , for the I think I think it's just it's just a one .
+A: W I don't know is is is the sort of answer , is that meant to be all sixteen buttons , and therefore I mean , what's the op The option was maybe not to have rubber buttons , but just to have the one that was soft and spongy , and therefore Whereas it would be the special colour would be for the So you would only have the one special button that was rubber , whereas the rest would be hard plastic .
+D: Else I thi I think I think the button supplement i is just a supplement for all the buttons made in a different material , rather than per button .
+A: Mm .
+D: I don't know though .
+A: I would Every design change is uh I dunno , um Okay , um , if we just had all the buttons as standard , except for the one red apple , then that would take care of that , I guess .
+D: Hmm .
+A: We'd have one special colour and one special button form .
+D: Mm-hmm .
+A: And when I plugged that in last time remember it has to be under twelve and a half .
+A: As far as I know , that um that took care of the uh of the various supplements .
+D: Mm-hmm .
+A: And if What happened ?
+D: You've just gone off the window into another one .
+D: It's on the bottom row .
+C: Maybe if you just minimise that one in the top right-hand corner of the little box .
+C: Yeah .
+A: Now , right .
+A: Okay , so , but the point would be that if we uh if we just did special Sorry , you were saying that it would be that one , that you would put in one there .
+D: Yeah .
+D: Yeah .
+A: Okay .
+A: So it Well , is it s is no , it's nine point seven I've got .
+D: Mm-hmm .
+A: Okay .
+B: Just give us a bit of I switching around those th um on the electronics we got the sample sensor .
+A: So , that would that would work out fine if uh uh as assuming your correction are are assuming that that one change covers all the buttons , then that would be fine .
+D: Mm-hmm .
+D: Mm-hmm .
+A: And there's nothing else as far as I can see that we we had uh planned to put on .
+C: S Um , .
+B: At the moment we've just got the simple chip , which costs one .
+B: Um , I guess the sample sens sample speaker would be the voice recognition thing , which puts up to four ?
+A: Uh-huh .
+D: Yeah .
+B: We should be slightly over our budget but if we gather something else down to slightly lower standard , and maybe go with the one the special form buttons , then we could have the speech So uh maybe if we got rid of like the maybe one of the special colours , kept them all the same colour , then we could have the voice recognition without Yeah , yeah .
+D: Yeah .
+A: Well , hold on .
+A: Um , if we Okay , that gives us twelve point seven But remember that the idea was to keep it the colour of the Oh , I see , so just take out the special colour for the apple and And go for battery instead .
+C: D wouldn't you have to keep the simple chip there as well ?
+B: Um Oh possibly , yeah , yeah maybe .
+C: You know how you turn that one to a zero , wouldn't the chip and the sample speaker be separate things , so you need both of them ?
+D: Yeah , we have to have it Yeah .
+B: Maybe um we'd be giving up on the kinetic .
+B: Um We should Yeah , that would save us one , though we'd still be slightly ov Yeah , yeah .
+D: Yeah .
+A: That would give you one less .
+A: But you reckon that i I mean the thing is that you wanted to a appeal to people and not have to replace batteries .
+B: Well , since it's the through the whole technology type thing , um , you were saying in the market research that people like kind of interesting gadgets in them .
+D: Mm-hmm .
+B: Um , whether they would figure the the s uh sample senor and the sample speaker , voice recognition be sort of a worthwhile thing to have .
+B: And then still have the batteries , or whatever they would prefer not uh You know what I mean ?
+D: Mm-hmm .
+B: The the problem was the battery's running out and losing the um losing the remote .
+A: Mm-hmm .
+D: Yeah .
+B: So you gotta decide which of those is more important to them .
+A: But which do you think or which do we think is the more important of the options ?
+C: I think the voice recognition .
+A: In a sense , at the moment , we've got a total which we need to reduce down by one point two .
+A: At least .
+A: Remember that was a minimum requirement .
+A: The other option if we're planning on just going for something cheap and cheerful , would be to um make it originally , we're gonna make it a simple product .
+D: Shall we shall we evaluate the prototype as we've got it now first , and then sort of make decisions about what needs to be changed after ?
+B: Yeah .
+A: Mm-hmm .
+A: Makes sense .
+D: Okay .
+B: Okay .
+D: Right um , I have a little thing .
+D: So , we've all got a note of it's thirteen point seven , isn't it , with everything we want on .
+A: Sorry , do you want that back up ?
+D: Yeah , I just had a presentation to do .
+A: Right .
+C: But I do think uh the v uh voice recognition thing would be more impressive than the fact that it's got no battery .
+A: Okay , but remember the main the only reason we were planning on having the voice recognition was so that they could find the remote if it got lost .
+D: Mm-hmm .
+D: Mm .
+D: Right okay um , This is about the evaluation criteria that we use for the the prototype we've got here .
+D: And so the method is that the design team makes a prototype , and we evaluate the prototype against some criteria that we've formulated .
+D: And those ones are gonna be in response to sort of market research , and also finance , I guess .
+D: And do that on a scale from say true being one and false being seven , so if it's neither true nor false , then that's four .
+D: So , I got a set of criteria just based on the marketing that we need to add in a financial one as well , at the end .
+D: Um so , We have to say whether it's true or false that the product looks and feels fancy .
+D: Um The whether the product demonstrates technical innovation .
+D: Whether it's easy to use .
+D: Whether it's incorporating sort of the fashion element to attract the buyer .
+D: And whether it's a sort of recognisable Real Reaction product .
+D: And I have to go up onto the whiteboard and do this apparently , so I'll go over here .
+B: Okay .
+D: Right .
+D: So the first one is um , does the product look and feel fancy .
+D: So if we do a sort of a one So Yeah .
+B: Okay , well we have a single curve , which was maybe like the feel of the product's quite good .
+B: So uh Um , then we have the rubber kinda spongy feel , which was in at the time .
+D: Okay .
+D: Yeah .
+D: Yeah .
+B: Um , sorry that'd be considered fancy .
+D: Yeah .
+C: Yeah , I'd maybe give it a a two .
+D: Of but I think What Is one false , or is t one true ?
+D: I forgot .
+C: One's true .
+D: One's true , and okay .
+D: Seven's fal Four is neutral , okay .
+C: And a four is neutral .
+D: So Right .
+B: So maybe maybe a two .
+C: Yeah , 'cause we haven't got the double curve , so we can't like say it's completely true .
+A: Go for one .
+C: But it's pretty close .
+A: Yep .
+C: We've got almost everything we can .
+D: Okay .
+A: Okay .
+D: Right .
+D: I gonna put underneath so I've got some more space .
+D: So , false is seven , true is one , and So uh say about a two for fancy , you think ?
+B: Yeah .
+C: Yeah .
+D: Okay .
+A: Yeah , why not not , m m maybe nearer three .
+D: Okay , well d you do an average at the end , I don't know .
+A: Two three .
+D: Um Uh-huh .
+A: Well , it's just that uh saying something remember that when you look down , we've got solar power , we've got uh various other things you could have , and we're not going for these options .
+D: This this is just this is just for like the look .
+D: Does it sort of look fancy rather than functional .
+A: Mm-hmm .
+D: So Yeah , so that so sh should we go for a a two on that ?
+C: Yeah , I suppose that might be in the technical innovation bit .
+A: Okay .
+D: 'Kay .
+D: And I mean , how much does the product demonstrate technical innovation do you reckon ?
+B: Um , deciding between the kinetic power or um the speech recognition , and if we had either of those for our budget , they both show a reasonable amount of speech recognition .
+D: D yeah .
+D: Okay .
+D: So , what about the pr The prototype as it is , we've got we've got the speech recognition on it , haven't we .
+B: Um But not the kinetic .
+D: But not the kinetic .
+B: Like the power .
+A: No .
+A: 'Cause you can't afford that w we took that out too .
+B: No , we c ca yeah , we can't afford both .
+D: Alright , so So it doesn't It's pretty The prototype as it is isn't sort of um fulfilling the Okay .
+A: Didn't you ?
+A: Or Well , wait a minute .
+B: No may is maybe about neutral plus it it it's got something , but it hasn't got Right .
+C: Maybe a three .
+D: Yeah .
+A: In thirteen point seven we do have kinetic .
+C: I would give it more than a four .
+A: The problem is we have to reduce down from there to get it down to twelve point five .
+B: Okay .
+A: And one way of doing that would be to take out the kinetic .
+A: So , it's very much dependant on what you do with your options .
+D: Right , okay .
+A: And if you're definitely going for the sample sensor and sample speaker , then because that the other functions we've got in are are more at the The special material , the rubber , wood , titanium , et cetera , if you go for that , th that's at the high end 'cause that's point six , whereas down at uh just special colours uh is point two .
+B: 'Kay .
+A: Now you're trying to lose one point two , so it seems to me that if you're going for the sample sensors speaker , you're basically then having to go for the cheaper options on everything else .
+D: Mm-hmm .
+B: Okay .
+A: And and the simple way to do it would be to have a battery , to have your uh sample sensor speaker , and then you're looking to uh take out uh point two , which would be come from the button supplements category .
+B: Um Mm-hmm .
+D: S I'm just gonna check my email .
+D: I'm just gonna check exactly what it said in the email for um the product .
+C: How much of a difference would it make if we made the case in plastic ?
+C: Because we did say that we don't wanna follow the fashion too much .
+C: If the buttons are rubber that might be spongy enough .
+C: And then it stand the test of time better .
+A: Um , interface type um , well plastic rather than rubber .
+D: Okay .
+D: But I Okay .
+A: That that that would make the significant difference .
+A: You could either you could have it If you have a in plastic rather than rubber , then that would uh enable you to get you could keep kinetic then , you could keep your sample sensor , and you'd be looking to take out point two .
+A: So you could uh fiddle that down your special form at the bottom , or your special colour at the bottom .
+C: Mm-hmm .
+A: And that would enable you to to do it .
+B: So it says if we make a slightly more fancy , then we lose points innovation , and if we make it more innovative innovative , then we lose points on it being fancy , so Yeah , yeah .
+A: Yeah .
+D: Yeah .
+A: Ye Well , okay , but It's rubber as it is , yes .
+D: , I just read the email again and it sort of says it's evaluate the design sort of as it is , I think , so I think we need to think about finance after we've sort of evaluated that design .
+D: I don't know whether we're doing it in the wrong order or something or .
+C: Well , I suppose it's rubber as it is , isn't it .
+D: So , I mean does this need to go up a bit or something , 'cause we've got both the both the um the speech Yeah .
+A: We got we've we've got thirteen point seven and we've got it in at the moment and if and basically , we're going to reduce down from that .
+C: Yeah .
+A: But the current one , you'd say would be fancy , would be too Mm-hmm .
+D: Yeah .
+D: Um , for for innovation , so we've got the speech the speech thing , and Do you reckon a two ?
+A: I would've said about a two as well .
+C: Yeah , two or three .
+C: I'd be happy with a two .
+D: Okay .
+A: Oh .
+D: Two .
+D: And the next one is I'll have to get it back up now .
+A: The next on Well , I can just sing about .
+A: Easy to use .
+A: I would've said yes .
+A: I would go for a one on that at this point in time .
+C: Yeah .
+D: Okay .
+C: Yeah , I would say so as well .
+A: Um , incorporates elements of fashion to attract buyer .
+A: Well , yeah it certainly has some .
+B: Um It does , yeah .
+C: Yeah , it's got the cherry and the sponginess .
+D: Um Say about a three maybe ?
+A: Yep .
+A: I don't know .
+B: Yeah , m um Yeah , it was just doing it quite well .
+C: Maybe two ?
+B: Um , I think we're gonna have to lose some of these , but the moment , as it stands , it's um Uh the sensor using all of its all of its products , all of its buttons , and it's got a fairly big label on the bottom saying where it comes from .
+A: Yep .
+A: Yeah , I woulda said two would seem reasonable .
+D: It's a two .
+A: The product is a recognisable real r uh reaction product ?
+D: Yeah , this is This Yeah .
+C: Yeah , that's a bit rough at the minute .
+D: So this is about sort of the corporate image of like new sort of sleek technology and all that sort of thing , as well as having the logo on and all that .
+A: Oh .
+B: Okay .
+D: So sort of Is it sort of a recognisable product .
+D: Does it fit in with our other other products , which uh are sort of coffee makers and spacecraft .
+C: Uh , well it's got the same um speech feature as the coffee machine .
+D: What do y Yeah .
+A: S Okay .
+B: Also it's kind of spongy rubberiness is maybe bit more kinda comfortable than kinda sleek and new age .
+B: Um , it depends which way you look at it .
+D: Uh-huh .
+A: So we're going for a two , three ?
+D: So Two or three ?
+B: Maybe a kind of three ?
+B: Uh d Yeah , so it's So should we get So are definite Was it thirteen point seven was the definite price rule if has .
+C: Yeah , two or three .
+C: Well , the logo would be more um recognisable on the actual thing .
+C: It's just that the pen wouldn't really write on that paper .
+A: Sure .
+C: But um , I think the logo would definitely be recognisable .
+D: Yeah .
+C: And it does have attributes that other products do .
+C: Two ?
+C: Aye .
+C: Go for it .
+A: Right , okay .
+D: Two or three .
+A: Two .
+D: How Two .
+A: Right , come on .
+A: That's that decided .
+D: Okay .
+A: Right .
+A: So So we're now on to changing it to get it to fit in with the budget requirements , and then About a two .
+D: Right .
+D: Yeah .
+C: What does what do all them numbers mean then ?
+C: Do we add them up and rate or anything ?
+D: Yeah we s yeah , I think we sort of add them up so sort of at an average is gonna be I'm just gonna do this in my head .
+A: Two .
+D: One point eight isn't it or something .
+D: I think , anyway .
+D: So yeah , pretty close to a two .
+D: So So it's I mean it's pretty good at the moment , but it's gonna get worse , isn't it .
+D: But we've gotta try and make sure it doesn't get too bad .
+A: Yep .
+A: Two b two b two , yeah .
+A: Yes .
+D: Yeah .
+B: Okay , so we need to So I guess this Is this the last stage once we sort out the finances part of it ?
+A: Well , you can lose one point two and still meet the requirements .
+D: Do you wanna plug it into yours so we can get up the the finances I'm not sure .
+A: Okay , well I put it back on .
+C: we'll probably have to re-rate it .
+A: Yes , I would've thought so .
+B: Yeah , yeah we'll make the adjustments and then see how are rates are going .
+D: Yeah .
+A: Okay , so what was it , control uh F_ eight , wasn't it ?
+C: Ah it's on .
+D: it's come on already .
+A: Oh .
+A: Oh .
+A: How kind .
+A: Right , okay .
+A: So , you can see there that the If you want to keep kinetic , right , you've got a choice there of going down to battery , which would save you one .
+A: You've got the sample sensor and and sample speaker , which is your big item .
+B: Oh actually we just have a plastic case , then we lose two points , which gets us um In right within the budget range .
+A: That's right .
+D: Mm .
+A: Which gets you Yes .
+C: Yeah , I think that'd be fine .
+C: Because that was just a trend , and we do have rubber buttons anyway .
+B: So that's eleven point seven , and then we could make sure we definitely had all the button supplements .
+D: Yeah .
+D: Different different colours , yeah .
+A: Alright .
+D: Yeah , I was I was thinking that because maybe maybe the sort of rubber case is a bit less in sort of the corporate identity than the sort of you know sleeker plastic case .
+B: Possibly , yeah .
+B: Um And that would allow us to have all the technical innovations .
+C: Yeah .
+A: Okay , so So we're going for plastic , yes ?
+B: So we'd lose a little bit on the maybe kind of Oh yeah , and that would now be Yeah , that's that's within the budget .
+D: Lose a little bit on the fashion , yeah , but And then Yeah .
+A: Yep .
+B: Um Do we actually have Do we just have one special uh special forms down here ?
+A: Well , uh w uh there was debate as to how you would count them .
+B: Um And we we've we've got we've got enough for another we've got nought point eight left , so we've got enough for another Yeah , um But the but but but the I think maybe the special colour , we've got three now just because the volume buttons are different , I guess we'd have the ones which are blue at the moment would would just be the standard colour .
+A: You got special colour .
+A: Well originally I was assuming we had the red apple , and therefore , that was the special colour .
+C: Yeah , I think we should just imagine white buttons .
+A: Well , we've got special form .
+A: Now that would be one button , and the question was was that all buttons or is that just one button .
+A: 'Cause our plan really was to have one button only with a special So so no matter how you look at that , that would be the same .
+A: The other thing would then be special material , rubber , wood , titanium .
+D: Yeah .
+A: Alright .
+A: So , special colour , you want three in there .
+B: Yeah , which I think we should Yeah , they'll still be fine for the for the price .
+A: Okay .
+D: Well I thin I think you you you just need two for the special colour 'cause it's just two supplements , you know .
+D: One original colour and then sort of two supplements , I think maybe .
+A: That makes sense .
+B: Okay , uh that's probably it .
+D: Okay .
+C: Yeah .
+D: So we only ne we only need two for that .
+A: Okay .
+D: 'Cause I mean these these are moulded .
+D: The one colour's gonna be moulded out of a piece of plas uh of rubber , isn't it .
+A: Okay .
+A: Yeah , I would agree with that , I think .
+A: So special colours , two .
+D: Right .
+A: And we've got special form is the one apple .
+A: The rest are all standard , although you could argue that should maybe be You were making these buttons down the bottom , I was presuming , bigger than the other ones , or were you ?
+B: Ne uh Maybe that'll be a second supplement .
+A: Was that the idea ?
+C: Yeah , the volume ones should stand out a bit .
+D: Yeah , that Yeah .
+B: Then there's a spe a second special form .
+A: Uh-huh .
+A: I would have thought that's probably about r well .
+B: Um Well you got you got twelve .
+D: Okay , so tha So shall we do a Well , um Yeah .
+B: So I think that should still be okay .
+B: Yeah , that's twelve point three , so we're still within budget on that .
+A: Right .
+A: Yep , that makes sense .
+B: Um So decide we've lost a little bit on the fashion and lost a bit on the fancy kinda side of it , but generally speaking , we've kept the other attributes to the That's without Yeah .
+A: Yep .
+A: I woulda said so .
+A: Yeah .
+A: So you'd maybe put fash fan uh fashion at three rather than two .
+B: And specially it definitely could fits the the real product What was the what's the company name ?
+C: Real Reactions ?
+A: Real Reaction produ I'm not quite sure , what does that mean ?
+B: R yeah .
+B: Yeah , yeah .
+B: I mean it still seems definitely fit that p so that's like if that's the new age kind of um inno innovative c type company , then um having the kinetic feature and the voice recognition is p quite high up on Um Mm-hmm .
+D: Yeah , so Uh So it's w if we've if we've put in for another special form on a button , then maybe they could be a different shape .
+A: Yep I would s You mean of Well you could argue you might do it once a year , you would change , because at the moment you're making a red apple .
+D: Like we got a cherry one .
+D: Maybe other ones could be something else shaped .
+D: I don't know .
+D: That would be poss seeing as seeing as it's cheaper to make them a different seeing as we've got , you know , we've made it a a special form , so And that would sort of maybe keep us close on the sort of the fashion type one .
+D: And it would sort of , you know , keep it quite fancy as well , I don't know .
+B: Yeah so it's a Whatever fruit was in fashion next year .
+D: Well you could Yeah .
+A: So next year you could make next year's model the same , but have it as a a yeah whate whatever , a lemon .
+A: Yeah , l a lemon lemon or something .
+D: Yeah , I mean the volume buttons could be lemons or something , maybe .
+A: And that amount Yeah , we've the main thing we've changed really is the casing isn't it ?
+D: Okay .
+D: So , we've what have we what have we rid of .
+D: We got rid of the plastic .
+D: Is it The rubber .
+B: That yeah , that was uh that was just about all .
+A: We've Well , ease has certainly stayed .
+D: Yeah .
+B: I think we've saved quite a bit because we've just got the push-button interface , which is by far the cheapest .
+D: Yeah .
+B: Um So maybe in a sense not having that , maybe we've lost some maybe lost something on the innovation side ?
+D: But uh So I mean , we've got we got rid of the rubber case , but we've now s we now sort of got an extra form , and an extra colour for the buttons .
+B: I dunno .
+B: And that is like the most standard type of button .
+D: So maybe in terms of sort of fanciness and fashionability , we're pretty much the same , maybe .
+B: Yeah .
+D: So , I mean we could maybe put two again on them .
+B: And everything else has stayed pretty much the same , so Yeah , plus if anything that is special forms makes it slightly easier to to use .
+D: Yeah .
+A: Yeah .
+D: Yeah .
+D: And what about the sort of innovation ?
+B: Um , well we've still got the kinetic energy .
+D: Do you think Okay .
+B: Um Yeah , the speech feature .
+A: And the speech feature .
+D: And then , the corporate identity .
+B: I think we've cut just about the same .
+B: We've maybe lost Hasn't it It's hard to tell how the rubber the rubber casing would really affect Um But I think more the the features of the actual control will be more important than maybe than the the actual aesthetics , but But either way , I think we've made it fairly close to what just the the company logo .
+A: How it would play out , yeah .
+D: Yeah .
+A: Oh .
+D: Whether whether that's considered to be sort of part of the corporate identity , I don't know .
+D: I mean , it's maybe not .
+D: I mean Yeah .
+D: Yeah .
+D: Yeah .
+D: Okay , well I mean We cou Mm-hmm .
+C: Yeah , I don't see how we could make it any more .
+C: Um , apart from maybe doing the whole thing in the kinda light shade of blue , like the casing .
+C: But then what colour would you make the R_s ?
+B: So maybe there's like a set design which we get printed off .
+A: Well , but you've got the company logo on there , which would effectively be a stick-on badge .
+D: Yeah .
+B: Okay .
+A: So you're in a sense , you're comparing the product without the company logo .
+D: Yeah .
+A: And then y but you've got the space for it to stick it on .
+B: Yeah , yeah .
+D: Hey , what what what's the company colour ?
+D: Did you get told what the company colour is or Oh right .
+B: I'm still not quite sure we've established that .
+C: No , I just We got the logo off the web browser .
+A: Don't think so .
+A: But but i but in the sense that , as you saw with um the Windows logo badge , it doesn't really matter .
+A: There's virtually n The way that you frame , you know , the Windows badge on there , it really doesn't matter what colour it is , so long as our company's logo is framed w in the same way as that with a like a black outline .
+D: Hmm .
+D: Mm-hmm .
+A: Fact , they've got black and white or black and silver .
+A: So basically , even if you had a silver the same colour of silver on your display , because you've got effectively a double edging on the uh on the logo , it means that it splits off what your logo is from the from the product .
+D: Mm .
+A: And that's actually quite a sneaky way of doing it .
+D: Okay .
+D: Uh-huh .
+D: 'Cause you've got sort of we've got point two to play with if you really wanted to .
+A: You could put in another Well , in this one , you've actually got three colours of buttons .
+D: Another colour .
+D: Or would that be t Yeah .
+A: Well , we decided that the blue ones were the um the standard colour .
+D: Okay .
+A: So you were talking about uh um We're assuming that all the buttons on the second panel , the hidden away panel , would all be standard .
+B: Yeah .
+D: Yeah .
+C: Mm-hmm .
+A: Which m may or may not be the case .
+D: Yeah .
+D: Shall we save the point two for profitability then ?
+B: Um Yeah , maybe we've m Maybe for the the one they're gonna see all the time , we make it look good , and um , fit the kind of idea of what they want .
+A: Well , yeah .
+A: Bu but but uh was the was there not a button that you were thinking of on the um on the other opt you know , on the second page , as it were , that uh you were thinking of maybe having as a different colour ?
+C: Um , I don't think they would really need to be .
+C: I think if they were just all small round blue buttons , it'd be fine .
+C: Needs to be an enter button , but could just be the same as well .
+D: Hmm .
+B: And then for the more functional buttons , we don't worry too much about that and just have that as like a plus it's hidden away anyway , you're not gonna see it at the start .
+D: Yeah .
+D: I mean it's the sort of thing that , I mean , you wanna pick up the controller and just hit a button quickly to change the channel or volume .
+A: Yeah , well Alright .
+D: So , if it's dead obvious , then that's fine .
+D: But if you're opening the panel and you're looking and you're tuning , then you're paying a bit more attention .
+D: So it may be sort of different colour buttons isn't so important .
+A: Okay .
+D: 'Cause you Yeah .
+B: Yeah .
+A: So we just add that to profitability in effect .
+D: So Yeah , I mean so we've dropped the cost , but Same sort of function ?
+C: Mm-hmm .
+A: Right , so we're meant to finish up in five minutes .
+D: The criteria ?
+D: It's alright .
+B: 'Kay .
+D: Just made a load of money .
+C: Shouldn't we maybe lose a point on fashion , go to a three ?
+C: 'Cause we've lost the overall spongy feel .
+C: 'Cause it doesn't seem right that it just hasn't changed at all .
+D: Well , but I think we said that w Because you got rid of the rubber , we put an extra an extra sort of fruit um shape on one of the buttons .
+C: Alright .
+D: le lemon sh I think well , we could have lemon shaped ones with the volume ones or something .
+C: Did we decide what that was , which button it was ?
+C: On the volume ones ?
+C: Right .
+B: Uh , .
+D: Or something like that .
+B: That's good .
+D: Yeah .
+B: Definitely lemon shaped .
+D: Did did you have to have a rubber case , though , for rubber buttons ?
+D: Or was it the other way around ?
+B: You had to have rubber buttons if you had the rubber case .
+D: Right , okay .
+A: Mm-hmm .
+B: So I think we can we're okay .
+A: So we're okay this way around .
+D: Yeah .
+D: So that so we've saved Saved two Euros on that .
+A: Until the design team comes in and says , get off .
+A: But you are the design team .
+B: Then we say it's fine , so it's all good .
+A: So what bit are we on to ?
+C: Um , can I just check if that's a cherry or an apple ?
+C: Did we decide against the apple because of Apple Mac ?
+C: And did we make it a cherry officially ?
+A: Yeah .
+A: I th I th Oh .
+D: Mm-hmm .
+C: Right .
+A: Right , okay .
+B: Just in case we need that point two for lawsuits and such like .
+A: Oh drats , I've botched that , haven't I .
+C: So were we aiming for a certain target on that scale ?
+D: Well , we're aiming for um one for all of them .
+D: M but it really has to fit into the budget , so I guess we just have to adjust things to get it i in the Which is fair enough .
+C: Right .
+B: And we seem to have least something in each criteria .
+D: Yeah .
+B: We haven't completely left anything out , so As an overall product which has to be quite cheap , we've just about achieved everything .
+D: Yeah , I think most Yeah .
+D: Yep .
+C: So do we have anything else to discuss ?
+D: I don't know .
+D: What's on the agenda ?
+A: Right , okay um What's happened here ?
+A: Right , okay um Mm .
+A: Right , okay um , Right .
+A: So we got So we've done the the finance bit and the Excel project and the We've done the redesign .
+B: We've got the closing .
+A: So we're now on to project process .
+A: Now satisfaction with , for example , room for creativity , leadership , teamwork , means , et cetera , whiteboard , digital pens , et cetera .
+A: So , we're actually now uh , in a sense , on to the evaluation of the course rather than the evaluation of the project is m my understanding of it .
+D: Uh-huh .
+A: So what did you and remembering that nobody's just over the curtain .
+A: So , um So I suppose the easiest way of doing it is to put some notes down , which I will do .
+D: Finish your meeting now .
+B: We should just go through this quickly and then Um , yeah .
+C: Huh .
+D: Yeah .
+D: Okay .
+A: So , uh I think I have to finish that page .
+D: Oh .
+A: Right , okay , so Project evaluation .
+A: So , um Creativity .
+A: Did you feel you got a chance to express yourselves well enough ?
+C: Yeah .
+A: Well um Individual meetings .
+B: Yeah .
+D: I thought some of the divisions though between sort of the individual meetings were a bit arbitrary .
+A: How do you mean ?
+D: Yeah .
+D: Well , we were finding out various things in in be in-between the meetings , and they didn't the one meeting didn't always follow on for the other one , you know , sort of we had things thrown in at the second meeting where , you know , you'd looked at the remote controls and seen the curviness , but in the first one you'd also looked at some remote controls and looked at the buttons , and I don't understand why it would be in separate meetings that you'd do that .
+A: In you on your own .
+A: Um Mm , The only thing you find is in a manufacturing process , you would normally , you go to a meeting , you decide , right , you do this , you do that , you do that .
+D: You know , you'd sort of you'd probably present it at one or something like that .
+D: Yeah .
+A: Then you go away .
+A: You find out information .
+A: You then come back .
+A: You then discuss it .
+A: You then go and change things around , and then go back .
+D: Uh-huh .
+D: Yeah .
+A: So Whereas , this time , you're really getting it from a database source , so it's not uh well uh Anyway , so , what do you want to put down ?
+B: Yeah , I suppose and then be going out and finding more information each time and then diff things will be relevant .
+D: Yeah .
+D: Yeah .
+A: I've put , seemed okay .
+A: Creativity , seemed okay .
+A: Um um flow of information on on any given subject given subject um sometimes disjointed .
+D: Yeah .
+C: I think it maybe could have been a slightly more creative project .
+C: I mean a remote control isn't the most um kind of fancy thing that you could imagine designing .
+D: Yeah , the thing itself .
+A: Um Have could have used a different example pel to increase create Creativity .
+C: I can't think of a better example at the minute .
+D: Yeah .
+D: Yeah .
+B: Is this go It kinda kis fits the purpose that it was something everyone knows about and then something we can at least look at and think how we can improve on .
+D: Mm-hmm .
+A: You have to do it within a set time frame is the other thing , so I th I uh d But the other thing is that uh they're I'm guessing that they're trying to use this um software to to demonstrate how you could uh do a project .
+D: Yeah .
+D: But think like it was a bit restrictive just to say that you have to design a television remote control , in a way .
+D: I mean it depends what sort of business you're in , I guess .
+D: I mean this one seems .
+D: From the website it looks it's quite innovative , but we're coming up with some bucket shop product aren't we that's , you know , fifteen quid .
+B: one of those things .
+B: Like uh , companies can have like a range of products and I don't know how it works but I guess that something got sent out and have like a brief to kind of Yeah .
+A: I mean , m my wife at the moment , for instance , is uh acting as a computer um for um you normally , you got a problem , so you go to your tutor and find out information to see how to get it fixed .
+D: Yeah .
+D: Mm-hmm .
+A: So what she's doing is she's having to spend a day at the computer terminal at one end so that any student that comes along can uh ask whatever question .
+A: And then you or the idea is that the whichever uh person's at the other end can point them in the right direction , show them where to either give them directly give them help , or secondly , point them in the right direction , either at the library , or uh or or come back , or go and see Joe Bloggs , or whatever .
+A: So uh , and that was a project I suspect similar to this , because they they were actually trying to debug the uh computer software to enable um to enable it to work .
+A: And of course , you had the machine crashing and various things going wrong .
+D: Hmm .
+B: Well , sh we look at the last slide , see if it's got anything else .
+D: Mm-hmm .
+A: So Alright , so we've got uh New ideas found , did we find any , no .
+B: I think there's one one more to go .
+D: Yeah .
+D: I mean if you look at their products on their website here , Real Reaction , I mean it's all pretty high-tech and cutting edge .
+D: And Yeah .
+B: It was quite good with this um the white board , having that and the digital pens .
+B: Like , that's something that made it a little easier .
+A: Alright .
+D: Yeah .
+A: Leadership , teamwork .
+D: we did find a new idea , I mean sort of a kinetic remote control .
+D: I've never seen one of them before .
+D: batteries , I think .
+D: So Mm yeah .
+A: Does You've got voice recognition computers , that's not remote controls .
+B: voice recognition , especially not could Yeah .
+D: Yeah .
+C: Well it's a different application of it .
+A: Mm-hmm .
+B: Yeah , so it's just like the same products , but just put together in a different way .
+A: Okay , so how do you reckon teamwork went ?
+D: Mm .
+B: Um Yeah , I guess we all had separate ideas and then discussed them .
+D: That went okay , yeah .
+D: Mm-hmm , yeah .
+C: Yeah .
+A: To uh go uh reasonably well .
+A: Okay .
+D: I don't think sort of the budget um allowed us to do anything Well , I mean I don't think it I just don't think it fitted in with the rest of their products .
+A: Bit bit arbitrary .
+D: I mean , they've got all these sort of , you know , high definition D_V_D_ and portable seven inch d um lightweight computer screens , and uh I'm thinking , do you know , one cheap remote control doesn't really fit in .
+A: Mm-hmm .
+D: Surely they they should produ Yeah .
+A: So , we're m we're meant to comment on leadership and the means , E_ G_ whiteboard , digital pens , et cetera .
+C: Well leadership's a bit of a funny one , isn't it .
+A: And and new i new ideas found was the the other thing .
+C: But we can't really all fairly comment on leadership because you are the Project Manager .
+C: You were the leader .
+C: So our experience of leadership wasn't really as much as yours .
+D: Yeah .
+D: Yeah .
+A: Now , I'd much rather be in marketing but I certainly didn't get this uh computer to work as well as I would have liked .
+A: However , um Alright uh means , so whiteboard um so really , it's uh equipment .
+A: Oh .
+D: Yeah .
+D: It worked .
+C: Yeah , very nice .
+D: Comput computers could be a bit difficult at times but I think there's a little there's a little um chi There's a little there's a little chip , I think you must plug it into something and it produces a I don't know .
+C: But I mean , I d I don't I'm not sure I see the value in these .
+C: I mean , they record what you're writing , and then what do you do with it ?
+C: Where do you get the recording ?
+C: Do you plug the computer or something ?
+B: So it's not just for us , it's for the experiment as a whole , so Should we quickly look at the last slide ?
+B: Sh .
+C: Right .
+C: I think you watch a video of it kind of .
+D: Whether it just produces a big image of sort of everything you've written or something , and Page after page .
+A: Right .
+A: New ideas found , so one or two .
+D: Yeah .
+D: Kinetic powered remote control .
+D: Um , what was the other one ?
+C: Voice um recognition thing .
+D: Vo yeah .
+A: um and uh voice uh , was it voice activated um recognition .
+D: Voice recognition , yeah .
+D: S Almost .
+D: To fill in these fill in these questionnaires Oh no .
+C: Pretty much .
+A: Right , so , uh are the costs within budget , yes .
+A: Is the project evaluated , yes .
+A: Uh , don't forget to complete final questionnaire and meeting summary .
+A: Then celebration .
+B: Is that everything ?
+D: Hmm ?
+D: I think that we've got two questionnaires and a report on the last meeting .
+A: Yeah .
+A: Uh , so we don't re So really I tried to save this the last time at twelve point three , and it didn't seem to have saved anywhere .

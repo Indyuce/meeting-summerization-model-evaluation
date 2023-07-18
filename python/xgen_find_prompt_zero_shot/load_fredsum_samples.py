@@ -18,8 +18,10 @@ def mkdir(folder_path):
     except:
         pass
 
-mkdir('summaries')
-mkdir('texts')
+mkdir('input')
+mkdir('input/' + DATASET_NAME)
+mkdir('input/' + DATASET_NAME + '/texts')
+mkdir('input/' + DATASET_NAME + '/summaries')
 
 for i in range(N_SAMPLES):
     

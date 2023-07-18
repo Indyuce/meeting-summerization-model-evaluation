@@ -1,16 +1,10 @@
 import shutil
 import os
 import random
+from datasets import load_dataset
 
-# Parameters
 N_SAMPLES = 10
-DATASET_NAME = 'fredsum'
-DATASET_PATH = '../../Datasets/FredSum_std'
-SUMMARY_TAKEN = 2 # Quel summary prendre pour fredsum ?
-
-# Script
-sample_names = os.listdir(DATASET_PATH)
-left = list(range(len(sample_names)))
+DATASET_NAME = 'ami'
 
 def mkdir(folder_path):
     try:
@@ -18,8 +12,14 @@ def mkdir(folder_path):
     except:
         pass
 
-mkdir('summaries')
-mkdir('texts')
+mkdir('input')
+mkdir('input/' + DATASET_NAME)
+mkdir('input/' + DATASET_NAME + '/texts')
+mkdir('input/' + DATASET_NAME + '/summaries')
+
+dataset = load_dataset("TanveerAman/AMI-Corpus-Text-Summarization")
+train_dataset = dataset['train']
+left = list(range(len(train_dataset)))
 
 for i in range(N_SAMPLES):
     
@@ -28,15 +28,18 @@ for i in range(N_SAMPLES):
     random_value = left[random_index]
     left.pop(random_index)
 
-    # Find corresponding folder
-    random_folder_path = sample_names[random_value]
-    print('Chose "' + random_folder_path + '"')
+    # Get info from dataset
+    dataset_sample = train_dataset[random_index]
+    reference = dataset_sample['Summaries']
+    dialogue = dataset_sample['Dialogue']
 
-    # Export files
-    previous_file_path = DATASET_PATH + '/' + random_folder_path + '/sum' + str(SUMMARY_TAKEN) + '.txt'
-    new_file_path = 'input/' + DATASET_NAME + '/summaries/sample_' + str(i + 1) + '.txt'
-    shutil.copyfile(previous_file_path, new_file_path)
+    # Write to file
+    target_text_file = open('input/ami/texts/sample_' + str(i + 1) + '.txt', 'w', encoding = 'utf-8')
+    target_text_file.write(dialogue)
+    target_text_file.close()
     
-    previous_file_path = DATASET_PATH + '/' + random_folder_path + '/txt.txt'
-    new_file_path = 'input/' + DATASET_NAME + '/texts/sample_' + str(i + 1) + '.txt'
-    shutil.copyfile(previous_file_path, new_file_path)
+    target_text_file = open('input/ami/summaries/sample_' + str(i + 1) + '.txt', 'w', encoding = 'utf-8')
+    target_text_file.write(reference)
+    target_text_file.close()
+
+print(len(dataset['train']))

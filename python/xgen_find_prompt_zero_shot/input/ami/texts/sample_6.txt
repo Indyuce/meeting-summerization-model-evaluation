@@ -1,0 +1,840 @@
+B: Okay .
+B: Yeah .
+B: That's okay .
+B: That's okay .
+B: Okay .
+A: Am I starting now ?
+A: Anytime ?
+A: Oh sorry .
+A: 'Kay , um .
+A: Alright , welcome back fro to the second meeting .
+A: And um I hope you had a productive last thirty minutes .
+A: Um , and um , I'll be taking minutes on this one , and um Being hooked up to the PowerPoint for this meeting isn't very necessary for uh myself , because it'll be more about uh , what you guys are bringing to the meeting today .
+A: Um , so , the first presentation we'll be looking at is Poppy's presentation .
+A: And , um So , sorry ?
+A: So , um , take it away Poppy .
+B: Okay .
+B: Um , do I need to plugged in .
+A: It's , it's plugged in .
+A: So , um No problem .
+C: F_ eight , w .
+C: Function F_ eight .
+B: F_ okay .
+B: Function F_ eight .
+B: Sorry about this guys .
+B: 'Kay .
+B: is on .
+B: Right .
+B: Okay .
+B: I will take this time just to apologise .
+B: I , I only , uh , received my emails later on .
+B: 'Cause I was too busy carried away doing my own thing , which is not obviously not a very good part of a team-working thing .
+B: But there we go .
+A: I'm sure it's fine .
+B: Um , so I was looking at how we're going to go about the working design , and what we actually need to do , and what the remote control needs to do .
+B: And it needs to um allow a person to have a portable desi device , so they can control the television from wherever they are .
+B: They don't need to actually manually touch the television set .
+B: So , it gives them much more flexibility , and allows them to be where they want to be .
+B: Um , from Uh , on a functional side of things , we found out that wh from our previous meeting , we decided that there're certain points that will make our product unique .
+B: Um , one is the visibility in the dark , which was um Genevieve's idea .
+B: So we need to think about how we could bring this in um technically .
+B: And we could use illuminated buttons , which we are all familiar with when we're using a mobile phone , or um something fam familiar .
+B: A automatically , um lights up at first touch .
+B: Or we could use fluorescent materials which would just um take in the light during the day , and then as soon as they go off they would glow in the dark .
+B: Um , also we could use um an alarm .
+B: So if we lost the um remote control , perhaps there could be a button on the television set itself , which you could press , and then an alarm from the handset would sound where it was , hopefully in the room .
+B: Maybe behind a cushion or somewhere .
+B: Um , so that would work .
+B: Um , oop .
+B: Go back there .
+B: Um , another thing I think we d missed out on on the last meeting was the fact that we should consider the environmental impact of our design .
+B: Um , from previous researches I've carried out on other projects , um we've learnt about smart materials where um um specific alloys of metals have a shape memory .
+B: So they can be heated and um and cooled , and they change the shape of um the metal .
+B: So , for example , a screw that's holding something together could expand and it would force all the components apart .
+B: So um , the benefits of this for our product would be that when it came to the end of its product life , if it was heated , um everything would spring apart .
+B: So , all the um individual components could be easily separated , and then some could be reused , some could be recycled , and I think that would be very important for products now .
+B: Especially 'cause there's much uh responsibility for all the um companies who are coming up with like new designs .
+B: 'Cause all , we all know that our resources are being limited , and we have to be very environmentally conscious .
+A: Right , um , one question .
+B: Yeah .
+A: This , um , self-destructible uh metal , it allows for recycling materials ?
+B: Um And then Yeah .
+A: So that , um , someone could have this product for as long as they felt that they wanted it , and then once they contribute it , then that company can break down the part , the parts better ?
+B: Yeah they would , um you would make the , the product as you normally would , apart from the , the bits that hold it all together would be made out of this shape-memory alloy .
+B: And that's the part that would um allow all the other parts to be separated at the end .
+B: I mean , the user would return the p product to the company , 'cause it's the product's responsibility to get rid of what they've made .
+B: Um , and then the company could then just use , make use of this shape-memory alloys to split up the components , and then either reuse some bits , and other bits which are obviously gonna wear out with time , or not usable , they might be like be able to put into scrap metal .
+A: Yeah .
+B: Something like the case , if it's scratched or something , you would want to reuse it , but you might be able to melt it down and reuse it again somewhere else .
+A: Mm-hmm .
+A: Would we be the company that would break down these , or uh metals ?
+A: Or would we contribute to another group ?
+B: You could we could probably empl em employ a , a side company or something to do that for us .
+B: But it would be our responsibility to get that done and to dispose of the products that we made .
+B: For a certain percentage at least .
+A: Alright .
+B: Not every , not a hundred percent of everything we produce , but Yeah .
+A: Okay .
+A: This sounds like a really great idea .
+A: One thing we have to consider is our uh one hundred percent um turnover goal that we have for our financial sector .
+B: Yeah .
+A: Um , so we'll have to investigate how much that will cost us , cost the company , um 'cause it sounds very labour-intensive .
+B: Yeah .
+A: You would have to hire a number of people , and it might be more expensive .
+B: Well I the fact of the shape-memory alloys is that they , they don't need to be manually de um deconstructed .
+B: Like , you don't have to individually um unscrew all the screws .
+B: Because of this , their properties are smart material .
+B: All you need is just the heat , so they self-destruct themselves .
+A: Mm-hmm .
+A: Alright .
+B: So I suppose it does need like high contact , yeah , you know high uh quality machinery , and very specific machinery , but Yeah .
+A: We'll still have to investigate the financial implications .
+A: Alright .
+A: I like the environmental approach .
+A: Um , we'll have to see if that can meet our financial goals as well .
+B: Okay .
+B: Um also there is um components .
+B: This'll be how it uh will actually work .
+B: But I haven't put this plan together yet .
+A: I'm sorry , could you Those were um Okay .
+B: There we go .
+B: Sorry , should I go back .
+B: This would actually show the circuit diagram .
+B: Although I haven't come up with the final circuit yet .
+B: So I just put all those components in .
+A: So those are what , um , we'll c construct the remote .
+A: Those are all the Alright .
+B: Yeah .
+B: I it just shows what sort of energy source .
+B: It could be a battery , like rechargeable probably .
+B: Um , an' yeah , well how the infrared will actually be sent through the chip to be received by the chip on the television set itself .
+A: Great .
+B: Okay ?
+B: So , now is it F_ eight again to escape ?
+B: Or escape ?
+B: There we go .
+B: Okay .
+A: Alright .
+A: Thank you very much .
+B: Thank you .
+A: And , um , the next presenter will be Tara .
+B: There you go Tara .
+C: Thanks .
+C: Can you see ?
+D: Oh , Function F_ eight .
+C: Do you think Is it uh , function eight yeah ?
+A: Yeah .
+B: Function F_ eight .
+A: Function F_ eight .
+A: Sorry .
+B: The one at the top .
+C: Oh right .
+C: Okay .
+D: That looks right .
+A: Yeah .
+C: Okay .
+C: I'm the User um User Interface Designer .
+C: Uh , the technical functions design of the apparatus is the effect the apparatus should have .
+C: Um , in this case it's the function of the remote control , which is to send messages to the television , television set .
+C: By taking inspiration from other similar designs , we'll try and come up with an original trendy remote control , which is sellable international .
+C: There're two functional design options .
+C: A multifunctional remote control , which can be used for several entertainment devices .
+C: And a single function remote control , used specifically for the television .
+D: I'm sorry , what was that last one .
+D: Multifunctional and Ch Oh , I see .
+C: Sorry .
+C: Um , a single function just for the television itself .
+C: Yeah .
+C: Um , multifunctional controls can be difficult to use , as the multitude of buttons can be confusing .
+C: A single function remote control is simpler to use , but it means you have to have other remote controls for your other entertainment devices .
+D: 'Kay .
+C: Um , I think that a single function remote control would be preferable , because it's easier to use .
+C: It'd be more compatible with a range of television sets , making it more internationally sellable .
+C: Um , it will make an original design more obtainable , as we have less functional necessities to include in the design .
+C: And it would be more profitable as it would be more simplistic .
+C: And less functions would have to be included .
+C: So it would be cheaper to make .
+C: And probably more sellable just because it's more compatible with a r a wider range of devices .
+C: Does anyone have any questions ?
+D: So as far as we know , um , a single function television remote control is us usable internationally ?
+C: Well , it's just that , when we're creating it , we're , we have to make it um compatible with different brands of devices .
+D: Right .
+C: And it would be easier to make it compatible with just different brands of television devices rather than other ent , yeah , other entertainment devices .
+D: D_V_D_s and V_C_R_ ?
+D: Okay .
+A: Right .
+A: Does everyone agree with this ?
+A: Does anyone object and , and find the multifunctional might be a better way to go ?
+B: Um , I was just wondering about the , what , what Genevieve said before , about having like some hidden controls like having the outer casing .
+B: And that would probably , um , I d , well well what you said before about it being a more profitable simplistic design .
+B: I suppose having that would complicate it a lot more .
+C: Yeah .
+C: Yeah .
+B: And limit the design .
+B: Do you think ?
+D: Yeah , I think I agree with the single design thing for now , because we're trying to do so much , that if we're trying to make a unique , user-friendly , dadada , and it's also multi also multifunctional , um , we're gonna go over budget for one thing .
+B: Yeah .
+D: So Mm-hmm .
+C: Yeah .
+B: Yeah .
+B: That's true .
+C: Yeah .
+A: Mm-hmm .
+B: Yeah .
+C: And with this we'll have more room in the budget probably to make a more original design .
+B: Yeah .
+C: We'll have more money to go into the design side of it .
+A: Yeah .
+B: Okay .
+B: Yeah .
+A: Alright .
+A: Sounds great .
+D: Mm , 'kay .
+A: Alright , well , um , are you ready for your presentation Genevieve ?
+D: Yes I am .
+A: Fabulous .
+A: Except you're not hooked up to the Great .
+D: Oh , I'm not hooked up , but other than that , completely ready .
+D: Okay .
+D: Okay .
+D: Oh .
+D: I just lost my microphone .
+A: No problem , we can I'm sorry , what was that last thing that you just said ?
+D: Just a moment .
+D: Okay .
+D: So I'll be discussing the functional requirements of this remote control .
+D: Um , and I'll give you a little briefing on what that means exactly .
+D: Um , if you all remember from the email we got before our very first uh kick-off meeting , with the coffee machine ?
+D: The functional requirements of that was to produce hot coffee quickly .
+D: Um , so what I'll be talking about now is the equivalent for a remote control .
+D: Um , so basically what needs and desires are to be fulfilled .
+D: Um , I've done some marketing research , a lot of interviews with remote control users , um , and some internet research .
+D: And I'll show you my findings .
+D: Oh , and firstly I wanted to remind you about our company motto and purpose .
+D: So we believe in providing international market with fashionable products .
+D: Um , hence our motto , we put the fashion in electronics .
+D: So I think that should be our priority here .
+D: Um , and we should also be looking to trends in clothing and interior design .
+D: Not just in electronic fashion .
+D: So that it's something that fits in the household .
+D: Um , we should be looking towards trends in both clothing and interior design .
+A: Mm-hmm .
+D: Any trends that are going on in , in the public , even media , you know who's famous , what T_V_ shows are being watched , um , to influence our remote control .
+B: Mm .
+B: Yeah .
+D: Okay , so the findings .
+D: Um , seventy five percent of users of remote controls find them ugly .
+D: Which is a , quite a significant number .
+D: Um , the other twenty five percent didn't specify if they love them or found them , you know , neutral .
+D: Eighty percent of users would spend more money when a remote control would look fancy .
+D: Current remote controls do not match well the operating behaviour of the user .
+A: I'm sorry , that eighty percent of users would spend more money when a remote control would look fancy .
+A: You mean that they would spend more money on a fancy-looking remote control ?
+D: Yeah , they're willing , they're willing to spend money on a remote control with personality .
+D: As opposed to your basic , you know , oval black , all same size button remote control .
+A: Okay .
+B: Mm .
+B: Yeah .
+D: Um , so it is something that people care about .
+D: It's not , it's not ignored in the household .
+D: Um , seventy five percent of remote control users said that they zap a lot .
+D: Zapping meaning they go through channels a lot .
+D: They're you know thumb-masters .
+B: Mm-hmm .
+D: Um , and fifty percent of users say they only use ten percent of the buttons .
+D: That A very small amount .
+D: Thought that was interesting .
+A: Alright , so it might be very appealing if , um , we have very concise buttons .
+B: Mm .
+B: the single function .
+A: And another thing with um lots of surfing , we'd probably have to work on something that could be um a lot more durable , because I find with um channel-changers that , um , a lot of the numbers get rubbed down if they're printed on the button .
+B: Yeah .
+D: Yes .
+C: Yeah .
+B: Yeah that's a good point .
+C: Yeah .
+D: And actually to go with that , I'm gonna give you some statistics on the uh relevancy of the buttons , how much they're used .
+D: And uh how important the uh users find them .
+D: So the power button , obviously , in an hour is only used once .
+D: Hopefully the person's not turning on and off the T_V_ .
+D: Um , but the relevance of that button is nine out of ten .
+D: So people wanna be able to turn on the T_V_ with the remote control .
+D: Um , as opposed to standing up and turning on the television set .
+D: Channel selection is used a hundred and sixty eight times on average per hour .
+D: That's a huge amount .
+D: This is the most important button .
+D: Um , so obviously when commercials come on they're changing it , so as you said we want a durable button that's not gonna run down .
+D: Relevance of that button , our users found was uh ten , ten out of ten .
+D: Uh , ditto for volume selection , so ten out of ten .
+D: And it's used on average four times an hour .
+D: Not as much as channel selection , but still significant .
+D: Um , audio settings is used on average zero point eight times an hour .
+D: Relevance is two .
+D: Screen settings , which means brightness , colour etcetera , zero point five times an hour .
+D: Um , and relevance of one point five .
+D: We're getting to specific statistics here .
+D: Teletext , um , now I'm not too clear on what that is .
+D: I don't know if you can help me .
+D: Flipping pages .
+D: Is that So like a running banner , underneath Oh .
+C: It's um It has T_V_ has like information , it has information on holidays , the news , entertainment .
+B: It's like the news .
+B: Or like information .
+A: Yeah .
+B: The and what's on .
+A: It's um No it's a button that you press , and then you , uh , like a menu pops up .
+C: No , li Yeah .
+C: Yeah .
+A: I haven't used it before but Mm .
+B: It's like It's like very basic internet .
+C: And you have page numbers like for the menu , and you press the page numbers with your remote , and it , it'll come up .
+D: Okay .
+C: Very basic internet , yeah .
+B: Sort of , um Yeah , it's just information that um , like television timetables , what's on , what's on now , what's on next , on every channel , and Yeah .
+D: Okay .
+C: But you have Yeah .
+D: Like tells you the weather , and Okay .
+C: But you have no interaction back with it , you know .
+C: Like the internet you can send emails and You've no interaction .
+D: Right .
+C: Yeah .
+D: Alright .
+D: Well I guess I'm not with it , because I wasn't But it's , it's being used fourteen times an hour .
+D: Um , and has a r a high relevance of six point five .
+D: So it looks like something that we're gonna want to do some research on and include on our remote control .
+C: Yeah .
+D: Um , channel settings .
+D: Zero point zero one times an hour .
+D: Relevance of three .
+D: Channel settings .
+C: Uh , probably just tuning in the channels , would it be ?
+D: P Sorry .
+D: Changing the channels ?
+C: Tuning them in at the very start .
+C: You know if you get a new T_V_ set , you tune in all the channels , do you th do you think ?
+D: Oh , okay .
+B: To get the right reception and picture , I suppose .
+C: Yeah .
+C: Yeah .
+D: Yeah .
+D: Okay .
+D: Um , so it's not used very often , but people still find it relevant .
+D: Okay .
+D: Um , biggest frustrations of uh the people that we interviewed .
+D: Remote controls are often lost somewhere .
+D: So that was already discussed by Poppy .
+D: How we could have a , an alarm system so that people can find it .
+D: Um , takes too much time to learn how to use a new remote control .
+D: So it should be very user-friendly , you know .
+D: People know what to do very quickly .
+D: Um , remote controls are bad for R_S_I_ .
+B: Repetitive strain injury .
+C: Repeti Uh .
+D: Ah .
+B: I think .
+D: Is that what it is ?
+D: People with arthritis and such ?
+A: That's rather sad .
+D: Um , maybe our designers can look into that .
+B: Oh , I'm guessing that's what it is .
+C: Yeah , yeah .
+B: I'm not Mm .
+C: I think it is .
+D: Um , buttons that don't require , you know , very firm pushing , if they respond .
+B: Yeah .
+D: But we'll have to also avoid , you know , buttons responding to the slightest touch as well .
+D: That's a problem .
+B: Yeah .
+B: It is .
+D: Okay .
+D: Did you guys uh get that one down ?
+B: Mm-hmm .
+A: Yep .
+D: Um okay , here's some ideas for you .
+D: A large percentage of the public would pay for voice recognition on the remote controls .
+D: So I'll show you some numbers here .
+D: Um , so the youngest age group , fifteen to twenty five .
+D: Ninety one point two percent said that they would pay extra money to have voice recogni voice recognition included on their remote control .
+D: Um , and you can see that number decreases a bit with ol s Interestingly enough , twenty five to thirty five is the lowest amount .
+D: Um , that would , are willing to pay extra .
+D: So I guess we're gonna have to figure out what age group we're , we're targeting , and if and if voice recognition is something we wanna look into .
+D: And if we have the budget for it .
+D: Um , if we are targeting young adults , it looks like something that would pay off .
+D: Seeing as ninety percent , over ninety percent would pay for it .
+A: I agree with um if we're targeting young adults then it would be something we should look into .
+D: Mm-hmm .
+A: Um , financially and and functionally .
+A: Um , and especially if we are um trying to be trendy , go with fashions , things like that .
+B: Mm .
+A: Um , ages like from thirty five to sixty five which show lower numbers probably won't be as concerned .
+D: So that , that's a whole other field of research .
+D: I don't know if it'd be , if we'd still have a remote , or if you're talking to your television and saying change channel .
+D: Um and depending on how many members you have in households .
+A: Mm-hmm .
+B: Yeah .
+D: So it m it may be too complicated for us , but it's something to keep in mind anyway .
+A: Yeah .
+A: And something that might further complicate it is that the T_V_ makes noise itself .
+D: Right .
+A: Wonder if it would have Yeah .
+C: Yeah .
+B: And if there was conversation in the room at the same time , although in theory it doesn't tend to be when you're watching television , but could be very difficult to get the specific uh design .
+D: Mm-hmm .
+A: Yeah .
+A: If we're looking for a simplistic design , if We need to decide if that is our um intention is , is a simplistic design .
+D: Mm-hmm .
+B: Yeah .
+B: Mm .
+A: Um , because if , if it is then I think voice , um voice-activated Yeah , and that would sort of negate the whole remote control thing , because if people can activate the television with their voice then they won't be using a , they won't be talking into a remote , I'm sure .
+D: It looks like Mm-hmm .
+D: It'd be like the ultimate remote .
+D: Um okay .
+D: And th the last thing here was a , an L_C_D_ screen .
+D: So , I mean voice recognition might be a little too extreme for us .
+D: Not practical .
+D: Um an L_C_D_ screen though might be something that , you know , you can shift through pages kind of li the way this PowerPoint is working .
+B: Yeah .
+D: So that you don't have so many buttons to deal with .
+A: Um , I don't know what an L_C_D_ screen is .
+D: Oh sorry , just , just a screen , like a computer screen .
+D: S Or like um Yeah .
+C: Mobile phone .
+B: Mm .
+C: Yeah .
+D: Or Like an alarm clock .
+D: You'd have an L_C_D_ versus just a , a normal clock .
+B: What , what would appear on the screen ?
+A: I have no idea still .
+A: I'm sorry .
+D: Oh just like an electronic screen .
+D: As opposed to just buttons .
+D: There would be like a little , like on Yeah .
+A: Oh , on the remote .
+A: Okay .
+D: Like on the top of a cellphone , the the little L_C_D_ screen .
+A: Yeah .
+D: Um , now that's , I , I dunno exactly what exactly we'd put on there .
+D: I guess the channel that you're on , the v the volume setting .
+C: Yeah .
+C: Could it it It would be good if it had the actual programme that was on , and what was next .
+C: But that would probably be Yeah .
+B: Like linked in with the teletext , or sort of like an teletext at your fingers , without having to access that through the television .
+D: Mm-hmm .
+C: That would be good , yeah .
+C: Yeah .
+C: Might be quite expensive to do that though .
+B: Mm , Yeah .
+B: Could be .
+D: Well I guess that's something we can all take back to our respective research .
+A: Right .
+B: Mm-hmm .
+D: Um , and finally , whoops , my personal preferences and thoughts .
+D: Um , I think our priority really should be unique design .
+D: Um , we want something that people want in their home .
+D: Every remote control looks the same , so uh in my opinion it should be , um , user-friendly and unique .
+D: So the other stuff might be a little too , a little too gadgety for some people .
+B: Yeah .
+D: Um , I th myself , voice recognition kind of scares me off .
+D: So if we're , if we're aiming to make this an international university , universally accepted product Um , and for all , the other thing is like age market .
+B: Mm .
+D: I mean if we wanted to concentrate on fifteen to twenty five years olds , we could go for the fancy stuff .
+D: But if we wanna make fifty million , and and have everyone want this remote control , we should maybe stick to the basics .
+A: Mm-hmm .
+C: And we should keep in mind that fifteen to twenty five year olds might not have twenty five Euros to spend on a remote control .
+D: Mm-hmm .
+C: Like their priorities might not be a fancy remote control , when they're just starting out and , yeah .
+D: Right .
+D: And we have to keep in mind the , the reliability of our research .
+D: I mean , you know , a sixteen year old boy would say , yeah I'd pay extra for voice recognition , until they realise that's three months allowance .
+C: Yeah .
+D: Um , so I I think , I think the older generations we should be catering to a bit more .
+C: Yeah .
+C: Early twenties , that's the kind of age group .
+A: Yeah .
+A: And if one of the largest , uh , or most complained about thing is that it takes so long to get to know how to use a remote control , I'm sure that something like an L_C_D_ screen or remote control would be just furthering that problem .
+C: Twenties .
+D: Yeah .
+B: Yeah .
+B: Yeah .
+D: Yep .
+B: Complicated jus complicating things even fo Mm .
+A: Yeah .
+C: Yeah .
+A: Alright .
+D: Okay .
+B: Okay .
+D: That's it for the market research .
+A: Okay .
+A: Before we go into uh more discussion on we want this design to look like , I've received some information from the management that will affect some of our decisions .
+A: Um , for one thing , because Having controls with D_V_D_ , V_C_R_ , that sort of thing , would really complicate the design of the remote control .
+A: Um , we've decided not to include them and make it a specific , just a specific television um function .
+A: Which is good as , as we've sort of decided that we would like to go with that anyway .
+A: Um , for many reasons .
+A: So um we have that decision sort of made for us .
+A: Another thing that might um affect other decisions is that um the management feels that teletext is outdated , because more people are using the internet now .
+A: And so uh we won't concern ourselves with um navigating the teletext option .
+B: Can I just interrupt ?
+A: Yep .
+B: Would you like to plug in your Have you got a PowerPoint or not ?
+D: Yeah .
+D: Maybe we can do the There you go .
+A: Okay , sure .
+A: Yeah I do .
+A: I'm looking at looking at it right now .
+B: Okay .
+B: Thanks .
+A: thank you .
+D: Oh , come back screen .
+D: Hmm .
+B: Were they , was the management suggesting use of the internet rather than teletext , or just avoiding both altogether ?
+A: Um , well , I mean we don't have the resources or or possibility of using the internet with the remote control , but um they were just pretty much saying that the teletext would not be used .
+B: Yeah .
+B: Yeah .
+B: Okay .
+B: Yeah .
+B: Okay .
+A: Alright , and another thing .
+A: This is for the design , the design of the product is that um we wanna create , um more of a sense that people know that this is from our company .
+A: So , um , all the remote controls must have our um We'll incorporate our logo and colour in in some way .
+B: Right .
+B: Yeah .
+B: Yeah .
+A: So , um , perhaps um our logo on the bottom , or wherever you feel like it would look good .
+B: Okay .
+A: Um , it doesn't have to be the colour of our um of our company but , another thing is that , um we need to , we probably would have to have that colour and , and logo decided upon .
+B: Just Okay .
+A: Um , I'm assuming that we already have one , but for the purposes of this meeting I , I wasn't offered a , like a type of logo or colour , so if that could be um somewhere on the design so that we can be recognisable .
+B: Work on that .
+D: It's probably R_ R_R_ in yellow .
+C: Yeah .
+B: Yeah .
+A: The little R_ R_ yellow thing ?
+A: Okay .
+D: Yeah , I think .
+C: Yeah .
+B: Mm-hmm .
+A: Real Reaction ?
+A: Okay .
+A: Um , yes , those are the changes .
+A: Um , so , now we need to discuss , um and come to a decision on our remote control functions , of , of how this is going to be .
+A: I'm just going to look at my notes for a second .
+A: Um , we have to decide on a target group and the functions of the remote control .
+A: So , um , we already know that it'll just be for the television .
+B: Okay .
+A: It'll It won't have teletext .
+A: But um , you know , we could discuss um those other options that you brought up , Genevieve .
+D: Okay , so I Are we going to write off the L_C_D_ option ?
+B: Yeah .
+A: Is that how most people feel about that ?
+C: Yeah .
+D: Yeah ?
+B: Yeah .
+D: Okay .
+A: Okay .
+D: So no L_C_D_ , no teletext , and no voice recognition .
+C: I think it would be annoying though if I don't use teletext that much , but if it was on your T_V_ , you'd want to be able to use it , if You'd Yeah .
+A: Yeah , but another thing is that if we're reaching an international crowd , um , I know for one that in North America there is no such thing as teletext , so it'd be really superfluous .
+D: Yeah .
+C: So is it just Okay .
+D: Never heard of it .
+B: Yeah .
+C: Alright .
+A: Yeah .
+C: Right .
+A: I don't know about other countries besides the U_K_ .
+A: Do you know if anywhere else has it ?
+C: I don't know .
+B: I don't know .
+C: I don't know .
+B: More research required , I think .
+A: Alright .
+B: But if Was it a management decision that we're having Okay .
+A: It was a management decision , so it's , it's pretty much out of our hands at this point .
+C: Yeah .
+B: So Okay .
+C: Okay then .
+A: 'Kay .
+A: So , I guess we're looking at something rather simple .
+D: Um , well I guess , just from my findings it looks like we wanna minimise buttons .
+B: 'Kay .
+D: Um .
+B: Minimal Yeah okay .
+D: And the What was the word they used ?
+D: F findability is important .
+A: Yeah .
+A: I think we should definitely go ahead with the alarm system idea that you had .
+D: Mm-hmm .
+C: Yeah .
+A: 'Cause I'm sure that could be inex inexpensive because we could use the same kind of infrared the same signal through that and it could just like make a little beeping noise .
+B: Yeah .
+B: The same signalling .
+B: I mean Or vibrate just the same as a mobile phone .
+A: It's not that expensive to do .
+B: Like you just a , a buzz or something .
+A: Yeah .
+D: Mm-hmm .
+A: Yeah .
+B: Yeah .
+A: Okay .
+A: I like that idea .
+C: Would you be able to , um , put the little device anywhere ?
+C: 'Cause uh isn't our remote control for all T_V_s , so you'd ha Yeah , with the button that you pressed .
+B: If Do you mean the the link between the Well , if the button was actually on Oh , yeah .
+A: Yeah .
+A: The button Oh .
+C: Yeah .
+C: C 'cause then it would only be a applicable to one T_V_ set , so it would need to be something that you could stick somewhere , or something .
+A: Minor detail there .
+B: Maybe Yeah , yeah .
+B: Maybe something adhesive that you could like stick onto the back of any set that would be um yeah not very obtrusive .
+A: Yeah , it would have t Mm-hmm .
+C: Yeah .
+B: Obviously something small that's Yeah , that's a good point .
+C: Yeah .
+A: Yeah .
+A: Then it wouldn't , it probably wouldn't be able to use It would be able to use the same reception on the remote c control I guess , but the actual device would have to have its own infrared signaller .
+B: Yeah .
+C: Yeah .
+A: Okay .
+B: Yeah , okay .
+C: Would it need a battery then ?
+A: Maybe , um Probably , I mean .
+B: Pr probably .
+B: Unless it could be Okay .
+A: That's your department you'll have to sort that out .
+D: Mm .
+B: Um , unless some way , it could have some universal connection to like the socket , the same socket that the T_V_'s supplied from .
+B: I mean the power for the T_V_ .
+C: Yeah .
+B: So , mm , more research into that one .
+A: Yeah , you'll have to Yeah , you'll have to investi Do some research on that , alright ?
+D: Mm .
+B: Yeah .
+A: Great .
+A: Um , alright , and I'm sure that , um um , the glow-in-the-dark , fluorescent , whatever , system , um is a go ahead .
+A: Is everyone interested in that ?
+B: Y Yeah .
+D: On the buttons ?
+C: I I like the light up suggestion .
+C: I think that would be better .
+C: 'Cause you know the way fluorescent lights lose their brightness after certain time , so I would go for Well just the numbers could be embossed , couldn't it ?
+A: Yeah .
+B: Yeah .
+B: Yeah .
+A: Yeah .
+B: Yeah .
+D: it doesn't It could it could be a tactile thing as well .
+D: Um right , if w if we're minimising buttons , we might be able to make them actually larger .
+D: And there's something on it .
+D: S you know like up arrow down arrow for , for volume .
+B: Like a raised Yeah That's true .
+D: Um , and I don't know what we could do for , for channels .
+D: S The numbers themselves .
+C: Like raised .
+C: Yeah .
+D: But then the like up button and down button for the channel , channel changing .
+C: Could be raised .
+C: Just little arrows , that you could feel , maybe ?
+D: Yeah .
+A: Hmm .
+D: I just thought that it , it might be sucking more battery power , if there , if it is a light up .
+D: I'm not sure .
+C: Yeah .
+A: Yeah .
+B: And also y , uh Heather you mentioned before , um like how it should be accessible to everybody .
+A: But I mean Yeah .
+B: Um , so like big b um buttons , for people you are visually impaired .
+C: Yeah .
+B: The glow-in-the-dark or light up won't make any difference anyway .
+D: Mm-hmm .
+B: So like you say tactile might be better , because it'd be more available to everybody .
+C: That , I think that's good , yeah .
+A: Yeah .
+A: Could we somehow We could , may , possibly , sorry , incorporate them both so that the buttons could maybe be in the shape of the numbers themselves and be made out of some glow-in-the-dark material .
+D: Mm-hmm .
+B: Yeah .
+C: Yeah .
+B: Yeah .
+C: Yeah .
+B: Mm-hmm .
+C: Yeah .
+B: Yeah .
+A: 'Cause I d I don't think that glow-in-the-dark material , um , like the actual soft plastic , um , costs that much more than other colours .
+D: Mm-hmm .
+C: No , I wouldn't say so .
+B: No , it's not these days .
+B: I mean , it's quite easily accessible .
+A: Yeah .
+D: I guess the other option , referring to the battery thing is , you know how cellphones will t light up for fifteen seconds or something , when you're s and then it goes , so if , if you're like changing the volume during a movie .
+B: Yeah .
+C: That's good Yeah that a good idea .
+B: Yeah .
+D: I know , I'm thinking of mostly when you're watching a movie you turn all the lights off right .
+B: Yeah .
+C: Yeah .
+D: And you don't want to turn on the lights , to turn it down , because there's suddenly an explosion , and it's gonna wake up the baby .
+B: Yeah .
+C: Yeah .
+D: Um , so if you touch the button , it kind of reactivates it .
+D: It lights up for On self timer .
+C: That , yeah , that's a good idea .
+B: Yeah .
+B: Yeah .
+B: So self-timed lighting .
+D: Yeah .
+A: Alright we have five minutes left um , for the meeting , but I think we should discuss this light subject a little bit more before we close .
+B: Um , I Yeah .
+A: Um , what was I missed the last moment , reading that .
+A: What were you talking about with the lighting up buttons ?
+D: Oh , just if it was kinda the same way that a cell You know how a cellphone will light up for about ten , fifteen seconds when you touch a button , after having not touched it for a while .
+A: Yeah .
+A: Yeah .
+D: Um , if instead of a constant light up on the , on the remote control , if it lights up for ten seconds when it's touched again .
+A: Mm .
+A: So it could be any button that would be pressed .
+D: Yeah , and you , you touch it and it just kind of lights up a bit , and it gives a faint glow .
+B: So , self-timed Yeah .
+D: So if you have all the lights off in your living room , you'll , you'll temporarily see it .
+A: Yeah .
+D: Because usually you're not fooling around for it for more than what ten seconds .
+C: Yeah .
+A: Okay , so That's probably feasible .
+D: So Mm-hmm .
+B: Yeah .
+A: So , do you think that we should do the lighting up thing , and the glow-in-the-dark thing , and the shape of the numbers ?
+A: Do we have to kind of decide what we're gonna do with this .
+B: I think the shape of the numbers is a really good idea .
+C: Yeah .
+A: Yeah , okay .
+B: And I think that's un unique as well .
+C: For visually impaired , yeah .
+B: I mean , I haven't seen that .
+A: Yeah .
+D: Mm-hmm .
+B: And as you're saying like numbers can wear off if they're just sort of like painted on , you know printed .
+A: Yeah , yeah .
+A: And it could , if it's that softer rubber material it'll be , maybe , um , uh , better for people with um els no what's it called , R_S_I_ , what was it that we were talking about ?
+B: durable .
+B: Oh yeah .
+C: Yeah .
+D: Oh right , the Mm-hmm .
+A: Yeah .
+B: Yeah .
+B: Yeah .
+B: Repetitive strain injury .
+A: Yeah instead of like hard buttons .
+A: Okay .
+B: Mm-hmm .
+A: Um , did we want to go for the glow-in-the-dark look ?
+A: Or did we want to go for the lighting up instantly ?
+C: If I was thinking though , if it was glow-in-the-dark , you could put the um Real Reaction symbol as glow-in-the-dark , and then it would be constantly advertised .
+A: Like should we do both ?
+A: Or we can have one or the other ?
+A: Because it might , for , for our design purposes , I mean , the lighting up thing might be better because glow-in-the-dark material has a funny kinda colour .
+D: I was gonna say , Exactly .
+A: And it might not go with different like face plates that we might come up with .
+B: Yeah .
+D: It the it might be perceived as tacky , glow-in-the-dark .
+D: It's kind of like Eighties neon-style .
+A: Yeah .
+B: Yeah , and we could Yeah there are now like loads , or a huge range of different colours that it could light up in as well , which could like link in with the company colours .
+D: Um , whereas we're trying to be trendy and fashionable .
+D: So Mm-hmm .
+B: Like it could be blue or green or yellow , or like we've just limited t with the , just ordinary phosphorescent so Yeah .
+A: Right .
+A: Right .
+A: Alright .
+A: So we've decided on lighting up things .
+D: Mm .
+B: Every time the , that it lit up , you c that could light up as well .
+A: Yeah .
+C: Yeah .
+B: Or , or the , whate Yeah .
+C: Yeah .
+A: Yeah .
+A: But with the same thing , I mean .
+D: That's true .
+A: If you touch the button and then it could be , it could be lit up as well .
+C: Yeah .
+C: Okay .
+A: Is Are you okay with that ?
+C: Yeah .
+A: Okay .
+A: Cool .
+A: Um Alright .
+A: So I think that um that completes most of our um our more uh practical decisions .
+B: Is Okay .
+A: And now it's up to designing .
+A: And um making sure that this can be feasible .
+D: What um Oh sorry .
+A: And do you have anything Do you have anything to say ?
+D: Yeah well , I was just gonna throw out there the thought about um personalising the remote control .
+D: Um , it , you , 'cause you mentioned face plates .
+D: So I I dunno if there's something that diff , you know like five different face plates .
+D: I dunno if this will start making it more complicated , but it could increase the popularity of the , of the remote .
+C: Oh yeah .
+B: Like you can have changeable um mobile covers or something .
+D: Um Yeah , Exactly , like an iPod .
+C: Interchangeable thing ?
+A: Like an iPod or something ?
+C: That would be good .
+B: Yeah , or Okay .
+A: Okay .
+C: Yeah .
+D: Exactly .
+D: Or , or like mobile ph .
+A: Like a cellphone ?
+A: Yeah .
+D: And I dunno if we'd want to go with like T_V_ show themes or something .
+D: Like a Bart Simpson faceplate .
+C: Yeah , and then that would be uh more profitable like as a sideline to the remote as well .
+D: But Mm-hmm .
+A: Mm-hmm .
+B: Yeah .
+C: Y Could buy extra Yeah .
+A: Accessories .
+D: Exactly .
+D: You could start out with three , and if , if we hit it big then we can add some on .
+B: Person Yeah .
+B: Well , that's great .
+C: That's a good idea .
+A: Yeah .
+C: Yeah .
+A: I think that we should incorporate that .
+B: Interchangeable .
+B: Um , als Yeah .
+A: 'Cause that wouldn't be very expensive at all .
+A: You'd just get one mould , throw some plastic in it , you know .
+C: No .
+D: Mm-hmm .
+B: Interchan And also possible I mean , uh , we could gain out of that by advertising certain T_V_ shows , or Yeah .
+C: Oh yeah .
+A: Yeah .
+A: Well , that might be com problematic with um copyright issues .
+D: Right .
+A: So , if it takes off then we'll , we'll , we'll try that out .
+B: But if we , there is Yeah .
+C: If w No .
+B: We could Um , the environmental factor , we didn't bring that up again .
+D: Right .
+A: Right .
+A: We'll have to do more research .
+A: Like as of yet , that has nothing to do with , um , the way it'll look .
+B: Yeah .
+A: Um , does it need to be reached a de Do we need to reach a decision on that right now ?
+B: Um , I've Okay .
+A: Because we need to investigate the financial implications .
+A: Okay .
+B: Let's I think we could probably leave that 'til later on , then .
+A: Is it Does it need to be uh decided on now ?
+A: Or should we Okay .
+A: Good .
+A: Alright then .
+A: Anyone else have anything more to say before we close ?
+B: No .
+A: Alright , well .
+A: Let's have lunch and we'll discuss this later .
+C: Okay .
+B: Okay .
+A: Alright ?
+B: Thank you .
