@@ -1,24 +1,24 @@
-The first prototype for the remote control was made of single-curved rubber with a total of 16 rubber buttons (some of them in a slide-out panel) with a cherry design on top.
-It uses kinetic energy and has a sample sensor for the speech recognition.
-The initial cost was calculated at 13.70 Euros.
-Although over budget, the team decided to evaluate this prototype before making any changes.
-On a scale from 1 (true) to 7 (false) they rated it on the basis of the following criteria: fancy design (2), technological innovation (2), ease of use (1), incorporation of fashion elements (2), and brand recognition (2).
-Changing the rubber case to plastic reduced the cost and allowed for an extra button-form and colour.
-The team were reasonably satisfied with the project in terms of teamwork and creativity, although they thought that the flow of information was sometimes disjointed.
-However, the idea of designing a remote control seemed unexciting, especially since the requirements restricted it to TV only, and the budget was too small.
-Finally, some new ideas were also found in the form of kinetic energy source and use of speech recognition.
-The team have two questionnaires and a report on the last meeting to complete before they finish.
-The remote will be single-curved with a cherry design on top.
-The case will be made of plastic.
-The buttons will be made of rubber mostly in a light blue colour.
-However, volume and channel buttons will be different from the rest.
-Volume buttons will be lemon-shaped and coloured.
-A slide-out panel with extra buttons for less-used functions is included.
-The buttons in this panel will all be in the standard blue colour.
-A simple chip is going to support the electronics of the device.
-A sample sensor was included to add speech recognition.
-The remote is going to be powered by kinetic energy.
-After changing the case material from rubber to plastic, it was debated that the loss of sponginess does affect the fancy appeal and trendiness of the remote.
-On the other hand, it was argued that the special colours and form compensated for that.
-The team were not certain to what extent the prototype satisfied recognisability of the corporate identity.
-They were not certain what the colour of the company logo should be and how the logo should be displayed.
+The Project Manager reviewed the minutes from the previous meeting.
+The Marketing Expert gave a trendwatching report.
+He found that a fancy look and feel was most important for users.
+He also discussed the trend towards spongy materials.
+The group discussed the cost of adding speech recognition, the LCD screen, and the advanced chip.
+The User Interface Designer discussed the look of the interface with the group.
+They discussed the placement and design of the buttons and decided to use scroll wheels for volume.
+The Industrial Designer advised that flashy colors and rounded shapes be used.
+The group discussed how to incorporate the logo and including changeable faces.
+They discussed materials for the buttons and the backlight.
+The group decided to use rechargeable batteries and a stand, to use plastic for the casing and buttons, and to not include an LCD screen.
+The User Interface Designer and the Industrial Designer were instructed to draw the prototype at the next meeting, and the User Interface Designer was instructed to finalize the button placement.
+The group finalized the look of the product, and eventually decided to incorporate speech recognition and an advanced chip.
+The User Interface Designer and the Industrial Designer will draw the prototype design on the smartboard at the next meeting.
+The User Interface Designer was instructed to finalize the placement of the buttons.
+The group decided to use a scroll button for volume control.
+It will be small and yellow, to use one of the colors of the Real Reaction logo.
+The remote will include rechargeable batteries and will be used with a recharging stand.
+The remote will feature plastic buttons and casing, rather than rubber.
+The remote will not feature an LCD screen.
+The remote will feature a double-curved, rounded square design.
+The group decided to design five changeable faces for the device.
+They eventually decided to incorporate speech recognition and an advanced chip.
+The group had difficulties deciding on the placement of the buttons, the shape of the device, and whether or not to include speech recognition.

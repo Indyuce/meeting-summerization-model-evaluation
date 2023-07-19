@@ -1,691 +1,1017 @@
-B: Is that alright now ?
-B: Okay .
-B: Sorry ?
-B: Okay , everybody all set to start the meeting ?
-B: Okay , we've got half an hour for this one um to uh discuss the um functional design .
-D: Could you plug me in ?
-D: Okay .
-D: Thanks .
-B: All ready to go ?
-B: Okay .
-D: Okay .
-B: Um so hopefully you've all been working away , and I've put the minutes of the last meeting in the project folder .
-B: Um so I guess just to to recap on uh what we did last time .
-B: Um kind of uh got to know each other a little bit and uh got familiar with all the equipment and started to discuss um a bit about the project , you know , cost-wise how much how much money we had to s Um just want to tell you that you have three new requirements , um which is the The first one is that um uh the company's decided that teletext is outdated uh because of how popular the internet is .
-B: Nobody uses teletext very much anymore , so we don't really need to consider that in the functionality of the of the remote control .
-D: 'Kay .
-B: Um they've also suggested that we um we only use the remote control to control the television , not the V_C_R_ , D_V_D_ or anything else .
-B: I think the worry is that if the project becomes too complex then it'll affect um how long it takes us to get it into into production , the time to market .
-D: Okay .
-B: So um , we're just gonna keep it simple and it'll just control the T_V_ .
-B: And the other thing was that the company want the corporate colour and slogan to be implemented in the new design .
-B: Um I'm not entirely sure what the corporate colour is .
-B: It might be yellow , because there seems to be a lot of yellow everywhere .
-D: And the slogan , like the actual written slogan , or just to embody the idea of the slogan ?
-B: Well that's the thing , I'm I'm not sure um uh th because on the the company website , uh what does it say Uh something Yeah , I mean do they Is that something they want actually written on it , 'cause it's quite long .
-D: 'Bout putting the fashion in electronics .
-A: Mm yeah .
-B: Um or yeah , just the idea , but I'm not sure .
-B: So that's something we can discuss as well .
-B: So those are the three things , just not to worry about teletext , uh only control the T_V_ , and um and uh incorporate the uh colour and slogan of the company .
-B: Um so is everybody okay with any of that , or do you want me to recap at all ?
-A: Nope , we're all set .
-B: Right um , time for presentations then .
-B: Who would like to go first ?
-C: I'll go first .
-D: Sure .
-B: Okay , cool .
-C: Alright um , can I st steal this from the back of your laptop ?
-B: Oh yeah , of course , yeah .
-C: Uh so this is the technical functions design .
-B: G go on ahead .
-C: Um Right to do the um the design I have I've had a look online , I've had a look at the homepage , which has given us um some insp inspiration from previous products .
-B: Mm-hmm .
-C: Um I've had a look at the previous products to see what they offer and um I would like to ask you guys for um your ideas about the design at the end of the meeting .
-C: Um unfortunately we're not allowed to talk outside the meeting room , so Um , having a look at the existing products , I found out that um it tends to come in sort of two extremes , there's either um a very complicated one that's got lots of buttons , lots of colours , very confusing , you don't know what you're doing .
-D: Right .
-B: Okay .
-C: Um in that case the the labelling tends to be very bad .
-C: Um there's an example I'll show you at the end , um sh show you now .
-C: Uh here um the button there and there .
-B: Alright .
-C: This one's prog .
-C: Sorry .
-C: That one's perg and that one's prog , and it doesn't really tell you what it does .
-C: Um , not sure if you had a a look at the other um control in that example .
-C: Um it's a very simple one .
-C: It's got only the basic functions mm but um it's the same size as the the hard to use one .
-B: Oop .
-C: Uh it looked a bit clunky .
-C: They're very big and not very much use for buttons .
-C: Um , and it's just very hard to access the advanced functions .
-C: There's there's nothing for instance for a slow motion button .
-C: Um , my own preferences , I prefer the the clunky one .
-C: Um it's very easy to use .
-C: Um but unfortunately it does lack the advanced functions which I I quite like having on the controls .
-C: Um so I believe the the advanced functions should maybe be hidden in a drawer , or something like tha from the bottom of it .
-C: So , now I'd like to ask for your preferences .
-C: Um not sure of how long we've got , uh Um , the clunky one is the one on the right .
-B: Um .
-B: Well we can chat away for uh for five minutes or so I think at at most .
-D: Mm-hmm .
-B: Just a couple of minutes anyway .
-D: M yeah , like a lot of a lot of what I've um read and prepared for this meeting fits in really closely with what with what Craig's just gone over .
-D: So in part I could I could give you some of my personal preferences but I could also th add some to this which is just about sort of um sort of market research .
-B: Mm-hmm .
-D: But anyway , um we might come to that later .
-B: Shall we sh well we'll stick to kind of your area for now .
-A: Which which is the clunky one , the one on left or on the right?. .
-A: Okay .
-B: Yeah .
-D: Um clunky in what sense , like um h heavier ?
-D: Larger ?
-C: Um I think it's supposed to be the same size , but um it's got much fewer buttons .
-C: It's , you know , it's very spread out and kind of you know , I get the idea it'd be sort of about this size .
-D: I see , so it's more just basic .
-B: Looks kind of Yeah .
-D: Right , okay .
-D: Yeah .
-C: got very few buttons on it and Um , do we have any functions that um we'd want on it ?
-D: Yeah .
-D: Sure .
-B: Well I think it's a valid point .
-B: I mean like the one on the left looks quite um quite complicated , and that P_R_T_ p P_R_O_T_ thing is incredibly confusing .
-B: Um so I see I see why yo you know you might prefer the simpler design , but yeah you don't want to lose out on , you know , what it does , so maybe you know you know you get a lot of remote controls where you kind of flip the thing open , I think that's a good idea .
-D: Mm-hmm .
-D: Mm-hmm .
-B: I think it's a good idea .
-D: Mm-hmm .
-D: Mm-hmm .
-C: I mean so far I've got um on and off , um switch the channel up and down , and put the volume up and down .
-B: Mm-hmm .
-B: Uh-huh .
-C: Um they're just the the very basics you could use for a T_V_ .
-B: Uh-huh , and then actual numbers for channels as well , yeah .
+A: Oh .
+B: It's not saved yet .
 C: Okay .
-C: Um , you say that's a h a required one or a requested one ?
-D: Which was that ?
-C: Would you like um the channels like the the numbers on thing , um Um , yeah .
-D: Up the numbers , or the up down ?
-B: God , I wou I would say that's required , I mean there's no way anybody's gonna buy a remote control these days when if you can't actually individually select channels , I mean would anybody disagree with that ?
-D: Yeah .
-D: Yeah .
-B: Um , what else , uh So don't need to worry about teletext , don't need to worry about V_C_R_ , uh any kind of like display controls at all do you think we need to worry about , you know like brightness and contrast ?
-D: We don't ?
-D: No ?
-D: Yeah .
-D: Well I think I think es essentially what we're doing right now is we're categorising .
-D: We're saying well we want this to be a product that offers all the sort of more tricky features but we want them to be in another area ?
-B: Mm .
-D: Is that right ?
-D: Is that what we're we're doing ?
-B: Yeah .
-D: We're kind of like sorting them an Or are we actually eliminating things we just don't want the product to have ?
-C: Um Uh , to start with um sort of a bit both , um we need to find out exactly what we have to have um and after that we can add things if they're possible .
-B: I think are you are you maybe kind of thinking what we absolutely have to have and what would be nice ?
-B: Mm-hmm .
-B: Okay , right .
-B: Well , do you wanna maybe just , at this point decide on what we absolutely must have as a p as a function of this .
-D: Yeah .
-D: Yep .
-B: Um , so so far , just to recap you've got volume and channel control and Right okay .
-C: There's um on and off , um volume and channel , and skip to certain channels with the numbers .
-B: Um Mm-hmm yeah .
-D: Well , one one way I would look at this um would be that we a approach the different controls in terms of um like control types , so that for the user it's very clear what they want to do where they go .
-D: Uh and also think maybe a little bit about sorta w w what would just wanna be acc easily accessible .
-D: For example if we had audio controls , those could be something people set up very rarely .
-B: Oka Mm-hmm .
-D: Maybe they're un they're they're they're in a little area but covered up um , things like channel and volume um are used all the time , so we just have them right out on top , um very just very sort of self-explanatory .
-D: Um so maybe we need to think about having three or more groupings of controls , you know like one which are just the the habitual ones that should be right within your natural grip .
-D: And others that are uh also available and then others that are concealed .
-D: Something like that .
-B: Okay .
-B: Uh well , just to to wrap up quickly on this this little section Have I just lost Oh no .
-B: Um , uh do you think maybe that's the only kind of uh essential requirements , and then maybe just things that would be nice if it could do would be things like audio set up and display set up and things like that , maybe like a mute button , that sort of thing .
-D: Yeah .
-B: Any of you anything to add to that at all ?
-A: No .
-B: No .
-A: I'll add it later , I guess the presentation .
-B: Okay , right .
-D: Mm-hmm .
-D: Yeah .
-B: Um okay , if we can move on to next presentation then please .
-D: Sure .
-B: Um Do you wanna Probably not , actually .
-C: Do you want to switch places ?
-D: Can this can this pl reach ?
-D: Can this plug come across ?
-A: No .
-A: No .
-D: No .
-D: So why don't I just pick up and move then .
-B: Yeah .
-D: Here , I'll just Why don't I just Mm er , can you go up behind me ?
-C: Just just switch them .
-D: Kinda This is so This I'm all in a knot now .
-B: bit complicated .
-B: It'd be nice if everything was wireless , wouldn't it ?
-D: Okay .
-B: Right .
-D: Um .
-D: So I can I can say already , I dunno whether this is for good or for bad but there'll be a lot of kind of uh redundancy in the in the the issues and the the uh the things .
-B: Oh , like overlap between what you said ?
-D: Yeah , yeah .
-B: Oh well , for all you know that that'll happen .
-D: Which is ma not necessarily a bad thing , but may what I've already started doing is cr I created a slide in in my presentation here so um so that we kind of think well what's the cumulative effect of what we've taken from your ideas and and mine , because certainly I I have a hard time separating separating things completely .
-D: Obviously obviously what you've just told me what you've just told me impacts a lot on what um like market research mm that that I've been So how do I how do I get this up ?
-B: Mm hard to know what where your role ends , yeah .
-B: Okay .
-A: Um function F_ eight .
-B: Uh pr yeah , press function and F_ eight , yeah .
-D: Okay .
-D: Okay .
-D: Alright .
-D: So F_ eight ?
-A: Function , the blue button .
-A: Next to the control on the left .
-D: Oh , and F_ eight .
-A: Yeah .
-B: Mm .
-A: You have to push it together .
-D: Okay .
-D: Mm-hmm .
-A: Yep .
-D: Okay , I think that that's doing it now .
-A: Nope .
-A: Try that again .
-D: Uh , again ?
-C: Think maybe the the wire in the back might be loose .
-A: Wait .
-D: Okay .
-B: Yeah , you wanna Oh oh here we go .
-D: Um , okay great .
-A: Yep , there we go .
-B: There you go .
-D: Okay .
-D: Just um Before I bring this up what I'll just say is um what I've what I've done is tried to collect some information so that I can then relay this to to you guys so that it's now becomes a collective thing .
-D: And then kind of lead us in the direction of deciding , 'kay what what are our options , what should we decide and do you know what I mean , so .
-A: Increase that 'cause we can't see the That's much better .
-B: Um Okay .
-D: Okay .
-B: Right .
-B: Can you um Right , okay .
-A: There you go .
-D: Okay .
-D: Alright .
-D: That would be Okay .
-D: So um does that make sense ?
-D: So what I basically got is I just looked into some information and sort of th tried to think about how how we could review it and how we could and what kind of decisions we could take away from it and then maybe by the end of just looking at some of these things we can think about what are our priorities .
-D: 'Cause certainly there's lots of different information to go through .
-D: So um I'm thinking here about uh primarily about customer needs , that we start with the customer , and w you know , what they want and what are issues with with um existing products .
-D: Uh to think about trends and also about try and connect that as you see with the company vision which is about fashion in electronics .
-D: Um and then , as I say uh w we'd like to prioritise our design features from this and um Dunno .
-A: Bouncing on top .
-D: Okay .
-B: Yeah .
-D: Um .
-D: So this is what I've found here , um a lot of this is new to me , so we'll just read through together .
-D: Um , users dislike the look and feel of current remote controls .
-D: So they find them ugly .
-D: Most people find them ugly .
-D: Um the vast majority would spend more money for it to look fancy as well , we'll see later , the vast majority would spend more money for um slightly more intuitive control , such as voice recognition .
-B: Mm-hmm .
-D: Okay I'm gonna we'll look at that in a second .
-D: Um most people use only a f a very slim portion of all the controls .
-D: So I guess what we're looking at here is people want this h technology , they tend to use the most simple controls and overall they find remote controls to be something they don't doesn't really appeal to them .
-B: Mm-hmm .
-D: So I think what we're doing is we're trying to take like if for me this is sorta like three different different um inspirations , you know , one is that we want uh something that's high-tech but we want it to seem easy .
-D: And in spite of the primitive side of it and the very high-tech side , we want it to just be an appealing piece of equipment in people's hands .
-D: Um , frustrations .
-D: They get lost a lot , s as it came up in our last meeting .
-D: Um , takes time to learn how to use them .
-D: This is uh why I mention when Craig was uh showing us some ideas that we actually try and group controls , so d it doesn't just look like a big panel , kinda like when you you look at , you know , a new computer keyboard , or something that is quite explanatory .
-D: If you want audio , if you want visual , then you have those .
-D: Um and I will admit I don't know what R_S_I_ stands for .
-B: Repetitive strain injury .
-A: Is installing a new remote control something that people Um , I think it'll be the mid range to the high end market , in terms of people .
-D: Uh , no , that did not come up at all .
-D: Um so here here is another um sort of a a review here of the main things .
-D: I also found that most people would uh adults at least would pay more for voice recognition .
-D: Now apparently we do have access to all the tech cutting edge technology in remote control .
-D: So I dunno if that's possible we might consider getting into it .
-D: Um .
-D: And and again here as we sort of move m sort of thin start thinking about how we wanna sell and market this , I think a recurring theme here is the company wants it to be wants us to make something that's fashionable and sleek and trendy .
-B: Mm-hmm .
-D: Um people uh additionally aren't aren't liking the appearance of their products , so we wanna think about as we take all the sort of the techie features how we can um put that into a unit which is which people like .
-D: You know , they like the aesthetics and the ergonomics .
-B: Okay .
-B: So want something that looks good and is easy to use , big priorities .
-D: Yeah .
-D: Yeah , so you know just c looking at what what Craig um Craig's i uh ideas are s sorta tell me that maybe what we wanna do is try and um separate the different things that we wanna include in this .
-B: Okay .
-D: So if we do say well we want there to be all the technology will we try and make that almost be like optional technology .
-D: You know , it's like like I find a lot of T_V_s these days , something really like about 'em is if you wanna just turn 'em on and off you can , but they have little panels where you click and there's just like tons of features you go through .
-B: Mm .
-B: So it you wanna group all the different kind of types of functions together , you know .
-D: Yeah .
-B: That's I think it's a good idea .
-D: Yeah .
-D: That's s that's sort of the um But I I'm my hope here is that I'm putting out this information so that we can then say okay , well how do we collectively move on with it .
-B: Mm-hmm .
-D: Um I I haven't brought out one specific marketing idea , although my sense is that what we should try and think about is what are the current trends in materials and shapes and styles , and then use that .
-B: Okay .
-B: Mm-hmm .
-D: But not let that confine us technologically .
-B: Okay .
-D: So Alright ?
-B: Right .
-D: Any um comments on all of that ?
-B: Well , um one of the things that we have to decide on by the end of the meeting is who we're gonna be um who's our our target audience , our target market .
-D: That's uh Yeah .
-B: Um , so if we want something that that looks good and is easy to use , but has y is fairly powerful product , whatever , who do we really want to aim that at ?
-D: Okay .
-B: I mean Yeah , who wou who would have the money to spend .
-D: Where's the money , maybe .
-D: Yeah .
-B: Well i if if like twenty five Euro is our is our selling price then you can imagine , well I don't I'm not really sure how much that will retail at .
-D: And who watches T_V_ .
-D: Mm-hmm .
-D: Mm .
-B: But you want it's somebody who's not gonna just use the remote that comes with their telly , I suppose , they're gonna actually go out and buy one .
-D: Mm-hmm .
-D: Yeah .
-B: So , who do you think we're aiming this at ?
-A: 'Cause twenty five Euros for a remote , how much is that lo locally in pounds ?
-B: It's about sixteen , seventeen pounds , I think .
-A: Is that too is that a lot of money to buy an extra remote or a replacement remote ?
-B: Yeah , okay .
-D: Mm-hmm .
-A: Right .
-A: Um so maybe not the high end range , but maybe middle , middle up-ish .
-B: Okay .
-A: Kind of .
-A: You know how much ?
-A: I dunno I guess you pay , what , ten ten quid for a remote ?
-B: Okay .
-A: Like a simple replacement , right .
-B: Yeah .
-A: I mean if you lost your remote and the first thing you just wanna go out and get , would you how much would you pay ?
-B: Yeah , yeah .
-D: Yeah .
-D: This this kinda touches on your comments there , David .
-D: These are the age groups which we have information on and these are this is a table of h what people would pay more for a certain feature .
-A: Yeah .
-D: Just gives us a rough idea of where the w the will to spend money on T_V_ equipment is .
-B: Okay Okay .
-D: Mostly focused around the twenty five age group .
-B: Yeah , so do you think we're we're aiming at a fairly young market then ?
-A: Yep .
-D: Sort of young professional , kind of .
-B: Yeah , okay .
-D: Mm-hmm Uh , yeah , it's the Yep .
-C: Um Well , did you not say it was the the adults that were going for the the voice recognition ?
-B: Um do you think then uh voice recognition is something we should really seriously consider ?
-B: What what do you think , Craig ?
-C: Sort of the the older group .
-C: Uh f Yeah .
-D: It does it does fit with the market that we're sort of identifying , in terms of Okay .
-B: N yeah .
-B: I think we are gonna have to narrow it down , to say let's target these people and give them what they want and 'cause you know , there needs to be some kind of selling point to it .
-D: Yeah .
-D: Sure .
-D: Sure .
-D: Yeah .
-B: So um anybody anything there to add Just kind of young professionals , uh th like if we are going to include speech recognition , it's kind of between fifteen and thirty five seems to be like a really high response to that .
-D: Mm-hmm .
-B: So we could say that was our target .
-A: I I think twenty five to thirty five is is is fair to add that in as a group as well because that's more than half your group of people who are willing to at least try and use your technology .
-B: Yeah .
-D: Mm-hmm .
-D: Yeah .
-D: Yeah , yeah .
-B: Mm-hmm .
-B: Okay , so fifteen to thirty five , look fairly young .
-D: Yeah .
-A: Yeah .
-B: You know , they have bit of expendable income to spend on this sort of thing .
-D: Mm-hmm .
-A: I think perhaps that age group is significant as well because those are people who use the computer , who are familiar with their with computers in in their everyday work .
-D: Mm-hmm .
-B: Yeah .
-D: Mm-hmm .
-A: I think people who are maybe about I wouldn't say thirty five , but people who are about forty-ish and above now would not be so dependent and reliant on a computer or a mobile phone or something like that .
-D: Mm-hmm .
-D: Mm-hmm .
-D: Mm-hmm .
-D: But yeah .
-B: Yeah .
-D: Yeah , sure .
-B: So Yeah .
-D: Mm-hmm .
-A: So these are people who are gadgety , right ?
-A: People who are u growing up used to , you know in schools and in universities , when you go on to their working lives , people who would you know regular Yeah .
-B: Yeah .
-B: So they'll not sh not shy away from something quite high-tech .
-A: Yeah .
-D: Yeah .
-B: That that's that's a good point .
-A: Mm .
-B: Um okay , so um so shall we make the decision uh to include speech recognition if we can .
-D: If we can .
-A: I I think one thing we should try not to avoid is not to say we have to use speech recognition right now , because um , based on what you've go y everybody's saying , right , you want something simple .
-D: Yeah .
-B: Okay .
-B: Why is that ?
-A: You want basic stuff and you want something that's easy to use .
-A: Speech recognition might not be the simplest thing for somebody to use .
-D: Right .
-B: Okay .
-D: Could it be an on off thing ?
-A: Um , but what I'm saying is that we're we're trying to lock ourselves into a s particular kind of technology , rather than focusing on on exactly what are the features that we're gonna say , and then , you know , say speech recognition is good for this , speech recognition is not good for this .
-D: Like if you want it on Yeah .
-B: Where you can activate it and deactivate it ?
-B: Yeah .
-D: Yeah .
-D: Yeah .
-B: Okay .
-D: Sure .
-D: Sure .
-A: So maybe we should I suggest that we think about speech recognition , anyway it's a it's something that can be used to fulfil a function , but at end of the day we don't look at the technology , but we look at the function first .
-B: Okay .
-D: Yeah .
-D: Sure .
-B: Uh-huh .
-D: Yeah .
-B: Okay .
-D: Sure .
-D: Yep .
-B: Uh okay , well do you wanna um give us your presentation and then then we can I don't know um might have been a good idea to all deliver our presentations and then discuss , but this is this is how we're Yeah , exactly , yeah .
-A: Okay , sure .
-D: Yep .
-D: Yeah , it's good well it's good to get ideas out while they're fresh in mind .
-D: Um Not Yeah .
-B: Oh it's something that's just occurred to me as well is if we make it um speech reco if we incorporate speech recognition , that's appealing to people um maybe with a physical disability as well .
-B: Um .
-D: And not losing .
-D: And also it helps in terms of people not losing this , you know they they're saying oh it's I lose it in the couch .
-B: Yeah .
-B: Yeah .
-D: like we're kind of what we're b sort of getting in into here is mating different uh design features together that they Right .
-B: Mm-hmm .
-C: I reckon one problem with speech recognition is um I've actually seen one of them used and uh the technology that was in that one wasn't particularly amazing , so you end up yelling at the control for hours .
-B: Really ?
-C: Channel up .
-D: Oh really , you've seen one before .
-B: Do you think maybe we need like further advances in that kind of area until it's worthwhile incorporating it though ?
-C: Um I think it'd probably quite expensive to put in .
-A: Sorry , do you mind passing me my notepad .
-B: Mm .
-B: Course not .
-A: Thanks .
-A: Cool , um .
-B: There you go .
+B: So Our beautiful drawing .
 A: Okay .
-A: Um .
-B: Right .
-A: Well this is just the working design um .
-B: Mm-hmm .
-A: Well this is just what how I would go about it .
-A: Um I guess I try to define like what we're doing now , try to define what we're trying to get done .
-A: Um I think in a practical way , we kind of know what it is .
-D: Right .
-A: We've used it , we're familiar with it , but we're we can't n we haven't narrowed down um exactly what the things we're trying to fulfil , like Besides the basics , I think back in the back of our minds we know what the basics are .
-A: Has to change channels , has to change volume , but in like specifics , right , which one of the basics are you trying to target .
-D: Mm-hmm .
-A: Um are there certain parts of the basics that are more important or less important than the basics ?
-A: Um and I just the idea is just to get everybody to um I usually have a have have a design that's there as a basic , so , you know , things that to start everything going .
-A: But I guess everybody does have some idea , so I don't think um there's a need for that .
-A: Um okay this finding things is a little bit confusing , so I'll go into the diagram first .
-A: It just explains how the process goes through , from a from the basic technology point of view , the basic steps that you need um in the diagram and in this slide probably works better .
-B: Mm-hmm .
-A: Um okay , you need some power source .
-A: 'Kay , a battery or something , to keep it going .
-B: Mm-hmm .
-A: Um and that power source is important because it ties you down to um how long the device will last .
-B: Uh-huh .
-A: Um it ties you down perhaps a bit later on in terms of the technologies um how far you can transmit the signal or the complexity of the functions that you want .
-D: Mm-hmm .
-A: Like for example , voice recognition , right .
-A: That might be constrained because that you might need to power a microphone , you might need to power other things , so that's one perhaps constraint there .
-A: Um Th Okay , the basic thing is there's a user interface where people punch a button or talk into it or smile to it or blink their eyes , whatever .
-B: Hmm .
-A: You know , and that um picks up an input from a user , um uh a logic a series of logic has to decide what the user is telling the device , and the device has to r you know , based on you push button A_ , so I will do something with button A_ .
-A: So maybe button A_ is the power button , okay .
-D: Mm-hmm .
-B: Mm-hmm .
-A: Um and then it needs to be able to send the signal out to the device itself which is the receiver here .
-A: Um and I think that's about it in terms of my design um .
-A: It's fairly general , um and I guess the purpose of this is also not to restrict you in in the way you're thinking , like um voice recognition , right , um , if it's something which is important then we just add more power rather than having a thing that we don't have enough power .
-B: Mm-hmm .
-A: So it's not really a constraint in that sense , but I mean these are functionally , you know , the base , what the technology has to do .
-B: Okay .
-D: Mm-hmm .
-D: Mm-hmm .
-D: Okay .
-B: Okay .
-D: Mm-hmm .
-A: Um so I guess the rest of it I think we should maybe you you wanna go back to what the functions are ?
-A: I think that's more relevant to a discussion ?
-D: 'Kay .
-B: Uh .
-B: Well , do you wan do you wanna finish up your your whole presentation then ?
-D: Sure .
-D: Sure .
-A: Yeah , w I'm done .
-B: Are you are you all done ?
-A: More or less .
-A: Yeah .
-A: Ps Oh , it's just putting the rest of it into words , but it's essentially the same thing .
-D: Yep .
-B: Mm .
-A: Um you have a transmitter , an input device , logic chip , you know , stuff like that .
-B: Okay .
-B: Okay .
-D: Right .
-A: Um I guess this would be Yep .
-B: Right .
-D: And like on the means b Since we're on the topic of the technology , uh are there any like what are our options ?
-D: Alright , what's what i in Is this the only way that we go about it , or are there other thin Right .
-A: Um , these these aren't technology options in that sense .
-A: This is just um a basic principles and basic components that are needed .
-D: The basic principle of 'Kay .
-B: Okay .
-D: Right .
-B: Mm-hmm .
-A: For example , if you needed um if you needed to add uh a voice recognition , right , then your user interface would be split , broken down into more components , right , which you have a microphone , the V_R_ and stuff like that .
-D: Okay .
-B: Mm-hmm .
-B: Oh .
-D: Okay .
-B: So this just show how we're kind of modularising the whole thing .
-A: Uh Yep .
-B: Okay .
-A: Yep .
-A: So each component represents one function , but I think the basic functions are the logic , the transmitter , um and the receiver , okay , and the power are things that you won't have to care about .
-B: Mm-hmm .
-D: Mm-hmm .
-D: Mm-hmm .
-B: Yeah .
-A: Um and those are things that based on what your user interface requires then we'll add more functionality to it .
-B: Mm-hmm .
-B: Okay .
-A: Um there might be one other consideration which would be that the the transmission between the remote control and the T_V_ for example .
-B: Okay .
-A: Okay , um are we gonna restrict ourselves to using the traditional technologies of infra-red thing ?
-D: Okay .
-B: Okay .
-A: Because that's something you need to actually be physically be pointing to .
-B: Okay .
-D: Right .
-A: Right .
-B: Well well a worry that was was expressed in the new requirements was that if we made this too complex it would e it would effect um how long how long it took us to get this to market , so I th suspect it might be a good idea just to restrict our kind of our creative influence on this on the user interface and not worry so much about uh how we transmit it um because I mean it it's tried and tested intra-red , so we could stay with tha Mm-hmm Oh , yeah .
-A: Yep .
-A: There might be one other problem with the transmission , um in particular right now , since we're talking about voice recognition .
-A: Um if somebody's gonna h talk to the device , you ideally want them to hold it to them .
-A: I it you may not require that , but you know , um it's it's it's something very natural , I guess , you know , to hold it , to signal to the user , and push a button maybe to start s talking about it .
-D: Right .
-D: Right .
-B: Yeah , mm-hmm .
-B: Okay .
-A: Then you need to send the signal out , so because if you're using infra-red , the line of sight um say the T_V_'s at that chair , and I'm standing in front of here and the transmitter is here , it blocks it .
-B: Mm .
-B: Mm .
-B: Yeah .
-B: Okay .
-A: So in that sense , there's not really a restriction but it's something which you may have to think about later on in the process .
-D: Right .
-D: Okay .
-A: Not so much further down .
-B: Okay .
-D: And um just a clarification before we finish this .
-D: Uh does c is our controller is it have the option of being um on a standard uh frequency as all of the other equipment , so that the one controller can control several pieces of equipment ?
-A: There's there's not much specific specific information , but I think that um one indication of infra-red mean that you're just targeting traditional devices .
-B: W Yeah .
-D: Okay .
-A: Because infra-red is something which everybody has .
-B: W Well well we've um In the new requirement spec they said just to focus on the T_V_ , so that's what we should do for now I think .
-D: Just to T_V_ , okay .
-D: Okay .
-B: Something I was wondering about was the power .
-B: Um , is it worth considering like having like a charging unit as opposed to just regular batteries ?
-B: I mean is that something we really want to go into , do you think , or should we just consider running on regular batteries ?
-A: There's a there's Okay , from from a from a component point of view there's added complexity , and you add cost to it , um and then there's probably the fact that you need another physical component .
-B: Uh-huh .
-B: Uh-huh .
-A: You need a docking cradle , for example , for you to put it in to charge .
-D: Mm-hmm .
-B: Yeah .
-D: Mm-hmm .
-B: Okay .
-A: Or you need to get the user to plug it in .
-A: Um and most users are very f use already used to the idea of buying batteries and putting it into the controller .
-B: Okay , so Yeah .
-A: But unless the controller's gonna consume a lot of batteries , like he's gonna run through like twenty batteries a month , then I don't think rechargeable is something we should you know , we really need to care about .
-B: Yeah .
-D: Yeah .
-B: Okay , so just stick to to regular Okay .
-A: Um .
-B: Um , right .
-B: So basically the um I'm just gonna just recap uh what I said at the start , was that um the the whole point of this meeting was to f absolutely finalise who we're gonna aim this at , and what exactly the product's gonna do .
-D: Okay .
-D: Okay .
-B: So um just to recap on Are we all happy about the idea of um aiming the product at um the fifteen to thirty five bracket ?
-D: Yeah , that's good .
-B: Um and also the funct the the actual functions of what it's gonna do .
-B: Do you wanna recap on that , Craig ?
-C: Um .
-C: I think we just say that it was gonna be the the most basic stuff possible .
-C: Um on off , up and down channels , up and down volume and uh skip to a channel .
-B: Okay , right .
-C: Ta .
-D: And is it going to include any of the uh the more advanced features , or are we gonna eliminate those ?
-C: Um I think we include mute , but apart from that um I think we just we'll go for the simpleness .
-D: Okay .
-B: Okay .
-A: Okay , I think Another thing that you were saying about categorising the controls ?
-D: R is it is it is it s is it not an option still that we include some things just as a sort of under like sort of under a door or some 'Cause what what I'm I'd be a bit worried about is if someone was h had previously developed habits of expecting to control surround sound or this and that with their controller and then and then they , you know , w they get ours and w it's doesn't have that .
-B: Yeah , it's as optional functions .
+A: So just f um So this is our agenda .
+A: You're F You're going to show your pr prototype presentation after me .
+D: Oops .
+C: Okay .
+A: Uh I didn't Oh yeah .
+A: So these are the So these are the um last notes we I made .
+C: Oh , okay .
 C: Yeah .
-D: I dunno if that'd be a problem .
+A: If anything doesn't look right , just say it to me then .
+A: I don't have to put it in the report .
+B: Are we doing the the speech recognition ?
+B: Because we didn't have enough time to uh de um design the inside as well .
+A: Okay , but it's still possible uh uh financially .
+A: So if you want to , it's okay .
+B: Okay yeah .
+B: Well then then we're gonna put it in .
+A: Okay , just Slide open is uh quite usable for remote controls .
+B: Yeah , just uh we have to design the inside then , but it should be uh It's may maybe uh a bit stronger as well .
+C: Yeah , and Or are we making a slide open , like underneath ?
+C: Or fold open ?
+C: I don't know .
+C: It's probably better .
+C: Yeah , s Like underneath uh you can slide it open and you other functions .
+A: Maybe that's better .
+C: Yeah .
+A: Yeah , that's that's a very good point .
+B: Okay , so when you have a lot of room inside .
+C: Think that's better .
+B: So you can make it very easy to use .
+B: 'Cause you can write a lot of comments besides it .
+A: Yeah .
+A: Okay .
+A: So this is okay ?
+B: No .
+B: Yeah , we're gonna use the advanced chip then .
+A: Okay , so that's Uh I'll just have a look how much that is .
+C: The Yeah , I I think so .
+A: But um Okay , for the Okay .
+B: Advanced chip was for uh spee Yeah .
+C: I don't know .
+A: No , you have a different chip for speech recognition .
+A: So So I already calculated that and it's still in the budget .
 B: Okay .
-B: Mm-hmm .
-A: Um maybe I could suggest we we break them down into three simple categories .
-D: Yeah .
-D: Okay .
-A: One would be audio controls , one would be video controls , and the other one would be a device .
-B: Mm-hmm .
-D: Okay .
-A: Um this may not map very well to advanced functionality especially , but I think that um from a manufacturer's point of view , from a person designing the device , but I think from a point of view of a person using the device , you know a T_V_ is something they see and something they hear , um it's something they do other things to like turn it on and turn it off .
-D: Yeah .
-B: Mm-hmm .
-B: Yeah .
-A: I mean like so what we could have is like three buckets , right , where we could throw things into , like if we want this feature , let's throw it into there , and then from there decide whether it's basic , or it's non-basic .
-D: Right .
-D: Yeah .
-D: 'Kay , okay .
-A: I mean it might help with the visualisation .
-D: Like that .
-D: Okay .
-A: And it would actually help with the component build as well .
+C: Ah okay .
+A: So it's okay .
+B: Good .
+A: So you can show your prototype if you want to .
+C: Yeah .
+B: Together ?
+C: Yeah , it's Let's do it together .
+B: I'll give comments .
+C: Okay .
+C: Yeah , we just made a Word file with the basic elements .
+C: Uh the look-and-feel model .
+C: Uh well the form , the case um as drawn there .
+C: Simply a square with uh round corners .
+C: So that's basically it .
+C: Uh the material should be hard plastic .
 D: Mm-hmm .
-B: Okay , right .
-D: Mm okay , great .
-B: Um , okay well I gotta kind of got five minutes to wrap up now .
-B: Um next thing we're doing is having lunch .
-B: Whoohoo .
-B: Um and then we're gonna have thirty minutes of working on the next stage .
-B: Um so I'll be putting the minutes of this uh this meeting into the project documents folder .
-D: Mm-hmm .
-B: Um so uh I guess just to just to confirm that we know what we're doing in the next well in the thirty minutes after lunch anyway , um for uh our Industrial Designer , you're gonna be thinking about the components concept .
-D: Mm-hmm .
-B: Um User Interface Designer gonna be thinking about our user interface , and marketing you're gonna be thinking about trend watching .
-B: Um and you'll all get specific instructions as well .
-B: So um I dunno , just just to to ask now if you've got anything else you've thought about while we've been talking .
-B: Um , do you wanna start with David .
-B: Anything else to say at all ?
-A: Mm no , not really .
-B: No , okay .
-D: Um yeah , just I just wanted to ask then before we wrap up , shall we agree for sake of um sort of clarity and when we when we r resume that we'll u use this idea David's proposed , where we think of these three sort of buckets and anything anything we discuss about them is sort of , okay , we're talking about this .
-B: Andrew ?
-B: Yeah , yeah I think that's definitely a good idea .
-B: Uh-huh .
-D: Shall we do that , then ?
+C: Uh colour changeable , and also transparent .
+C: And colour and transparent , or just transparent , I don't know .
+C: Um then the elements .
+C: Uh we have The functions are just basic .
+C: Like uh I've pointed them here .
+C: Mute function , on-off function , text functions .
+C: This uh switch channel .
+A: Okay , cool .
+C: And this is the the num-pad .
+C: And the logo is over here , and the mic .
+A: Okay .
+C: And the scrollwheel , no ?
+C: You operate that with your pointing finger .
+D: Means Okay .
+C: So you hold it like this in your right hand and Uh I dunno .
 A: Mm .
+A: So how many functions do you need for for uh the microphone ?
+B: Speech recognition .
+A: Yeah , speech recognition .
+A: Just Only one button to say it's on or off .
+B: Um I didn't have a specification of that .
+B: But um I can imagine that you have to input your voice or something .
+B: Um so I've Yes , you need options to configure it , and after that you don't need 'em anymore .
+C: Yeah , maybe maybe uh you have to configure it .
+A: So you can put it on the back as well if you want to .
+B: Yeah , you can put 'em all on the back .
+C: Yeah , or or on the slide function , I don't know .
+B: That's for sure .
+A: Okay .
+B: That's uh We also don't know how many buttons are required , or what kind of buttons .
+C: Well we haven't had time to design that , the slide pad .
+B: But You have a lot of room if you can slide it open .
+A: Yeah , you can put it separate .
+B: You Yeah I know .
+B: I can imagine you need at least four buttons or something .
+B: So But it's enough room .
+C: Yeah .
+C: Um the position ?
+C: Yeah , you write uh You wrote this , so .
+B: Uh well Well the main , the main zap buttons are most central .
+B: That was the the most important thing .
+B: So uh the best place , the best reach place Um on-off buttons , text buttons , mute buttons are together and at a place they easily are , easy to find .
+B: Um the on-off button is a bit bigger , uh so it stands out .
+B: That way you don't have to make it red , 'cause it's will uh will show up .
+B: Uh scrollwheel is on the left side .
+B: It's basically the be standard place for scrollwheel , as far as I know .
+C: Yeah .
+C: But it's not uh impossible to use it , if you're left handed .
+C: So y Because you can use your thumb then .
 B: Yeah .
-D: Okay , great .
-C: Um just about the three buckets , um what would go in the the device functions one ?
-A: Um things like on off .
-A: Because they don't have anything to do with what you see .
-B: Yeah .
-A: I me mean in terms of picture and the entertainment value , you know , um so um And channel .
-B: Okay .
-D: And and channel .
-D: Right .
-A: Because the on off also goes , you know , like on off like power , not on off sound .
-A: Not on off video .
-B: Yeah .
-A: Although you don't turn off the video on your T_V_ , but um you might wanna you know turn off the sound , say you wanna pick up the phone , there's a mute button , right , so you you have you have a choice of putting it on to um others or a device .
-B: Okay .
-B: Okay .
-A: Device is basically anything which we can't categorise , right .
-B: Okay , so you're gonna have um audio which is gonna be like you know your bass settings and actual volume hi Okay .
-A: We put it out .
-D: Mm-hmm .
-A: Yeah , anything to do with what you hear , right .
-D: Mm-hmm .
-A: You you put that into audio .
-B: Okay , and then visual Okay , so brightness , contrast , things like that , and then just actual device things , like what channel you're watching , turning on an off , stuff like that .
-D: Mm-hmm .
-A: And then video is anything that you can see .
-D: Mm-hmm .
-A: Um .
-A: Yep .
-D: Colour , yeah .
-A: Yep .
-D: Sure .
-D: Sure .
-A: Yep .
+D: Just just one thing now .
+D: Um y you need to have more uh one two th You've got one two three four five six seven eight nine .
+B: Okay yeah , they Yeah okay .
+D: But you missed the no uh the zero and uh the two stripes .
+C: Mm yeah .
+B: That's that's below that then .
+C: Yeah , okay .
+B: It's uh twelve buttons .
+C: just so you get that .
+D: Okay , but It's rather important .
+B: Yeah okay , just we just missed that .
+C: Yeah .
+B: But um I'll just uh I'll get back to later .
+B: F the form well , we've taken that from the iPod , other popular technical device .
+B: So um should be popular .
+B: Um The f uh the buttons creating ?
+B: Uh if you That or all round shapes , not uh rounded corners .
+A: Okay .
+B: So that , you know , you get a bit round feeling .
+B: Um we'll use hard plastic .
+B: Since that allows us to use uh two D_ buttons , uh non-rubber buttons .
+B: Colour changeable .
+B: Well and um the backlight thing , the thing that lights up .
+B: We have decided uh in the the channel buttons , there's a little uh colour around it .
 D: Okay .
-B: Okay , um Mm-hmm .
-D: And then k I suppose quite likely what would happen is in the d device category there might be some which are just like the habitual standard and then others which are maybe a bit more Yeah .
-A: Like random which we have no other place to put , but we need it somewhere there .
+B: And also in the num-pads , there's also colour light behind it .
+A: And do you still can , do you still can choose what colour , kind of colour you want ?
+B: So when you pre Yeah .
+A: How do you want to implement that ?
+A: Just on the Maybe on the second level as well ?
+B: We're going to implement .
 B: Yeah .
-D: Sure , okay .
-B: Okay .
+B: Mm just a little Yeah .
+D: Ah .
+C: Yeah , these are just basic functions , so All the non-basic are in Okay .
+A: Okay , just draw draw the second level , because we need that as well .
+C: Um Okay , maybe we use this button for the Yeah .
+D: Okay , there is one uh function I use uh daily , and it's not on the basic functions .
+D: It's uh to switch to uh uh your Scart .
+D: Play Station or uh D_V_D_ player .
+D: That function must be Yeah , maybe Or you can uh i uh lay it uh beneath in the uh other uh functions .
+B: Yeah , I um To your video device .
+A: Yeah , as well .
+A: Just make make a Just just draw a second level one and say all options that are still left or something .
+C: A second level ?
+B: Yeah .
+A: Yeah .
+C: Like a a new blank one or Or just here ?
+A: No no , just on Down there .
+B: Is i Ah okay .
+C: Okay .
+A: So uh Just uh if you s Yeah , y Maybe , yeah .
+C: Yeah .
+D: And h how does the second level come out ?
+D: Uh it slides uh along ?
+B: Um slides I think .
+B: It's You can do it that it claps open , but I think that's not solid enough .
+D: From from the uh beneath ?
+A: For the bottom .
+A: No , you gotta slide it .
+B: If that breaks then you're screwed .
+A: Yeah , it's right .
+B: So it do doesn't even have to slide all the way open .
+B: Um Uh i the the speech functions buttons .
+C: So what do we need ?
+C: Yeah , just God damn it .
+D: Menu ?
+B: Menu button .
+B: With uh maybe uh arrows .
+B: So you can uh scroll in the , navigate the menu .
+B: Um I think we can even put a We have one for the zero and one for the for the more digit uh channels .
+D: Scart ?
+D: Uh yeah .
+D: And so y you keep you keep one , you have one left .
+B: So you have one left for the Right , the video channel , Play Station , etcetera .
+D: Yes .
+C: So this is the Extern or something .
+B: That's used pretty often .
+D: Yeah .
+B: If you have a Play Station , mm you use it every day .
+D: It's a f basic uh Yeah , to navigate .
+A: Yeah .
+A: You want to save that file as well ?
+A: The drawing ?
+B: That was it .
+C: So here are multiple speech buttons , I don't know how many .
+B: Uh It doesn't really matter .
+A: Doesn't really matter .
+C: I don't know the functions .
+A: Just just uh Yeah .
+B: That's Yeah well we don't have any uh Hmm ?
+C: Okay .
+C: What else ?
+C: What else ?
+B: What else ?
+B: Uh menu buttons with arrows .
+C: Uh menu .
+C: Uh With arrows .
+B: S Just uh like Um I think it's best if we do .
+B: Mm where do we have Or there .
+C: Like a normal um Yeah , with in the middle um a menu button .
+B: Like on the normal uh Like this .
+B: The menu button , yes .
+C: Okay .
+B: Well we don't have any , anything on how many buttons speech requires .
+B: So you can't redesign it .
+D: Mm okay .
+D: Maybe one button to switch the colour of your uh LEDs ?
+A: Yeah .
+B: Yep .
+D: Uh and and you can hold it , you can hold it , and then the colours switch or mm multiple multiple buttons .
+A: Yeah .
+B: Just press it once , the colour should uh switch .
+B: Press again , the colour switch again maybe ?
+D: okay .
+A: Or we just make it three buttons , all the colours on it .
+A: Just red , yel uh red , green and That's that's very easy , yeah .
+D: Okay , yeah .
+D: Th Yeah .
+D: If we have enough place , uh then we can do that .
+C: Yeah , okay .
+C: We can put those here .
+D: Colour buttons .
+D: And then we choose green , uh blue and red or Okay .
+A: Yeah .
+B: Yep .
+A: Okay .
 D: Okay .
-A: Um even even if it doesn't map very clearly what happens is that people at least have some in their mind .
-A: It's easy to use , I think that's one thing that um and I guess from the component point of view it's easy to build as well 'cause things are like fixed .
-B: Okay .
+D: That's uh Um It Some text uh buttons .
+C: So did we miss anything ?
+B: Yeah , maybe some uh some text next to the scroll wheel , that it is volume .
+C: Okay .
+A: Yeah .
+D: Yeah , but there's one there's one text button I There's one text button I prefer .
+B: I just uh The volume logo .
+A: No , ma on on o on the on the Yeah .
+C: Oh wh Here ?
+B: Yeah .
+C: Okay .
+A: Just make it Yeah , just put it on those extra f extra function as well .
+C: Yeah , or th or the Yeah .
+D: That's the one uh that you use if you search for a page , uh like seven hundred , uh and it's counting from one hundred to two hundred , you will switch to your television and back to text .
+B: Yeah , we have that on the the text button .
+D: Do you do you Did you think of that ?
+C: Yep .
+C: Yeah , but then you can switch back to normal telete teletext .
+C: You just switch it off and then Well w we thought of a text button .
+B: Uh why not ?
+D: Ex Yeah .
+D: Yeah .
+B: No Whoa I think um Yeah , the three stages .
+C: And if you press it again , you get the the the through view .
+D: The sta the state you Yeah .
+A: Oh just three stages , you Yeah , that's okay .
+C: Yeah , b but but if you're in the second stage , the third stage is switch teletext off .
+B: Yes .
+C: So you can switch back from second to w first .
+B: No , it doesn't have to turn it off .
+D: No .
+B: Just don't Yeah .
+D: Just remember where it was .
+D: It it doesn't uh uh clear the the page .
+D: If you if you turn teletext on , you you set the seven hundred , and you turn it off , then the next time you turn it on , it still stays on seven hundred ?
+A: Yes , that's to remember .
+C: Okay , okay .
+A: Yeah , but that's that's uh That's a functionality for the television .
+D: But maybe it's not the way Mm .
+B: I dunno if Yeah , I think as well , but Uh yeah .
+D: That's maybe one thing we can discuss about .
+C: Yeah mm nee uh No , if i uh the remote can send like the the code for seven hundred , page seven hundred to the television .
+B: Yeah , in thi the the remote control in the the chip .
+C: Th th th if you switch it on .
+A: Okay .
+A: Yeah , but you have to search every time again .
+C: Th i Yeah , I dunno .
+A: That's what what happening if you do it like that .
+B: Yeah , that's true .
+A: But it's still the television that has to do that .
+C: Okay .
+B: So yeah .
+B: Um do we need to fix that or Just like your telephone , hard plastic .
+D: Mm most new T_V_s do uh collect all the pages .
+A: No , that's what the television does .
+C: Yeah , those memory functions .
+D: But uh not not every every television , so Yeah , I I thought about one thing .
+C: Yeah .
+A: Okay , it's cool .
+C: Was uh this logo for uh volume ?
+A: Yeah , that's fine .
+C: Okay .
+C: So that's it ?
+A: Is this prich pretty much it , yeah ?
+D: Uh the buttons ?
+D: Uh from which material are they now ?
+C: Mm .
+C: No no Yeah .
+C: Just hard plastic .
 D: Okay .
+C: So Uh I think just um Yeah , but I think uh you have that problem more often with rubber buttons .
+D: Because um if you use it a couple of years , some uh sometimes the numbers on the on the buttons are slide away , are uh And maybe we can write the numbers below or above ?
+A: It's too expensive to make it from a different material anyway .
+D: Or shall we just turn it on on the buttons ?
+B: I think just on the buttons .
+B: If you do it abo above or below , it takes uh more space .
+D: Well yeah .
+D: That's too much place .
+D: Okay , just leave it .
+B: I don't think the space is worth it .
+D: Just leave it .
+D: Yeah , and i The most time Yeah , with rubber buttons .
+D: Yeah , okay .
+D: Okay .
+D: Fine .
+A: Yeah ?
+A: Okay , cool .
+A: Mm mm mm mm mm .
+A: Yeah , I don't know what this means .
+A: But I think we just evela evaluated this one .
+D: Yeah , I made some criteria uh , so we can uh ev evaluate our model .
+A: Oh okay , you made some criteria .
+A: Okay , cool .
+A: Okay .
+D: I d d d I don't think if it's right .
+D: That shall show it .
+A: You have some usability criteria or Okay .
+D: Mm-hmm .
+D: Uh no , uh all criterias we just argue about .
+D: Uh Oh .
+C: In the bottom .
+D: Yeah .
+A: Look-and-feel ?
+D: Evaluation crit Yeah , evaluation presentation .
+C: No , evaluation is Yeah beautiful's is also a matter of taste .
+D: It's not in .
+D: Uh d it doesn't matter um It only had two pages or something .
+D: Um well I looked in the reports um from the marketing strategy , or uh of uh the the the the the the new needs and uh the market .
+D: The Italians uh , how they think about it .
+D: And The research uh about uh the the comp uh the the the users and that kind of stuff .
+D: I made some criteria , and we have to test the criteria from one to zero .
+D: We sh we we we can give it uh a number , and then we can give ourself an average for our um model .
+A: Okay .
+D: And this These are all I I I found , or I wrote down .
+A: Okay .
+D: And um we have to discuss about , if we give it a one or a seven .
+D: Uh Yes .
+A: Uh I think uh if you have a kind of iPod idea .
+A: It quite beautiful .
+A: It's We are actu We are the Flashy .
+B: Mm .
+D: Yeah , the the the difference be between uh beautiful and fancy uh look-and-feel is uh the the the outside uh beautiful uh like the iPod or something .
+D: And fancy's more like the mm uh f the flashing lights and the colours and and that kind of stuff .
 B: Okay .
-B: Um so yeah , I guess just things to think about are you know like the fact it's gotta look good , because of who we're we're , you know , targeting this at .
-B: Um something maybe kind of quirky in design maybe .
-D: Mm-hmm .
-B: Make it kind of ergonomic kind of to hold , you know , things like that .
-D: Mm-hmm .
-B: Um , so I guess I guess that's it .
-D: Great .
-B: That's the meeting over .
-B: Whoohoo .
-D: Then we get to go find out what was picked up for lunch for us .
+B: Well I think we do If it's really uh , if you can if you can get the iPod look , then it's beautiful , I think .
+D: The LEDs .
+D: Yes .
+D: And and what ki what kind of what kind of basic colours uh were you thought uh of ?
+A: But uh It's black .
+B: Hmm ?
+D: The basic colours are black or green or yellow ?
+D: Or you haven't thought about Ho how do we make uh Black and yellow .
+B: Um basic colours , um yeah .
+B: Well you didn't say .
+B: Maybe um company colours ?
+B: Black .
+A: Yeah , yellow light .
+B: A bit a bit of yellow .
+D: Can Black white , maybe ?
+A: Do we have yellow light ?
+A: No , not really , but it's possible .
+B: Not not not yellow , but just a bit of light yellow .
+A: It's Yeah , different colours .
+B: Like white , also ni or uh always nice .
+C: And what colours should the buttons be ?
+D: Uh Because um Okay , so what uh number do we give uh a beautiful ?
+A: This is Oh , the same as th th the cover .
+B: Just um Yes .
+A: But also th the light behind it .
+C: But can you change those too , with uh the switch ?
+A: No , no .
+A: Make them No , just make them black or grey or something .
+B: Yeah , grey .
+B: Just dark grey I think .
+C: Okay .
+A: Yeah .
+D: Beautiful is uh really subjective , uh because it has to do lots with the colours .
+B: Well we have changeable fronts , so So Yeah .
+D: Changeable fronts , so ev for everyone for everyone it's something beautiful .
+A: Yeah , just give it a one .
+A: It's okay .
+A: It's perfect .
+A: I think it's just what you want .
+A: Or not ?
+B: It's hard to decide for us , but yeah .
+C: Yeah .
+C: It's ju so subjective .
+B: It it's At least it's a lot better than uh current remote controls .
+D: Yeah .
+A: Okay , just give it a two .
+D: A two .
+D: Okay .
+D: The fancy look-and-feel .
+D: That's about our uh flashing lights and the background uh lights uh from from from the buttons .
+B: Yeah .
+D: Okay .
+D: And we can change the colours , so that's uh really fancy I think .
+A: Yeah .
+C: One more thing .
+D: So Slide panel ?
+C: Are w are we changing uh Or are they there uh backlights on the slide panel too ?
+C: Or n no back light ?
+C: Yeah ?
+B: Mm .
+A: No .
+B: Not needed .
+A: No , it's only on the number , behind the numbers and uh That as well , yeah .
+B: Yeah , not needed I think .
+C: And and the switch channel is uh There is a back light too ?
+D: Oh , you mean th this here ?
+B: Yeah .
+C: Yeah .
+A: Yeah , but that's unnecessary .
+B: What do I think is necessary necessary item ?
+D: It's pretty cool .
+D: If you slide it open , it lights up .
+D: That's that's really fancy , but I don't know if it's reachable .
+A: Yeah .
+B: Of course it's reachable .
+A: It doesn't make No .
+D: Then we do it .
+C: Hmm .
+B: Okay , maybe just some light uh to to light it all up .
+B: So you can see what's really there .
+B: Not just not re on the buttons or something .
+A: Yeah .
+B: Just a green light or some blue light .
+B: To light it all up .
+D: Yeah , but Okay .
+A: But Yeah .
+A: Mayb Okay .
+C: Yeah , just backlight .
+C: Not not the buttons .
+C: And th and the the normal backlights also not the buttons , but behind the buttons .
+B: Yeah .
+C: So the buttons are just grey .
+B: Well yeah .
+B: Uh semi-transparent .
+A: Yeah , just only Yeah , that's right .
+C: Okay .
+D: Okay , fine .
+A: So Yeah , that's how I think .
+D: So I I think it's very fancy .
+D: So I'll give it a Yeah , and you can uh also choose your light , so I think it's one .
+B: Yeah , w we've done a a lot of detail in light , so Yeah .
+A: Ye Yeah , this It is a one .
+A: It's okay .
+A: It's cool .
+D: Okay , next .
+A: This is a difficult one , because we we don't Yeah , we don't know it about the Uh it's it's very easy to use , but uh the second layer is not easy to use .
+D: Learnable ?
+D: Easy to use ?
+D: Yeah , we shall test it But uh Yeah .
+B: Yeah .
+A: It's That's No .
+C: No , but you don't have to use that .
+C: And you on don't have to pay attention to that second layer .
+C: That's th that's the main thing that's so good about it .
+B: So I think it's easy to use , but And learnable is a bit Well y just uh f Yeah , I think it's very clear what it all does .
+D: Learnable ?
+D: It's not not as fast as a usual uh uh remote control .
+C: Well , I think it is .
+D: Because because I think I think the scroll wheel , uh it's very handy , but the first time you get this thing in your hands , it's not to use the scroll wheel .
+D: I think uh you must uh seek for it , and up or down or Uh then the re Yeah .
+A: But the rest of it is very easy , because there are so so n So it is learnable um f i i In the first place it's very easy to use .
+C: So so few information that you can easily decide what buttons w for what function .
+B: Yes .
+D: Okay .
+B: But the second parts , uh like speech , etcetera , that will be harder to learn .
+D: Okay .
+D: But Yeah .
+B: It's Yeah it's Device .
+A: And I think its scrollwheel is u easy to use as well , if you have ever used uh a different kind of uh of uh device .
+D: But we we've got the two so two uh two or three uh new things , huh ?
+D: And maybe we uh maybe learnable is in uh compare of old fashion uh remote controls .
+D: So we h we have speech , uh the scroll wheel , and um the the the slide .
+D: You must slide it .
+D: And that's not normal at the uh normal remote controls .
+D: 'Cause I think learnable is a l a less than um easy to use .
+A: But yeah .
+D: Because easy to use comes after learnable .
+B: Okay .
+A: Okay , just Easy to use is very cool , so just give it a two .
+D: I I think it a three or something .
+B: Maybe three then .
+B: Learnable's Yeah okay .
+A: No , but definitely better , much better than uh than uh than avera average , yeah .
+C: Mm uh .
+C: The normal .
+B: Yeah .
+C: And the one you showed is just all buttons and you don't know Yeah .
+B: Yep , true .
+B: Then a two .
+D: Oh .
+D: Okay .
+A: Okay .
+D: New features .
+D: Techno technological innovative ?
+C: The speech function and the colour .
+D: The speech function is new .
+B: And the scrollwheel , backlights , slide .
+C: Colour .
+D: The scrollwheel and the slide .
+D: Uh I think the slide is pretty new .
+A: Slide is not n is is not new .
+A: No .
+A: I already have a Uh I already have a V_C_R_ and it's about from nineteen eighty eight .
+D: Uh I only saw it in a telephone , not in an remote control .
+D: Okay .
+A: And they all have a slide in it .
+A: So that's not new .
+B: But also slide that buttons come out , as well ?
+A: Yeah .
+B: Okay .
+D: Okay , and the the the lightning ?
+A: That's cool .
+D: Is that new ?
+A: Yeah for a Uh for a f There are no games on it , that's that's It's not a one , it's a two again .
+D: The lighting's new .
+C: Mm it's pretty new , I think .
+B: Yes .
+D: Scrollwheel .
+D: Speech ?
+C: Speech is new .
+B: Different colours , so Yeah .
+D: Yeah , different fronts for a remote control , I think that's new too .
+C: Yeah .
+D: So we have a pretty new uh It's it's it's not not L_C_D_ or something .
+B: That would And we didn't uh But then we also have the the home station .
+A: But If you have Yeah .
+B: We are forgetting about that now , but We don't recharge .
+D: Uh-oh .
+A: Oh yeah , that's right .
+D: Home-station .
+A: Rechargeable .
+C: Yeah , we didn't draw that too , but Yeah , that's just a normal th s simple thing .
+B: But that's more like uh now .
+A: Yeah , just draw it afterwards .
+B: I don't know .
+A: If you Can you save it on the same , in the same map as the other ones ?
+A: In the the project uh map ?
+B: Uh Just save , save as ?
+A: Yeah .
+A: Mm-hmm .
+A: Uh save as ?
+A: No , that's not in the project .
+C: Well it's a already in the folder .
+C: L like number seven .
+A: Oh yeah , okay .
+D: Yeah .
+A: Smart board .
+B: Okay .
+A: Yeah , but this one .
+A: This one is not yet in the Oh oh .
+C: I think it is .
+B: Yeah , it is .
+C: No , I think it is .
+B: Uh untitled ?
+B: Yeah , it doesn't matter .
+B: Save .
+C: Okay .
+D: Uh all the the seven , uh all the seven .
+A: But you still have to draw the resi the recharger .
+A: Okay .
+A: And new features , so we give it a two or also again a one ?
+A: No , I think i if you have games on it , then then you give you have a one .
+D: No , we are not extraordinary new or something .
+A: But not No , just so it's still a two .
+D: Tha tha that No , we we we searched for uh um a young group , audience , beneath f forty .
+C: Mm two , I think .
+B: N Mm .
+A: Targeted audience .
+A: Uh we are the targeted audience ?
+A: Do we like it ?
+A: Yeah , but l younger than forty .
+D: Yes .
+A: So we we are exactly the targeted group .
+D: Yeah , but did we reach , um with our uh style , the targeted audience ?
+D: Th that's my question .
+A: I think so , yeah .
+A: You get the fancy things for younger people .
+A: And you get the the aesthetic things for older people .
+C: Yeah .
+C: We've got a one for fancy look-and-feel , and that's what attracts the young audience .
+A: So you want Yeah , you get different colours .
+D: Yeah .
+C: So think that's a two or a one .
+D: Yeah .
+D: Um the only point is that we don't uh have uh uh That's that's That's this question .
+C: Yeah , but s it That's basically not not handy .
+C: And I don't thi I don't see Yeah .
+D: Yeah , this .
+D: So we targeted it ?
+D: But we didn't follow the latest trends .
+C: Yeah .
+C: No .
+C: Yeah , you could make a a front a front that's that's like uh like a banana , or something .
+B: I think we followed the latest trends .
+D: Tha these are the only latest uh trends I uh get on my computer .
+B: Oh right .
+B: Well uh fruit and vegetables , yeah .
+B: You can different front uh This is a a power indicator .
+D: Uh yeah , th So we had we uh have uh a fruit uh Oh yeah .
+A: So Oh .
+C: Like a a f banana kind of front .
+D: But spongy will never be .
+C: No .
+D: So we give ourself a three or something .
+C: Yeah .
+D: Okay .
+A: So that's eleven .
+D: That's uh What's the average ?
+C: Eleven divided by six .
+A: It's Yeah , it is one point eight three .
+D: A perfect score .
+D: No , I don't know .
+C: We're not too hard on ourselves .
+C: Okay .
+B: So you can see how far it's charged up .
+D: And and you need n uh a button to call it , to let it beep .
+C: Okay .
+B: To call .
+B: Um Okay .
+A: Oh yeah , that's still Yeah , maybe we have to skip that one .
+D: Call That's Yeah , but it No , we need that .
+C: Yeah , but uh we have to make a speaker then too .
+C: If you want to make it beep .
+B: No no , I want that in .
+C: But we can we can do it uh underneath the logo .
+D: That's usable .
+C: If you do uh Yeah , okay .
+D: That's really usable .
+A: Okay .
+B: Yeah , th the speaker is very small as well , right ?
+D: It's uh Yeah .
+A: So I just got a financial um You s saved it or No .
+B: Yes uh .
+D: I did save it .
+A: Okay , let's have a look at this one here , the production cost of it .
+A: If I forgot anything , just say it to me .
+A: It just is a battery .
+A: Yeah , there are some that they didn't mention , because recharge is not on the list .
+A: But okay .
+A: So I think we are pretty much in the right direction , because it's twelve point three Euros .
+C: Mm okay .
+C: But uh is uh uh Okay .
+D: That's fine .
+A: So this is a regular chip incl and and a sample speaker .
+A: So that's both .
+D: Come on , it's perfect .
+D: Uh twelve point three point three .
+A: Yeah , and single curved curved .
+C: But but is it inc Does it include a a homestation or Can we make that for uh h twenty cents ?
+A: No , that's not on the list .
+A: But that shouldn't be .
+B: Yeah , we can uh Um different fronts , but standard front won't be , yeah .
+A: Probably .
+A: I just The b the button supplements , I didn't I d I was wondering if this special colour maybe was I'm not sure .
+A: See it's I think it's okay like this .
+D: Special form , yeah .
+A: It's hard to say .
+A: But maybe we have to um Yeah , okay .
+A: Special colour , you can skip this one , because it's all quite normal .
+B: Yeah .
+A: We get different ones , that's all .
+A: So you can put a recharger in it as well .
+A: But this is expensive , the sample speaker .
+C: Yeah .
+B: This ?
+A: Yeah .
+C: Yeah , it's four .
+D: Four .
+D: It's four Euros .
+B: Oh , them .
+B: Is that uh included ?
+D: Yeah .
+B: In the twelve Euro or Okay , then we then we need to use it .
+D: So we are Okay .
+A: Yeah , that's included .
+C: It's kind of weird that we we get this information now , afterwards .
+C: Because Sure .
+A: Yeah , no .
+B: Yeah .
+A: Okay , so this is uh pretty much it this .
+B: Damn , solar cells are uh expensive .
+A: So I just want you Yeah , we just made it .
+A: So we can do the project evalu evaluation now for uh for everything together .
+A: Okay .
+A: We can do some discussion about this .
+A: Was there room for creativity ?
+D: Yes .
+B: Okay .
+A: Paul , was there room for crea creativity ?
+C: Beautiful .
+B: Mm uh i Yeah , I think so .
+B: I think uh everyone uh already .
+B: So I think we uh discussed a lot of things about it .
+C: Yeah m If we got a high mark for um uh innovativeness or innovativity then there we probably have been creative .
+A: Yeah .
+D: Or a different style .
+B: So Of course there was .
+C: Yeah .
+D: Yeah .
+D: We could make a lot of different uh remote controls .
+A: Yeah .
+D: So it's creativity .
+C: Huh .
+A: Okay , so the leadership Was there a leadership and Okay .
+A: What do you have to say about that ?
+C: No , I think Yeah .
+D: Who was the leader ?
+A: I dunno .
+C: Just normal discussion , I think .
+C: Not one leader or something .
+B: Yeah .
+B: One leader to check the time , etcetera .
+C: Yeah .
+C: And make notes .
+A: Yeah , I know .
+B: So more like a secretary .
+C: Yeah .
+A: Okay , next one .
+A: Uh team work um The the third meeting I think that one was pretty hard .
+A: We were not all We were not um agree with every not agree with .
+D: Yeah yeah .
+D: We were not finished .
+C: Yeah , w we had so much information , that we get through email and just Yeah .
+A: We're not finished .
+D: Uh .
+B: Uh I think we we got wrong information at the wrong time .
+B: I think that was the m biggest problem .
+A: Yeah .
+B: Like uh the prices .
+B: If we knew that before , we could have uh had discussion really uh s really quicker .
+C: Yeah , th that's weird .
+D: Yeah , because the prices uh could be twenty Euros or something now .
+B: Yeah , and if you had uh fifteen Euros , then we would it .
+D: And then Yeah .
+B: We had to Yeah .
+C: Hmm hmm yeah .
+A: Yeah , finance .
+C: So we're bacal basically just lucky to uh get the price right .
+A: But the teamwork was okay .
+D: Yeah , uh everybody could speak their uh opinion .
+D: And uh Yeah .
+B: I think uh everyone listen to each other .
+C: Yeah .
+B: Like marketing said things and then we had to i include them in the design .
+A: Yeah .
+A: 'Kay .
+A: Yeah , what I have to say about uh means .
+A: The smart board is okay .
+A: Digital pen is horrible .
+A: I dunno if you use it .
+A: But if you want to download it to your computer , it's doesn't work .
+B: It was Just doesn't work .
+A: No .
+B: Well uh smart board would be very uh nice to work with , if it worked really well .
+D: Digital pen or Yeah , the drawings are are hard to make , I think .
+C: Yeah .
+C: Yeah , i if if it would be faster , it would be great .
+B: Just not work too slow .
+B: Yeah , more accurate .
+B: Yeah , it's i It should be more accurate .
+D: Precise .
+C: Yeah .
+B: And uh I think it would be great if you could edit it from , just with a mouse , from where you're sitting .
+A: Yeah .
+B: Not just pointing out on it .
+A: It's the same for the presenta for the presentations .
+A: You can do it from here .
+A: That's much easier than standing there .
+B: Yeah .
+A: And so you've Yeah .
+C: Yeah , and p just point with a mouse .
+B: No use to draw on the board itself .
+B: It's just slows down .
+C: Yeah .
+C: Just old fashioned kinda blackboard style .
+B: Yeah .
+C: But you might as well do it in normal computer style .
+A: Yeah , like .
+B: Yeah , even harder to draw like this than black board style .
+C: Yeah .
+C: Yeah .
+C: And it's far too slow this way .
+B: Yeah .
+A: Okay .
+B: You cou You could draw on it , but not as main function .
+C: No .
+A: I think Yeah , okay .
+D: Digital pen .
+A: So we made it in time .
+A: And we made a remote control .
+B: We did it .
+A: In the budget , yeah .
+B: New ideas found .
+D: New ideas .
+C: What's that ?
+B: Oh I just think if we uh I dunno .
+D: For for for To gather , or to uh work together , uh or new ideas for No , for the prototype .
+A: I don't know what it mean .
+A: Just For remote control probably .
+A: No , for the project .
+B: For remote control , a favourite for your text .
+C: Hmm .
+D: New ideas .
+C: Yeah , but still , you couldn't make a fancy a f you couldn't make a a prototype out of this .
+C: Because we don't have any sizes and Yeah , but it You can't possibly do that in such a short time , I think .
+A: Yeah .
+A: But it's for the next team .
+A: We don't have to do that .
+B: That's for .
+B: Yeah , this this is just the idea phase , the Yeah .
+C: Yeah , just brainstorming basically .
+B: Details uh Quite early .
+C: So are we finished ?
+D: Hmm .
+A: Yes , I think just I just write a final report .
+C: Okay .
+C: Yeah .
+A: No , we have only four minutes left .
+A: Uh it's okay .
+C: Oh okay .
+B: Oh , what do we have to do now .
+B: Do we uh I thought we were done at four o'clock ?
+C: It's now quarter past three .
+C: So Yeah .
+B: Yep .
+D: I should take some pictures uh .
+A: Okay .
+B: Mm we can do it afterwards , so Yeah .
+D: Yes .
+D: Let's play minesweeper .
+B: I found it as well .
+D: Ti-din ti-din .
+B: One two three four five six seven cameras .
+B: Mm not bad .
+B: So that was it .
+C: Now we can look at this .
+B: This is The old versions .
+C: We're probably not supposed to look at this , but Yeah , from the previous group .
+B: They went for uh for a universal device .
+C: The touchscreen , yeah .
+B: Yeah , but also a different device .
+C: Yeah .
+B: Then an L_C_D_ uh would be handy .
+C: Hmm .
+C: Here are the basic functions in here , the selecting dev devices .
+B: Yeah , and touch screens for all our stuff , yeah .
+C: Hmm .
+B: I do agree with that .
+B: Yeah , tu-dum .
+B: English is not so hard by the way .
+C: No .
+D: I'm breaking a world record here .
+B: Well , leader ?
+D: Oh shit .
+B: Project Manager ?
+D: We've got a problem , Paul .
+B: You do ?
+B: Yeah , you have to make a choice .
+D: Yes .
+D: No it's your choice .
+B: Wow , that's pretty quick .
+D: Tu-dum .
+B: Uh uh um You have to decide .
+D: Just pick one .
+B: It's the lower one .
+D: What's this ?
+D: A bomb or not a bo This the bomb ?
+B: No no , the upper one is the bomb .
+B: Yes .
+D: Wrong .
+D: Shit .
+B: I knew it .
+D: I knew it .
+D: Four in a row .
+B: No .
+D: Uh .
+B: That's too much work .
+B: Come on .
+D: Is that previous work ?
+C: Yeah , this one .
+B: I challenge you .
+D: Oh , that's so stupid .
+D: No , that doesn't work .
+B: No , you gotta use the magic pen .
+B: Hmm .
+B: What if I put one there ?
+D: That's stupid .
+B: We'll see .
+D: Okay .
+B: I don't agree .
+D: Mm .
+D: Sorry .
+B: Yeah , you had two choices .
+B: That's gonna be draw .
+B: Or not .
+C: Hmm .
+D: Too bad .
+B: I'll put it here .
+D: Yeah , then I put it there .
+B: You are going to put it there .
+B: Then It's a difficult choice , either here or there .
+D: No one wins .
+C: This is a very interesting design .
+B: Ugly .
+D: It's just the same as normal .
+B: Oh a pen .
+C: Well it has a L_C_D_ , I think .
+B: Yeah , but Then do it correctly .
+D: Okay .
+D: Stupid design .
+C: And what else do we have ?
+D: Stupid .
+B: Stupid , the L_C_D_ screen .
+D: 'Kay wait , I'm going to draw something and you must y Okay , blank .
+B: What ?
+B: Okay , I'm going to guess what you're drawing .
+B: No no , the new one .
+D: Oh .
+B: Uh they just don't save it .
+D: Um I know uh .
+B: A house ?
+B: Yeah , you have to use the pen s stupid .
+A: You have to save everything , you know that , huh ?
+B: No , not everything .
+D: Oh .
+C: Yeah , everything .
+B: Pen , select select pen .
+D: Pen .
+C: It wants to know what we do in our spare time .
+B: Okay .
+B: It's a house .
+B: A plant ?
+D: No , it's Only you can know it .
+B: Oh yeah , I can know it .
+B: It's a Okay , that makes it easier .
+D: It's uh very hard to draw .
+B: I think I know .
+B: No , wrong .
+D: Mm .
+B: I think I know what you're trying to draw , but it's wrong already .
+D: It's very Fuck .
+B: Yeah , you missed the right side .
+D: F A little bit maybe , but Yeah .
+B: No , you're wrong , you're wrong See where you're wrong now ?
+B: The entrance .
+C: Warning .
+C: Finish meeting now .
+B: Alright .
+D: Okay , the entrance is uh more to the left .
+C: Warning .
+C: Warning .
+B: You're correct .
+D: Okay .
+D: But but but I think this part Oh .
+B: Yeah , but I think Oh no you made another mistake .
+D: Yeah , there are a lot of mistakes , because the walls are thick like this .
+B: No I w Okay , I'm not that whiny .
+B: But uh there was a big hole here as well , and there as well .
+D: Oh , that's true .
+D: Uh here .
+B: That's a kinda big mistake .
+D: Yeah , they're walking behind the walls .
+B: Warning , finish meeting now .
+B: Guys , I think we have to finish the meeting .
+C: Okay .
+D: 'Kay this is a hard one .
+B: Uh ?
+C: Boom-boa-ring-bing .
+B: What does it say ?
+C: Fill in the questionnaire .
+C: What now ?
+B: Come on .
+A: Okay , yeah .
+C: Okay .
+B: Yep .
+D: Okay .
+C: No more chit-chat .
+B: Oh you gotta finish over there ?
+D: Che-che-che-che .
+C: Yeah .
+B: In your own room ?
+D: Tu-dumm .
+B: I'm gonna be so lonely .
+D: Uh .
+B: Mm I'll clean that up later .
+D: This is That's my new interface .
+B: What's that ?
+D: That's a uh edited smiley .
+D: Tom-ti-dom .
+D: Uh .
+C: Okay .

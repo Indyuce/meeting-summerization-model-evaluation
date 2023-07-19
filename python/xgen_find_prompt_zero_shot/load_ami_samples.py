@@ -3,7 +3,7 @@ import os
 import random
 from datasets import load_dataset
 
-N_SAMPLES = 10
+N_SAMPLES = 7
 DATASET_NAME = 'ami'
 
 def mkdir(folder_path):
@@ -18,7 +18,7 @@ mkdir('input/' + DATASET_NAME + '/texts')
 mkdir('input/' + DATASET_NAME + '/summaries')
 
 dataset = load_dataset("TanveerAman/AMI-Corpus-Text-Summarization")
-train_dataset = dataset['train']
+train_dataset = dataset['test']
 left = list(range(len(train_dataset)))
 
 for i in range(N_SAMPLES):
@@ -41,5 +41,3 @@ for i in range(N_SAMPLES):
     target_text_file = open('input/ami/summaries/sample_' + str(i + 1) + '.txt', 'w', encoding = 'utf-8')
     target_text_file.write(reference)
     target_text_file.close()
-
-print(len(dataset['train']))

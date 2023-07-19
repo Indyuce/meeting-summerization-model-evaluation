@@ -1,22 +1,19 @@
-The project manager opens the meeting, asking the industrial designer to present first.
-The industrial designer begins talking about the functional aspect of the working design and features to make the product unique, such as visibility in the dark, locator alarm, and environmentally-friendly materials.
-To make an environmental impact, they could use smart materials that can be heated and cooled so that the individual components easily separate to be reused or recycled.
-The group asks some questions about this idea and then the interface designer presents about technical functions, explaining the difference between a multifunctional and single function remote.
-The group discusses the two types and decides that a single function design is more suitable for the budget.
-The marketing expert presents on user requirements by using research done on remote control users.
-She summarizes these findings andexplains her personal preference for a user-friendly, unique design since certain features could be too complex.
-The project manager receives some decision-affecting information from management, which she shares with the group.
-They have a discussion about the remote control functions and close the meeting.
-*NA*
-The remote will be a single function design- television only.
-Teletext is outdated and will not be used.
-Remotes must incorporate corporate logo and color.
-No LCD, no voice recognition.
-Alarm locator will be implemented.
-Glow in the dark buttons, self-timed lighting.
-Will consider using number-shaped buttons.
-Will research changable covers.
-Will reserach environmental factor.
-Need to research on whether locator device will need a separate battery.
-Need to research possibility of changable covers.
-Need to research using envrionemntal materials.
+The project manager presented the agenda and the minutes from the previous meeting.
+The group discussed speech recognition , whether the remote should slide open or fold open, and what type of chip they should use.
+The designers presented the prototype, which resembles an ipod in appearance, and is made of transparent coloured plastic.
+The colours will be changeable.
+The remote has both buttons and a scroll wheel.
+The number buttons have a back-light.
+The group discussed adding extra buttons/functions.
+The prototype was evaluated and received an average overall score of 1.8.
+The project manager went through the finances, and the total cost came to 12.3 euros, although this did not include the cost of the recharger, which was not on the price list.
+The group evaluated the project process, and were generally pleased with their creativity and teamwork, but were unsatisfied with the equipment.
+The group have to fill out a final questionnaire.
+The remote will be made of hard, transparent coloured plastic, and will come in different colours.
+The remote will include buttons and a scroll wheel.
+The remote control will feature speech recognition and a slide-out second level.
+The designers had not included the slide-out second level in their drawing of the prototype.
+The group were unsure how many extra buttons would be needed for speech recognition.
+The group felt the information they got was not always useful, or was not given to them at the right time.
+It was felt that the group should have received the information about costs before designing the prototype.
+The group had problems with the smart board and digital pens.

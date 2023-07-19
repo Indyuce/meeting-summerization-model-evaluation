@@ -1,22 +1,26 @@
-The project manager briefed the team on some new requirements to consider when designing the remote.
-The user interface designer presented two existing products and discussed what was wrong with each product.
-The team discussed how to create a remote which did not include the problems present in the existing products presented by the interface specialist.
-The marketing expert presented consumer preferences and requirements and the team discussed who their target demographic should be and whether to include speech recognition in their product.
-The industrial designer discussed the interior workings of a remote and the team discussed various options for components and energy sources.
-The team then discussed features to include in the remote and what they could do to figure out how to categorize them.
-The industrial designer will work on the components concept.
-The user interface designer will work on the user interface.
-The marketing expert will work on trend watching
-The team will not work with teletext.
-The remote will only control televisions.
-The corporate color and design must be incorporated into the design of the remote.
-The remote will have buttons for the following functions: on and off, channel up and down, volume up and down, and entering channel numbers.
-The remote has to look good and be easy to use.
-The target demographic is people aged fifteen to thirty five.
-The remote will use an infra-red sensor.
-The remote will use regular batteries.
-How to categorize the functions on the remote.
-How to implement the categorization of functions in the design of the remote.
-Defining a target demographic.
-Whether to include speech recognition as a feature in the remote.
-How to incorporate more advanced functions into the remote while keeping the design and usability of the remote simple.
+The project manager recapped the decisions made in the previous meeting.
+The industrial designer discussed possible materials to use in making the case for the remote, options for buttons, and options for batteries.
+The interface specialist presented two existing products which incorporate features the team is seeking to embed in their remote.
+The interface specialist also discussed other features to possibly incorporate into the design of the remote, such as an LCD screen.
+The marketing expert discussed recent findings from trend watching reports and how to incorporate these findings into the remote design with respect to what materials to use and the overall appearance of the product.
+The team then discussed other options for how they could incorporate a fruit and vegetable theme into the appearance of their product.
+The team then discussed other options for batteries, chips, buttons, and materials for the case, as well as the option to have a menu function.
+Two members of the team will work on creating a prototype using modeling clay.
+The industrial designer will work on the look and feel of the design and will gather more information on curved and double-curved case options.
+The marketing specialist will work on product evaluation.
+The interface specialist will continue to work on the interface concept
+The target group comprises of individuals who can afford the product.
+The remote will use a kinetic battery.
+The remote will have a latex case.
+The remote will be made in fruity colors.
+The remote will have some sort of a curved case.
+The remote will have pushbuttons.
+The remote will have a power button, volume buttons, channel preset buttons, and a menu button.
+The remote will have a simple chip.
+Having an LCD on the remote versus a menu that is viewed on the television screen.
+Whether to use latex or titanium for the case.
+How to incorporate a vegetable and fruit theme into the design of the remote.
+What sort of circuit board to use.
+Whether to use a simple, regular, or advanced chip.
+Whether to use a scroll wheel or pushbuttons.
+Whether to have a flat, curved, or double-curved case.
