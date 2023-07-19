@@ -1,0 +1,33 @@
+{
+  "annotator": "Virgile",
+  "meeting_objective": "L’objectif de cette réunion est de faire un reporting sur divers sujets, notemment, l’IA, les réseaux sociaux, Amazon, et la transition numérique. Dans cette réunion, les participants discutent de leur point de vue et s’explique différents sujets.",
+  "agenda": [
+    {
+      "subject": "Amazon",
+      "minutes": [
+        "Véronique parle d’Amazon, qui est selon elle un acteur beaucoup trop polluant, avec trop de camion, à moitié vide. Bastien débat de son diagnostique, justifiant qu’un camiono est moins polluant que l’équivalence en voiture de chacun des paquets. Le sujet devient alors l’optimisation, comment remplir les camions. Les participants discutent d’une campagne en ligne, visant à convaincre les gens à ne pas attendre une livraison en 24h, afin d’augmenter les charges des camions. Un autre sujet est finalement la taille des colis, qui n’est pas optimisée aux objets, qui résulte en un gaspillage de carton trop important."
+      ]
+    },
+    {
+      "subject": "L'IA",
+      "minutes": [
+        "Bastien parle des IA, de leur omniprésence dans notre monde, que ce soit sur internet, les jeux vidéos, les véhicules autonomes, ou, plus précisément dans ce contexte, pour la création d’emballage sur les plateforme de vente sur internet. Il nomme aussi certaines limites de l’IA, avec l’augmentation de leur autonomie, citant des drônes armés qui auraient pouvoir de vie ou de mort."
+      ]
+    },
+    {
+      "subject": "Les réseaux sociaux",
+      "minutes": [
+        "Nelly enquête sur les réseaux sociaux, à la recherche d’influenceur qui sont intéressés pour faire la promotion de l’association, notemment sur instagram, facebook, snapchat et TikTok, qu’elle nomme, car c’est une plateforme utilisée par une démographique jeune, qu’il est important d’atteindre afin de pouvoir les conditionner. Les réseaux sociaux sont aussi au sujet lors d’une discussion sur la transition numérique. Jean Marc affirmant qu’il ne faut pas essayer d’encourager les personnes âgées, qui ont des biais négatif sur le sujet, à les utiliser, car cela donnerait une mauvaise image de l’association à cette démographie."
+      ]
+    },
+    {
+      "subject": "La transition numérique",
+      "minutes": [
+        "Jean Marc parle brièvement de transition numérique. Il explicite l’importance de ce sujet avec un exemple : 40% de la population française a plus de 60 ans. Leur apprendre à utiliser internet, c’est augmenter potentiellement de 40% la clientèle de l’association. Il dit rapidement que les réseaux sociaux ne sont pas à promouvoir auprès des personnes âgées."
+      ]
+    }
+  ],
+  "abstractive_summary": "Quatre participants d’une association reportent sur différents sujets. Bastien parle d’IA, Nelly sur les réseaux sociaux, Jean Marc sur la transition numérique, et finalement Véronique sur Amazon. Nelly informe l’équipe de son effort de popularisation de l’association sur les réseaux sociaux, comme Instagram. Bastien discute de l’évolution de l’intelligence artificielle, omniprésente, ainsi que de leur défauts, citant spécifiquement le problème d’autonomie pure d’un drone armé. Jean Marc discute de la population agée, qui doit être éduquée à l’utilisation d’internet, citant les 40% de gens de plus de 60 ans qui ne peuvent être touchée par leur campagne d’informations. Véronique parle ensuite d’un sujet qui fait polémique, Amazon, qui est selon elle trop polluant. Bastien est en désaccord, expliquant qu’un camion fait plusieurs livraisons qui serait, individuellement, faite par des civils en voiture. Le reste du reporting parle de méthode d’optimisation de remplissage des camions, avec des propositions de méthodes, comme des campagnes sur les réseaux sociaux contre les livraisons en un jour. Un autre sujet de discussion est la taille des paquets pour certains colis.",
+  "vocal_summary": null,
+  "meeting_code": "021a_PARH"
+}
