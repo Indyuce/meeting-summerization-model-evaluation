@@ -1,4 +1,288 @@
-Speaker A: Just go to explorer. Or open. Participant two. Open uh. Slide show, view slide show,. One is a communication. Gateway arrays. It's a field programmable gateway arrays. Yeah. Or it's something like isn't hardware the first one? And the second one is for the software. Yeah to run th to make it run. That's it. No. Okay, and how about the battery power? Uh you mean that battery would be somewhere there and the remote contro the power to the battery comes through infrared? Into the more compact and uh okay,. Yeah, yeah. Okay. Yeah, that's right. Having a charger rather than putting the battery cells always. People don't like it to have to buy the batteries when they run out. We just make a small charger and put it Bu Our remote, we do not want to make it P_D_A_. G Yeah, not the T_V_s. Yeah. Yeah, that's right. Yeah, that's right. Oh, but you have a catch there, um assume that um if you want to go to if you are watching channel two and if you want to go to channel ninety nine, then. Uh-huh huh huh huh. Mm-hmm hmm hmm. But Yeah then yeah that's right. Mm hmm hmm. Okay. Okay. too small that it goes under the sofa and we can't find it. Yeah, that's. just give it a name and we call him. Yeah, that's right. Yeah, that's right. Okay, after having the inputs from industrial design and user interface, I think most of the points which I want to are already covered here. And to find the most interesting features what the users would be interested, then what we have done is we have put a feedback forms in all the magazines, and the users send the feedbacks, and based on that These are the findings which we got and yeah adding of a speech interface is always good for a T_V_ remote but the technology We already know that as discussed earlier An it does how feasible it is. Oh we can put an limited vocabulary as in the mobile phones. We just have the it's not going to take much space also. It's going to be very slim. And next one was the size of the remote control. It has to be of course a very slim and small one. And of course most of the people are interested in if it's less expensive, so this is an important criteria here is I mean we have to look for a trade-off. The features and the cost. Little bit more if it's with extra features. Okay. Yeah, yeah. That's right. I mean, for a lazy guys they could say nine and the nine channel comes. Or they say movie name or I don't go for movie names but only for the numbers on the channel, or volume up, volume down, brightness, contrast. So, I think this should be a good idea, to put this features. And the fourth one was the teletext in various languages. Mm, I think Yeah as discussed in the earlier meeting, but I think uh not much people are really interested in this point if it's not really required. I mean I mean yeah, it's for the um industrial design and users interface designers to decide if it's going to be working or not. I think I think as I discussed th that four points would be good for um marketing. The speech interface and uh less uh reasonable uh cost. And the lighting adaptation and the teletext. And regarding the teletext uh these are the subtitl these are the text information which you got on the televisions. If you are watching an foreign movie, you get subtitles sometimes. And uh if you are a French guy watching an English movie you would like to have it in French. And if I am a German then I would like to have the my options in German. So, the remote it should have some it should give me some flexibility of choosing the ch languages. That should be a good uh point. We already have some. Yeah, that's right. Yeah,. Okay, thank you.
-Speaker B: Okay. Okay. Yeah, alright. So uh Well I have a PowerPoint pr presentation stored in my in my personal folder so I I I think you can reach it from here. Participant two. Yeah. Uh open. Right, so um I will talk about the the w working design and And um well I I will present my my first idea on how to build the our new remote control for television. So uh can you go one page down, please. So I think the first things to do is to define the hardware components neededs to achieve uh what we want to do. So uh mm I'm thin uh I think uh I I'll do a survey about what is uh what is available on the market and what what is the the cheapest possible things we hav we can use. Then uh I will try with the technical team to to build a prototype and to see uh with uh h how this little box would uh look look like. And how an and we can uh start troubleshooting first uh com communication problems or things like that. And when we are ready with this first prototype I I think we can add some software functionalities on a programmable chip like browsing by content or um things like that. Okay so can you go down uh So, wha what I think for now is we don't want to have a remote control w which is wired so uh I think we u we can use a battery for the. Then two programmable chips for both software functionalities and communication. And the communication with the T_V_ set is uh made through uh infrared communication So uh this is the the schema of the o of the future uh remote controls so uh you can you can see the components, uh battery and uh the two chips goes to the infrared uh connection to the T_V_ set. The one on top is for the um well the functionali the functionalities and the the th red um sorry the green one is is to well, putting things together, um f transform the data into uh qu into the format to to uh to communicate with the T_V_ set. And, that's it. I think we should use a F_P_G_A_ for for the functionalities which is easy to to t It's field programmable uh something array. Yeah. Well, uh a F_P_G_A_ is just a chip you can uh you can pr programme it uh wi with wh whatever you want. And uh well the Bluetooth chip is just responsible to uh make the communication uh between uh the two devices. No. Well, th the F_P_G_A_ will produce the the data to send. Yeah. Yeah. Alright and that's it for the working design. So if you have any questions? Uh no no no no, I think uh we have uh to to uh have uh embedded uh b batteries in in the yeah into the t. Yeah, yeah. And uh I I don't think it will need um very uh much power to make it run, so Yeah. It's a good idea. Yeah. That's a good idea. Also, but but I I I think uh the the goal is to sell our remote control. S okay, so charger for is the. Yeah. Of course. So we have to t We have to sell a T_V_ with the remote control too. I think there there is there is al there there is a a technology like show view who is already available on most of the T_V_ set on recorders or thing like that and we can try t to get this information on to the remote control to to do the processing on the remote control because Yes, that's a good idea, I think. We d we don't we we don't need really much buttons to i if we have a screen to navigate on on the T_V_ so uh Well, f four five buttons, it's sufficient. It's easy to build, it does not consume much power. Well, then y you you go to the main menu and uh you have uh go to channel and then uh you can Yeah. Maybe you. but uh I I think i i if you if you want to to make uh well a a big jump but uh well you you have to to have a a a device when you could you could Well, not a mouse but uh something that that says more clearly that uh right, left, up, down, well, the to have the ability to to to write something to the navigator, maybe directly, or So, we can think of buttons like in the telephone to send messages or things like that. But we'll see. Okay, so uh next presentation Mm. Well I I think it will be a, yes, a bit complicated to um make a speech recognisers runs on the small uh ts Yeah. And this can allow to choose the the program, for instance without uh adding uh buttons so it's a good idea. Yeah. Yeah, s s speech is a important extra feature I think Well, uh Well, we are we we just have to find a mean how to to add a m a a a microphone or uh well yes a microphone into the the remote control, so I well it will be alright. Yeah. Okay. Yeah, I think it's a bit complex too For our next product, our new T_V_ set with uh automatical uh sound adjustment light. Function. Yeah, but well what about the the new project's requirement? I I I think we should give up with teletext, no? Yes. Well, so maybe we we can j we can already think uh about a way to to access the internet via the television. Because if Yeah, but uh we can think that in a few years there will be T_V_ set that can access the internet. So it's a good idea if i i if we i if if we uh think about how to to to build up our remote uh control w with this functionality in a w which will c which will come in a few years. So if we already have it in our remote control Yeah. Yeah. Yeah, to desi well, not not to implement it, but to well, to find a way to to add to add this functionality in a yeah, in an in an easy manner, if is possible. Yeah, yeah. Okay. So Okay, thank you.
-Speaker C: Mm-hmm. Okay. Because it's open you mean. F_ five. Did you draw it? This. What is the other chip for? The one on top. For men. To the in Okay. Mm. What is F_P_G_A_? So why's it how is it different from the Bluetooth? Yeah. Programme it. Okay. Yeah. Uh So this are the they have to work together? Or? Do they have to work together or two separate choice Okay. Is the is the software par alri okay. Okay, okay. So you can control if you want, right? Mm. Mm. Mm. Mm. You can put it on the charger when uh you when you don't need to use it. Yeah. Yeah, yeah. Yeah. Mm. Uh mm. Y yeah, yeah. Because you are using because you are using Bluetooth, if some people have P_D_A_ they can use their P_D_A_ to control the T_V_ if they want to, right? I dunno. So is mine. Oh. Yeah, this your Yeah. So you can open uh three. Yeah. So So I'm working on the technical functions design. can you show the next slide. So the the purpose is to to find uh the important questions to ask is what effect should the apparatus have. So so I found on a webs on the internet yeah. I spent a lot of time searching and uh and I found that uh the function of remote control is to send messages to television set. For example switch on, switch off, switch the next channel and so on and so on. So I found two very good prototypes for for this interface from our competitors so can you Yeah, yeah, yeah. Ours is a bit uh different. So these are two example. One is from the other one is from, yeah, uh engineering centr yeah. This is the most competing prototypes I've found. But then uh loo but then I found if you look at you see on the left one there are too many buttons Yeah. O on the right I tried to play with the problem is that uh if I have hundred channels I have uh I have to choo press the other button to choose the hundred channels and I have to compose the number so it's very lousy. So you so you move to the next the next one. Yeah, so I talk about the problem. And then I I look at the user manual they are a hundred pages thick, so we don't want that. So I propose the easy to use uh prototype. You can navigate on T_V_ screen and we can the user's preference and we need to have the T_V_ connected to internet so we end in order to access the T_V_ programmes by X_M_L_ and we need some to do some preprocessing. From the technical aspect, the processing should be done on the T_V_ set than on the on the remote controller, right? And then we the speech recognition as uh Harry says we may just put in we may K_I_V_. Yeah, all the processing is done the T_V_ is a compu has some processing power the Yeah. Yeah because are you just wondering what controller okay. Yeah. Okay. Yeah. Okay. So i the processing on on the remote controller so it can u be used in any T_V_, any conventional T_V_ sets? Mm. Okay. N yeah, that's all. The next one? So I come up with a simple design, just keep the v navigation buttons. Yeah. Yeah. Yeah. Mm. Okay, that's all. Mm. Mm. No, because you choose by channel, so you choose by T_V_ program so you don't have hundred channels to choose from. If you go by channel, you don't have to do that. Ah. Ah, a big jump. A mouse or Yeah. Mm. Mm-hmm. Uh it's gonna be small. Yeah. So it'll beep if you wanna find it you just uh shout y h just it just has to re respond to you when you look for the device. I dunno how bu And responds to you, and I- mm. But I think if you to recognise numbers it's a well-studied problem. I if you just recognise uh numbers is a limited you have limited vocabulary Mm. Yeah. Mm. Mm. Mm. But Mm. Yeah. I no I I think that uh i if we go for quality people may tolerate for high quality and of course comes with uh reasonable cost. Maybe not less, but they may be willing to pay little bit more for comfort, yeah, extra features. Mm. Yeah. Mm. Mm. Mm. What is the teletext? Mm. It is interesting but we are only concerned with the remote controller. So you need s special T_V_ sets to do that? Or it's it's done via this remote controller? It's very complex. Mm. Yeah, then we can conclude that. Yeah. Yeah, but it's quite possible but maybe not in this project. Mm. Mm. Okay. Yeah. Okay. Mm. Mm. Using the T_V_ to access the internet? Or what? I didn't quite understand Yeah, okay. Yeah. The future demand, market demand. The functionality in the future. Alright. Yeah. Because all the T_V_ sets will be digital, right. All the programmes, everything will be in digital than analog. Th the system will change and we have to anticipate for those change. Okay. Thank you.
-Speaker D: So we come again for the the second meeting. Uh for the aim of this meeting now is to to make presentation about uh the work for each one. And take the the decision about the the design and the functionality of the the remote control. And we have think I got a new project requirement. So I think uh teletext becomes outdated. So the popularity of the since the popularity of the internet, and I think we don't need lighting adaptive, so the remote control should be only used for the the television. And of course we should have our image in the in the design. So, let's start with the the industrial designer.. Or y you can use the whiteboard if you want. Here. Oh okay. This one. Do you want to open Ah. Wow. This. You can i yeah. Ma Yeah we can change the b. Yeah. Um. It's mine. Participant one, no? Mm. Oh we have so let's move to to user interface design. Participant During the weekend. That's good. Mm-hmm. This are usual functionality. Tasks. And they are small. Mm-hmm. Yeah. What do you mean by the pa pa processing will be done on the T_V_ than the So we should have specific T_V_? Or? We can use this. Yeah, we don't Yeah, I think so. J j just the remote control. Mm. Yeah, we. Yeah. Speech recognition. Keep the navigation but. So you are Mm. How the this remote? Yeah, of course small. Participant four. So Harry. Mm-hmm. But do you think what they sug suggested s possibility. Yeah. It Yeah. But is it useful or not u I don't know. There is in the Mm. I think i If it's necessary can you can do that. We can integrate small microphone in the remote so it's not really a problem. What about lighting adaptive options? According to the re to the new requirements I think we don't need that. Yeah. Mm. So we have I think we have s still we have couple of minutes. Mm-mm. So any things to to discuss? Or any suggestions? Expensive. Price. I think we we can we is the. Yeah. So you have to anticipate the the future?. In future. Okay. So let's go for the the lunch break, and we will meet after.
+<ID> Hmm hmm hmm.
+<PM> Are we we're not allowed to dim the lights so people can see that a bit better?
+<ID> Yeah.
+<PM> Okay, that's fine.
+<PM> Am I supposed to be standing up there?
+<ME> So we've got both of these clipped on?
+<PM> Okay.
+<ME> She gonna answer me or not?
+<PM> Yeah, I've got Yes.
+<ME> Right, both of them, okay.
+<ME> God.
+<ME> Jesus, it's gonna fall off.
+<ID> Okay.
+<ID> Yep, yep.
+<ID> Okay.
+<PM> Okay.
+<ID> Tu tu tu tu Hi, good morning.
+<PM> Hello everybody.
+<PM> Um I'm Sarah, the Project Manager and this is our first meeting, surprisingly enough.
+<PM> Okay, this is our agenda, um we will do some stuff, get to know each other a bit better to feel more comfortable with each other.
+<PM> Um then we'll go do tool training, talk about the project plan, discuss our own ideas and everything um and we've got twenty five minutes to do that, as far as I can understand.
+<PM> Now, we're developing a remote control which you probably already know.
+<PM> Um, we want it to be original, something that's uh people haven't thought of, that's not out in the shops, um, trendy, appealing to a wide market, but you know, not a hunk of metal, and user-friendly, grannies to kids, maybe even pooches should be able to use it.
+<PM> Okay, um, first is the functional design, um this is where we all go off and do our individual work, um what needs need to be fulfilled by the product, um what effects the product has to have and how it's actually going to do that.
+<PM> Um, conceptual design, what we're thinking, how it's gonna go and then the detailed design, how we're actually gonna put it into practice and make it work.
+<ID> 'Kay.
+<PM> Okay, right.
+<PM> We're gonna practice with the pens and draw our favourite animal on the white board, I'll go first, and um sum up the characteristics of that animal.
+<PM> So Okay, I'll leave space for everyone else.
+<ID> Oops.
+<PM> Um What's missing?
+<PM> We're running out of blue.
+<PM> Okay.
+<PM> I'm not gonna ask you to guess, I'm going to tell you that's supposed to be a tiger.
+<ID> Mm.
+<PM> And I see them as majestic, and independent, and proud.
+<ID> Oh sorry.
+<ID> Mm-hmm.
+<PM> Now, who would like to go next?
+<ID> Yeah, me.
+<PM> 'Kay.
+<ID> Cat.
+<ID> Where did this come from?
+<PM> Is that your lapel then?
+<ID> Uh, yep.
+<PM> There you go.
+<ID> Thank you.
+<ID> Uh, maybe you can guess what I'm trying to make?
+<ME> A kind of dog?
+<ID> Yep.
+<ID> It's actually sitting, so it's sitting, it's not standing.
+<ME> Sorry?
+<UI> It's sitting down.
+<ME> Uh.
+<ID> Okay, I see it as one thing it's very supportive.
+<ID> It's your best friend and your you can talk to a dog, it can be your best friend, it doesn't discriminate between you, based on what you are.
+<ID> Second it's loyal and third thing it's got intuition.
+<ID> dogs can som sometimes can make out between a thief and a person so basically these are the three unique features I think belong to a dog.
+<ME> Mm-hmm.
+<PM> Okay, thank you.
+<ID> Thank you.
+<UI> Yeah I'll have a go.
+<ID> Okay.
+<ID> Sorry.
+<ME> Please, please leave me a space at the bottom, I'm little, you can get to the top, with standing on a chair.
+<UI> Thanks.
+<UI> Alright, okay.
+<UI> Well since you guys have chosen the ones I wanted to do, I'll have to have to go for something a bit random.
+<PM> Okay.
+<ID> Does it look like a dog actually?
+<UI> And also, my drawing skill isn't that great so, yeah.
+<PM> Well, as you can see, the quality of the work today is um Gonna be a bird.
+<ID> Mm.
+<ME> I think it's outstandingly good.
+<UI> Okay, now I'm gonna have to change what is was originally gonna be because that looks like a beak now, so.
+<ME> Crocodile?
+<UI> Yeah, it can be a crocodile, it can be a crocodile.
+<PM> Is it gonna be it's gonna be a bird.
+<UI> Well it was it was an at first firstly it was an attempt at a T Rex and then it sort of changed into a pelican but it can be a crocodile now actually.
+<ME> O Beauti that's Okay.
+<PM> That's lovely.
+<UI> Yeah and uh I'll have to think on the spot of uh things that it is.
+<UI> Um uh scary, uh strong, yeah that's about it I think.
+<PM> Okay it's fine.
+<ME> Um, I'm very impressed with your artistic skills, mine's are dreadful.
+<UI> Uh uh Wo Hmm.
+<ME> Oops this is now coming apart, let me just put the top in.
+<ME> I hope that clicks in, I'll just I'll hold it on, okay.
+<ME> Oops, oh dear, what happened there?
+<PM> Technical help.
+<ME> Hopefully that'll stay on, two-handed version.
+<UI> Okay.
+<ME> Okay, uh Again this is off the top of my head, I was gonna do a big cat too, um.
+<UI> Uh S Uh Okay, some sort of bird.
+<ME> Oh dear, it doesn't look what like what I want it to be.
+<PM> Hmm.
+<ME> Uh.
+<ME> It's not a vampire bat honestly.
+<PM> Okay, yeah.
+<ME> Uh and somewhere there's a body behind.
+<ME> That's my dreadful that's the worst yet, that's it's meant to be an eagle you can tell it's a flying animal could have been a seagull, I never thought of a seagull.
+<PM> A seagu right, not a seagull.
+<UI> Ah eagle, right okay.
+<ID> Eagle, okay.
+<ME> An eagle, um again I'm thinking on my feet goodness.
+<ME> I suppose they're all so independent, I'd put that one down again.
+<ME> Da dum um.
+<UI> They're good at golf.
+<ME> Indepen independent, right, did you say they're good at golf?
+<UI> Yeah, no yeah, an eagle.
+<ME> Are they?
+<PM> Eagle.
+<ME> Oh.
+<ME> Oh right, okay, I'm not good at golf.
+<ME> I'd say they're quite free-spirited, flying around everywhere, doing their own thing.
+<ME> And uh, birds of prey aren't they, oh dear, intrepid.
+<PM> Mm-hmm.
+<ME> I'll put that, intrepid.
+<ME> There we go, hope that pen's gonna be okay.
+<PM> That's lovely.
+<ME> Whoops.
+<PM> Okay.
+<PM> That was fun, right.
+<PM> Um finance-wise, we've got a selling price at twenty five Euros, which I don't actually know what that is in Pounds, at all.
+<PM> Any ideas?
+<UI> It's about mm, mm yeah.
+<ME> Seventeen.
+<ID> One point four or something like that.
+<ID> One point four Euro would make a Pound or something like that.
+<UI> Yeah, yeah, something like that, so that yeah about seventeen, seventeen Pounds, something like that.
+<ID> Yeah.
+<PM> D fifteen?
+<ME> Seventeen Pounds.
+<PM> Seventeen.
+<PM> Okay, that's expensive.
+<ME> Should we be making notes of this?
+<ME> We can just refer to this later can't we?
+<UI> But Havi having said that though, if you wanna get one of those the the ones on the market at the moment they're s they're about twenty pounds anyway.
+<PM> I think so, I think so, I'll be able to um pull it up, or I could put it in the shared folder or something.
+<ME> Yeah, okay.
+<ME> Okay.
+<UI> So, it'd still be yeah, we had to buy one.
+<ME> Right.
+<PM> Really?
+<ME> So so I suppose later it depends if we want to undercut the price, we d or or is it going to make our product look a cheapie-cheapie option?
+<PM> Mm.
+<PM> I think Yeah, um production cost's at twelve fifty, so half of the selling price is taken up by building it.
+<UI> Hmm.
+<ID> Okay, pretty huge margin.
+<UI> Yeah.
+<ME> Mm.
+<ME> Mm-hmm.
+<PM> Um, and profit aim is fifty million Euros, which is uh Yi yes, um yeah, I presume so.
+<ME> In our first year?
+<ME> Mm-hmm.
+<ID> So then Mm-hmm.
+<PM> Um Mm-hmm.
+<ME> You've got market range international and you did say earlier it's got to be a um accessible and usable by sort of all age groups just t we're not focusing on business market, any particular thing, it's everyone user-friendly to everyone.
+<PM> No, yeah.
+<ME> Okay.
+<ME> Big target group.
+<PM> So yes, yes, I don't think we have to I don't think it's a case of worrying about different languages and things like that, um making that a key point, just that it's going to be in the international market like Australia, America, things like that.
+<ME> No.
+<ME> Mm.
+<PM> Okay.
+<PM> What are your experiences with remote controls?
+<PM> I mean I've got we got um we had three videos, a TV and a sort of amp thing all set up so we got one of the universal remote controls, um that you programme each of your things into, but that kept losing the signals so we'd have to re-programme it every now and again.
+<UI> Yeah.
+<ME> Alright.
+<UI> Yeah.
+<ID> Yeah, that c Okay, you wanna integrate everything into one like Okay.
+<PM> I think it was quite a cheapie as well, so that might have had something to do with it, but that was quite good, the fact that you could You didn't have six remote controls sitting in front of you.
+<ME> Mm-hmm.
+<UI> Yeah uh.
+<UI> Use all the ones at the same time.
+<ME> Right.
+<UI> Yeah, 'cause you Yeah.
+<ME> Mm-hmm.
+<ME> My experience has only been being given the remote control with the object I buy, not doing any tampering with it and programming, using it to programme TV and uh uh videos and things.
+<ME> But basically on, off, volume up and down, channel one, two, th that basic functions, I don't think I could go any further with it than that, so, I suppose it's got to be something usable by someone like me as well.
+<PM> Mm.
+<PM> Yeah, the main that's the main stuff anyway, I mean and you don't want to I hate I hate looking at a control and seeing a million tiny little buttons with tiny little words saying what they all do and just sitting there searching for the teletext button or something like that.
+<ME> Mm-hmm.
+<ME> Mm.
+<ME> Mm.
+<ME> And symbols that you don't necessarily understand, symbols you're meant to understand that you don't.
+<PM> Yeah.
+<ID> So simplification of symbols you could think of.
+<PM> Um.
+<PM> When they're when you've got the main things on the front of it and a section opens up or something to the other functions where you can do sound or options kind of recording, things like that inside it.
+<ME> Oh yeah.
+<ME> Mm-hmm.
+<PM> 'Cause it doesn't make when you pick it up it doesn't make it really complicated to look at, it's obvious what you're doing, um.
+<ME> Mm.
+<ME> Mm-hmm.
+<UI> Mm.
+<ME> Actually that just raises a point, I wonder what our design people think, but you know on a mobile phone, you can press a key and it gives you a menu, it's got a menu display, I wonder if incorporating that into the design of a remote control might be useful, so you've got a little LCD display.
+<ID> Mm-hmm.
+<ID> Menu, alright.
+<UI> Yeah.
+<ID> Uh uh Right, I was thinking on the same lines you, instead of having too many b buttons and make it complicated for the user, may h maybe have an LCD di display or something like that, like a mobile, yeah and with menus.
+<ME> With menus, yeah, yeah.
+<ID> And if it's s somewhat similar to what you have on mobile phone, people might find it easier to browse and navigate also maybe.
+<ME> Yeah.
+<PM> What about the older generation?
+<PM> What about granny and grandads?
+<PM> Um, my grandad can answer his mobile phone, but he couldn't even dream of texting or something like that.
+<ID> You mean to save it lesser number.
+<UI> Yeah.
+<ME> Mm-hmm.
+<ME> Mm-hmm.
+<ME> Can he programme his remote control or is it basic with that too?
+<ID> Right.
+<PM> I don't think they tape things, I don't think they use Mm, yeah, the age gap.
+<UI> Yeah, my grandad's actually better than me at using teletext, so.
+<ME> Right.
+<ME> Right.
+<ME> So that's a problem regardless of of any design modifications you you come up with, that's gonna be a problem anyway with the older generation perhaps, and that's another issue how we tackle that.
+<UI> Yeah.
+<UI> Yeah, what it just needs to be as long as it's sort of self-intuitive and you can can work out what everything's doing, 'cause I mean, menus on sort of new phones now they've sort of got all these pictures and stuff which makes it fairly obvious what you're trying to do.
+<PM> Mm.
+<ID> Mm-hmm.
+<PM> I don't know, I d I don't like the, you know the new phones that have kind of got a Windows-based running system.
+<UI> But I don't know how Oh yeah.
+<ME> Mm-hmm.
+<PM> I find it really confusing, I kept getting lost in the phone, I di I've not got a new one but uh my friend got a new one and I was trying to do things with it and I just kept getting lost, but that's just me.
+<ME> Right.
+<UI> Yeah, I don't I don't know how for twenty fi, or twelve Euros fifty how much of a excellent screen you could get, you'd you'd have to sort of keep it down to a black and white LCD thing anyway, I'd assume.
+<PM> Yeah.
+<ME> Mm-hmm.
+<ME> Is it possible that that for the older generation you could have like an extra button that you press for large print like you do in large print books?
+<ID> Okay.
+<ME> Obviously it displays less on the screen, it displays less on the screen but as long as they can read it that's the main thing.
+<PM> Teletext has got that option as well.
+<PM> Yeah.
+<PM> Or what about kind of a dual function?
+<PM> In that you've got the basic buttons just for your play, volume, programme things and also and then a menu to go into with obvious pictures, obvious symbols and that's where you control recording and things like that.
+<ME> Mm-hmm.
+<ME> Yeah.
+<ME> Mm-hmm.
+<ME> Mm.
+<ME> The other thing is, just ch chucking into mobile phone f design features again, it could have a flip top remote control so that when you flip over the top, your screen is you can have a bigger screen in the the flip over.
+<PM> Mm-hmm.
+<ID> Mm, okay.
+<PM> I think that's a cost thing, I don't I don't know how much we're gonna know about Yes, no that's important.
+<ID> S It might it might save a b bit of space, it's i instead of looking bulky, it might look small.
+<UI> Y Yeah.
+<ME> Yeah?
+<ME> Mm-hmm.
+<ME> Yeah, like smaller.
+<ID> But it might have its cost implications.
+<PM> Okay.
+<ME> And there's no reason we need to make it look as fashionable and stylish as a mobile phone, it can still be lightweight plastic, you know?
+<PM> Mm.
+<ID> Right.
+<ME> Something that's easily moulded and produced.
+<PM> Yeah.
+<ME> Sorry I'm treading on your territory guys.
+<UI> No uh uh Yeah.
+<PM> Um, right, okay we've got half an hour before the next meeting, so we're all gonna go off and do our individual things.
+<PM> Um I think that's probably about it and then we'll come back and liaise again and I get to do another fantastic PowerPoint presentation.
+<UI> Just just a quick thing about the um about what you're saying about the uh does does it need to be fashionable?
+<PM> Sure.
+<UI> The sort of I I had a quick look at the company website and it's like the the uh we put the fashion into electronics, so I think think the whole design thing might be qui I mean you don't you you can still have plastic and it'd look quite good but Yeah.
+<ME> Ah right.
+<ID> Okay.
+<PM> Okay.
+<ME> Okay.
+<ME> Sure b y yeah.
+<ME> But yeah, I mean it doesn't have to be that, you know th that was my main point, we don't have to use metal, I don't know if using plastic does make it cheaper, I presume it would.
+<PM> Mm.
+<UI> Yeah.
+<ME> Yeah, yeah, yeah.
+<PM> I would it would probably.
+<UI> Yeah.
+<PM> I mean there's Sky remote controls and everything.
+<PM> They're kind of moulded and look a bit different, and the Telewest remote controls are silver plastic, which looks a bit smarter, so yeah I guess that's stuff we can think about.
+<ME> Right.
+<ME> Okay.
+<PM> Okay, so let's break it up there.
+<ME> 'Kay.
+<PM> Okay?
+<UI> Okay.
+<PM> So, see you in half an hour.
+<ME> Do we go back to our room?
+<PM> I think so, yeah.
+<ID> Mm, yeah.
+<ME> Yep?
