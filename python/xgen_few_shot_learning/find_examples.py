@@ -5,12 +5,7 @@ import os
 import random
 from datasets import load_dataset
 from transformers import AutoTokenizer
-from ../../archive/huggingface_login import perform_login
-
-MAX_SAMPLES = 10
-DATASET_NAME = 'ami'
-MAX_SEQUENCE_LENGTH = 8192
-WARNING_THRESHOLD = 2000
+from huggingface_login import perform_login
 
 def mkdir(folder_path):
     try:
@@ -18,22 +13,39 @@ def mkdir(folder_path):
     except:
         pass
 
-mkdir('input')
-mkdir('input/' + DATASET_NAME)
-mkdir('input/' + DATASET_NAME + '/texts')
-mkdir('input/' + DATASET_NAME + '/summaries')
-
-# Login to HF
 perform_login()
 # https://huggingface.co/datasets/TalTechNLP/AMIsum
-dataset = load_dataset("TalTechNLP/AMIsum", split='test')
+dataset = load_dataset("TalTechNLP/AMIsum", split='train')
+
+# Load model tokenizer
+model_name = 'legendhasit/xgen-7b-8k-inst-8bit'
+tokenizer = AutoTokenizer.from_pretrained(model_name, trust_remote_code=True)
+
+csv_file = open('sequence_token_length.csv', 'w', encoding = 'utf-8')
+
+for i in range(len(dataset)):
+    
+    # Sample info
+    sample = dataset[i]
+    summary = sample['summary']
+    transcript = sample['transcript']
+    id = sample['id']
+
+    tokenized_length = len(tokenizer(dialogue, return_tensors="pt").to('cuda')['input_ids'][0])
+
+    # Write
+    csv_file.write(id + ' -> ' + str(tokenized_length))
+
+csv_file.close()
+print('Done!')
+
+"""
+
 print(dataset.features)
 print('Found total of', len(dataset), 'samples')
 indices = list(range(len(dataset)))
 random.shuffle(indices)
 
-model_name = 'legendhasit/xgen-7b-8k-inst-8bit'
-tokenizer = AutoTokenizer.from_pretrained(model_name, trust_remote_code=True)
 
 def format_transcript(transcript):
     return transcript.replace(' <', '\n<')
@@ -51,7 +63,6 @@ for random_index in indices:
     dialogue = format_transcript(dataset_sample['transcript'])
 
     # Check dialogue length
-    tokenized_length = len(tokenizer(dialogue, return_tensors="pt").to('cuda')['input_ids'][0])
     if tokenized_length > MAX_SEQUENCE_LENGTH:
         print('-- Skipped high length sample ' + id + ':', tokenized_length)
         skipped += 1
@@ -69,3 +80,5 @@ for random_index in indices:
     target_text_file.close()
 
 print('Found', counter, 'samples after skipping', skipped, 'samples')
+"""
+
