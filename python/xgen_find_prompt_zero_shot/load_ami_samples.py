@@ -25,7 +25,7 @@ mkdir('input/' + DATASET_NAME + '/summaries')
 
 # Login to HF
 perform_login()
-
+# https://huggingface.co/datasets/TalTechNLP/AMIsum
 dataset = load_dataset("TalTechNLP/AMIsum", split='test')
 print(dataset.features)
 left = list(range(len(dataset)))
