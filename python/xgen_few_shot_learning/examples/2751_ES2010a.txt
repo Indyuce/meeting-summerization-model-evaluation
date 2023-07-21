@@ -1,0 +1,207 @@
+<ID> Okay.
+<ID> Hi everybody and welcome to our kick-off meeting um for our new product that we're gonna be designing.
+<ID> Um I'm Mandy and I'm the Project Manager.
+<ID> And I know all your names again, Courtney, Fenella and Amber.
+<ME> Yep.
+<PM> Yep.
+<ID> Alright.
+<ID> Okay, so first let's go through this PowerPoint.
+<ID> I wonder what button I press?
+<UI> Just do it on the arrow.
+<ID> Yeah, or how about I just click?
+<ID> Okay, here is our agenda for this meeting.
+<ID> Um we're gonna start with our opening which was our introductions.
+<ID> We're gonna get to know each other a little bit better.
+<ID> Um tool training, we're going to, I guess, figure out what to do on this project with our individual roles.
+<ID> Um we're gonna make a project plan and then have some time for discussion and close up the meeting.
+<ID> Okay, here is our project.
+<ID> We're gonna make a new remote control that's um original, trendy and also user-friendly.
+<ID> And how we are going to do it is each of us is going to um We're gonna have discuss the functional design first, how is it gonna be used, what's the actual goal here, it has to operate TV, blah blah blah.
+<ID> And we're going to do individual work on that and then meet.
+<ID> Same thing with conceptual design.
+<ID> Just the basic overview of the project and then we're going to do individual work, meet.
+<ID> That's pretty much the the whole process for today.
+<ID> And then the detailed design, just more in-depth, get the actual schematics of the remote.
+<ID> Okay.
+<ID> Alright.
+<ID> First we're gonna start off by using our tools.
+<ID> And the whiteboard thing, do you guys wanna give that a try even though the ink wasn't working or do you wanna do it on here.
+<PM> I think we should forgo the whiteboard since we can't actually see what we're writing.
+<ME> We could Yeah, we could on here.
+<ID> Alright, let's go forward then.
+<ID> Um right now so we're all gonna draw our favourite animal and then sum up our favourite characteristics of that animal.
+<ID> Even if you are not a good drawer like me.
+<ID> Alright.
+<PM> Artistic skills, nil.
+<UI> Fine.
+<ID> Um.
+<ID> Bless you.
+<ME> Oh, thanks.
+<PM> I draw like I'm in grade five.
+<ID> Oh do I.
+<ID> 'Kay, about one more minute.
+<ID> Okay.
+<ID> Okay.
+<ID> And who would like to start us off?
+<ME> I'll go.
+<ID> Alright.
+<ME> Um this is my picture.
+<ME> I drew fish I like fish, because uh, you know, their whole water-vascular system thing.
+<ME> It's pretty cool, and um they've got a pretty good habitat and they are pretty sometimes, sometimes vicious but that's okay.
+<ME> Yeah.
+<ID> Only if they're piranhas.
+<ME> Yeah, they they're easy, you know.
+<ME> Yeah.
+<ID> Alright.
+<ID> Who wants to go next?
+<PM> I'll go.
+<PM> I drew a kitty.
+<PM> It's pretty much impossible to tell that's a cat, but I love cats.
+<ME> No I I see it.
+<UI> No, I kne I knew.
+<ID> No, it looks like a cat.
+<ME> Yeah, it does look like a cat.
+<PM> I love cats because they're independent, uh they pretty much know what they want, they get it, they move on.
+<ID> I love cats, too.
+<UI> Yeah.
+<ID> I'm a cat person.
+<ME> I'm allergic to cats.
+<UI> Ah.
+<ID> Uh.
+<PM> I'm allergic to cats, too.
+<ME> Oh, okay.
+<ID> If you're around one I had a roommate who was um allergic, but if she was around my cat forever she became used to it, you know, it's weird.
+<UI> In my next life.
+<ME> Yeah, yeah, if you're around them for a long period of time Oh, yeah, this summer I, oh I had to live with cats.
+<PM> I still can't sleep with them in my room.
+<ID> Okay.
+<ME> It was crazy.
+<ME> Yeah.
+<ID> Okay, Fenella?
+<UI> Um, I drew a badger.
+<ME> Cool.
+<PM> Yay.
+<ID> Badger.
+<UI> Well, yeah.
+<ID> Good choice.
+<ID> Why a badger?
+<UI> Uh I dunno, they're grumpy and nocturnal and Well, a little bit like the Yes.
+<PM> Are you trying to suggest something?
+<UI> Um.
+<UI> And then, if you know Wind in the Willows badger.
+<ME> Oh, okay.
+<UI> Yeah and then uh I don't know if you know Brian.
+<UI> He's Liverpudlian writer.
+<ID> Alright.
+<UI> Um, that kind of books.
+<UI> Badgers are cool in that one too.
+<ID> Okay.
+<ID> And I'm last.
+<ID> 'Kay.
+<ID> Look at my sad sad giraffe.
+<ME> No, that's good.
+<ID> No, no, no, it ends up looking like some kind of a dinosaur, but whatever.
+<ID> I don't know even much about giraffes, but I just love the way they look.
+<ID> They're just such odd creatures, you know.
+<ID> I I like that they're so unique and individual, I guess.
+<ID> I don't know much about their behaviour or anything, though.
+<ID> Only seen a couple in zoos.
+<ME> You don't really have to, I mean, if you like 'em Right.
+<ID> Yeah, but you can appreciate the way they look.
+<ID> Okay.
+<ID> Alright.
+<ID> Guess we're getting straight back into business here.
+<ID> Um the selling price for our remote is going to be twenty-five Euro, and our profit aim is fifty million Euro.
+<ID> We're going to make this an international product marketed in the States, in Europe, in Asia.
+<ID> And um our production cost to make that profit is gonna be a max of twelve fifty Euro per remote.
+<ID> Okay.
+<ID> So we're gonna talk for a little while.
+<ID> Um here are some topics that we might be able to discuss.
+<ID> Expe our experiences with remote controls um, our first ideas about this new remote, anything that you can bring to the table for this project.
+<ID> So.
+<UI> Now?
+<ID> Yeah.
+<ID> You wanna start us off?
+<ID> Anybody have anything to offer?
+<PM> Well, we wanna make a multifunctional remote, right?
+<ID> Right.
+<PM> One remote for everything.
+<UI> And everything being Wait, we have what, sound system, TV, DVD, VHS, uh TiVo?
+<PM> Um.
+<PM> I think they'll be phasing VHS out shortly.
+<ME> Yeah, TiVo.
+<ID> TiVo.
+<UI> But it's still there, so if po if we're gonna do it Or if it's not like a Sony, if it's like a I don't know.
+<PM> Okay.
+<ME> It needs to be compatible 'cause universal remote controls are never universal.
+<ID> They're never universal.
+<ID> That's right.
+<ID> Esp e especially if you buy a a not big product, DVD player, say, usually it doesn't work if it's not one of the Yeah.
+<ID> Yeah.
+<ID> Something from Sam's club.
+<PM> So we'll have to figure it how to cover all the different variances in signals.
+<ID> Yeah.
+<ME> And what we need an insanely good instruction booklet, because you always have to reconfigure all your contraptions to go with the remote anyways.
+<ID> Yeah.
+<ID> 'Kay, and um another thing that I think is important is the d the design of the product, how it feels in your hand.
+<ID> If it's just flat and kind of boring th those don't Nobody wants to buy those any more.
+<ID> They want the ergonomic ones.
+<ME> They want like the flashy lights.
+<ID> Yeah.
+<ME> Oh like this came from Las Vegas.
+<ID> Ones that ones that look high-tech, too.
+<UI> But at the same time are simple.
+<ME> Mm yeah.
+<ID> Right.
+<ID> So that people like my mother can use it.
+<PM> What about something with the curvature like that matches the curvature of a hand?
+<ID> Yeah.
+<ID> 'Kay.
+<ID> Anybody have any experiences with remote controls that they can remember that Yeah.
+<UI> Just bad ones.
+<ID> That's true.
+<UI> Um.
+<PM> What kinda battery would we want to use?
+<PM> Because battery changing is usually Okay.
+<UI> D Double A.
+<ME> Double A.
+<ID> Do some of them use triple As though?
+<ME> Yeah some use triple As.
+<UI> Some but Yeah, I guess then it's If we need to do triple A we can, but most people usually have double As around.
+<ME> So double or triple?
+<ID> Okay.
+<ID> Okay.
+<ID> Yeah.
+<ID> But that has to do with the size of it too.
+<UI> Right.
+<PM> Yeah.
+<ID> Well, w as long as we know that issue is Here we can Triple A.
+<ME> Yeah, if we want it to be more thin, then we'd probably wanna go with a triple A.
+<PM> Can you with a small lithium battery?
+<ID> But it's okay, we don't have to decide about it now, just as long as we remember battery type and size is important.
+<ID> Hey.
+<ID> Anything else?
+<ID> Alright.
+<ID> Moving along.
+<ID> Oh, we're closing the meeting.
+<ID> Next meeting is gonna start in thirty minutes.
+<ID> Here's what we're going to do.
+<ID> Um the ID, which is who?
+<ID> Okay, you're going to think about the working design.
+<ID> What do you think that means?
+<ID> Okay.
+<ID> And UID, the technical fun functions design, making sure it does everything that we need the remote to do, the functionality of it, operating all those different things.
+<UI> Mm-hmm.
+<ID> Okay.
+<ID> And the marketing person, that's Courtney, is going to do the user requirements specification.
+<ID> I guess that means specifying um what exactly the user is going to be looking for.
+<ID> Right?
+<ME> Right.
+<ID> I would think so.
+<ID> Okay.
+<ID> And you're gonna get more specific instructions emailed to you in just a little while.
+<ID> Okay, so does anybody have anything they wanna say before we close the meeting?
+<ID> Okay.
+<ID> This meeting is officially over.
+----------------------------------------------------------------------------------------
+The Project Manager introduced the project to the group and gave an agenda for the project as a whole. She then introduced a tool training exercise to acquaint the group with the meeting-room tools and to help them get to know each other. The Project Manager then presented the project budget to the group and presented the projected profit aim, the production cost, and the price point of the device. The group then began a discussion about features of remote controls and their own  experiences with them. They discussed making the remote universally compatible and ergonomically-designed, and types of batteries to use. The Project Manager instructed the Industrial Designer to work on the internal working design of the device. The User Interface Designer was told to work on the technical function design, and the Marketing Expert was instructed to research the needs of users.

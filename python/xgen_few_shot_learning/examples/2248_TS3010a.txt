@@ -1,0 +1,211 @@
+<ID> So welcome.
+<ID> The first kick-off meeting.
+<ID> What shall we do?
+<ID> First the opening, then the rest.
+<ID> What are we going to do.
+<ID> We m have to make a new remote control.
+<ID> It has to be original, trendy and user-friendly.
+<ID> So we will get back th on that.
+<ID> First we have to make a functional design.
+<ID> After that we have to make a conceptual design, and then after that a detailed design.
+<ID> So we'll discuss that later.
+<ID> First we have a look at.
+<ID> So first to we have to make a small painting.
+<ID> What have do we have to do.
+<ID> First you can save the documents.
+<ID> We have to do that every time we make something.
+<ID> You can print it.
+<ID> No.
+<ID> And we have to use the pen and the eraser.
+<ID> So Now.
+<ID> We all have to use this one.
+<ID> You have to make your own favourite animal.
+<ID> So I'll make an example.
+<ME> Yep.
+<ID> First don't touch that things.
+<ID> You can use the pen.
+<ID> And then you can make um something.
+<UI> Nice.
+<ID> Um you can change some things.
+<ID> Um format, line, and change it.
+<ID> And you can change the colour.
+<UI> An elephant.
+<ID> So that's it.
+<ID> So So and after it you have to save it.
+<ME> Okay.
+<ID> Now we can make a new one.
+<ID> You have to paint now.
+<ME> Oh.
+<ID> So you're next.
+<UI> 'Kay.
+<ME> Well we will try.
+<ME> Where it going?
+<PM> Hmm.
+<PM> That's uh strange.
+<ID> What is going on?
+<UI> pop-ups.
+<ID> What are you What?
+<ME> Hmm.
+<UI> What is this, Pictionary.
+<ME> Uh Mm.
+<ID> Um Is a It is a It is a A duck.
+<UI> Uh a bird.
+<UI> Bird.
+<ME> So Now save?
+<UI> Yeah.
+<ID> Yes.
+<ID> Hmm.
+<ME> Now uh blank?
+<ID> Blank, yes.
+<PM> Yeah.
+<ME> Yeah.
+<ID> Okay next one.
+<PM> Okay.
+<PM> Let's try this.
+<UI> Whoo.
+<PM> Uh Um.
+<ME> Yeah, yeah.
+<PM> Mm-hmm.
+<PM> Mm.
+<UI> Oh not.
+<UI> Oh.
+<ID> Oh.
+<UI> Okay.
+<UI> Okay.
+<UI> Yeah.
+<UI> No problem.
+<UI> Shit happens.
+<ME> I'm not getting anything uh on my screen now.
+<ME> Okay.
+<UI> A parrot.
+<ME> Wow.
+<UI> Ish.
+<ME> Oh.
+<UI> He did it before.
+<PM> Uh No, no.
+<PM> Yeah.
+<PM> Okay.
+<ME> Nice.
+<UI> Oh.
+<ID> Very good.
+<PM> Uh blank.
+<UI> Thank you.
+<ID> Okay.
+<ID> Very good.
+<ID> So um you can always go back.
+<ID> So That's it.
+<ID> So that was two.
+<ID> Now next.
+<ID> The budget.
+<ID> The b Uh we will sell the t at twenty five Euros.
+<ID> And we have only twenty of twelve and a half Euro to make it.
+<ID> So now we have to think about what we will make.
+<ID> First I wanna hear from you.
+<ID> Uh what are your experiences with remote controls.
+<ID> So F first.
+<UI> Uh I will start.
+<UI> Uh Big one, they are uh not easy to use.
+<UI> Um I have one set and uh a remote control, when I dropped it, uh it broke.
+<UI> So that won't be uh our goal, I think.
+<PM> No.
+<UI> And uh g big buttons, m uh that's easier to use than uh I think.
+<UI> Not all the small buttons, you don't know Big buttons, positive.
+<ID> Is this positive or negative, that uh big buttons?
+<ID> Positive.
+<UI> All all small buttons like when you have uh like a hundred buttons on your remote control, you won't know what they're working for.
+<ID> Okay.
+<ID> What are your experiences?
+<PM> Uh well I think the the the goal of a remote control is that it's it it has an influence on the TV set.
+<PM> And that it controls the channels and the the volume.
+<ID> Mm.
+<PM> And uh I I I think it's positive if there's a a LED uh uh a LED on the corner of the of the remote.
+<PM> So that you know it s it still has batteries on it in it.
+<PM> And that if you push the button the LED uh gives a light, and uh and you see that it's working.
+<PM> And uh yeah.
+<PM> Uh Yeah, but No no no.
+<ID> So and do they always have that?
+<PM> But I my my experience is that it it it's convenient to have that.
+<ID> It's easy to you.
+<PM> Yeah.
+<ID> Okay.
+<PM> Yeah.
+<ID> 'Kay.
+<ME> Uh at home we have a TV, a video uh recorder, a DVD player, and a satellite receiver.
+<ME> We have uh four distinctive remote controls for that.
+<UI> Thank you.
+<ME> That's not really ea easy.
+<UI> Help also.
+<ME> So it would be nice if we have one for all.
+<UI> Thank you.
+<ME> And we also had a remote control for our radio set.
+<ME> But um i it it had a lot of buttons on it, and you didn't know which one was what.
+<ME> And it was uh uh v not easy to use.
+<ME> So we n barely used it.
+<ID> Okay so they have too much.
+<ID> So next.
+<PM> Hmm.
+<ID> For our own remote control we have to think how do we make it.
+<ID> So what ideas do you have for it, for the new remote control?
+<ID> What what does it have to have?
+<UI> The weight.
+<UI> Not not too heavy.
+<ID> Not too heavy.
+<UI> Not much buttons.
+<ID> Yes.
+<ID> Yeah.
+<UI> Bust-free.
+<UI> That when you drop it, it won't break.
+<UI> Like uh some kind of rubber on it.
+<UI> Or hard uh hard plastic.
+<UI> Uh buttons not too small.
+<UI> Uh something like when you uh lose your uh remote control, sometimes it happen.
+<ID> Yes.
+<UI> Uh it between the couch and you can't find it.
+<UI> When you push a but a button on the TV, then you hear some uh some sort of bleep.
+<ID> Like a phone.
+<UI> And then you uh, hey there there's remote control.
+<ME> Yeah.
+<ID> Okay.
+<PM> Yeah.
+<ID> So, that's.
+<UI> Next.
+<PM> Yeah well that's that are good ideas.
+<PM> Uh Yeah well the LED on the corner, that that indicates that it's working.
+<PM> If you push a button.
+<PM> Um Yeah.
+<PM> And looking on the budget, not too expensive uh material.
+<PM> So probably plastic or something.
+<PM> Uh Mm no.
+<ID> Okay.
+<ME> Yeah I think it uh from a marketing point of view, it also has to look nice.
+<ME> Or you won't sell it.
+<ID> Yes.
+<ME> And um yeah uh on our website we can see what products we already have.
+<ME> And it should work with as many uh as possible of them.
+<ID> Okay.
+<ID> This is It has to be compatible with other things.
+<ME> Yes.
+<ID> Okay.
+<UI> I have one more idea.
+<UI> Just popped up.
+<ID> Yes?
+<UI> Uh it it won't take a lot of batteries.
+<UI> So you don't won't have to change the batteries uh once a week or uh once every two weeks.
+<ID> No battery use.
+<ID> So more ideas?
+<ID> No okay.
+<ID> It's only the first ideas.
+<ID> So uh what are we going to do now is Next meeting is in half an h hour.
+<ID> Uh Okay.
+<ID> Next meeting, half an hour.
+<ID> Um, what you have to do.
+<ID> Well look on your.
+<ID> And Next instructions you'll get in your email.
+<ID> So This is the first meeting.
+<ID> See you later in half an hour.
+<PM> Yes.
+<UI> Okay.
+<ME> Okay.
+<UI> Thank you.
+----------------------------------------------------------------------------------------
+For the first meeting, the task of designing a remote control was briefly introduced along with the plan for the subsequent meetings. The group then drew animals to practise using the drawing platform. They discussed their likes and dislikes regarding current remote controls, including ease of use, multiple systems and power indicators. They then offered suggestions as to what they would like from their remote. They would like the remote to be durable, for it to include a device to help find it when lost and not use too many batteries.
