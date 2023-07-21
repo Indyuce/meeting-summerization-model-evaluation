@@ -7,6 +7,6 @@ def perform_login():
     atoken_file.close()
 
     print('Logging in to HuggingFace')
-    login(atoken, add_to_git_credential=False)
+    login(atoken, add_to_git_credential=False, new_session=False)
 
 

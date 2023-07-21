@@ -1,288 +1,522 @@
-<ID> Hmm hmm hmm.
-<PM> Are we we're not allowed to dim the lights so people can see that a bit better?
+<PM> Hi.
+<UI> Hi.
+<ID> Hello.
+<PM> Oh.
+<ID> Good morning.
+<PM> Good morning.
+<UI> Morning.
+<ME> Good morning.
+<ID> Uh before I start with the with the meeting I have a few things to tell you about the the setting we're in, uh because we're uh being watched by uh Big Brother.
+<ID> So um Yeah.
+<ME> By Big Brother?
 <ID> Yeah.
-<PM> Okay, that's fine.
-<PM> Am I supposed to be standing up there?
-<ME> So we've got both of these clipped on?
-<PM> Okay.
-<ME> She gonna answer me or not?
-<PM> Yeah, I've got Yes.
-<ME> Right, both of them, okay.
-<ME> God.
-<ME> Jesus, it's gonna fall off.
-<ID> Okay.
-<ID> Yep, yep.
-<ID> Okay.
-<PM> Okay.
-<ID> Tu tu tu tu Hi, good morning.
-<PM> Hello everybody.
-<PM> Um I'm Sarah, the Project Manager and this is our first meeting, surprisingly enough.
-<PM> Okay, this is our agenda, um we will do some stuff, get to know each other a bit better to feel more comfortable with each other.
-<PM> Um then we'll go do tool training, talk about the project plan, discuss our own ideas and everything um and we've got twenty five minutes to do that, as far as I can understand.
-<PM> Now, we're developing a remote control which you probably already know.
-<PM> Um, we want it to be original, something that's uh people haven't thought of, that's not out in the shops, um, trendy, appealing to a wide market, but you know, not a hunk of metal, and user-friendly, grannies to kids, maybe even pooches should be able to use it.
-<PM> Okay, um, first is the functional design, um this is where we all go off and do our individual work, um what needs need to be fulfilled by the product, um what effects the product has to have and how it's actually going to do that.
-<PM> Um, conceptual design, what we're thinking, how it's gonna go and then the detailed design, how we're actually gonna put it into practice and make it work.
-<ID> 'Kay.
-<PM> Okay, right.
-<PM> We're gonna practice with the pens and draw our favourite animal on the white board, I'll go first, and um sum up the characteristics of that animal.
-<PM> So Okay, I'll leave space for everyone else.
-<ID> Oops.
-<PM> Um What's missing?
-<PM> We're running out of blue.
-<PM> Okay.
-<PM> I'm not gonna ask you to guess, I'm going to tell you that's supposed to be a tiger.
-<ID> Mm.
-<PM> And I see them as majestic, and independent, and proud.
-<ID> Oh sorry.
-<ID> Mm-hmm.
-<PM> Now, who would like to go next?
-<ID> Yeah, me.
-<PM> 'Kay.
-<ID> Cat.
-<ID> Where did this come from?
-<PM> Is that your lapel then?
-<ID> Uh, yep.
-<PM> There you go.
-<ID> Thank you.
-<ID> Uh, maybe you can guess what I'm trying to make?
-<ME> A kind of dog?
-<ID> Yep.
-<ID> It's actually sitting, so it's sitting, it's not standing.
-<ME> Sorry?
-<UI> It's sitting down.
-<ME> Uh.
-<ID> Okay, I see it as one thing it's very supportive.
-<ID> It's your best friend and your you can talk to a dog, it can be your best friend, it doesn't discriminate between you, based on what you are.
-<ID> Second it's loyal and third thing it's got intuition.
-<ID> dogs can som sometimes can make out between a thief and a person so basically these are the three unique features I think belong to a dog.
+<ME> Okay.
+<ID> This uh These are cameras, so are these.
 <ME> Mm-hmm.
-<PM> Okay, thank you.
-<ID> Thank you.
-<UI> Yeah I'll have a go.
+<ID> This thing uh that looks like a pie, are actually all microphones.
+<ME> Yeah.
+<ME> Okay.
+<ID> So you must be careful with uh with uh all this.
+<ID> And uh as I can see you uh you have placed your laptops uh exactly on the place where it must be.
+<ID> And that has to do with the camera settings, so we don't have our uh laptops in front of the cameras.
+<ME> Of our faces.
+<ID> And Indeed.
+<ID> So they can see our faces.
 <ID> Okay.
-<ID> Sorry.
-<ME> Please, please leave me a space at the bottom, I'm little, you can get to the top, with standing on a chair.
-<UI> Thanks.
-<UI> Alright, okay.
-<UI> Well since you guys have chosen the ones I wanted to do, I'll have to have to go for something a bit random.
-<PM> Okay.
-<ID> Does it look like a dog actually?
-<UI> And also, my drawing skill isn't that great so, yeah.
-<PM> Well, as you can see, the quality of the work today is um Gonna be a bird.
-<ID> Mm.
-<ME> I think it's outstandingly good.
-<UI> Okay, now I'm gonna have to change what is was originally gonna be because that looks like a beak now, so.
-<ME> Crocodile?
-<UI> Yeah, it can be a crocodile, it can be a crocodile.
-<PM> Is it gonna be it's gonna be a bird.
-<UI> Well it was it was an at first firstly it was an attempt at a T Rex and then it sort of changed into a pelican but it can be a crocodile now actually.
-<ME> O Beauti that's Okay.
-<PM> That's lovely.
-<UI> Yeah and uh I'll have to think on the spot of uh things that it is.
-<UI> Um uh scary, uh strong, yeah that's about it I think.
-<PM> Okay it's fine.
-<ME> Um, I'm very impressed with your artistic skills, mine's are dreadful.
-<UI> Uh uh Wo Hmm.
-<ME> Oops this is now coming apart, let me just put the top in.
-<ME> I hope that clicks in, I'll just I'll hold it on, okay.
-<ME> Oops, oh dear, what happened there?
-<PM> Technical help.
-<ME> Hopefully that'll stay on, two-handed version.
-<UI> Okay.
-<ME> Okay, uh Again this is off the top of my head, I was gonna do a big cat too, um.
-<UI> Uh S Uh Okay, some sort of bird.
-<ME> Oh dear, it doesn't look what like what I want it to be.
-<PM> Hmm.
-<ME> Uh.
-<ME> It's not a vampire bat honestly.
-<PM> Okay, yeah.
-<ME> Uh and somewhere there's a body behind.
-<ME> That's my dreadful that's the worst yet, that's it's meant to be an eagle you can tell it's a flying animal could have been a seagull, I never thought of a seagull.
-<PM> A seagu right, not a seagull.
-<UI> Ah eagle, right okay.
-<ID> Eagle, okay.
-<ME> An eagle, um again I'm thinking on my feet goodness.
-<ME> I suppose they're all so independent, I'd put that one down again.
-<ME> Da dum um.
-<UI> They're good at golf.
-<ME> Indepen independent, right, did you say they're good at golf?
-<UI> Yeah, no yeah, an eagle.
-<ME> Are they?
-<PM> Eagle.
-<ME> Oh.
-<ME> Oh right, okay, I'm not good at golf.
-<ME> I'd say they're quite free-spirited, flying around everywhere, doing their own thing.
-<ME> And uh, birds of prey aren't they, oh dear, intrepid.
-<PM> Mm-hmm.
-<ME> I'll put that, intrepid.
-<ME> There we go, hope that pen's gonna be okay.
-<PM> That's lovely.
-<ME> Whoops.
-<PM> Okay.
-<PM> That was fun, right.
-<PM> Um finance-wise, we've got a selling price at twenty five Euros, which I don't actually know what that is in Pounds, at all.
-<PM> Any ideas?
-<UI> It's about mm, mm yeah.
-<ME> Seventeen.
-<ID> One point four or something like that.
-<ID> One point four Euro would make a Pound or something like that.
-<UI> Yeah, yeah, something like that, so that yeah about seventeen, seventeen Pounds, something like that.
+<ID> Welcome at the kick-off meeting.
+<ID> My name is uh Danny Wolfs.
+<ID> Uh this is the agenda for today.
+<ID> Uh first a little opening.
+<ID> Uh I will introduce myself, uh and uh I think it's very uh good to introduce uh yourself.
+<ID> Uh then uh a little bit of acquaintance, acquaintance to uh to to ourselves.
+<ID> So uh we get to know each other.
+<ID> Uh that will be done uh with a tool training from the he these two uh smart boards.
+<ID> Then the project plan.
+<ID> What we're going to do, and how we're going to do it.
+<ID> Uh and discussion about that and a little closing at the end.
+<ID> Okay uh, my name is uh Danny Wolfs.
+<ID> I'm the Project Manager.
+<ID> What's your name?
+<PM> I'm Juergen Toffs.
+<PM> I'm the User Interface Designer.
+<ID> User interface, okay.
+<UI> Hi, my name's uh.
+<UI> I'm the Industrial Designer.
+<ID> Industrial, yes.
+<ME> I'm uh Tim.
+<ME> Um my function is the Marketing Expert.
+<ID> Okay, thank you.
+<ID> First a little about the project aim.
+<ID> Uh the the the aim is to make a new remote control.
+<ID> Uh maybe you have read uh read the website.
+<ID> It's a very uh, yeah, very uh ambitious uh company.
+<ID> They uh they wanna do something else.
+<ID> I w Uh there must be a new remote control.
+<ID> Uh first of all uh it must be original, uh and trendy.
+<ID> That's two things really uh close to each other.
+<ID> But at the same time uh user-friendly.
+<ID> And they have uh Yeah, that's uh very important uh for them.
+<ID> Uh there are three stages.
+<ID> There is a functional design.
+<ID> So uh what are we going uh to uh to do?
+<ID> What are we going to uh uh make f uh kind of functions in the remote?
+<ID> And why are we going to do it?
+<ID> Then the conceptual design.
+<ID> How are going to do it?
+<ID> And that's uh really global.
+<ID> Uh because at the detailed design, how, part two, uh we go uh to dig in uh really about how the the te the technical of If it's uh it's possible technical-wise.
+<ID> Uh each stage is uh uh is broken up in two uh two stages, individual work and a meeting.
+<ID> So it's uh it's very straightforward.
+<ID> Okay, the tool training.
+<ID> We have two smart boards.
+<ID> This one is for the presentations, the PowerPoint presentations or the Word presentation of whatever you uh you had.
+<ID> Uh and this is uh only for uh drawing.
+<ID> So uh we uh must let it uh stand on this uh this programme.
+<ID> This is called a smart board thing uh Yeah, it speaks for itself.
+<ME> Speaks for itself.
+<ID> Um and as you uh may have heard, the documents in the shared folder uh can be uh showed on this screen.
+<ID> Not in y the the My Documents.
+<ID> So if you wanna show something, put it in the shared folder.
+<ID> Uh This uh is very straightforward, with the save, the print, the undo, the blank, the select, the pen.
+<ID> Well, I don't uh gonna explain it all, because I think you know uh how it works.
+<ID> Um we must not forget uh everything we draw on here, uh all must be saved.
+<ID> We we may not delete anything.
+<ID> So uh if you have uh drawn something, save it.
+<ID> Never delete it.
+<ID> That's a very important uh thing.
+<ID> Okay.
+<ID> Uh little uh little kinda exercise to uh know each other.
+<ID> At uh the white board on the left.
+<ID> Every uh every one of us uh must draw our favourite animal, and uh tell uh tell us why we uh had uh chosen that animal.
+<ID> Uh important is that we use different colours, and uh different pen widths.
+<ID> Widths.
+<ID> Widths.
+<ME> I have a question.
+<ID> Yes?
+<ME> Um this exercise, um did the company board tell you to do it, or uh did you just make it up yourself?
 <ID> Yeah.
-<PM> D fifteen?
-<ME> Seventeen Pounds.
-<PM> Seventeen.
-<PM> Okay, that's expensive.
-<ME> Should we be making notes of this?
-<ME> We can just refer to this later can't we?
-<UI> But Havi having said that though, if you wanna get one of those the the ones on the market at the moment they're s they're about twenty pounds anyway.
-<PM> I think so, I think so, I'll be able to um pull it up, or I could put it in the shared folder or something.
-<ME> Yeah, okay.
+<ID> No no no.
+<ID> It's uh it's uh I I I must do it.
+<ME> It's part of the introduction, okay.
+<ID> Yeah, yeah, yeah.
+<ID> 'Cause we uh really don't know each other, and uh it's kinda new.
+<ID> So getting used to each other, we can uh have a little fun then, before we uh dig in really to the hard stuff.
 <ME> Okay.
-<UI> So, it'd still be yeah, we had to buy one.
-<ME> Right.
-<PM> Really?
-<ME> So so I suppose later it depends if we want to undercut the price, we d or or is it going to make our product look a cheapie-cheapie option?
-<PM> Mm.
-<PM> I think Yeah, um production cost's at twelve fifty, so half of the selling price is taken up by building it.
-<UI> Hmm.
-<ID> Okay, pretty huge margin.
-<UI> Yeah.
-<ME> Mm.
-<ME> Mm-hmm.
-<PM> Um, and profit aim is fifty million Euros, which is uh Yi yes, um yeah, I presume so.
-<ME> In our first year?
-<ME> Mm-hmm.
-<ID> So then Mm-hmm.
-<PM> Um Mm-hmm.
-<ME> You've got market range international and you did say earlier it's got to be a um accessible and usable by sort of all age groups just t we're not focusing on business market, any particular thing, it's everyone user-friendly to everyone.
-<PM> No, yeah.
-<ME> Okay.
-<ME> Big target group.
-<PM> So yes, yes, I don't think we have to I don't think it's a case of worrying about different languages and things like that, um making that a key point, just that it's going to be in the international market like Australia, America, things like that.
-<ME> No.
-<ME> Mm.
-<PM> Okay.
-<PM> What are your experiences with remote controls?
-<PM> I mean I've got we got um we had three videos, a TV and a sort of amp thing all set up so we got one of the universal remote controls, um that you programme each of your things into, but that kept losing the signals so we'd have to re-programme it every now and again.
-<UI> Yeah.
-<ME> Alright.
-<UI> Yeah.
-<ID> Yeah, that c Okay, you wanna integrate everything into one like Okay.
-<PM> I think it was quite a cheapie as well, so that might have had something to do with it, but that was quite good, the fact that you could You didn't have six remote controls sitting in front of you.
-<ME> Mm-hmm.
-<UI> Yeah uh.
-<UI> Use all the ones at the same time.
-<ME> Right.
-<UI> Yeah, 'cause you Yeah.
-<ME> Mm-hmm.
-<ME> My experience has only been being given the remote control with the object I buy, not doing any tampering with it and programming, using it to programme TV and uh uh videos and things.
-<ME> But basically on, off, volume up and down, channel one, two, th that basic functions, I don't think I could go any further with it than that, so, I suppose it's got to be something usable by someone like me as well.
-<PM> Mm.
-<PM> Yeah, the main that's the main stuff anyway, I mean and you don't want to I hate I hate looking at a control and seeing a million tiny little buttons with tiny little words saying what they all do and just sitting there searching for the teletext button or something like that.
-<ME> Mm-hmm.
-<ME> Mm.
-<ME> Mm.
-<ME> And symbols that you don't necessarily understand, symbols you're meant to understand that you don't.
-<PM> Yeah.
-<ID> So simplification of symbols you could think of.
-<PM> Um.
-<PM> When they're when you've got the main things on the front of it and a section opens up or something to the other functions where you can do sound or options kind of recording, things like that inside it.
-<ME> Oh yeah.
-<ME> Mm-hmm.
-<PM> 'Cause it doesn't make when you pick it up it doesn't make it really complicated to look at, it's obvious what you're doing, um.
-<ME> Mm.
-<ME> Mm-hmm.
-<UI> Mm.
-<ME> Actually that just raises a point, I wonder what our design people think, but you know on a mobile phone, you can press a key and it gives you a menu, it's got a menu display, I wonder if incorporating that into the design of a remote control might be useful, so you've got a little LCD display.
-<ID> Mm-hmm.
-<ID> Menu, alright.
-<UI> Yeah.
-<ID> Uh uh Right, I was thinking on the same lines you, instead of having too many b buttons and make it complicated for the user, may h maybe have an LCD di display or something like that, like a mobile, yeah and with menus.
-<ME> With menus, yeah, yeah.
-<ID> And if it's s somewhat similar to what you have on mobile phone, people might find it easier to browse and navigate also maybe.
-<ME> Yeah.
-<PM> What about the older generation?
-<PM> What about granny and grandads?
-<PM> Um, my grandad can answer his mobile phone, but he couldn't even dream of texting or something like that.
-<ID> You mean to save it lesser number.
-<UI> Yeah.
-<ME> Mm-hmm.
-<ME> Mm-hmm.
-<ME> Can he programme his remote control or is it basic with that too?
-<ID> Right.
-<PM> I don't think they tape things, I don't think they use Mm, yeah, the age gap.
-<UI> Yeah, my grandad's actually better than me at using teletext, so.
-<ME> Right.
-<ME> Right.
-<ME> So that's a problem regardless of of any design modifications you you come up with, that's gonna be a problem anyway with the older generation perhaps, and that's another issue how we tackle that.
-<UI> Yeah.
-<UI> Yeah, what it just needs to be as long as it's sort of self-intuitive and you can can work out what everything's doing, 'cause I mean, menus on sort of new phones now they've sort of got all these pictures and stuff which makes it fairly obvious what you're trying to do.
-<PM> Mm.
-<ID> Mm-hmm.
-<PM> I don't know, I d I don't like the, you know the new phones that have kind of got a Windows-based running system.
-<UI> But I don't know how Oh yeah.
-<ME> Mm-hmm.
-<PM> I find it really confusing, I kept getting lost in the phone, I di I've not got a new one but uh my friend got a new one and I was trying to do things with it and I just kept getting lost, but that's just me.
-<ME> Right.
-<UI> Yeah, I don't I don't know how for twenty fi, or twelve Euros fifty how much of a excellent screen you could get, you'd you'd have to sort of keep it down to a black and white LCD thing anyway, I'd assume.
-<PM> Yeah.
-<ME> Mm-hmm.
-<ME> Is it possible that that for the older generation you could have like an extra button that you press for large print like you do in large print books?
+<ID> That kind of thing.
+<ID> Would you start with drawing your uh favourite animal?
+<ME> Um, yeah.
+<ME> I don't know really how it works.
+<ME> But maybe you can show us first?
+<ID> Okay, okay.
+<ID> Yeah, okay.
+<ID> Drawing goes with uh this thing.
+<ID> Do not touch your hand on uh this little uh thingy here.
+<ID> That's uh important.
+<ID> So hold it uh like this.
+<ME> You g you get electrocuted or It's like Pictionary?
+<ID> Yeah, kinda.
+<ID> So, um You must p p uh push a little uh Good.
+<ID> Because And uh wait uh wait a few seconds.
+<ID> It's not uh fully real-time, so uh watch it.
+<PM> Ach.
+<ID> Oh yeah.
+<ID> Well I'm gonna paint in the red.
+<PM> Ooph.
+<ID> Oh.
+<ID> That's the background colour.
+<ID> Well, undo.
+<ID> Um The pen?
+<ID> No.
+<ID> One minute please.
+<ID> Yeah, that's the one.
+<ID> Well, five.
 <ID> Okay.
-<ME> Obviously it displays less on the screen, it displays less on the screen but as long as they can read it that's the main thing.
-<PM> Teletext has got that option as well.
-<PM> Yeah.
-<PM> Or what about kind of a dual function?
-<PM> In that you've got the basic buttons just for your play, volume, programme things and also and then a menu to go into with obvious pictures, obvious symbols and that's where you control recording and things like that.
-<ME> Mm-hmm.
-<ME> Yeah.
-<ME> Mm-hmm.
-<ME> Mm.
-<ME> The other thing is, just ch chucking into mobile phone f design features again, it could have a flip top remote control so that when you flip over the top, your screen is you can have a bigger screen in the the flip over.
-<PM> Mm-hmm.
-<ID> Mm, okay.
-<PM> I think that's a cost thing, I don't I don't know how much we're gonna know about Yes, no that's important.
-<ID> S It might it might save a b bit of space, it's i instead of looking bulky, it might look small.
-<UI> Y Yeah.
-<ME> Yeah?
-<ME> Mm-hmm.
-<ME> Yeah, like smaller.
-<ID> But it might have its cost implications.
+<ID> My favourite animal huh?
+<ID> Yeah, you can guess what it is.
+<ME> The the one who says it first gets a raise.
+<ID> May uh paint uh next.
+<ME> It's a pork?
+<ID> No, it's not an orc.
+<ID> You don't see it uh at the ears?
+<ME> Mm yeah, I have it at home.
+<ID> You have an orc at home?
+<PM> Very artistic.
+<ID> Thank you.
+<ID> So it's a cat.
+<ME> What's it called?
+<ID> Simba.
+<ME> Ah.
+<ID> 'Cause uh we have a cat at home and he's called Simba.
+<ID> 'Cause he looks like the uh the the lion from The Lion King.
 <PM> Okay.
-<ME> And there's no reason we need to make it look as fashionable and stylish as a mobile phone, it can still be lightweight plastic, you know?
-<PM> Mm.
-<ID> Right.
-<ME> Something that's easily moulded and produced.
-<PM> Yeah.
-<ME> Sorry I'm treading on your territory guys.
-<UI> No uh uh Yeah.
-<PM> Um, right, okay we've got half an hour before the next meeting, so we're all gonna go off and do our individual things.
-<PM> Um I think that's probably about it and then we'll come back and liaise again and I get to do another fantastic PowerPoint presentation.
-<UI> Just just a quick thing about the um about what you're saying about the uh does does it need to be fashionable?
-<PM> Sure.
-<UI> The sort of I I had a quick look at the company website and it's like the the uh we put the fashion into electronics, so I think think the whole design thing might be qui I mean you don't you you can still have plastic and it'd look quite good but Yeah.
-<ME> Ah right.
-<ID> Okay.
-<PM> Okay.
+<ME> Miniature size?
+<ID> So we uh found it kinda cool to uh name it after a lion.
 <ME> Okay.
-<ME> Sure b y yeah.
-<ME> But yeah, I mean it doesn't have to be that, you know th that was my main point, we don't have to use metal, I don't know if using plastic does make it cheaper, I presume it would.
-<PM> Mm.
-<UI> Yeah.
-<ME> Yeah, yeah, yeah.
-<PM> I would it would probably.
-<UI> Yeah.
-<PM> I mean there's Sky remote controls and everything.
-<PM> They're kind of moulded and look a bit different, and the Telewest remote controls are silver plastic, which looks a bit smarter, so yeah I guess that's stuff we can think about.
-<ME> Right.
+<ID> He's happy with us, so uh he's smiling.
+<PM> Wow.
+<PM> He does have body uh Huh.
+<ID> No, only the face.
+<ID> Because we have we have twen twenty five minutes.
 <ME> Okay.
-<PM> Okay, so let's break it up there.
+<ID> So we uh Yeah.
+<ME> We have to speed up.
+<ME> Remember you use uh different colours, and different pen widths.
+<ID> Yeah.
+<ID> Okay, who wants to go next?
+<ME> I Okay.
+<ID> Yeah?
+<ID> So choose a colour, choose a pen width and draw a Yeah.
+<PM> You don't have to change the colour and the pen width during uh the drawing.
+<ME> Save it.
+<PM> Or You have to draw uh push hard on the pen or uh Oh.
+<ME> You have to save it.
+<ID> Save it, okay.
+<ME> I've done it.
+<ME> New?
 <ME> 'Kay.
-<PM> Okay?
-<UI> Okay.
-<PM> So, see you in half an hour.
-<ME> Do we go back to our room?
-<PM> I think so, yeah.
-<ID> Mm, yeah.
-<ME> Yep?
+<ME> Mm uh Not really.
+<ME> Um That one.
+<ID> Kind of firm touch.
+<PM> Uh hmm.
+<ME> Yeah?
+<ME> Okay.
+<ME> Open.
+<ME> Which one is it?
+<ME> Smart board?
+<ME> Okay.
+<PM> Okay.
+<ID> Yeah.
+<ME> And now?
+<ME> Okay.
+<ME> Okay, thanks.
+<ME> 'Kay, I've speed up.
+<ME> 'Kay, that's fine.
+<ME> Line width.
+<UI> By the way, why was your cat uh red?
+<ID> Because uh my cat is red uh at home.
+<UI> Oh, okay.
+<PM> Oh.
+<ID> And I have red hair, so uh must be red.
+<PM> It's a very bloody cat.
+<UI> Oh, yeah, sure.
+<PM> It's a frog.
+<UI> No, it's a turtle.
+<PM> Uh it's an apple.
+<ME> It's not an apple.
+<UI> Must be a dog.
+<PM> A dog?
+<UI> Yeah.
+<ME> Hmm.
+<ME> Colour.
+<ME> Something like this.
+<ME> Smaller.
+<PM> Huh?
+<PM> Oh, it is a turtle.
+<ID> It is a turtle.
+<ID> Why a turtle?
+<ID> Why?
+<ID> Tim?
+<ME> Um 'Cause I liked Teenage Mutant Hero Turtles.
+<ID> You watched it a lot?
+<ME> Uh?
+<ID> You watched it a lot?
+<PM> It's uh inside its shell.
+<PM> You'll be uh finished sooner.
+<ME> No, it's uh No no.
+<ID> It's a scared turtle.
+<ME> It's coming up.
+<ME> Mm.
+<ME> Uh.
+<PM> Wow.
+<ID> Okay, Tim.
+<ME> Something like this.
+<ID> Thank you.
+<ME> Okay, you know Very artistic.
+<ID> Jurgen, you want to go next?
+<PM> Yes.
+<PM> Okay.
+<ME> Yeah?
+<PM> Wha Thank you.
+<ME> Here you go.
+<PM> Yeah.
+<PM> Um How did it work?
+<ID> Format?
+<PM> Performance?
+<ID> And then you have the the current colour, you can change.
+<ID> So no red or green.
+<PM> And a pen?
+<ID> And uh line uh width.
+<ID> I had five.
+<ID> Tim had Uh Tim, what kinda line width did you have?
+<PM> Um Well, very good.
+<ME> Uh the big lines were like nine.
+<ID> Okay.
+<ID> It's a dog.
+<PM> I just uh thought I'd pick the easiest one.
+<UI> Uh.
+<ID> Okay.
+<ID> Why a dog?
+<ID> You have a dog at home?
+<PM> Well, we had a dog, a few years ago.
+<ME> Uh, it's p It's pretty good uh An artist.
+<ID> Had a dog?
+<ID> Yeah?
+<PM> And and it, yeah, when it died we didn't get a new one or something.
+<ID> Ah.
+<PM> But uh Uh a Graphical User Designer, so Hey.
+<ID> You have an artistic uh inner middle.
+<UI> Hmm.
+<ME> Think you uh picked the wrong uh function.
+<ME> Wrong job.
+<PM> Oh.
+<PM> No.
+<PM> Can work together.
+<PM> Ah colour.
+<ID> So I think you can see it's real uh really a easy programme to use.
+<ID> Not difficult at all.
+<ME> Wha That's enough, thanks.
+<PM> Well, it's okay.
+<ID> Okay, thank you.
+<ID> Janus?
+<UI> Yeah, sure.
+<ID> The last one?
+<PM> Yeah.
+<UI> Uh thanks.
+<ME> I wonder.
+<ID> Yeah.
+<ID> After a cat, a turtle and a dog.
+<ID> I think he's gonna draw an elephant.
+<UI> I figure I should do something like that, but I'm gonna do something much more difficult.
+<ID> Uh-oh.
+<PM> Uh-oh.
+<PM> Oh, he is the artistic design.
+<ME> I'm gonna design a remote uh remote control animal.
+<PM> Remote control animal.
+<UI> Exactly.
+<ME> Oh.
+<UI> Uh Yes.
+<ME> Sorry.
+<PM> Well with the interface, it might be easier to ha to draw here and display there uh.
+<ME> Yeah.
+<ME> That that might be easier.
+<ME> But at the other hand, uh a pen like that is easy to hold in your hand, and I think it's easier to draw.
+<ID> No.
+<ID> Better to draw with a with But what is he uh?
+<ME> Yeah.
+<ME> With a pen than with a mouse mouse.
+<PM> Than on the, with Yeah, I m I mean like uh like on here, drawing drawing uh.
+<ME> Mouth.
+<ME> Oh, okay.
+<PM> And then displaying on screen, but Too expensive, yeah.
+<ME> Yeah.
+<ME> W with this paper it's too mu too expensive.
+<ID> Is it a rabbit?
+<ID> Do you have a rabbit at home?
+<UI> No.
+<ME> It's a rabbit with uh broken legs?
+<PM> A green rabbit.
+<ID> Is it a white rabbit f It's the white rabbit from The Matrix.
+<UI> No.
+<UI> Yeah, exactly.
+<ID> Okay, then yeah.
+<PM> There, the g white green rabbit.
+<UI> So.
+<PM> He's a little bit stoned there.
+<UI> Uh I figured this is a pretty b good impression of a rabbit.
+<ME> Yeah.
+<ME> It will do.
+<UI> Uh uh Uh well.
+<ID> Okay.
+<ID> Finishing touch and then we're going further.
+<ME> Project Manager?
+<ME> Uh Have you been uh counting the time?
+<ID> Yeah?
+<UI> Where does the pen go?
+<UI> Just uh Uh I figured the rabbit was actually the most uh impressive.
+<ID> Yeah, a little.
+<ME> Okay.
+<ME> Let's go on then.
+<ID> Well, I think the dog is the the most uh artistic.
+<ID> Don't choose for youself.
+<UI> Oh, sorry.
+<ID> That's selfish.
+<ID> Okay, now we're gonna dig into the to the serious stuff.
+<ME> It's pretty abstract.
+<ID> Uh the selling price for the remote will be uh twenty five Euro, and the production cost uh may not be more than uh twenty and a half Euro.
+<ID> So uh from my point of view, I don't think it's uh gonna be very uh very high tech, high definition, uh ultra modern uh kinda remote, for twelve uh fift uh twelve and a half Euro.
+<ID> Uh the profit we must make with uh the new remote is uh fifty million Euro.
+<ID> So that's a lot.
+<ID> We have to sell uh a lot of uh Uh I think uh w when the selling price is twenty five, uh uh you got two million, two million remotes.
+<PM> Yeah, how much is it?
+<ME> Like how much?
+<PM> Hundred million uh remotes or something?
+<PM> Oh yeah.
+<UI> Twenty million.
+<UI> Two million, oh yeah, two million.
+<UI> Yeah.
+<ID> But our marketing range is uh, market range is international.
+<ID> So we have uh virtually the whole world we can sell uh we can sell our r remotes to.
+<ID> At least that uh countries which have uh a television.
+<ME> Yeah.
+<ID> Um So now it's time uh for us to uh going uh to discuss a little uh things.
+<ID> You can think about uh experience with a remote control uh yourself, at home.
+<ID> What you think might be uh a useful uh new feature.
+<ID> What uh what can distinguish our new trendy remote control from all the others.
+<ID> Um so uh let's uh let's uh discuss a little.
+<ID> I'm gonna join you at the table.
+<ID> Well what what's the most uh important thing at a remote control?
+<PM> Um well I think the most important thing of a remote control is that you can switch channels.
+<PM> And my opinion is you should keep it as basic as possible.
+<ID> Okay.
+<PM> Uh Is it possible to open pen drawings in this uh on this screen?
+<ID> So not a not a remote control who uh uh which can uh can be used for television and a DVD and radio and Or just only If you have them on uh I can uh Okay.
+<ME> Yeah.
+<ME> I think so.
+<ME> Uh but I have some points.
+<ME> Can I show them on the on the big screen?
+<ME> Maybe?
+<ME> Yeah.
+<ME> Yeah, I can find Uh.
+<ID> Oh, in case you want it This is a dead kind of fly.
+<ID> Between the the the, yeah, the the uh Yeah, be The screens.
+<ME> Screen?
+<ME> Okay.
+<ID> No no no.
+<ID> Only All the drawings go there, at the left uh Oh, that pen drawings.
+<PM> Uh but um which The ones we made on the Oh, only in Word, okay.
+<ID> Uh no, I think uh when it is uh in Word and you have saved it in the Shared Documents folder, you can show it there.
+<ID> Yeah.
+<ME> Okay, I have some uh points from marketing point of view.
+<ID> Yeah.
+<ME> Um just the standard thing li things like uh intuitive, uh small, fairly cheap.
+<ME> Uh it's pretty cheap, twenty five Euros.
+<ME> Uh brand independent.
+<ME> Um I think, it doesn't have to matter uh which brand your TV or other thing is.
+<ID> Yeah.
+<ME> Um Five minutes?
+<ID> Okay.
+<ID> Five minutes.
+<ME> Okay, I'll wrap it up quickly.
+<ID> Yeah.
+<ME> Um I personally think it has to be multi-purpose.
+<ME> Uh most of the remote c uh remote controls are uh just for one purpose.
+<ID> Yeah.
+<ID> Yeah.
+<ME> And uh by making it multi-purpose, it uh has a new feature, adds a new feature to the market, and distinguish from uh from current products.
+<ID> Mm-hmm.
+<ME> Um maybe some other technology than infrared.
+<ME> Uh I rather find it very annoying um, like when someone is standing in front of the TV then you can't switch it.
+<ME> Um think about um sending it over radio waves or bluetooth.
+<ID> Okay.
+<ID> Okay.
+<ME> That might be a little bit uh expensive.
+<ME> Um And something like an LCD screen.
+<PM> For what purpose?
+<ME> Um uh like I said here um Maybe it's easy.
+<ME> It's nice as an added feature feature, that um, when you're on a certain channel, you can see on the LCD screen uh what programmes are coming up or From my point of view, yeah.
+<ID> Okay.
+<ID> So it be uh a multi-purpose uh very technically uh high uh remote?
+<ID> Yeah, it must be really uh innovative, technical-wise?
+<ME> Yeah, it has to be uh Yeah, our company is very uh good in making new innovative uh things.
+<ID> Yeah.
+<ID> So yeah, I I agree with you.
+<ME> So i i i i To the current market.
+<PM> We And and the price.
+<ID> So we must focus on things who are really uh really add something to uh to Yeah.
+<ME> Look, you got some cheap uh remote controls there.
+<ME> They just uh Yeah, you got a dozen of 'em.
+<ID> No.
+<ME> But when you enter a new market with a remote control and uh wanna gain market share you have to do something special, I think.
+<ID> Mm-hmm.
+<ID> Yeah.
+<ID> Yeah.
+<ID> But we have to keep an eye that it's Uh at the beginning of such a project, it's it's it's very uh cool to talk about, well, this would be cool, that would be cool.
+<ME> Yeah.
+<ID> Uh but we must not uh lose uh sight of the the user uh uh friendly uh Yeah okay.
+<ME> Yeah, of course.
+<ME> But it's But but this is just from marketing uh aspect.
+<ID> Yeah.
+<ME> I don't know anything about user interface or design.
+<ID> Okay.
+<PM> Okay.
+<ID> And that's because we have him.
+<UI> And and him.
+<PM> And him.
+<ID> Okay, uh next meeting will start in thirty minutes.
+<ID> So uh you uh will have uh individual actions where I presume uh will be some feedback, uh via the m the mail.
+<ID> Um the the the Industrial uh Designer has to uh look at the working design.
+<ID> Uh the User Interface Designer has to look at the technical functions.
+<ID> So that's the thing we uh discussed.
+<PM> Yeah.
+<PM> Um one thing uh, we must first agree on uh what we're going to m going to make.
+<ID> Yeah?
+<PM> Do we Are we going to use um it it for multiple systems?
+<PM> Or uh We should have some agreement on that before we Okay.
+<ID> Okay.
+<ID> Um wha Yeah.
+<ME> Mm uh I I don't think we have to be, we have to agree on that.
+<ME> Uh I think th that's a pha Yeah.
+<UI> I figure we could get back to it on the next meeting actually.
+<ME> That's a phase further.
+<UI> Yeah.
+<ME> Ju just uh make some mock-ups, some some general ideas.
+<PM> Ah okay.
+<ME> And and then we can plan Yeah.
+<ME> We can plan further, I think.
+<ID> Yeah.
+<ID> But maybe, because uh you are working on the user requirements, you are working on the technical functions, we uh must uh have a little or kinda uh uh uh How do you call it?
+<PM> Consensus on the, what we're gonna do.
+<ID> Uh Uh a little plan on on what we're going to do.
+<ID> So you don't uh uh come up with the user requirements who don't fit the the the the technical functions at all.
+<ID> Some basic things we co we want to going to do.
+<ID> Uh I think that's well uh Yeah.
+<ID> Will come in handy.
+<ME> Mm yeah.
+<ME> I don't know.
+<PM> Yeah.
+<ME> You decide.
+<ID> Okay.
+<ME> You're the Project Manager.
+<ID> W He says Yeah.
+<PM> Well yeah, if the technical functions have to be designed, I I've gotta know for what kind of machines they will be.
+<PM> Or do we use it a text screen?
+<PM> Or uh will it be with uh with bluetooth or Okay.
+<ID> Well, th that's that's really a step further.
+<ID> But if you say uh is it uh uh one way or multi-purpose, that's a Why?
+<PM> Mm-hmm.
+<ME> Uh tha that's a same step further.
+<UI> Yeah, actually it is.
+<ME> Yeah.
+<ID> Why?
+<UI> Then looking at individual components, so that's actually a f step further.
+<ME> Uh.
+<ME> Yeah.
+<ID> Yeah.
+<ME> Like we all have a list of uh things that has to b that have to be in it, or how it has to be like.
+<ME> And then in the next meeting we decide w what it's gonna be.
+<ID> Yeah.
+<UI> Yeah, we can take it from there.
+<UI> Yeah, I agree uh, we can take it from there.
+<ID> Okay.
+<ME> A And then you s then you can delete uh the o the obsolete uh details.
+<UI> Or edit.
+<ID> Okay.
+<ID> So uh each individually i individually uh must think on what's uh at uh his point of view is the most important.
+<ME> I think.
+<ME> Yeah.
+<ID> And uh then we're going to fit uh all the pieces together the next meeting.
+<ME> Yeah.
+<ID> I must finish off now, so it's over.
+<ID> You uh will receive specific specific instructions uh by your personal coach.
+<ID> And I see you in uh thirty minutes.
+<UI> Okay, cheers.
+<PM> Okay.
+<ID> Thank you.
+<PM> Sorry.
+<ME> Damn.
+<ID> Be careful.
+<PM> Yes.
+<ME> Success?
+<PM> Yeah.
+<PM> No.
+<PM> Come up.

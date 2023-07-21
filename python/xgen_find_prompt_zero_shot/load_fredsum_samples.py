@@ -10,7 +10,11 @@ SUMMARY_TAKEN = 2 # Quel summary prendre pour fredsum ?
 
 # Script
 sample_names = os.listdir(DATASET_PATH)
-left = list(range(len(sample_names)))
+random_indices = list(range(len(sample_names)))
+random.shuffle(random_indices)
+random_indices = random_indices[:N_SAMPLES]
+
+# DOES NOT CHECK IF THE TRANSCRIPT IS LONGER THAN 8K UNLIKE AMI
 
 def mkdir(folder_path):
     try:
@@ -23,12 +27,7 @@ mkdir('input/' + DATASET_NAME)
 mkdir('input/' + DATASET_NAME + '/texts')
 mkdir('input/' + DATASET_NAME + '/summaries')
 
-for i in range(N_SAMPLES):
-    
-    # Find random index and remove from list
-    random_index = random.randint(0, len(left) - 1)
-    random_value = left[random_index]
-    left.pop(random_index)
+for random_value in random_indices:
 
     # Find corresponding folder
     random_folder_path = sample_names[random_value]
