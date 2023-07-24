@@ -8,5 +8,3 @@ def perform_login():
 
     print('Logging in to HuggingFace......')
     login(atoken, add_to_git_credential=False, new_session=False)
-
-
