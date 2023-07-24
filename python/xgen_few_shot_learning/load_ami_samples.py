@@ -7,8 +7,9 @@ from datasets import load_dataset
 from transformers import AutoTokenizer
 from huggingface_login import perform_login
 
-MAX_SAMPLES = 10
-MAX_SEQUENCE_LENGTH = 6000
+DATASET_NAME = 'ami'
+MAX_SAMPLES = 12
+MAX_SEQUENCE_LENGTH = 3700
 
 def mkdir(folder_path):
     try:
@@ -16,14 +17,15 @@ def mkdir(folder_path):
     except:
         pass
 
-mkdir('samples')
-mkdir('samples/texts')
-mkdir('samples/summaries')
+mkdir('input')
+mkdir('input/' + DATASET_NAME)
+mkdir('input/' + DATASET_NAME + '/texts')
+mkdir('input/' + DATASET_NAME + '/summaries')
 
 # Login to HF
 perform_login()
 # https://huggingface.co/datasets/TalTechNLP/AMIsum
-dataset = load_dataset("TalTechNLP/AMIsum", split='test')
+dataset = load_dataset("TalTechNLP/AMIsum", split='train')
 print(dataset.features)
 print('Found total of', len(dataset), 'samples')
 indices = list(range(len(dataset)))
@@ -57,11 +59,11 @@ for random_index in indices:
     counter += 1
 
     # Write to file
-    target_text_file = open('samples/texts/sample_' + str(counter) + '_' + str(tokenized_length) + '.txt', 'w', encoding = 'utf-8')
+    target_text_file = open('input/' + DATASET_NAME + '/texts/sample_' + str(counter) + '_' + str(tokenized_length) + '.txt', 'w', encoding = 'utf-8')
     target_text_file.write(dialogue)
     target_text_file.close()
     
-    target_text_file = open('samples/summaries/sample_' + str(counter) + '_' + str(tokenized_length) + '.txt', 'w', encoding = 'utf-8')
+    target_text_file = open('input/' + DATASET_NAME + '/summaries/sample_' + str(counter) + '_' + str(tokenized_length) + '.txt', 'w', encoding = 'utf-8')
     target_text_file.write(reference)
     target_text_file.close()
 
