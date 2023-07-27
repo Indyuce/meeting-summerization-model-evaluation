@@ -1,0 +1,5 @@
+Summarize the following text.
+Summarize.
+Provide a structured summary with 5 paragraphs of the following text.
+Summarize the following text writing 5 paragraphs.
+Summarize the following text writing 5 paragraphs which contain all the important details

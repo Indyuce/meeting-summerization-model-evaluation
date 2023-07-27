@@ -1,0 +1,20 @@
+General view:
+* This meeting gathers four employees from the electronics company Real Reaction, that puts fashion in electronics.
+* This meeting is the first in a series of three, they all work on the project of designing an original, trendy, user friendly remote control. The other meetings deal with conceptual design and detailed design.
+
+Participants:
+* ID is the project manager
+* ME is the Marketing expert, in charge of user requirement specification, trend watching and product evaluation
+* PM is the interface designer, in charge of technical function design, user interface concept and user interface design.    
+* UI is the industrial designer, in charge of working design, components design and a bit of the look and feel design.
+
+Tool introduction:
+* To get familiar with the high tech smartboards and the whiteboard, each of them draws an animal.
+
+Project plan:
+* The selling price tops at 25 euros and the profit aim is 50 million euros.
+* The remote control must seduce different kind of cultures on the international market.
+
+Functional design:
+* It has to be an universal, shock proof, water proof remote control
+* The selling price limits the functionalities. The battery status can be displayed through a little LED, and the cost of infrared technology must be evaluated. It would allow a user to operate from a different room.

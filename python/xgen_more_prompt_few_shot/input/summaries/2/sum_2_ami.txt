@@ -1,0 +1,9 @@
+This meeting gathers a project manager, a marketing expert, a user interface designer and an industrial designer, employed by the electronics company Real Reaction. This is the first out of three meeting, consisting of an opening acquaintance, a tool training, a project plan description closing. The aim of the project is to design an original, trendy, user-friendly remote control as their company try to put fashion in electronics.
+
+They use high tech smartboards and a white board to share drawings. To get familiar with these tools, all participants are asked to draw an animal.
+
+They have financial constraints: The price of the remote is 25 euros and the profit aim is 50 million euros. It must be international, with different kind of users and cultures. They notice that the selling price limits the functionalities. Adding a screen on the remote control would be too expensive.
+
+Then, they are asked to talk about their experiences with unordinary remote controls. ME reports that he has one for the TV, one for the video recorder, one for the dvd player, and he would prefer having a universal remote control. ID says that his remote works with infra red, so that you can operate from another room. It is asked to evaluate the production cost of infrared. They want the remote to be shock proof and water proof, and to have a battery status display through a little LED.
+
+Overall, This opening meeting permitted participants to get to know each other as well as the drawing tools. The financial aim and the idea of the project were told. The functional design has been discussed. The 2 other meetings will deal with conceptual design and detailed design.

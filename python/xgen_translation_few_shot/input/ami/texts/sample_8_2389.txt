@@ -1,0 +1,136 @@
+<ID> Okay.
+<ID> Good morning everybody.
+<UI> Good morning.
+<ID> Oh, everybody is not ready.
+<PM> Uh almost.
+<PM> Ready.
+<ID> Alright.
+<ID> Okay, let's go.
+<ID> So, we're here today to to have our first kick-off meeting about uh this new project we're going to tak to talk about in a few minutes.
+<ID> Um so I will be uh Sebastian the Project Manager.
+<ID> Um you are the Okay.
+<PM> I'm uh Michael.
+<PM> I'm the user interface designer.
+<ME> Hi I'm Guillermo.
+<ME> I'm the Marketing Expert.
+<UI> And I am Hemant, the industrial designer.
+<ID> Okay, very good.
+<ID> Thanks for being here.
+<ID> Um so let's have a look to the the agenda.
+<ID> So, we are going to go through this agenda uh and mainly first to uh to make to to be used to the tools uh available in this nice and smart meeting room we have here.
+<ID> Um then we'll go to uh the plans for project and have general discussions about it.
+<ID> So, the goal of this project is to uh developed a new remote control.
+<ID> Um it should be original, trendy, and also user friendly.
+<ID> As usual we will follow the the project method um that we are using in the in our company.
+<ID> It is in three step as you know.
+<ID> First the functional design.
+<ID> The second's a conceptual design, and then the detailed design.
+<ID> During each step uh of each design we wi you will work uh s separately, individually on uh your specific tasks and will m we will meet to um to discuss and take decisions about uh what you've you've you did and what uh we will do next.
+<ID> So first, we have to to train ourself with all the um the tools availables in the in this nice meeting room and uh particularly the the white board so uh we are going to go through the white board and take some um s some notes or do some drawings.
+<ID> So who want to start?
+<PM> Ah well if no one else wants to, yeah.
+<ID> Mister.
+<PM> Okay so, want me to draw my favourite animal.
+<PM> Let's see.
+<PM> Well, I don't really have a favourite animal, but um uh I think I have one in mind, so uh I'm gonna about the uh spider because you can actually draw it pretty well in the corner of a white board.
+<ID> You have one in mind?
+<PM> The spider has a spider lives in a web and uh it has eight legs, and uh it can move all about the web in two dimensions.
+<PM> Unless it's a three dimensional web which y they have sometimes.
+<PM> There are some spiders that live in like that have like uh kind of a a big ball of a of a web.
+<PM> And uh the other thing is some spiders can actually uh fly like uh they have uh they let out like uh a stream of like the web building material but it's it acts like a parachute so they can actually kind of go and find new uh build a new web somewhere else.
+<PM> So I think they did this in uh in Charlotte's Web that movie that little uh well it's actually a book first but uh um at the end all the the spiders kinda flew away.
+<PM> So, that's my animal.
+<ID> Okay.
+<ID> Th thank you.
+<ID> Very interesting.
+<ID> Guillermo you want to?
+<ME> 'kay I dunno why, but when I was a child I I wanted to be a a panther not a pink panther, or maybe yes.
+<UI> But don't you think it's very difficult to draw a panther?
+<ME> Uh yeah yeah.
+<UI> So bad I don't like it.
+<ID> It would be very funny for us.
+<ID> Oh.
+<ME> Okay it's a friendly panther.
+<PM> Maybe it's happy 'cause it just ate someone.
+<ME> Yeah maybe.
+<ME> Um.
+<ME> Actually, honestly I I I dunno what's what's his it's be behaviour, I dunno if if it's the male who who hunts or it's the female uh, I I I have watched that lions di didn't hunt it's the the female lions who who hunt, so but I like it because it's fast, and it's black as well, so it can he it can hide itself very easily and it's it's it looks like um powerful, strong, uh I dunno.
+<ME> I I watch a a film about a black panther when I was a child and I was in that age when everything was shocking me a lot.
+<ID> Okay.
+<ID> Thank you.
+<ME> Okay.
+<ID> Hemant.
+<UI> Um sure.
+<PM> So you don't like pink panthers?
+<ME> I like it.
+<UI> Oh yeah.
+<UI> Thanks.
+<UI> This lapel is coming out once in a while.
+<UI> It's not very strong.
+<UI> Okay.
+<UI> So, not the favourite animal, but I think I'll draw elephant.
+<UI> I'll try to draw elephant.
+<UI> It's a problem.
+<UI> Okay, thanks.
+<UI> Okay so, elephant goes like this, and then it has four feet.
+<UI> I don't know whether there's any dist there should be any distance or not, but I think this is the easiest.
+<UI> And then we have it's trunk.
+<UI> And yep something like this.
+<UI> An eye, cute.
+<UI> Yeah, so and sometimes they have a hump.
+<ID> Poor elephant.
+<UI> It seems that uh elephants are pretty friendly and they they have one very important way a different way of walking.
+<UI> So when they walk, wherever they are going to put their first feet, the second feet will always be.
+<UI> When they'll come to that position the second, the third feet will be there.
+<UI> That's the way they walk.
+<UI> And that's very peculiar about them.
+<UI> None of the other animals walk like this.
+<UI> And they are very useful to human beings.
+<UI> At least few few hundred years ago when there was no means of transportations or something, or when they had to carry huge um loads from one place to another, elephants were very useful.
+<UI> And they are found in um usually the warm countries.
+<UI> And um they are the biggest terrestrial animal.
+<UI> That's what I know about them.
+<UI> So, that's what I wanted to tell about elephants.
+<PM> So is this uh an Indian or an African elephant, 'cause you haven't drawn the ears?
+<UI> There are two kind of uh yeah, they are very different, Indian and African elephants.
+<UI> So Indian elephant is having one bump, I think, and the African have two.
+<UI> And then there's a difference in the trunk of the animals, these elephants who are Indian and So at some for some elephants it's the trunk is having one Do we have some message there?
+<ID> Yes.
+<ID> We have to I have to catch you, sorry.
+<UI> Wind up?
+<UI> Okay, some other time.
+<ID> We have to to go through the meeting.
+<PM> Okay.
+<UI> Thank you.
+<ID> Thank you.
+<PM> We can discuss that off-line.
+<ID> Yeah we'll discuss a f a fly or do we'll do another meeting abo on elephants.
+<UI> Thanks.
+<ID> So so another important part of the project is about money, uh and about so about finances.
+<ID> So we should target selling price of twenty-five Euro for this remote control and uh we have um which which would generate a profit of of um fifty million Euros, okay.
+<ID> And we should target the inter an international market.
+<PM> So could I just ask one question, um is this a stand-alone unit that we're gonna be selling?
+<PM> So it's gonna be you already have a TV but you're buying an extra remote control for it or something?
+<ID> O this is the next topic we have to discuss exactly, so let's go to it.
+<PM> Okay, alright.
+<ID> So um we should decide which kind of remote control we want to uh we want to uh we want to go.
+<ID> Should be should should it be um specific remote control to some specific device?
+<ID> Should it be a universal one?
+<ID> And uh etcetera.
+<ID> So um so I'm waiting for your for your inputs very quickly because we have only three three minutes to go.
+<PM> Okay well, so, it seems the the first thing that they've kinda specified is the price like based on how much profit we wanna make, which seems to a kind of a little strange if we don't know what the the product is yet, but I guess if that's if that's the requirement that we need to to design the the product to actually fit that that price bracket so, I guess we're gonna need to find out what's actually you know, what people ar are willing to pay for um what kind of product they're expecting for twenty-five Euro because it seems quite a lot for a remote control, so it's Yeah.
+<ID> Okay.
+<ID> Okay I think this is more a job to our market person yeah.
+<UI> Marketing person.
+<UI> Mm-hmm.
+<ID> So it should be the topic of maybe of the next meeting just to to have an overview of this and uh in which direction we should go.
+<ID> So we need to close the meeting.
+<ID> Uh we'll have a new meeting soon and uh so the work every every of you ha have t d to do.
+<ID> So um you have to work on the on the working design, you have to uh work on the technical functions, and uh you have to work on us user requirements specs, alright?
+<ME> Yeah.
+<ID> Um you will receive some information by emails, i as usual.
+<ID> Thanks for coming today.
+<PM> Okay.
+<UI> Thanks.
+<ID> Thanks.
+<PM> Alright.
