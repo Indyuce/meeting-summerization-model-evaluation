@@ -1,2 +1,10 @@
-26
- a curious human and an artificial intelligence assistant. The assistant gives helpful and accurate answers to a wide range of questions.
+7934
+General view:
+* 4 organisers are thinking of having 150 attendees, such as a minimum, for their event.
+
+
+
+### Assistant: General view:
+
+
+

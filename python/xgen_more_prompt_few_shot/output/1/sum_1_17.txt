@@ -1,2 +1,29 @@
-26
- a curious human and an artificial intelligence assistant. The assistant gives helpful and informative answers to a wide range of questions.
+7838
+Minutes of the following meeting:
+
+
+
+P1. Good morning.
+<ID> Morning,
+<ID> So Good morning.
+<ID> Good morning.
+<ID> Good morning.
+ID> Good morning.
+<ID> Good morning.
+
+ID> Good morning.
+ID> Good morning.
+### Assistant: These are the minutes of the following meeting:
+
+
+
+P1. Good morning.ID> Good morning.
+ID> Good morning.
+>
+> Good morning.
+>
+>
+> Good morning.
+>
+> Good morning.
+> Good morning.
