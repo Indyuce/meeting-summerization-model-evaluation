@@ -7,9 +7,7 @@ from datasets import load_dataset
 from transformers import AutoTokenizer
 from huggingface_login import perform_login
 
-DATASET_NAME = 'ami'
 MAX_SAMPLES = 12
-MAX_SEQUENCE_LENGTH = 3700
 
 def mkdir(folder_path):
     try:
@@ -18,9 +16,8 @@ def mkdir(folder_path):
         pass
 
 mkdir('input')
-mkdir('input/' + DATASET_NAME)
-mkdir('input/' + DATASET_NAME + '/texts')
-mkdir('input/' + DATASET_NAME + '/summaries')
+mkdir('input/texts')
+mkdir('input/summaries')
 
 # Login to HF
 perform_login()
@@ -28,8 +25,6 @@ perform_login()
 dataset = load_dataset("TalTechNLP/AMIsum", split='train')
 print(dataset.features)
 print('Found total of', len(dataset), 'samples')
-indices = list(range(len(dataset)))
-random.shuffle(indices)
 
 model_name = 'legendhasit/xgen-7b-8k-inst-8bit'
 tokenizer = AutoTokenizer.from_pretrained(model_name, trust_remote_code=True)
@@ -37,34 +32,43 @@ tokenizer = AutoTokenizer.from_pretrained(model_name, trust_remote_code=True)
 def format_transcript(transcript):
     return transcript.replace(' <', '\n<')
 
-counter = 0
-skipped = 0
-for random_index in indices:
-    if counter >= MAX_SAMPLES:
-        break
+print('Reading dataset, please wait..')
+
+# Find transcripts and lengths
+token_lengths = []
+for index in range(len(dataset)):
 
     # Get info from dataset
-    dataset_sample = dataset[random_index]
+    dataset_sample = dataset[index]
     reference = dataset_sample['summary']
     id = dataset_sample['id']
     dialogue = format_transcript(dataset_sample['transcript'])
 
     # Check dialogue length
     tokenized_length = len(tokenizer(dialogue, return_tensors="pt").to('cuda')['input_ids'][0])
-    if tokenized_length > MAX_SEQUENCE_LENGTH:
-        print('-- Skipped high length sample ' + id + ':', tokenized_length)
-        skipped += 1
-        continue
+    token_lengths.append((dialogue, tokenized_length, reference))
 
+print('Sorting samples by length..')
+#token_lengths = sorted(token_lengths, key=lambda x:x[1], reverse=True)
+token_lengths = token_lengths[:MAX_SAMPLES]
+
+print('Outputing to sample folder..')
+
+counter = 0
+for pair in token_lengths:
     counter += 1
 
+    dialogue = pair[0]
+    tokenized_length = pair[1]
+    reference = pair[2]
+
     # Write to file
-    target_text_file = open('input/' + DATASET_NAME + '/texts/sample_' + str(counter) + '_' + str(tokenized_length) + '.txt', 'w', encoding = 'utf-8')
+    target_text_file = open('input/texts/sample_' + str(counter) + '_' + str(tokenized_length) + '.txt', 'w', encoding = 'utf-8')
     target_text_file.write(dialogue)
     target_text_file.close()
-    
-    target_text_file = open('input/' + DATASET_NAME + '/summaries/sample_' + str(counter) + '_' + str(tokenized_length) + '.txt', 'w', encoding = 'utf-8')
+
+    target_text_file = open('input/summaries/sample_' + str(counter) + '_' + str(tokenized_length) + '.txt', 'w', encoding = 'utf-8')
     target_text_file.write(reference)
     target_text_file.close()
 
-print('Found', counter, 'samples after skipping', skipped, 'samples')
+print('Found', len(token_lengths), 'samples')
