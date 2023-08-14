@@ -1,0 +1,406 @@
+<ID> Think we can first.
+<UI> Right it was function F eight or something.
+<PM> Mm.
+<UI> This one right there.
+<PM> Tha Okay.
+<UI> Okay.
+<PM> Who is gonna do a PowerPoint presentation?
+<UI> Think we all Huh.
+<PM> You will as well?
+<UI> Oh I thought we all were.
+<UI> Yeah, I have one too, okay.
+<PM> Okay.
+<UI> S Whoops I forgot to put the thing on Okay.
+<PM> Yep.
+<ID> Right.
+<ID> I just wanna 'cause basically I can't re I've really crap at remembering everyone's name so I just wanna rather than going uh Miss Marketing and Miss this and Miss that wanted to know your names again.
+<PM> Okay I'm Okay.
+<ID> just gonna leave this up here 'cause I'll you know.
+<UI> Yeah.
+<UI> Sure, that's a good idea.
+<ID> So Okay, and Gabriel.
+<PM> I'm Catherine with a C.
+<PM> CATH ER INE.
+<UI> Uh Gabriel.
+<ID> EL is it?
+<UI> EL.
+<ID> 'Kay.
+<ID> And you're s r REISS Okay.
+<ME> I am Reissa.
+<ME> REISSA.
+<ME> Double S A, yeah yeah.
+<ME> Sorry.
+<ID> 'S just a bit nicer calling people by their names I think.
+<PM> Right.
+<PM> True.
+<ID> Uh, right.
+<ME> Mm 'kay.
+<ID> Okay, right, welcome to meeting B.
+<ID> Um this is gonna go a lot better than the last meeting, basically, uh 'cause I know what I'm supposed to be doing now.
+<ID> I am your Project Manager, and, uh yeah, I'm just here to sort of liaise between the three of you and get things going, get people talking and and I'm gonna be making notes and sending them off to the powers that be and stuff basically.
+<ID> Um right, this for the purposes of this meeting what this meeting is all about is um I'm gonna have some presentations from all three of you, what you've been working on for the last wee while, when you haven't been getting hit with spam on your computers and and, you know, filling out silly questionnaires and things.
+<ID> But hopefully you've been actually been doing something productive.
+<ID> So we're gonna each of you gonna give us a litt a little presentation.
+<ME> Mm.
+<ID> Um.
+<ID> Then we're gonna work, you know, from each of your presentations.
+<ID> We'll we'll uh talk about what we actually need as a final coming together of it all.
+<ID> Um and then we'll, yeah, we'll sort of conclude anything else comes up at the end of it.
+<PM> How long is the meeting?
+<ID> This meeting it's not very long.
+<ID> It's uh probably down to about thirty five minutes now.
+<PM> Okay.
+<ID> So I want each of your presentations to not be too long, five five minutes, something like that.
+<PM> No problem.
+<ID> Um if you haven't done a PowerPoint thingy, it doesn't matter, it it just it just says that you it's that's just one particular medium.
+<ID> If you haven't had time to prepare one, you can draw stuff on the noteboard, you can talk to us, you can you know however you want to do your little presentation, basically, you can.
+<ID> Don't feel pressurised into using this thing.
+<ID> 'Cause I don't.
+<ID> Uh okay.
+<ID> So um.
+<ID> You okay over there?
+<ID> Reissa, are you uh b are you joining in with this meeting here or are y or are y or are you are you just are you just uh doing some Internet shopping there?
+<ME> I'm fine.
+<ME> Yeah.
+<ME> I uh yeah, yeah.
+<UI> Think she's finishing up her presentation.
+<ME> D I mean, I I'm finishing off my presentation.
+<ME> No no.
+<ME> Uh I'm done.
+<ME> Okay.
+<ID> Okay, jolly good.
+<ID> Alright, let's have um well, we all know that it's it's a remote control that we're gonna be dealing with.
+<ID> I think the first thing we should look at is um probably the um what it is that it is actually supposed to be.
+<ME> Mm.
+<ID> So that's gonna be you Catherine, if we wanna hear from you first.
+<PM> Okay.
+<PM> Okay.
+<PM> Um just connecting this.
+<PM> Are we getting i Really?
+<ID> You don't have to worry about screwing it in just there you go.
+<PM> Okay.
+<PM> Cool.
+<PM> Okay.
+<PM> So I've got a very quick uh Uh.
+<PM> Okay.
+<PM> So the working design, I've got a very quick presentation on this, so um I've oh no, you can't see a thing.
+<PM> Oh well, I'm gonna draw it on the board then.
+<PM> It's in blue uh, and I couldn't change it.
+<UI> Oh.
+<PM> We it's fine on my screen, but never mind.
+<ID> Ah.
+<PM> So um the idea is that we've got the energy source um, which in our case will pr, oh well okay, never mind.
+<PM> So um I think maybe uh two batteries, I dunno what they're called six, or something like that.
+<ID> Mm-hmm.
+<PM> Uh and then um then on the uh remote control itself will have um the sender for the signal, which could be uh an infra-red signal, um which will be sent by an electronic chip.
+<PM> And uh the chip will be controlled by the user interface.
+<PM> So we'll hear about that later from Gabriel.
+<ID> Mm-hmm.
+<PM> And uh the sender will send to the telly itself an infra-red signal to tell it to switch on or switch channels.
+<PM> Um and that's it really for the working design.
+<ID> Great.
+<ID> Okay.
+<PM> Sorry the presentation wasn't very uh clear but Really?
+<ID> I prefer the pe I prefer the human touch personally.
+<PM> Cool.
+<ID> Yeah.
+<PM> Um, should I erase this or Okay.
+<ID> Do you wanna just give us a moment, I just wanna copy this down.
+<ID> Um I dunno if you guys have got any questions for Catherine on any of this?
+<PM> Fine.
+<PM> Or suggestions?
+<ME> Is a battery like the only way of No, no No I meant like No 'cause like cha 'cause always changing um um batteries can get like annoying.
+<PM> Well, it's just, you don't want it plugged in really, s In indoors.
+<UI> Yeah, alternate energy source, like win wind power or Bicycle power.
+<ID> Yeah, you blow on it and i Yeah, it's worked for the last fifty years you know.
+<ME> The battery's down and maybe, I dunno, solar charged?
+<PM> I dunno, swi I th I th I think changing your batteries once every six months is not really a pain, but Yeah.
+<ME> Mm.
+<ME> Yeah.
+<UI> One question I have, and I don't know how much control we have over this is um, as far as the infra-red signal, do we have control over, you know, how far away you can be from the receiving unit, the the TV, and still have it be operational?
+<UI> I mean, maybe we want one with a strong signal stream.
+<ID> How far away is your television?
+<ID> It's never gonna be more than it's never gonna be, you kno unless you've got a TV the size of a football pitch, it's not doesn't have to go that far, does it?
+<UI> Uh That's true.
+<PM> Well, the thing is uh you you don't Well, we can make the the signal strong enough to go through walls if if you fancy it.
+<ID> Doesn't have to go through a wall, because you're not gonna be looking through a wall.
+<ME> Yeah, but if like you're on the phone in the other room and you need turn television off or something and you don't really want to go into the put the telephone down, and go into the other room.
+<PM> I didn't think about that but Why not?
+<ME> How about Bluetooth?
+<ME> Instead of using infra-red, use Bluetooth.
+<ME> Isn't that a better signal?
+<PM> I just think that it's it's gonna cost more and I'm I'm not sure it's you're gonna use it.
+<ID> Yeah, yeah I d it sounds like you you w don't wanna overcomplicate things.
+<ME> Mm.
+<ID> You know we don't need it.
+<PM> It's a fancy idea uh it's quite nice, but then I don't th I dunno, either you if you wanna watch the telly you're in the room, you are gonna But Oh, we can we can keep the idea if you i We can see at a later stage, maybe, I don't Do you need the border?
+<ID> Yeah, exactly.
+<ID> Basically, we're we're desi we're designing and marketing a television remote control unit.
+<ID> We're not w w w w designing something that you can plug in a headset to and and you know connect to your laptop computer and stuff.
+<ID> It's uh Okay.
+<ME> Mm.
+<ME> 'S just an idea.
+<ID> Right, well done, Catherine.
+<ID> Um Gab Gabriel let's uh let's hear from you on on on such things.
+<UI> Okay.
+<UI> Uh I'm just gonna use the PowerPoint uh.
+<PM> Okay.
+<PM> Sorry.
+<UI> Technical.
+<UI> Okay.
+<ME> Adjusting.
+<UI> Okay, so, while this is warming up, there it is uh.
+<ME> Yeah.
+<UI> So I'm doing the user interface design.
+<ID> Mm-hmm.
+<UI> Yeah, and basically uh, as far as methods, I was I was looking looking at looking at uh already existing remotes, trying to find some inspiration from designs that are already out there.
+<UI> Thinking of what we can retain, what we can do away with, uh what we what we can perfect a little bit as far as design um.
+<UI> we don't want to do something that's too radical of a change, I guess, I mean people want a remote that's familiar, that has their favourite functionalities um and and does the basics, but Um so we can improve what's out there and maintain that, the basic functionality that people want.
+<ID> Mm yeah.
+<UI> Um so things that seem like absolute must-haves uh would be a volume control, um so up-down keys for that, uh channel keys up-down, but then also a numerical key pad so that they can just key directly to the channel that they want, rather than doing up-down, and uh a mute button.
+<UI> Uh one thing that I didn't include here, that I forgot that we talked about last time, was doing um some sort of lock uh function.
+<UI> Uh, I don't I dunno, uh that's one possibility.
+<ID> Okay.
+<UI> And so in the research that I was doing there's basically two types of remotes, ones that are engineering centred and ones that are more user centred, which I don't know if I can access the web page from here, but I can show you uh.
+<UI> Yeah.
+<UI> So this is a engineer centred one, so you see it's rather busy, but it also lets you play your movie, stop your movie, fast-forward, all this, um freeze frame.
+<ID> Mm-hmm.
+<UI> Uh and this is a user centred one.
+<UI> Uh it's it's easier to g just glance at this and see what's possible to do, you're not gonna be staring at it for five minutes.
+<ID> Yeah.
+<ID> Great.
+<UI> And I judging from what what we all talked about during our last meeting I kind of gathered that that's what we were going after, uh or the direction we were going in at least.
+<UI> Um.
+<UI> So, the engineering centred ones uh provide a lot of functionality, but it can be a little bit overwhelming, so the user centred ones just focus on ease of use.
+<UI> Uh and this sort of overlaps with what the marketing person uh, Reissa, because uh we we need to find out what what people want before we make firm decisions on this.
+<ME> Mm.
+<ID> Yeah.
+<UI> So uh, yeah, that's me.
+<ID> Great.
+<ID> Okay.
+<ID> Now that's I just have a q a q question for you.
+<ID> This w um research that you've been doing looki looking at other, you know, existing units stuff.
+<ID> Um have you found that anyone else has do has looked into the locking function or Yeah.
+<UI> No that that that seemed like a novel idea as f as far as I know.
+<UI> I mean obviously another exists like you like you said in in mobile phones.
+<UI> That was sort of the inspiration for it.
+<UI> Um I've never seen that with in in all my years in in the remote business.
+<ID> Yeah.
+<UI> I've, haven't I've never seen a locking functionality.
+<UI> I dunno, what uh do you guys have a a yea or nay on that a feeling about whether that's really necessary?
+<ID> Um I would say it's If it's simple to do, which I think it probably should be, even if it's a physical, you know, a f a like a f a physical switch or a physical cover for the remote, even something like that, um then yes, it's like, you know, like s you said earlier on ab ab ab a flip thing, something like that, but you know being physical.
+<UI> Yeah.
+<UI> Mm-hmm.
+<UI> 'Kay.
+<UI> Right.
+<ID> Look into.
+<ID> Um I've had word down from head office that something that we should be centred well, something we should take into account is um we've gotta keep the corporate image within this remote control unit.
+<ID> It's gotta d look like it's in the R and R.
+<UI> Mm.
+<ID> You know, the the company it's it's, from what I can see from our other products, are yellow with blue writing on them.
+<UI> Right.
+<ME> Mm.
+<ID> Um.
+<UI> And our motto is is we put the fashion in electronics.
+<ID> We put the fashion in electronics.
+<ME> Mm.
+<UI> I think I think we have to carry that mental.
+<ID> There you go.
+<ID> So it's kinda gotta look it's gotta look new and s you know something fashionable.
+<ID> If if remote control well, if telephones can be fashionable, then maybe remote control units can be.
+<UI> Mm.
+<ME> Mm.
+<UI> Well yeah these, I think, we can so we talked about the layout in my presentation and what I didn't mention yet really is is the sort of like the ergonomic design.
+<ID> Yeah.
+<ID> Because we need Yeah.
+<UI> I t I think we can make big improvements over these two that you see here, I mean.
+<UI> Uh, everything is going t ergonomic, you know, there's you know mice for your computers that are very ergonomic and keyboards and that could be one of our niches p sort of uh uh in the market, I guess.
+<ID> Great.
+<ID> Okay, fantastic.
+<UI> Um.
+<ID> Right, well done, Gabriel.
+<ME> Okay.
+<ID> Um Reissa.
+<ME> Where does it go into?
+<ID> Let's plug you in, baby.
+<ME> Here?
+<UI> Yeah.
+<ME> The blue thing.
+<UI> Uh, yeah, this is getting all.
+<UI> Mm.
+<UI> Yeah, then you just have to do function F eight and it should come up.
+<ME> Well, function F eight.
+<ME> No oh.
+<ID> Yeah, w it it just takes a wee while.
+<UI> Yeah, it just takes a second uh.
+<ME> Come on.
+<ME> Right.
+<ME> Okay.
+<ME> Okay.
+<ME> Well, for our marketing report uh we observed remote control users in a usability lab, and also gave so this is research and we also gave participants um questionnaires to fill out.
+<ME> Um total number of people tested were a hundred just so you know, so that hundred people were tested and these were the findings.
+<ME> So seventy five per cent of users find the remote control ugly.
+<ME> Okay, so they don't like the look of the remote control.
+<ME> Um eighty f eighty per cent of them would spend more money if the rem remote control looked really cool and fancy.
+<ME> So I think we all agree with that.
+<ME> Um current remote controls do not match well with the operating behaviour of the user.
+<ME> So, they don't like like the way they operate it doesn't like match how people behave.
+<ME> Um per cent of the users say that they only use ten per cent of the buttons on a remote, so probably if you have like one, two, three, four, five, the whole up to z ten, they probably don't use those, they only use the up and down channel.
+<ID> 'Cause we've only got five channels.
+<ME> exactly.
+<ME> That's another thing.
+<ME> Um seventy five per cent of users say they zap.
+<ME> Not quite sure what they mean, zap, goes like.
+<ID> I think that's k flicking quickly between channels.
+<UI> Yeah, you wanna navigate the channels quickly I guess.
+<ME> Yeah.
+<ID> Yeah.
+<ME> Mm.
+<ME> Um takes too much time to learn how to use a new remote.
+<ME> I think especially for uh the older generation.
+<ME> I know my grandmother doesn't like mobile phones, takes ages to work how to use.
+<ME> Anyway um and they also remotes often get lost in the room, so nobody can find them.
+<UI> Mm.
+<ME> So maybe tracking devices is a good idea.
+<ME> Um personal preferences.
+<ID> Wow.
+<ID> You are a child of technology, aren't you?
+<ME> Um so yeah um I was thinking something easy to use, especially for older people.
+<ME> Um has to look really cool, flashy groovy for people to buy it.
+<ME> And it's easy to find, so I don't know whether maybe and also we asked them whether they wanted whether they'd be interested in um voice activating.
+<ME> So voice activation.
+<ME> So and this was what we came up with.
+<ME> Then if you look fifteen to twenty five this is age, sorry, age groups.
+<ME> So fifteen to twenty five said like ninety two ninety one per cent of them said yes.
+<ID> So there you go, yeah.
+<ME> Um so basically the majority except for the forty five to fifty five year olds for some reason didn't want a voice activated one.
+<ME> And neither did the older generation, but the younger generation who we are catering for, like who have most of the money nowadays, do want a voice act speech recognition in a remote.
+<ID> Uh but do the younger generation have the money?
+<UI> No I would I would say the older the older people, yeah.
+<ID> They they don't.
+<ID> It's older generation, they're the ones that have gone out and People people from the age of thirty f there's a big drop off there.
+<ME> Well the twenty five to thirty five year old, and thirty five, and the thirty five to forty five, forty five point seven per cent say no, so So they don't Well These guys are growing up.
+<ID> For people up to the age of thirty five, you're kinda saying, yeah, they want it.
+<ID> Um but no they're not sort of most people that have the money are people from the age of thirty five to fifty five, uh 'cause they're the ones that have been working for twenty years.
+<UI> Yeah, that would be my guess as well.
+<ID> Um d and tha and that's a that's quite a minority there, so yeah, it's not even like fifty fifty that's th thirty five per cent.
+<UI> What about just from the the prospective of our manufacturing cost?
+<UI> I mean if if it's twelve fifty per unit.
+<ID> Yeah.
+<UI> I mean, okay, there's Uh.
+<ME> Voice activation might not be the best.
+<ID> I would say scra I'd say scrap that straight off.
+<ME> Um also with um with buttons, a thing called RSI, so wrist sense Huh?
+<UI> Repetitive strain uh rep repetitive strain injury or like from doing Mm.
+<ME> Yeah, repetitive strains injury, so they don't I think people who watch TV maybe too often, keep changing channel hurts their wrist.
+<ME> I don't think so.
+<PM> Well maybe they shouldn't watch so much TV then.
+<ID> So y so it's so it's so you got so that's something we should have a look into then i when desi when designing the ergonomics of see have a look if um there's any w any medical background we can find out about this.
+<ME> Yeah maybe not so hard.
+<UI> Mm.
+<PM> Maybe it could be, instead of pressing button it could be just touching a Yep.
+<ME> Yeah.
+<ID> Let's jus we just want need to cover our arses so that people aren't gonna sue us in ten years' time, say your remote control gave me repetitive strain injury.
+<ME> Maybe Mm.
+<UI> Yeah, we should probably consult with our legal department uh.
+<ID> Yeah.
+<ID> They're having a lunch break at the moment, but yeah.
+<ME> Yeah.
+<ID> I'll see if I can get see if I can get hold of them for the next meeting.
+<UI> Yeah.
+<UI> I think we can do some really in in that department, the the ergonomic department, we can make some some really good improvements.
+<ID> Yeah.
+<ME> Mm.
+<ME> Maybe th the buttons not so high up so you don't have to press so much, or we just like flat buttons, something.
+<UI> Mm.
+<ME> Yeah.
+<ID> Okay.
+<ME> So that is me.
+<ID> That's great, thank you very much for that, Reissa.
+<ID> Um okay, so we've basically we've decide we've d we've decided that it's gonna be, you know uh, we're going for a basic television remote.
+<ID> It's gotta be safe to use, it's gotta look cool.
+<ME> Mm.
+<ID> It's gotta be cheap.
+<ID> S um.
+<ME> Mm.
+<ID> Now going back to the uh industrial design of it, you know, we were looking at whether to use maybe infra-red or Bluetooth.
+<ID> I think, we should just go with the simplest option on everything, uh and that would be infra-red, energy source, that would be batteries.
+<ID> Uh mean we we can look into using the s, you know, the little tiny weeny batteries, all like special long-lasting batteries.
+<ID> Um.
+<ID> But a in there's no I don't think there's any point in making a remote control unit that's gonna last for fifty years, because technology will have changed and, you know, we won't have televisions in ten years' time.
+<ID> So I think we're all um pretty sussed on that.
+<ID> Um anyone have any questions?
+<ME> Mm.
+<ID> Everybody happy in their work?
+<UI> Yeah, it seems like we're all on the pretty much on the same page.
+<ID> Now this is good, we've got a good structure going on.
+<ID> We all know where we're going to.
+<ID> Have you been ge has have any of you lot been getting loads of crap spam on your computers?
+<UI> Oh it's probably just you, 'cause you're the project manager.
+<ME> Well, just questionnaires.
+<ID> Yeah.
+<UI> Sell trying to sell your things.
+<ID> Yeah, stuff.
+<ID> Um okay.
+<ID> Do oh have you guys found out if we can if we can e-mail stuff to each other?
+<ME> Yeah, you can.
+<ID> Right.
+<UI> Okay.
+<ID> Do all you all know my e-mail address?
+<UI> No I don't.
+<ME> I think he's participant one, aren't you?
+<PM> Well, in the project announcement, you've got the addresses, I think.
+<UI> I Uh Oh, it's just participant one oh okay.
+<PM> So Project Manager, it's participant one at AMI.
+<UI> Yeah.
+<ID> Can you all d e-mail me your e-mail addresses?
+<UI> Well it's just w it's just it's just par participant one, participant two.
+<PM> You have them i you have them, but we'll send you an e-mail.
+<ID> Send me, yeah yeah, okay.
+<PM> You want to have friends, don't you?
+<UI> So are we headed towards like a b a big yellow and black remote as far as maybe that's our next meeting that we discuss that.
+<ID> Is it yellow and black or is it yellow and blue?
+<ID> I I kind of thought it was blue writing on a yellow background, but I might be just going a bit Okay.
+<UI> Well, it's like white on i white and blue on a black background with white with yellow borders.
+<UI> Maybe that's like getting ahead of ourselves.
+<ID> Well, maybe you can come up with a few with a couple of different ideas?
+<PM> It wouldn't be Well you could It could come But it could come in different colours and have the RR colours just somewhere like just around the lock button could be the RR logo or colours and If.
+<UI> Mm.
+<ME> Can't we have different colours in the remotes, so somebody can choose different col like does it have to be of a certain?
+<ID> Well, see the thing is is we've gotta keep the company image.
+<UI> Mm.
+<ID> It's gotta say people have gotta look at this remote control and instantly recognise that it's a Real Reaction i product.
+<ME> But if it's a RR, it would be Real Reaction, like if it had a symbol on it.
+<UI> Mm.
+<ID> There's loads of companies that called RR.
+<UI> Mm.
+<ME> Whoa.
+<ID> This is slog but this is the slogan, this is the the the the type.
+<UI> And this is something that came on down from from the higher ups, so, I mean, we are sort of beholden to them.
+<ID> Yeah.
+<ME> So we have to have it one colour.
+<ID> Well, not necessarily.
+<UI> Not one colour, but the pattern needs to be recognisable.
+<ID> But we have to incorporate it.
+<ME> Mm.
+<ID> Not necessarily even if i it just has to ye but you have to look at the product and instantly know that it's one of our products as opposed to a Sony product or a, you know, a Panasonic product.
+<ME> Mm.
+<ID> It's got to so maybe, so you can have a look at our our other products and see if they all follow a s similar vein, perhaps.
+<ID> Yeah.
+<ID> Yeah.
+<ME> Mm.
+<ID> Quite poss yeah.
+<ID> Well this is all your department.
+<ID> Mm okay.
+<ID> Well, well done everybody.
+<ID> And um, I think we uh stop for lunch now.
+<UI> Yeah, pretty soon I think, I guess that's now.
+<ME> Are we are we finished ahead of schedule?
+<ID> We might possibly have done.
+<PM> Cool.
+<UI> Alright, see you all soon.
+<ID> If we've if we've finished at five minutes before the meeting's supposed to finish, then that means we get an extra five minutes for lunch.
+<ME> 'Kay uh.
+<ID> Yeah, there you go.
+<ID> Right.
+<ID> I just have to there's a few little bits and pieces I have to write down, but Take your headsets off, kick back, smoke 'em if you got 'em.

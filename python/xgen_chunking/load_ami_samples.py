@@ -7,7 +7,7 @@ from datasets import load_dataset
 from transformers import AutoTokenizer
 from huggingface_login import perform_login
 
-MAX_SAMPLES = 12
+MAX_SAMPLES = 30
 
 def mkdir(folder_path):
     try:
