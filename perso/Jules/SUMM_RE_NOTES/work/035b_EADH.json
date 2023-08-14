@@ -1,0 +1,33 @@
+{
+  "annotator": "Jules_Peyrat",
+  "meeting_objective": "L'objectif de cette réunion est de se mettre d'accord sur le thème et la forme de l'évènement à organiser, sur une date approximative ainsi que sur les invités qui y figureront.",
+  "agenda": [
+    {
+      "subject": "Choix du thème",
+      "minutes": [
+        "Le thème de l'open-source est dit sans intérêt. Les participants choisissent rapidement l'intelligence artificielle, qui englobe notamment la téléphonie.",
+        "Il ne s'agira pas d'une conférence car le public cible serait trop restreint au monde universitaire.",
+        "Il s'agira d'une convention, notamment pour accepter des intervenant de manières plus diverses, et potentiellement organiser des activités autour de l'intelligence artificielle."
+      ]
+    },
+    {
+      "subject": "Choix des invités",
+      "minutes": [
+        "Les contraintes budgétaires imposent soit une personnalité très connue, soit deux personnes tels que des professeurs ou des scientifiques, soit trois personnes moins connues comme des étudiants.",
+        "Les participants comptent inviter un professeur du MIT, peut être accompagné d'étudiants, pour qu'ils présentent une de leurs inventions récentes. Le prestige du MIT attirera plus de monde à la convention.",
+        "Le deuxième participant sera un intervenant de Facebook responsable de la sécurité et de la modération, Facebook étant un réseau social avec un très bon système de modération automatique, par rapport à Twitter par exemple."
+      ]
+    },
+    {
+      "subject": "Choix de la date",
+      "minutes": [
+        "Puisque la convention se déroulera a priori en intérieur, la météo et par extension la période de l'année est moins importante.",
+        "Les participants s'accordent un délai de 6 mois pour organiser l'évènement, la communication externe et contacter les intervenants.",
+        "La date approximative est fixée pour juin prochain."
+      ]
+    }
+  ],
+  "abstractive_summary": "Les quatre participants discutent du thème, de la forme, de la date et des intervenants d'un évènement qu'ils vont organiser. Dans un premier temps, ils choisissent le thème de l'intelligence artificielle proposé par [96] notamment parce qu'il englobe plus de thématique que le thème de l'open source. Pour ce qui est de la forme, l'idée d'une conférence sur une invention récente est vite écartée puisqu'elle toucherait un public cible majoritairement universitaire, trop restreint. [98] propose d'organiser une convention et ce sera finalement le choix retenu. Une discussion se poursuit sur la nature des intervenants notamment limitée par des contraintes budgétaires. [96] propose de demander à des étudiants d'Harvard de venir présenter une de leurs inventions mais [97] souligne qu'il est plus judicieux de solliciter des professeurs, plus spécialisés. Ensuite, [98] propose d'inviter des modérateurs de réseaux sociaux, ou des personnes en charge de la sécurité de ces réseaux pour peut-être faire un stand de sensibilisation au cyberharcèlement. Facebook et plus largement Meta sont évoqués, puisqu'ils possèdent une bonne modération basée sur l'intelligence artificielle, contrairement à Twitter ou Snapchat par exemple. [88] souligne que Facebook n'est pas irréprochable pour autant, notamment avec l'exemple du cas des ouïghours lors duquel Facebook a reçu un procès. Elle souligne également qu'il est dommage de laisser Facebook représenter les réseaux sociaux dans leur convention, notamment parce qu'ils y ont déjà un grand monopôle. Enfin, la discussion s'établit sur la date approximative ainsi que le lieu de la convention. [98] propose les hangars du parc Chanot, lieu à Marseille spécialement adapté aux conventions. Comme elle se déroulera à l'intérieur, la météo ne posera pas de problème. Les locuteurs se donnent un délai de 6 mois pour organiser l'évènement : louer les hangars, contacter les intervenants, gérer la communication externe... La convention aura lieu en juin prochain.",
+  "vocal_summary": null,
+  "meeting_code": "035b_EADH"
+}

@@ -1,0 +1,43 @@
+{
+  "annotator": "",
+  "meeting_objective": "",
+  "agenda": [
+    {
+      "subject": "",
+      "minutes": [
+        "",
+        ""
+      ]
+    },
+    {
+      "subject": "",
+      "minutes": [
+        "",
+        ""
+      ]
+    }
+  ],
+  "assignment": [
+    {
+      "task": "",
+      "description": [
+        "",
+        ""
+      ],
+      "date": "",
+      "assignee": ""
+    },
+    {
+      "task": "",
+      "minutes": [
+        "",
+        ""
+      ],
+      "date": "",
+      "assignee": ""
+    }
+  ],
+  "abstractive_summary": "",
+  "vocal_summary": null,
+  "meeting_code": ""
+}

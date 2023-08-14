@@ -1,0 +1,277 @@
+<ID> Okay, good morning.
+<ID> This is our first team meeting.
+<PM> Good day.
+<ME> Morning.
+<UI> Morning.
+<ID> I'll be your Project Manager for today, for this project.
+<ID> My name is Mark will be giving this presentation for you to kick the project off.
+<ID> That's my uh that's the agenda for today.
+<ID> Well, of course we're new to each other, so I'd like to get acquainted first.
+<ID> So let's do that first, I mean Let's start with you, can you introduce yourself?
+<ID> You're our Marketing Expert.
+<ME> Yes.
+<ME> Um my name is Dirk, Dirk Meinfeld.
+<ME> Um I will be uh Pr Project the Marketing Expert.
+<ME> And I will see what the user wants and uh what we can do uh with the new produ project product.
+<ID> Okay, excellent.
+<ID> And you are User Interface Yeah.
+<PM> Nick Broer, User Interface Designer.
+<PM> I'm going to uh look at the technical design from the uh user point of view.
+<ID> Excellent.
+<ID> Okay.
+<UI> My name is Xavier Juergens, I'm the Industrial Designer, and there are three main questions that I have to find an answer to today.
+<UI> First one is uh what happens inside the apparatus, second is what is uh the apparatus made of, and the third is what should it look like.
+<ME> Hmm.
+<ID> What should it look like?
+<ID> Okay.
+<ME> Hmm.
+<ID> Oh, let's kick it off.
+<ID> Oh, there we go.
+<ID> So, our new project is about we need design a remote control for television set, so, which has to be original, trendy and user-friendly.
+<ID> I took this off our corporate website.
+<ID> It's I think well it sums up what we need to do.
+<ID> We're inspired by latest fashion, not only electronics, but also the latest trends in clothes and interior design.
+<ID> That's why our product will always fit in your home.
+<ID> So apparently we need to um be very at um very open to what's currently hot in the market.
+<ID> So that's what you need to do to bring us the latest info and what people want.
+<ME> Yeah.
+<ME> Yeah.
+<ID> So So we put the fashion in electronics.
+<ID> So that's what we need to go for.
+<ID> Anyway, we'll take this project in three steps, three pha uh three phase of design.
+<ID> First step will be the functional design.
+<ME> Yeah.
+<ID> And that's basically what we're gonna do.
+<ID> Everybody has uh a piece of individual work and a meeting afterwards, so we can share information about So I'm gonna keep this short, since we had a technical problem.
+<ID> So skip through this.
+<ID> Uh.
+<ID> Okay.
+<ID> Every meeting we everybody can present their uh their views and everything, so to help with these, you have we have the SMARTboards here.
+<ID> We can use a regular PowerPoint presentation.
+<ID> I'm supposed to give you an introduction on this doodling board, so it's actually it's very easy.
+<ID> Like it says, very simple, you just take out the pen.
+<ID> Like you see here, I'll just take the take here.
+<ID> That's it, you just put it on the board.
+<ID> You see a pen here.
+<ID> You go here, just like using a pen.
+<ID> You can just draw whatever you want.
+<ID> It's like the eraser, can erase whatever you want.
+<ID> And so it will be easy just to illustrate your views, if you wanna change the format, you just either take out jus just like the pen, and whatever you want, your current colour, your line width, just to make the line bigger.
+<ID> So it should be really easy.
+<ME> Okay.
+<ID> This is to take the just take a new slide and back again.
+<ID> We're just gonna keep using this board all the time, so I think it will be it's very clear for everyone, I suppose.
+<ID> So I'll take this out.
+<ID> Okay.
+<ID> We'll use that later.
+<ID> Anyway.
+<ID> Yeah, just just just stuff that you wanna share, just put it in the in the project folder, like I put my presentation now.
+<ID> I'll put the the minutes of every meeting, I'll put them there too, so everybody can read up if they have to leave early or whatever.
+<ID> So next, been here.
+<ID> Well, gonna give the electronic white-board uh a shot.
+<ID> So basic idea is we have a blank sheet.
+<ID> Just try whatever you want, and like it says, draw your favourite animal.
+<ID> I think the creative genius should go first.
+<PM> The creative genius?
+<PM> Thank you very much.
+<ID> So, draw us your favourite animal.
+<PM> Well, I'm more into the technical aspects of drawing, so I'm not really good at drawing animals, but uh the animal which I Oh.
+<ID> Draw us a technical animal.
+<ID> Yeah, it's still erasing.
+<PM> Pen.
+<PM> Uh format.
+<PM> Else my animal will be like king-size.
+<PM> I pretty much like a dolphin, because of its uh its freedom basically.
+<PM> Let's see.
+<PM> A head.
+<PM> actually worked with this.
+<PM> It's like uh it's a very Uh high-tech.
+<PM> Bit low-responsive though.
+<PM> Prefer pen and paper.
+<ID> So that's what we don't want.
+<ID> We want a high-responsive product.
+<ID> So It looks more like nuclear bomb.
+<ME> Very nice dolphin.
+<PM> It doesn't look like a nuclear bomb.
+<PM> This thing isn't doing what I'm What I want.
+<PM> So Yeah, well it does look like a nuclear bomb.
+<ID> Let's go easy on it.
+<PM> I'll just finish up real soon, because I'm So it doesn't really look like a dolphin, but then again, this is all new for me.
+<ID> Anyway, it should It It's supposed to be a dolphin, you like the freedom that it that it represents.
+<UI> Uh-huh.
+<PM> Like the ocean, like swimming.
+<PM> Do that in my spare time, so that's basically an Now we can forget this ever happened.
+<ID> What do you like?
+<ID> Okay.
+<ID> Well, our Marketing Expert.
+<ID> Show us an animal.
+<ME> Um an animal.
+<ME> I like the elephant.
+<ID> Pick a pick a pick a clean sheet.
+<ID> Oh.
+<ME> What?
+<ID> Take a clean sheet first.
+<ME> Yeah.
+<ME> Um Oh yeah.
+<ID> Just press next.
+<ID> That's it.
+<ME> Oh, a blank.
+<ME> Okay, next.
+<ME> Free, I like the elephant.
+<ME> It's big, it's strong, so uh uh Oh, it's a little bit You have to hold it, right?
+<PM> It's not really that responsive, no.
+<UI> Mm.
+<ME> Hmm.
+<ME> It's a beautiful animal.
+<ME> Oh, you have to p press it pretty hard.
+<ME> With a smile on it, it's very important.
+<ID> It's a cute elephant.
+<ME> Yeah.
+<ME> And uh not to forget its tail.
+<ME> Oh.
+<ID> It's a nice beard.
+<ME> Yeah, it's okay.
+<PM> And you was making comments on my dolphin.
+<ME> Yes.
+<ME> I will beat the dolphin.
+<ME> No.
+<ID> Okay, so it's just a bee.
+<ME> Yeah.
+<ID> So I suggest you make us the elephant in the market.
+<ID> The big and strong player in the market.
+<ME> Yeah.
+<ID> This would be good.
+<ME> Yeah.
+<ID> Okay, excellent.
+<ID> On to the next one.
+<UI> Okay.
+<ME> Uh yeah.
+<UI> Okay, you should press next.
+<ME> Yeah.
+<ID> Press next.
+<ID> Yeah, it's up there.
+<UI> Okay.
+<ID> That's it.
+<UI> Okay, well the animal I'd like to draw is a tiger.
+<PM> You picked a hard one, didn't you?
+<ME> Experience with the tiger.
+<UI> My drawing skills are really bad, so.
+<ME> What?
+<ME> They are Okay uh-huh.
+<UI> They are really bad, my drawing skills.
+<ID> Sure looks smooth.
+<ME> Oh.
+<UI> I'm not sure how the legs should go, but Uh these are stripes.
+<PM> Got it.
+<UI> I've picked this animal because it's very fast.
+<UI> It is uh it knows exactly what it wants.
+<UI> Uh it hardly ever wastes any resources.
+<ID> What does it want?
+<UI> Uh well, basically uh it hunts for prey, but it does it always in a very well-thought way.
+<UI> Uh it knows exactly what it wants.
+<UI> It never kills an animal uh just for the killing, so it's very efficient.
+<UI> And it tries to do everything as fast as possible.
+<ID> Okay.
+<UI> And it always goes for uh security, in seeking uh uh a hide spot and uh and doing everything, security, speed and efficiency is important.
+<ME> Mm.
+<UI> And I think uh those things we can use.
+<ID> I agree.
+<ME> Okay.
+<ID> Yay, I'm supposed to draw the animal next.
+<ID> I introduce to the world the amazing ant.
+<ME> Uh hard worker.
+<ID> Great team-workers.
+<ME> Yeah.
+<UI> Yeah.
+<ID> Do everything to Uh really small, but together they're really strong.
+<ID> So I'm gonna give it a smiley face.
+<ME> Yeah, yeah.
+<UI> Oh.
+<ID> Not sure where the p.
+<ID> Just put 'em here.
+<ID> Whatever.
+<ID> Think it need shoes.
+<ID> So I'm just too lazy to draw it all black, so That's the coolest ant ever.
+<PM> You've done this before, haven't you?
+<ID> I love to draw ants.
+<ID> It's my hobby.
+<ID> Anyway Nah.
+<ID> Just I think it's very representative what we drew, I guess.
+<ID> Like you take just take your freedom and use a a trendy interface that you design for us.
+<ME> Yeah.
+<ID> Just Yeah.
+<ID> You're supposed to make i make it different from uh from what other people have, and just make it a little distinct.
+<ID> Anyway.
+<ID> another beep to stop the meeting.
+<ID> See.
+<ID> Warning.
+<ID> Finish meeting now.
+<ID> Uh put this down.
+<ID> Examples.
+<ID> Well I guess we have a little little time extra, but Just a little quick discussion to to open open our work.
+<ID> So what do you guys think about The first idea is just very short.
+<ID> I'll start with you.
+<ID> What are y What are your first ideas for the new product?
+<PM> Well, I basically had a question.
+<ID> What The project I got was just for a TV remote control.
+<PM> Do uh Are we going to introduce a multi remote control?
+<PM> Is it just the TV or do we want to in Just for TV remote control.
+<ME> Uh Yeah.
+<ID> Yeah, I guess so.
+<PM> Okay.
+<PM> Well, I was thinking about design remote control, with our uh motto and all.
+<ME> But Yeah.
+<PM> Uh thing to keep in mind is that we need to stick to what people are familiar with.
+<PM> No rational changes or whatever, 'cause it revolutionary changes, yes.
+<ID> Okay, so very intuitive design, I guess.
+<PM> Uh we might have to consider other design aspects of our product.
+<PM> So that was something I wanted to add, and perhaps some usability aspect.
+<PM> TV is becoming central in most homes.
+<PM> Do we want people who are disabled in any way to uh, yeah, to be able to use it as well?
+<ID> Yeah, we want I suppose we want almost everyone to be using it.
+<ID> So I think I mean, really disabled people, yeah, might be a problem, but I think it's a little take it into consideration.
+<ID> Um yeah.
+<ID> I think we really need to cut the meeting short.
+<ID> You have anything you wanna share quickly?
+<UI> Hmm.
+<ME> Uh.
+<UI> Only one thing uh that has to be added according to me is uh the the material it is made of, it should be something light.
+<UI> That's it speaks for itself, but some uh Yeah.
+<PM> Yeah.
+<ID> It should be light, okay.
+<ME> Yeah.
+<ID> Um, let's see, where did I Let's skip that.
+<ID> Oh, this is it.
+<ID> Sorry, I skipped this sheet.
+<ME> Selling price.
+<ID> What do we This Quick What we're going to Selling price, twenty five Euros.
+<ID> That's for you.
+<ID> The production price, twelve and a half Euros, approximately.
+<UI> Okay.
+<ID> Just go go for that.
+<ID> We'll reach the uh reach that profit.
+<UI> Okay.
+<PM> Okay, well that's not that much to work with.
+<ME> international.
+<ID> No, it's not much to work on.
+<ID> I'm sorry, I skipped it.
+<ID> Anyways, that's Yeah, this is it.
+<ID> Do you have anything you you came up with yet?
+<ID> About uh marketing transfer, whatever?
+<ME> Um about what?
+<ME> Marketing?
+<ID> Marketing I'm not sure what you what you came up with yet.
+<ID> You have anything to share?
+<ID> Or else we'll cut the meeting just cut the meeting short since we're supposed to stop.
+<ME> Um no, not really yet, but I've some ideas and I will uh say it uh Okay.
+<ID> Okay.
+<ID> Anyways, the the personal coach will give you the your p your personal assignments and everything.
+<ID> So we'll just meet back in here thirty minutes.
+<UI> Okay.
+<ID> I'm sure we have that.
+<UI> Good luck everyone.
+<ID> Yeah, thanks for attending.
+<PM> Mm, good luck.
+<ID> I'll see you back here in thirty minutes.
+<ME> Okay.
+<ME> Yes.
