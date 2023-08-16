@@ -1,0 +1,18 @@
+{
+    "file_name":"13680802",
+    "source_dataset":"1",
+    "language":"0",
+    "text_en":"Laura: Where are you?\nPaul: Almost there.\nLaura: Which is?\nPaul: Close to the Mac.\nLaura: That's so far away!\nPaul: 15 mins\nLaura: I am not waiting any more, see you some other time.\nPaul: Please, wait!\nLaura: I've waited 30 minutes, 15 minutes ago you wrote you were almost here. This is too much.\nPaul: I am so sorry.\nLaura: I am not.",
+    "text_fr": "Laura: Où es-tu?\nPaul: Presque là.\nLaura: C'est-à-dire?\nPaul: Proche du Macdo.\nLaura: C'est si loin!\nPaul: 15 minutes\nLaura: Je n'attends plus, on se voit une prochaine fois.\nPaul: S'il-te-plaît, attends!\nLaura: J'ai attendu 30 minutes, il y a 15 minutes tu m'as dit que tu étais presque arrivé. C'est trop.\nPaul: Je suis tellement désolé.\nLaura: Je ne le suis pas.",
+    "nb_characters":"",
+    "nb_words":"",
+    "summaries":[
+        {
+            "number":"1",
+            "text_en":"Paul is late for a meeting with Laura and she refuses to wait any longer.",
+            "text_fr":"Paul est en retard pour un rendez-vous avec Laura et elle refuse d'attendre plus longtemps.",
+            "nb_characters":"",
+            "nb_words":""
+        }
+    ]
+}
