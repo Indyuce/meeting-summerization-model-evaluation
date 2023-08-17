@@ -2,3 +2,6 @@ Datasets/**
 .ipynb_checkpoints
 __pycache__
 ~$*.xlsx
+weights_offload
+
+check_device_map.json
