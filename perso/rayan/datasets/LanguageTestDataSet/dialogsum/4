@@ -1,32 +1,32 @@
 {
-    "file_name":"test_36",
-    "source_dataset":"4",
-    "language":"0",
-    "text_en":"P1: Are you going to the demonstration to help stop the spread of nuclear weapons tomorrow, Cleo?\nP2: No, Simon. I hate demonstrations. I have heard the police will be standing by with tear gas.\nP1: Yes, but North Korea boasts it has nuclear arms.\nP2: One hundred ninety countries have signed the Nuclear Non-Proliferation Treaty but the issues are just too complex. There are two sides to every story. I don't understand it and I have no intention of going to a demonstration. Demonstrations don't seem to accomplish anything anyway.\nP1: Several demonstrations have changed politician's minds throughout history. As a responsible citizen I think it is important to stand up for what you believe in.\nP2: Leave it to someone else. As I said, if you listen to both sides of a story, both sides have some good points. Why should I demonstrate and risk getting hurt for something that I am not even sure is right?\nP1: You are not likely to get hurt. This will be a peaceful demonstration. I have spoken to the organizer for the university group. He insists that this will be peaceful. He advocates if you want world peace, peace begins at home-and that means right here in this city.\nP2: You go if you want, Simon, but I plan to study for my physics exam.\nP1: It would only take two hours of your day. The bus leaves the campus at 11:30 and leaves downtown to return to campus at 12:45. You could eat your lunch on the bus.\nP2: I am not going, Simon. Why don't you ask the students in your political science class this afternoon if they want to go?\nP1: They are all going.\nP2: Okay, Simon. I need to meet my sister for coffee now.\nP1: Bye then. See you in physics class tomorrow.",
+    "file_name": "test_36",
+    "source_dataset": "4",
+    "language": "0",
+    "text_en": "P1: Are you going to the demonstration to help stop the spread of nuclear weapons tomorrow, Cleo?\nP2: No, Simon. I hate demonstrations. I have heard the police will be standing by with tear gas.\nP1: Yes, but North Korea boasts it has nuclear arms.\nP2: One hundred ninety countries have signed the Nuclear Non-Proliferation Treaty but the issues are just too complex. There are two sides to every story. I don't understand it and I have no intention of going to a demonstration. Demonstrations don't seem to accomplish anything anyway.\nP1: Several demonstrations have changed politician's minds throughout history. As a responsible citizen I think it is important to stand up for what you believe in.\nP2: Leave it to someone else. As I said, if you listen to both sides of a story, both sides have some good points. Why should I demonstrate and risk getting hurt for something that I am not even sure is right?\nP1: You are not likely to get hurt. This will be a peaceful demonstration. I have spoken to the organizer for the university group. He insists that this will be peaceful. He advocates if you want world peace, peace begins at home-and that means right here in this city.\nP2: You go if you want, Simon, but I plan to study for my physics exam.\nP1: It would only take two hours of your day. The bus leaves the campus at 11:30 and leaves downtown to return to campus at 12:45. You could eat your lunch on the bus.\nP2: I am not going, Simon. Why don't you ask the students in your political science class this afternoon if they want to go?\nP1: They are all going.\nP2: Okay, Simon. I need to meet my sister for coffee now.\nP1: Bye then. See you in physics class tomorrow.",
     "text_fr": "P1: Est-ce que tu vas à la manifestation demain pour contribuer à arrêter la propagation des armes nucléaires, Cleo ?\nP2: Non, Simon. Je déteste les manifestations. J'ai entendu dire que la police sera présente avec des gaz lacrymogènes.\nP1: Oui, mais la Corée du Nord se vante d'avoir des armes nucléaires.\nP2: Cent quatre-vingt-dix pays ont signé le Traité sur la non-prolifération des armes nucléaires, mais les problèmes sont trop complexes. Il y a deux côtés à chaque histoire. Je ne comprends pas cela et je n'ai aucune intention d'aller à une manifestation. Les manifestations ne semblent de toute façon pas aboutir à grand-chose.\nP1: Plusieurs manifestations ont fait changer d'avis des politiciens tout au long de l'histoire. En tant que citoyen responsable, je pense qu'il est important de défendre ses convictions.\nP2: Laisse ça à quelqu'un d'autre. Comme je l'ai dit, si on écoute les deux côtés d'une histoire, les deux côtés ont des points positifs. Pourquoi devrais-je manifester et risquer de me faire mal pour quelque chose dont je ne suis même pas sûr que ce soit juste ?\nP1: Il y a peu de chances que tu te fasses mal. Cette manifestation sera pacifique. J'ai parlé à l'organisateur du groupe universitaire. Il insiste sur le caractère pacifique de l'événement. Il soutient que si tu veux la paix dans le monde, la paix commence chez toi, c'est-à-dire ici même dans cette ville.\nP2: Vas-y si tu veux, Simon, mais moi j'ai prévu d'étudier pour mon examen de physique.\nP1: Ça ne prendrait que deux heures de ta journée. Le bus quitte le campus à 11h30 et repart du centre-ville pour revenir au campus à 12h45. Tu pourrais déjeuner dans le bus.\nP2: Je n'irai pas, Simon. Pourquoi ne pas demander aux étudiants de ta classe de science politique cet après-midi s'ils veulent y aller ?\nP1: Ils y vont tous.\nP2: D'accord, Simon. Je dois retrouver ma sœur pour prendre un café maintenant.\nP1: Alors au revoir. On se voit au cours de physique demain.",
-    "nb_characters":"",
-    "nb_words":"",
-    "summaries":[
+    "nb_characters": 1675,
+    "nb_words": 316,
+    "summaries": [
         {
-            "number":"1",
-            "text_en":"Simon and Cleo have different opinions towards the demonstration to help stop the spread of nuclear weapons. Cleo thinks it is useless, while Simon considers that Cleo should go to the demonstration.",
-            "text_fr":"Simon et Cleo ont des opinions différentes sur la capacité des manifestations à arrêter la prolifération des armes nucléaires. Cleo pense que c'est inutile, alors que Simon considère que Cleo devrait aller à la manifestation.",
-            "nb_characters":"",
-            "nb_words":""
+            "number": "1",
+            "text_en": "Simon and Cleo have different opinions towards the demonstration to help stop the spread of nuclear weapons. Cleo thinks it is useless, while Simon considers that Cleo should go to the demonstration.",
+            "text_fr": "Simon et Cleo ont des opinions différentes sur la capacité des manifestations à arrêter la prolifération des armes nucléaires. Cleo pense que c'est inutile, alors que Simon considère que Cleo devrait aller à la manifestation.",
+            "nb_characters": 199,
+            "nb_words": 32
         },
         {
-            "number":"2",
-            "text_en":"Cleo has no intention to attend the demonstration to help stop the spread of nuclear weapons, because Cleo hates police standing by with tear gas. Simon tries to change Cleo's mind but it doesn't work.",
-            "text_fr":"Cleo n'a pas l'intention de participer à la manifestation pour arrêter la prolifération des armes nucléaires, parce qu'elle déteste la police qui se tient prête à lancer des gaz lacrymogènes. Simon essaie en vain de faire changer d'avis Cleo.",
-            "nb_characters":"",
-            "nb_words":""
+            "number": "2",
+            "text_en": "Cleo has no intention to attend the demonstration to help stop the spread of nuclear weapons, because Cleo hates police standing by with tear gas. Simon tries to change Cleo's mind but it doesn't work.",
+            "text_fr": "Cleo n'a pas l'intention de participer à la manifestation pour arrêter la prolifération des armes nucléaires, parce qu'elle déteste la police qui se tient prête à lancer des gaz lacrymogènes. Simon essaie en vain de faire changer d'avis Cleo.",
+            "nb_characters": 201,
+            "nb_words": 37
         },
         {
-            "number":"3",
-            "text_en":"Simon and Cleo argue the effectiveness of demonstrations. Simon thinks they are helpful, but Cleo disagrees and refuses to go to the demonstration of helping stop the spread of nuclear weapons with Simon.",
-            "text_fr":"Simon et Cleo débatent de l'efficacité des manifestations. Simon pensent qu'elles sont utiles, mais Cleo n'est pas d'accord et elle refuse de se rendre à la manifestation visant à empêcher la prolifération des armes nucléaires avec Simon.",
-            "nb_characters":"",
-            "nb_words":""
+            "number": "3",
+            "text_en": "Simon and Cleo argue the effectiveness of demonstrations. Simon thinks they are helpful, but Cleo disagrees and refuses to go to the demonstration of helping stop the spread of nuclear weapons with Simon.",
+            "text_fr": "Simon et Cleo débatent de l'efficacité des manifestations. Simon pensent qu'elles sont utiles, mais Cleo n'est pas d'accord et elle refuse de se rendre à la manifestation visant à empêcher la prolifération des armes nucléaires avec Simon.",
+            "nb_characters": 204,
+            "nb_words": 33
         }
     ]
 }
