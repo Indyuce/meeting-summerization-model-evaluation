@@ -1,18 +1,18 @@
 {
-    "file_name":"13829773",
-    "source_dataset":"",
-    "language":"0",
-    "text_en":"Ola: Hello Kate, sorry for not keeping in touch properly. As expected, we have hardly any connectivity here in Cuba. But we're doing fine and enjoying our trip. How are the things at home?\nKate: At long last! Started to worry. Nothing new happening, if you disregard all that Xmas craze. Momo has recovered from her injury and frolicking again.\nKate: <file_photo>\nKate: Good old Momo! Yes, it is your scarf!\nOla: NO!!! It's one of my favorites! The one from Laos!\nKate: Too late. Momo thinks it belongs to her now. Get yourself a new one. They surely have nice ones there.\nOla: Not at all. Only cheapish cotton blouses with horrible multi-coloured embroidery or some equally horrible crochetted tops. No shawls or scarfs.\nOla: <file_photo>\nKate: Wait a sec!\nKate: <file_photo>\nKate: Isn't it similar?! Mum would probably like it. Why don't you?\nOla: Not a bad idea. But the quality is usually crappy.\nKate: And if you go to some boutique shop or something? Not at a market as in your pics?\nOla: I might try and find some. Would you like one too?\nKate: Not really. And Mum would prefer to be the only one with an authentic Cuban blouse :))\nOla: OK I'll have a look. Greets to everyone at home pls.\nKate: Take care!",
+    "file_name": "13829773",
+    "source_dataset": "",
+    "language": "0",
+    "text_en": "Ola: Hello Kate, sorry for not keeping in touch properly. As expected, we have hardly any connectivity here in Cuba. But we're doing fine and enjoying our trip. How are the things at home?\nKate: At long last! Started to worry. Nothing new happening, if you disregard all that Xmas craze. Momo has recovered from her injury and frolicking again.\nKate: <file_photo>\nKate: Good old Momo! Yes, it is your scarf!\nOla: NO!!! It's one of my favorites! The one from Laos!\nKate: Too late. Momo thinks it belongs to her now. Get yourself a new one. They surely have nice ones there.\nOla: Not at all. Only cheapish cotton blouses with horrible multi-coloured embroidery or some equally horrible crochetted tops. No shawls or scarfs.\nOla: <file_photo>\nKate: Wait a sec!\nKate: <file_photo>\nKate: Isn't it similar?! Mum would probably like it. Why don't you?\nOla: Not a bad idea. But the quality is usually crappy.\nKate: And if you go to some boutique shop or something? Not at a market as in your pics?\nOla: I might try and find some. Would you like one too?\nKate: Not really. And Mum would prefer to be the only one with an authentic Cuban blouse :))\nOla: OK I'll have a look. Greets to everyone at home pls.\nKate: Take care!",
     "text_fr": "Ola: Salut Kate, désolé de ne pas avoir été en contact comme il faut. Comme prévu, nous avons à peine de la connectivité ici à Cuba. Mais tout va bien et nous profitons de notre voyage. Comment vont les choses à la maison ?\nKate: Enfin ! J'ai commencé à m'inquiéter. Rien de nouveau, sauf si tu ignores toute cette frénésie de Noël. Momo s'est remise de sa blessure et gambade à nouveau.\nKate: <photo_de_fichier>\nKate: Bonne vieille Momo ! Oui, c'est ton écharpe !\nOla: NON !!! C'est l'une de mes préférées ! Celle du Laos !\nKate: Trop tard. Momo pense que c'est à elle maintenant. Achète-toi-en une nouvelle. Ils en ont sûrement des jolies là-bas.\nOla: Pas du tout. Seulement des blouses en coton assez bon marché avec de l'horrible broderie multicolore ou des hauts au crochet tout aussi horribles. Pas d'écharpes ou de foulards.\nOla: <photo_de_fichier>\nKate: Attends une seconde !\nKate: <photo_de_fichier>\nKate: N'est-ce pas similaire ? Maman aimerait probablement ça. Pourquoi pas toi ?\nOla: Pas une mauvaise idée. Mais la qualité est généralement médiocre.\nKate: Et si tu allais dans une boutique de créateurs ou quelque chose comme ça ? Pas sur un marché comme sur tes photos ?\nOla: Je pourrais essayer d'en trouver. Tu en voudrais une aussi ?\nKate: Pas vraiment. Et maman préférerait être la seule avec une authentique blouse cubaine :))\nOla: D'accord, je vais jeter un coup d'oeil. Salue tout le monde à la maison, s'il te plaît.\nKate: Prends soin de toi !",
-    "nb_characters":"",
-    "nb_words":"",
-    "summaries":[
+    "nb_characters": 1213,
+    "nb_words": 225,
+    "summaries": [
         {
-            "number":"1",
-            "text_en":"Ola is in Cuba and is enjoying her trip. She has problems with connectivity there. Momo has recovered from her injury. Ola doesn't like the clothes in Cuba. Ola will try to find a blouse for mum in Cuba, as Kate suggested.",
-            "text_fr":"Ola est à Cuba et apprécie son voyage. Elle a des problèmes de connectivité. Momo s'est remis de sa blessure. Ola n'aime pas les vêtements à Cuba. Ola va essayer de trouver un chemisier pour maman à Cuba, comme l'a suggéré Kate.",
-            "nb_characters":"",
-            "nb_words":""
+            "number": "1",
+            "text_en": "Ola is in Cuba and is enjoying her trip. She has problems with connectivity there. Momo has recovered from her injury. Ola doesn't like the clothes in Cuba. Ola will try to find a blouse for mum in Cuba, as Kate suggested.",
+            "text_fr": "Ola est à Cuba et apprécie son voyage. Elle a des problèmes de connectivité. Momo s'est remis de sa blessure. Ola n'aime pas les vêtements à Cuba. Ola va essayer de trouver un chemisier pour maman à Cuba, comme l'a suggéré Kate.",
+            "nb_characters": 222,
+            "nb_words": 43
         }
     ]
 }
