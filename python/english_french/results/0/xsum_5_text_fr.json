@@ -1,0 +1,13 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/xsum/5",
+    "model": "legendhasit/xgen-7b-8k-inst-8bit",
+    "instruction": "Résume le texte suivant:\n\n",
+    "input_language": "text_fr",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "1076",
+    "text": "\n\nLes chiffres du PIB (Produits de",
+    "output_length": 15,
+    "nb_words": 6,
+    "nb_characters": 34
+}

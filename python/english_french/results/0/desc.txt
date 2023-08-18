@@ -1,0 +1,1 @@
+This inference batch is aimed at testing this code. It helped debugging. it was performed with a 4bit quantized version of XGen 7B. One take away is that for 4 out of the 5 fredsul texts, there was too many tokens (above 1800)

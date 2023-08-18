@@ -1,0 +1,13 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/fredsum/3",
+    "model": "legendhasit/xgen-7b-8k-inst-8bit",
+    "instruction": "Résume le texte suivant:\n\n",
+    "input_language": "text_fr",
+    "success": "0",
+    "over_context": "",
+    "input_length": "2627",
+    "text": "",
+    "output_length": "",
+    "nb_words": "",
+    "nb_characters": ""
+}

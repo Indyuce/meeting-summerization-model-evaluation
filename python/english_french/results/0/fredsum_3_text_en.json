@@ -1,0 +1,13 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/fredsum/3",
+    "model": "legendhasit/xgen-7b-8k-inst-8bit",
+    "instruction": "Summarize the following text:\n\n",
+    "input_language": "text_en",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "1398",
+    "text": "\n\nIn this transcript, two politicians, Francois Mitterrand and Jacques Chirac, are discussing disarmament and the issue of hostages held by the Soviet Union. Mitterrand questions Chirac's commitment to the continuity of France's foreign policy, which was named after General de Gaulle. Chirac defends his commitment to the continuity and mentions that he is sensitive to the need to uphold it. Mitterrand also brings up the issue of disarmament, stating that he believes that Europe should not exceed the agreements reached in terms of nuclear matters. Chirac agrees with Mitterrand, but also mentions that nuclear deterrence was inspired and implemented by General de Gaulle, and that it was contested by Mitterrand at the time. Mitterrand also brings up the issue of hostages held by the Soviet Union, and Chirac states that he is in favor of the continuity of France's foreign policy, but that it does prompt a thought. Mitterrand also mentions that if he had been elected earlier, France would not have the institutions they have today, and Chirac defends his commitment to upholding those institutions.",
+    "output_length": 231,
+    "nb_words": 179,
+    "nb_characters": 1107
+}

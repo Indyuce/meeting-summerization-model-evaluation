@@ -1,0 +1,13 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/dialogsum/5",
+    "model": "legendhasit/xgen-7b-8k-inst-8bit",
+    "instruction": "Résume le texte suivant:\n\n",
+    "input_language": "text_fr",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "531",
+    "text": "\n\nThe text is about a person (P1) who is missing their passport and is asking for help. They mention that they used their passport to pay for shoes in a shoe store and the store did not have it. The other person (P2) offers to help and suggests that the person should fill out a form for the loss of an object and keep a lookout for it. The person is also given a pen. The person then says they have the impression of losing something every time they travel.",
+    "output_length": 105,
+    "nb_words": 90,
+    "nb_characters": 458
+}

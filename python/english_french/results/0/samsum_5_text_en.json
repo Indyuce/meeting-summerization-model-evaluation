@@ -1,0 +1,13 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/samsum/5",
+    "model": "legendhasit/xgen-7b-8k-inst-8bit",
+    "instruction": "Summarize the following text:\n\n",
+    "input_language": "text_en",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "151",
+    "text": "\n\nLaura and Paul are having a conversation. Laura is asking Paul where he is and he responds that he is almost there. Laura then asks where he is going and Paul says he is close to the Mac. Laura expresses frustration and says that's so far away and that she is not waiting any more. Paul then apologizes and asks Laura to wait some more. Laura is not willing to wait any longer and tells Paul she has waited for 30 minutes and that he wrote he was almost there 15 minutes ago. Paul then says he is sorry.",
+    "output_length": 112,
+    "nb_words": 100,
+    "nb_characters": 505
+}

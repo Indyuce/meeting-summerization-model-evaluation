@@ -1,0 +1,13 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/xsum/4",
+    "model": "legendhasit/xgen-7b-8k-inst-8bit",
+    "instruction": "Summarize the following text:\n\n",
+    "input_language": "text_en",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "418",
+    "text": " A study on mice found that Hsp90 inhibitors can strip cancer cells of defenses against hormone treatments, making the drugs particularly promising for treating drug-resistant cancers. This is because the drugs can hit cancer harder than those targeting only one protein and look promising for preventing or overcoming drug resistance. The next step is to test the Hsp90 inhibitors in clinical trials on patients with aggressive, drug-resistant prostate cancer.",
+    "output_length": 84,
+    "nb_words": 71,
+    "nb_characters": 461
+}
