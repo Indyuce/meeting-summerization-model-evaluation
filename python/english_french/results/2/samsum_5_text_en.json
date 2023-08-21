@@ -1,0 +1,13 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/samsum/5",
+    "model": "Salesforce/xgen-7b-8k-inst",
+    "instruction": "Summarize the following text:\n\n",
+    "input_language": "text_en",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "151",
+    "text": "\n\nLaura asked Paul where he was, and he replied that he was almost there. Laura asked which location he was referring to, and Paul said he was close to the Mac. Laura expressed frustration with the long wait, and Paul apologized for the delay. Laura then told Paul that she was not going to wait any longer and would see him at a later time. Paul begged Laura to wait, but she refused and left. Later, Paul called Laura and apologized again for the delay and for his behavior. Laura accepted his apology but still did not want to see him again.",
+    "output_length": 118,
+    "nb_words": 102,
+    "nb_characters": 544
+}

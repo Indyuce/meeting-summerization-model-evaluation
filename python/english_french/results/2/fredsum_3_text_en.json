@@ -1,0 +1,13 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/fredsum/3",
+    "model": "Salesforce/xgen-7b-8k-inst",
+    "instruction": "Summarize the following text:\n\n",
+    "input_language": "text_en",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "1398",
+    "text": "\n\nThe speakers are discussing the issue of disarmament and the state of European security. François Mitterrand and Jacques Chirac, the leaders of France, have different opinions on the sincerity of Mikhail Gorbachev's efforts towards disarmament. Mitterrand believes that Gorbachev is sincere, while Chirac is cautious and demands more proof. They also discuss the issue of nuclear deterrence and the need for conventional disarmament between East and West. The Prime Minister asks about the concept of nuclear strike capability and the continuity of France's foreign policy, which both leaders agree is important to uphold. Mitterrand's past actions are questioned and he is asked if he has a flawed judgment this time. The speakers also discuss the issue of hostages held by terrorist groups.",
+    "output_length": 157,
+    "nb_words": 125,
+    "nb_characters": 794
+}

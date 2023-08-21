@@ -1,0 +1,13 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/mediasum/3",
+    "model": "Salesforce/xgen-7b-8k-inst",
+    "instruction": "Summarize the following text:\n\n",
+    "input_language": "text_en",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "686",
+    "text": " The U.S. Soccer Federation has issued new guidelines for youth soccer coaches, advising them to treat youth soccer practice like a playground, and not to coach so much. The author argues that it is unnecessary and rude to yell nonstop instructions at soccer playing children, and that it is better to let children explore the game without adults stifling their creative impulses or critiquing their mistakes. The author suggests that the key to developing talented soccer players is to allow children to play freely, without adults looking over their shoulders. The author also suggests that most youth soccer players quit the sport by the time they are 12 years old, and that the key to keeping them engaged is to make practices more like pick-up games.",
+    "output_length": 146,
+    "nb_words": 128,
+    "nb_characters": 755
+}

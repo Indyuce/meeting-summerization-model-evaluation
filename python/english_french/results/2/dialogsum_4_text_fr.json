@@ -1,0 +1,13 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/dialogsum/4",
+    "model": "Salesforce/xgen-7b-8k-inst",
+    "instruction": "Résume le texte suivant:\n\n",
+    "input_language": "text_fr",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "745",
+    "text": "\n\nCleo and Simon are discussing whether Cleo will go to a protest the next day to stop the spread of nuclear weapons. Simon says he will not go because he does not like protests and he has heard that the police will be present with tear gas. Cleo mentions that North Korea claims to have nuclear weapons, but 100+ countries have signed the Nuclear Non-Proliferation Treaty. Simon says that while both sides of a story have positive aspects, he does not understand why he should risk getting hurt by protesting something he is not sure is just. Cleo suggests that there is little risk of getting hurt and that the protest will be peaceful. Cleo has spoken to the organizer of the university group, who insists that the protest will be peaceful. Simon says he will not go and will study for his physics exam instead.",
+    "output_length": 170,
+    "nb_words": 147,
+    "nb_characters": 814
+}

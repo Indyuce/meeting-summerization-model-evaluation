@@ -1,0 +1,13 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/dialogsum/3",
+    "model": "Salesforce/xgen-7b-8k-inst",
+    "instruction": "Summarize the following text:\n\n",
+    "input_language": "text_en",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "357",
+    "text": "\n\nThe conversation between two people, P1 and P2, revolves around their drinking habits. P1 asks P2 how much they drink and P2 responds that they usually have 2 beers per occasion, but can drink more if they go out. P1 then asks P2 how much they can drink and P2 responds that they usually drink all night and have at least 10 drinks. P1 then comments on how much money P2 spends on drinking and P2 responds that they usually go to places that have specials, such as $5.00 pitchers on Mondays, which allows them to drink a lot for a lower cost. P2 then suggests going to the Ram Bar and Grill the next night for a special on pitchers. P1 agrees.",
+    "output_length": 154,
+    "nb_words": 124,
+    "nb_characters": 645
+}
