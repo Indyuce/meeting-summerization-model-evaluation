@@ -1,0 +1,13 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/mediasum/2",
+    "model": "legendhasit/xgen-7b-8k-inst-8bit",
+    "instruction": "Résume le texte suivant:\n\n",
+    "input_language": "text_fr",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "1625",
+    "text": "The text is a summary of a conversation between two people, DG and KB, discussing the history of the University of Loyola Chicago basketball team and their involvement in the Civil Rights Movement. The team, known as the \"Cinderella\" team for their success in the NCAA tournament, had a memorable run in 1963, which included a win against the University of Mississippi, which had a rule prohibiting white teams from playing against black teams. The University of Mississippi team, which was seeking a chance to participate in the tournament, had to travel to Michigan to play against Loyola, which had several black players on its team. This was against the segregationist laws of the state of Mississippi and made for a fascinating story. The conversation then turns to the impact of the Civil Rights Movement and whether the University of Mississippi team's participation in the tournament was intended to express their support for the movement or simply to continue playing in the tournament, regardless of who they played against. The conversation also touches on the lack of tangible change that came from the \"Championship Game\" and the need for more in-depth analysis of the role of white people in the Civil Rights Movement.",
+    "output_length": 237,
+    "nb_words": 205,
+    "nb_characters": 1232
+}

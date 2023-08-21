@@ -1,0 +1,13 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/dialogsum/2",
+    "model": "legendhasit/xgen-7b-8k-inst-8bit",
+    "instruction": "Résume le texte suivant:\n\n",
+    "input_language": "text_fr",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "747",
+    "text": "Le texte est un dialogue entre deux personnes qui discutent de la création d'une entreprise. La première personne est en colère de devoir travailler pour une entreprise qui ne l'amène nulle part et décide de créer sa propre entreprise. La deuxième personne suggère que la rédaction d'un plan d'affaires est la première étape à suivre et demande si l'auteur a déjà rédigé un tel plan. La première personne affirme que elle ne trouve pas que cela soit difficile et que cela consiste principalement à expliquer son entreprise et à décrire ses biens ou services. La deuxième personne rappelle que le plan d'affaires doit inclure des informations telles que la structure juridique de l'entreprise, son histoire et comment ils se différencient des concurrents. Elle suggère que la rédaction d'un plan d'affaires est la première étape importante pour tes investisseurs, qui comprendra un résumé exécutif qui met en évidence l'idée de l'entreprise en deux pages ou moins. Ensuite, ils discutent de la stratégie de marché et de la mise en œuvre de l'entreprise.\n\nEn résumé, le texte décrit la création d'une entreprise par l'auteur et les étapes à suivre pour y parvenir. Il est important de noter que la rédaction d'un plan d'affaires est la première étape importante pour tes investisseurs.",
+    "output_length": 425,
+    "nb_words": 225,
+    "nb_characters": 1283
+}

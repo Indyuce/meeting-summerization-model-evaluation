@@ -1,0 +1,13 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/mediasum/1",
+    "model": "legendhasit/xgen-7b-8k-inst-8bit",
+    "instruction": "Résume le texte suivant:\n\n",
+    "input_language": "text_fr",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "1634",
+    "text": "Le texte est un entretien avec Ann Kiremidjian, professeure d'ingénierie des structures à l'Université Stanford. Elle explique que les bâtiments effondrés autour de Chengdu, en Chine, après le séisme de 1976 ont tendance à être des structures en béton, appelées \"ossatures en béton non ductile\", ce qui signifie qu'il y a peu d'armatures métalliques dans le béton et donc que le béton ne peut pas résister au déplacement dans la direction horizontale. Kiremidjian a également expliqué que les Chinois n'avaient pas de codes de résistance aux séismes en place à l'époque du séisme de 1976, et que maintenant ils ont mis en place des programmes très solides pour élaborer des codes sismiques et développer des cartes de risques sismiques.\n\nKiremidjian a également répondu aux questions sur la région autour de Chengdu, dans la province du Sichuan, qui est soumise aux séismes, et sur la mesure du niveau de danger pour les bâtiments dans une certaine zone autour de l'épicentre du séisme. Elle a mentionné que cela peut être fait en recrutant tous les ingénieurs structurels professionnels pour aider dans le processus d'inspection.",
+    "output_length": 374,
+    "nb_words": 190,
+    "nb_characters": 1130
+}

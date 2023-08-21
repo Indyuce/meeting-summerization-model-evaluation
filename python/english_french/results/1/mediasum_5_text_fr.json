@@ -1,0 +1,13 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/mediasum/5",
+    "model": "legendhasit/xgen-7b-8k-inst-8bit",
+    "instruction": "Résume le texte suivant:\n\n",
+    "input_language": "text_fr",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "1393",
+    "text": "Kentaro Toyama, an award-winning computer scientist teaching at the University of Michigan, argues in his book 'Geek Heresy' that the belief in technology as a transformative power is misplaced. Toyama is skeptical of projects that present technology as a major solution to development problems. He believes that these projects often benefit a relatively well-educated elite in developing countries while not addressing the deeper inequalities within these countries. For example, in Nigeria, a country with 170 million people, most of whom earn relatively modest sums, even if 100,000 of them became software developers in the United States, this would only represent a drop in the bucket. Toyama also points out that technology has promised solutions to some global problems that it has not been able to deliver. He gives examples, such as the One Laptop per Child project founded by Nicholas Negroponte, which aimed to provide portable computers to children in many parts of the world where education was in ruins. However, Toyama argues that this project was not a technology project but an educational one. He believes that the problem with these projects is that technology itself does not provide real education. You always need a good adult guidance.\nToyama believes that technology has tended to have a limited impact on social change. He argues that while technology has brought an age of digital innovation in the United States during the last four decades, poverty has actually increased, inequality has exploded, and social mobility is stagnant. He suggests that without additional intervention, technology itself does not solve these problems.\nToyama believes that Silicon Valley's approach to this issue is problematic. He argues that while Silicon Valley companies often engage in rhetoric about addressing social problems, in reality, they are mostly focused on increasing shareholder value by pretending to address a problem while actually working only minimally at the edges.\nToyama would like people to think differently about this issue. He believes that if we think that technology is a tool that amplifies existing human forces, the more technology we have, the more important it is to focus on human forces and to ensure that they are good.",
+    "output_length": 420,
+    "nb_words": 361,
+    "nb_characters": 2264
+}

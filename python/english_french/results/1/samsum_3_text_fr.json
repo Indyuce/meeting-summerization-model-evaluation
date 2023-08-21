@@ -1,0 +1,13 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/samsum/3",
+    "model": "legendhasit/xgen-7b-8k-inst-8bit",
+    "instruction": "Résume le texte suivant:\n\n",
+    "input_language": "text_fr",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "272",
+    "text": "Andrei asked Serge if he had picked up the filming equipment for tonight's shoot. Serge replied that he was currently doing so. Andrei then asked Serge if he had his credit card with him, as they had an unpaid bill with a company that needed to be settled. Serge replied that he did have it with him and that there wasn't much credit available, but they would see once they arrived at the location. Andrei thanked him and they agreed to keep an eye on the situation.",
+    "output_length": 101,
+    "nb_words": 89,
+    "nb_characters": 466
+}

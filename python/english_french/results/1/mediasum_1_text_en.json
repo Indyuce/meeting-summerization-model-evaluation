@@ -1,0 +1,13 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/mediasum/1",
+    "model": "legendhasit/xgen-7b-8k-inst-8bit",
+    "instruction": "Summarize the following text:\n\n",
+    "input_language": "text_en",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "936",
+    "text": "Ann Kiremidjian, a structural engineer at Stanford University, is helping assess the damage caused by the earthquake in China. She has experience assessing damage after a large earthquake in China in 1976 and has made recommendations to the Chinese government in the past. She notes that the region around Chengdu, Sichuan province, is prone to earthquakes and that it is necessary to focus on buildings within a certain radius from the epicenter to perform a thorough assessment. She also mentions that it is not possible for one person or a small group of people to perform this task in a reasonable amount of time and that it is necessary to recruit structural engineers to help with the inspection process.",
+    "output_length": 137,
+    "nb_words": 119,
+    "nb_characters": 710
+}

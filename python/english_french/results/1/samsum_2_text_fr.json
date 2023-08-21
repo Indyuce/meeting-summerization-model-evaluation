@@ -1,0 +1,13 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/samsum/2",
+    "model": "legendhasit/xgen-7b-8k-inst-8bit",
+    "instruction": "Résume le texte suivant:\n\n",
+    "input_language": "text_fr",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "910",
+    "text": "The text is a conversation between two women, Deirdre and Beth. Deirdre asks Beth how she is doing and Beth responds by saying that she has been wanting to contact her for a while and has a favor to ask. Deirdre suggests that they organize a girls' weekend for Beth's mother's 40th birthday, with Kira, Deirdre's niece, coming home from college. Beth agrees and says that it sounds great. Deirdre then jokingly suggests that Beth should put her brain into gear, as the event is only six weeks away. Beth says that she remembers having a similar surprise party for Deirdre four years ago and that it was a lovely surprise. Deirdre then asks Beth if she has any ideas for the surprise and Beth says that she had wanted to try out a professional hair salon experience. Deirdre then offers to find girls for Beth to work with on Saturdays and Beth says that she would like to try it out. Deirdre also suggests that Beth consider working with a particular teacher to help with her exams and college applications. Beth says that she is interested in trying out the beauty side of the salon and Deirdre warns her that it is not for the faint of heart, as it includes massages, pedicures, and waxing. Beth agrees and says that she would like to try it out. Deirdre offers to give Beth a few euros per session to start and to continue the experience. Beth agrees and says that she loves the idea. The conversation ends with Beth saying goodbye and Deirdre signing off with a kiss.",
+    "output_length": 326,
+    "nb_words": 271,
+    "nb_characters": 1471
+}
