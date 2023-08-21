@@ -1,9 +1,15 @@
 
 import requests
 
+key_file = open('openai_key.ignored', 'r', encoding='utf-8')
+key = key_file.read()
+key_file.close()
+
+print('Using key', key)
+
 headers = {
     'Content-Type': 'application/json',
-    'Authorization': 'Bearer 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',
+    'Authorization': 'Bearer ' + key,
 }
 
 json_data = {
