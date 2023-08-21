@@ -1,0 +1,49 @@
+{
+  "annotator": "Jules_Peyrat",
+  "meeting_objective": "Les participants échangent au sujet des enjeux et développements récents autour de plusieurs thèmes axés sur l'environnement, à savoir les espèces en voie de disparition, la déforestation, les transports et l'énergie.",
+  "agenda": [
+    {
+      "subject": "Les espèces animales en voie de disparition",
+      "minutes": [
+        "Une part conséquente des espèces sont en voie de disparition ou sont déjà éteintes.",
+        "Pour conserver les espèces en danger, les ONG comme la WWF peuvent élever ces animaux en captivité, avant de les réintroduire.",
+        "De nombreuses réserves existent pour protéger les animaux dans le monde entier.",
+        "Les citoyens, et notamment les étudiants et universitaires devraient en parler autour d'eux pour faire prendre conscience du danger qu'encourent certaines espèces. Il y a aussi des manifestations citoyennes contre les zoos et les cirques.",
+        "L'activité humaine comme le braconnage est à l'origine de la crise de biodiversité actuelle."
+      ]
+    },
+    {
+      "subject": "La déforestation",
+      "minutes": [
+        "En Thaïlande, la déforestation pousse des populations de singes à envahir les villes.",
+        "Le bois est utilisée pour construire de nouvelles villes et routes.",
+        "Certains magasins ou services s'engagent à planter des arbres. [105] donne l'exemple de Yves Rocher, et remet en question la légitimité du moteur de recherche Ecosia.",
+        "Des initiatives telles que Canopée existent pour reboiser la France. Le reboisement bénéficierait aux espèces qui ont été chassées des villes, mais aussi aux habitants pour la pureté de l'air.",
+        "Des initiatives individuelles et citoyennes telles que les pétitions sont envisageables.",
+        "Les participants sont pessimistes au sujet de la déforestation."
+      ]
+    },
+    {
+      "subject": "Les moyens de transport",
+      "minutes": [
+        "Les transports collectifs et peu polluants sont préférables.",
+        "Tout comme en alimentation et en habillement, il est possible de changer drastiquement nos habitudes de consommation en termes de transport.",
+        "Les villes actuelles comme Paris ne sont pas du tout adaptées aux vélos. Des efforts avaient été fait pendant le Covid et [106] pense qu'il faut continuer dans ce sens.",
+        "La ville de Aix-en-Provence a introduit des vélos en libre accès, cependant [107] souligne que c'est très cher et qu'il y a peu de bornes pour reposer le vélo."
+      ]
+    },
+    {
+      "subject": "Les énergies renouvelables",
+      "minutes": [
+        "La majeure partie de l'énergie consommée par l'Homme est fossile, le pétrole par exemple. Les énergies fossiles prennent plusieurs milliers d'années à se renouveler.",
+        "Les énergies renouvelables à notre disposition sont l'énergie solaire avec les panneaux solaires, et le vent à travers les éoliennes terrestres et maritimes.",
+        "Les éoliennes créent des nuisances sonores et visuelles pour les habitants proches. [107] souligne que les puits de pétrole génèrent les mêmes nuisances.",
+        "Il faut sensibiliser la population à la question des énergies renouvelables, même s'il existe peu de possibilités d'initiatives individuelles à part l'installation de panneaux solaires.",
+        "La transition énergétique dépend aussi de la volonté du gouvernement. [105] souligne que le peuple peut manifester pour faire pression sur le gouvernement en faisant levier sur leur nombre."
+      ]
+    }
+  ],
+  "abstractive_summary": "Les quatre participants échangent autour d'enjeux environnementaux modernes, notamment la déforestation, l'énergie, les transports et la crise de la biodiversité. De manière générale, des initiatives individuelles sont envisageables, comme privilégier les transports non polluants ou installer des panneaux solaires chez soi, mais les initiatives collectives comme les pétitions, les manifestations et les ONG ont plus de chance de faire évoluer le monde. Pour ce faire, il faut aussi sensibiliser la population autour de ces différents enjeux. [104] souligne que l'activité humaine entraine une baisse de la biodiversité, malgré, par exemple, les initiatives citoyennes et entrepreneuriales telles que Ecosia ou Canopée visant à reboiser la France pour atténuer la déforestation. Par ailleurs, il serait préférable de privilégier les transports verts tels que le vélo pour limiter la polution urbaine similairement à ce qui avait été fait pendant la pandémie Covid-19, mais cette option reste aujourd'hui limitée par la structure des villes comme Paris. Enfin, la transition énergétique vers des énergies non fossile reste un défi. En effet, il est aujourd'hui difficile de s'affranchir du nucléaire au profit d'énergies vertes peu performantes. De plus, les initiatives personnelles dans le domaine énergétique semblent très limitées.",
+  "vocal_summary": null,
+  "meeting_code": "040a_EERH"
+}

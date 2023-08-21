@@ -1,0 +1,50 @@
+{
+  "annotator": "Jules_Peyrat",
+  "meeting_objective": "Les participants se réunissent afin d'organiser un festival autour du cinéma. Ils doivent décider les films à projeter, choisir le type de cinéma et enfin régler d'autres détails au sujet de l'organisation et de la communication du festival.",
+  "agenda": [
+    {
+      "subject": "Choix des genres cinématographiques",
+      "minutes": [
+        "[17] rappelle qu'il ne faut retenir que 2 thèmes parmi les 4 proposés lors de la dernière réunion.",
+        "[53] souligne qu'il faudrait retenir en priorité les thèmes les plus populaires.",
+        "Le thème de la comédie classique proposé par [63] est retenu. La comédie romantique est jugée moins intéressante.",
+        "[57] dit que les films de superhéros Marvel sont très à la mode, et ce thème est retenu."
+      ]
+    },
+    {
+      "subject": "Choix du type de cinéma",
+      "minutes": [
+        "[17] expose les choix disponibles : un cinéma classique avec 150 places, un cinéma drive avec un nombre de places illimité, ou un cinéma art-déco plus raffiné avec seulement 50 places.",
+        "Le cinéma art-déco est éliminé sous l'impulsion de [53] qui estime que cela ne correspond pas au même type de public que les films de superhéros, et qui souligne que cela réduit le nombre de places disponibles.",
+        "Finalement, un consensus s'établit sur le cinéma drive pour un nombre de places maximal. [17] souligne que c'est également plus original, et [57] fait remarquer que cela permettrait de prendre en compte les restrictions sanitaires.",
+        "Le seul bémol est que la possibilité d'interagir avec le public est limitée. Toutefois, [53] fait remarquer que les participants pourront parler entre eux sans gêner les autres.",
+        "[53] prend l'exemple de cinéma drives publics et privés à Marseille."
+      ]
+    },
+    {
+      "subject": "Choix des films diffusés",
+      "minutes": [
+        "Il faut choisir 10 films à diffuser. [17] propose de choisir 5 films par thème.",
+        "[17] propose La-la-land que [53] rejette car il s'agit d'une comédie romantique.",
+        "\"Babysitting\" et \"Les profs\" sont proposés par [57] puis retenus. Ce sont des films pour les jeunes, à la mode.",
+        "\"Les bronzés font du ski\" et \"Le père Noël est une ordure\" proposés respectivement par [53] et [63] sont retenus pour diversifier les époques.",
+        "Enfin, \"Mais qu'est-ce qu'on a fait au bon dieu ?\" proposé par [17] est retenu.",
+        "Les deux film Marvel incontournables \"Iron Man\" et \"Captain America\" proposés par [53] et [17] sont retenus.",
+        "[57] propose \"Deadpool\" et \"Suicide Squad\", car il s'agit des films récents dont l'humour noir a bien marché.",
+        "Le dernier film de super héros retenu est \"Hancock\" pour son originalité, suite à la proposition de [57]."
+      ]
+    },
+    {
+      "subject": "Détails sur le festival",
+      "minutes": [
+        "Selon [17], il faut un thème global pour unifier les deux genres choisis et susciter l'intérêt chez le public. Le thème ou slogan finalement retenu proposé par [17] est \"l'été en plein air\".",
+        "Les participants ne savent pas s'il faut décider de la durée du festival pour l'instant.",
+        "Le film \"Deadpool\" sera mis en tête d'affiche pour attirer le public, car c'est une comédie orientée vers l'humour noir. Il sera aussi projeté en dernier.",
+        "Babysitting sera projeté en premier. Ensuite, a priori les comédies seront projetées avant les films de superhéros."
+      ]
+    }
+  ],
+  "abstractive_summary": "Les participants discutent de l'organisation d'un festival cinématographique. Plus précisément, ils établissent la liste des films à projeter, le type de projection, les films à l'affiche et l'ordre de projection. Dans un premier temps, ils discutent des genres cinématographiques à projeter. Il est décidé d'axer ce festival sur le thème de \"l'été en famille\", en projetant des comédies ainsi que des films de superhéros récents. Par exemple, les comédies \"Babysitting\" et \"Le père Noël est une ordure\" sont retenues pour diversifier les époques des films et toucher un public plus large. Les films de superhéros retenus comprennent des Marvel récents, comme \"Captain America\" ou \"Iron Man\" et sont à destination des familles et des jeunes. Le film \"Deadpool\" à l'intersection des deux genres sera en tête d'affiche. L'ordre de projection est également décidé. Enfin, les participants se mettent d'accord sur un cinéma drive en plein air, moins coûteux, et qui permet de s'affranchir des contraintes sanitaires et spatiales. Les familles pourront également discuter sans déranger les autres spectateurs.",
+  "vocal_summary": null,
+  "meeting_code": "020b_EBDZ"
+}
