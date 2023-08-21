@@ -1,0 +1,13 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/xsum/5",
+    "model": "legendhasit/xgen-7b-8k-inst-8bit",
+    "instruction": "Summarize the following text:\n\n",
+    "input_language": "text_en",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "518",
+    "text": "The UK economy grew by 0.3% in the second quarter of 2017, in line with economists' expectations. The growth was driven by services, particularly retail, and was partially offset by falls in output in the manufacturing and construction sectors. The ONS head of national accounts, Darren Morgan, said that there had been a notable slowdown in growth from last year, and that the economy had experienced a slowdown in the first half of this year. The IMF downgraded its forecast for UK economic growth this year due to the weak first-quarter figure. The Chancellor, Philip Hammond, said that the UK economy had grown consistently for four-and-a-half years, but that the government needed to focus on restoring productivity growth to deliver higher wages and living standards. The Shadow Chancellor, John McDonnell, said that the weak growth under a weak government exposed the last seven years of Tory economic failure. Lucy O'Carroll, chief economist at Aberdeen Asset Management, said that the growth was taken as good news, but that it didn't amount to much, as the underlying trends didn't look favourable given the uncertainties around Brexit and the pressure on household budgets from higher inflation.",
+    "output_length": 236,
+    "nb_words": 201,
+    "nb_characters": 1206
+}

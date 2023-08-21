@@ -1,0 +1,13 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/samsum/4",
+    "model": "legendhasit/xgen-7b-8k-inst-8bit",
+    "instruction": "Summarize the following text:\n\n",
+    "input_language": "text_en",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "386",
+    "text": "Ola and Kate are in Cuba and they are having a conversation about their travels and their lives back home. Ola is upset that their favorite scarf is now being worn by their dog, Momo, and Kate suggests that they should try to find a new scarf while they are in Cuba. Kate also mentions that she would like to have an authentic Cuban blouse, but she doesn't think that she would like the quality of the scarves they have found so far. Ola agrees to look for a new scarf and they exchange greetings to their friends and family back home.",
+    "output_length": 119,
+    "nb_words": 103,
+    "nb_characters": 535
+}

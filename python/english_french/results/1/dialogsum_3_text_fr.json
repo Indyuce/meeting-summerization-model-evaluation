@@ -1,0 +1,13 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/dialogsum/3",
+    "model": "legendhasit/xgen-7b-8k-inst-8bit",
+    "instruction": "Résume le texte suivant:\n\n",
+    "input_language": "text_fr",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "519",
+    "text": "The text is a conversation between two people, P1 and P2, who are discussing their drinking habits. P1 asks P2 if they drink a lot, to which P2 responds that it depends on what is considered a lot. P1 then asks how often P2 drinks, to which P2 responds a few times per week. P1 then asks P2 how much they can drink, to which P2 responds that they usually only drink 2 beers. P1 then asks P2 how much money they spend on drinks, to which P2 responds that they usually go to places that offer special deals, such as the Dante's bar on the avenue, which offers 5-dollar pitchers on Mondays. P1 agrees and mentions that they also like to try cocktails, but P2 suggests that they should stick to beer as it is better for their health. P2 then suggests going to the Ram Bar and Grill the next night to enjoy a reduced price on drinks. P1 agrees to the plan.",
+    "output_length": 205,
+    "nb_words": 167,
+    "nb_characters": 851
+}

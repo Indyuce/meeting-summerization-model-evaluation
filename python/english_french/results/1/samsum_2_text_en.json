@@ -1,0 +1,13 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/samsum/2",
+    "model": "legendhasit/xgen-7b-8k-inst-8bit",
+    "instruction": "Summarize the following text:\n\n",
+    "input_language": "text_en",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "592",
+    "text": "Auntie Deirdre and Beth are discussing Beth's plans for her mother's 40th birthday celebration. Beth suggests a girls' weekend with her mother, Auntie Deirdre, and the girls, including Kira who will come back from university. Auntie Deirdre agrees and encourages Beth to try working in the salon as a beauty therapist, which Beth is interested in. Auntie Deirdre offers to pay Beth for her work experience and suggests starting with a few hours on a Saturday for a couple of weeks. Beth agrees and looks forward to trying the beauty therapy side of the salon.",
+    "output_length": 122,
+    "nb_words": 97,
+    "nb_characters": 559
+}

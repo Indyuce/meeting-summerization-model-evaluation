@@ -1,0 +1,13 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/mediasum/3",
+    "model": "legendhasit/xgen-7b-8k-inst-8bit",
+    "instruction": "Résume le texte suivant:\n\n",
+    "input_language": "text_fr",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "1251",
+    "text": "Le texte décrit une critique du football organisé aux États-Unis. Il est décrit comment la Fédération de soccer des États-Unis a publié des directives pour les entraîneurs de jeunes joueurs pour qu'ils ne coachent pas trop les enfants lors de leur entraînement. Le texte souligne que les enfants devraient jouer plutôt qu'être entraînés et que le soccer devrait être un moment de jeu plutôt qu'un sport structuré. Le commentateur Mike Woitalla estime que ces directives sont des bonnes idées et que le football devrait être un moment de jeu pour les enfants.",
+    "output_length": 182,
+    "nb_words": 97,
+    "nb_characters": 558
+}
