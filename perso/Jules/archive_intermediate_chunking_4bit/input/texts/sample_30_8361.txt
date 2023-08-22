@@ -1,0 +1,406 @@
+<ID> Okay, welcome to the second meeting of this uh design group.
+<ID> Um I'll briefly go through the uh notes of the of the last meeting uh just done in in note form and I haven't attributed anything to individuals, because we're working strictly as a team here and uh n nobody's working equally, so uh.
+<UI> Sorry.
+<ID> Um we we s we saw that the the problems with existing remote controls were the uh b a boring shape and boring colour.
+<ID> Um and and we s we saw that the um what we needed to do was to to make sure the device um controls several items, that switching was easy, that you shouldn't need to point the thing at uh anything in particular, um that it need to be contoured to make it interesting, that the keys might be concave, simply because that hasn't been done before that we know of.
+<ID> Um should have interchangeable fascias so people can personalise it, um illuminated so that people can see it in dark rooms.
+<ID> Um and that people might want it as as in addition to their existing remote controls.
+<ID> Um and that it sh it should just always work, whenever you uh um mm uh use it.
+<ID> And that it shouldn't be too small, mm that it it gets lost.
+<ID> Um.
+<ID> Now uh uh I'll shortly ask for for three three presentations.
+<ID> Uh before I do that, however, I will go through some new project requirements that um the the management have placed on us and uh will be challenging in terms of what we discussed at the first meeting.
+<ID> Um the uh the ma the management has had it's own thoughts on this and uh the they don't necessarily agree with with what we uh we thought.
+<ID> Um and and then we'll as a result of that we will then talk through the the functions that we see the the device um actually b carrying out, and we have uh forty minutes to do this in and I uh Anyway.
+<ID> Okay.
+<ID> Now, the n the new requirements are um the the management team see that um teletext is no longer of any importance given the uh the rise of the internet.
+<ID> Um and and they want it only to cover televisions.
+<ID> Um now, what is not q quite clear from their directive is whether they mean th they don't want it to cover teletext or whether they don't want it to cover, you know, videos, DVDs, um satellite boxes, which uh I mean we saw as being fundamental to the uh to the exercise.
+<ID> The um the actual wording of the directive is that it should cover television only.
+<ID> Um and on that basis um I I think we we need to bear that in mind, um but possibly uh keep at the backs of our minds that the reality that people even when they uh no longer they don't look at teletext anymore, they certainly do look at other things.
+<ID> Um the device has to incorporate the company logo and colours.
+<ID> Um the the logo uh being at b the bottom of the screen there, the the the two Rs in grey against uh a yellow background.
+<ID> Um now this doesn't necessarily mean that we have to give up some of our ideas about making it attractive to the t to the market.
+<ID> But uh do do introduce some some constraints as to how we might do that.
+<ID> Um it also has to be simple, which to some extent goes along w with the first one, and that we've already said that it must be simple 'cause that's what people want anyway.
+<ID> Um but they also want it to be simple to get it to the market quickly, which um mm uh is is is their choice, but uh um we we need to talk that through.
+<ID> Um okay, so uh after the meeting it'll be summarised and uh um notes sent out and uh etcetera.
+<ID> Okay, so we'll first of all mm have individual reports from everybody.
+<ID> Um again I there is no order of precedence here um so I I I'll leave it up to you to who who who thinks they would like to go go first?
+<ME> Uh I don't mind.
+<ID> P fine.
+<ME> Uh can I steal the cable?
+<ID> Oh sorry, you can indeed.
+<ME> Cheers.
+<ME> I got a how do I start there?
+<ID> Oh, if you click on the um uh the one that that looks like a projection screen, no the one to the right of that.
+<ME> That one.
+<ID> That one.
+<ME> Cool.
+<ME> Well these are functionality requirements from the our our guys down in the the research lab.
+<ME> Took hundred people and covered all the aspects of what um is needed by people and what they want to see.
+<ME> Um everything kinda from functionality and how individual functions are how mu how how often they're used and how much their necessary and stuff.
+<ME> And general opinions about current current remotes.
+<ME> See that, as we kinda noticed, seventy five percent of people find their remote controls ugly.
+<ME> So some kind of a new style should be incorporated that's less ugly.
+<ME> Uh along with um looking less ugly, if it looks better, eighty percent of people said they'd spend more money on it.
+<ME> Which is a a plus for us, if we can make it look better, it'd be uh more cost effective and we can put the price up.
+<ME> Current remote controls do not match the operating behaviour of the user.
+<ME> I can empl I kinda take that to mean as um they they don't uh they, yeah, they only use they only work for the television or yeah like as in in my flat I've got six remote controls for a stereo system, a digital box, a DVD player, a video player and TV.
+<ME> If it was uh I mean th my behaviour is to use multiple things at the same time and multiple remotes aren't really matched well to my behaviour.
+<ME> Uh again, seventy five percent is seventy five percent of users say they zap a lot.
+<ME> I took to mean that they just they use it a lot, they use it regularly rather than standing up and manually change channels or volume.
+<ME> And uh yeah, uh I think the big issue is fifty percent users only use ten percent of the buttons, 'cause uh wh if we got a remote that like well we'll have some buttons taken off by the lack of teletext, but uh oh and we're going to see uh on the uh that some of the functions like audio settings aren't h hardly ever used and used very aren't considered relevant by the user.
+<ME> So I think maybe fewer buttons, which also make the design look sleeker, I dunno.
+<ME> Uh um yeah and uh frustrations of like people losing remote control.
+<ME> I dunno maybe some kind of system of you press a button on the TV or maybe that's b it would have to incorporate, but like some kind of system where you can f use something else to find the remote control.
+<ID> Mm.
+<ME> Maybe like it'll beep or something.
+<ME> And um, yep, the uh time taken to learn new remote controls is Uh don't want to make it too complicated, easy to use for uh new like first time users and stuff.
+<ME> And uh repetitive strain injury, I suppose we should make it more comfortable and make ma possibly even use have to make it, yeah, fewer buttons, like I was saying about the whole mice the mouse idea of it feels more comfortable.
+<ME> Maybe don't even have to hold it as such.
+<ID> Mm.
+<ID> Gosh, must be some telly addicts out there if they get RSI from their television remote, is all I can say.
+<ME> But uh yeah.
+<ME> It also asked um if we would if people would pay more for speech recognition and younger people say they would.
+<ME> And uh there was another section on our on the report for uh LCD displays, but the data wasn't there, so.
+<ME> I don't actually know what the results for that were, so.
+<ID> Mm.
+<ID> Right.
+<ID> Mm.
+<ME> May be incrementally emitting, but yeah.
+<ID> Yeah, I must say that um the uh I c can't remember what um f you know phone service I was using the other day, but that had sorta speech recognition which worked uh remarkably well, so that is indeed a uh um a thought and it it cuts out uh I was was gonna say, you can't get a lot of RSI, j just get jaw ache.
+<ME> And uh it would cut out the RSI as well if you Yeah, um oh yeah, so possibly the speech recognition is possibly something could add into the design.
+<ID> Okay, sorry.
+<ME> Oh, I've got some other things I couldn't fit onto this presentation.
+<ME> Um.
+<ME> You see this okay?
+<ME> Almost no?
+<ME> It's sorry it's a bit.
+<ME> I'll read out to you.
+<ME> Uh functionality, uh like people's opinions on functionality, the relevance to the remote and how often they're used.
+<ME> So um like the power.
+<ME> Using the using the d swi the power switch to switch on TV is a high relevance of nine, but it's not frequently used.
+<ME> You see what I mean?
+<ME> Whereas channel selection, which is very high relevance is used the most.
+<ID> Yeah.
+<ID> Mm-hmm.
+<ME> So m we can maybe even start to cut down on or I was possibly even thinking of a design that maybe some of the buttons are hidden from everyday use.
+<ME> Maybe like uh a folding ledge or something.
+<ME> So that we can maybe go into the channel settings and the audio settings, which are low relevance and rarely used.
+<PM> Mm.
+<ME> And keep the v volume selection and channel selection very easily Oh yeah.
+<ID> Mm-hmm.
+<UI> It could be oh uh I was just gonna say uh maybe like the flip phones that they use?
+<ID> I mean Yeah.
+<UI> Have you seen the new mo mobile phones that flip out and they have the like texting, and then the numbers on one side, so you could have the most used buttons on top and flip it out or something.
+<PM> Mm.
+<ID> Mm.
+<ID> Hmm, hmm.
+<PM> Mm.
+<ME> Yeah, like the one that like slides back and the buttons are concealed underneath.
+<ID> Uh.
+<UI> Yeah.
+<ID> Should we actually bite the bullet here?
+<PM> Mm.
+<ID> If people really don't use those buttons to any extent at all um remove them altogether.
+<ME> Just remove them completely?
+<UI> That might be the Maybe i Yeah, have a big kind of like the satellite box or the cable box and have it just go on the TV and then it doesn't matter where in the room you are, you won't lose it.
+<ID> We we could actually have we could actually have a remote control with um I wonder whether we could get the remote control with no buttons at all if we went for voice recognition, given that um the Um now the the age structure we were looking at um I mean w we had usage by age structure, what we didn't have was what proportion of people using remotes were in those particular age groups.
+<ID> Now do we know whether they Forty no sorry for forty five to fifty five age group, uh to put myself right in the middle of it, um u use remote controls to a great extent.
+<ME> Uh yeah.
+<ID> Yes we That would 've speech recogn right.
+<ME> Um no this is for pay more for speech recognition.
+<ID> So, we're looking at um well again, we don't know the relative proportion the relative numbers in the age groups.
+<ME> Yeah, that's true.
+<ID> If we wanted something different, truly different, then the buttonless remote control w would be it.
+<PM> P Well the only problem I can think of with that is if you've got a lot of people that don't wanna be bothered learning how to use new rem remote controls.
+<PM> If you just kind of take away everything that they're used to knowing, that's gonna be quite a change.
+<ID> But if you just lift it up and say, channel one or BBC It c well it I can I can see technical problems with that in terms of the, you know, the sound from the television, because if somebody actually on the television says uh uh, you know, ITV and you're watching BBC then then it might um change itself, so it probably needs to be um possibly actually need a button on it just to activate it.
+<PM> It might Mm.
+<ME> Or even I mean you could even just have it left on.
+<ME> You could just put it down once on top your TV and never have to Yeah.
+<PM> Mm.
+<UI> No.
+<PM> Yeah.
+<ME> BBC one.
+<UI> Oh.
+<PM> Yeah.
+<UI> Yeah, that's true.
+<ME> Oh yeah.
+<ID> Or or something just to identify that you've lifted it up and it's use.
+<ID> And and then just say, oh I don't know, a thought and and then uh I mean that that would certainly be uh truly different.
+<UI> Yeah.
+<ID> Um 'cause uh you know audio settings, nought point eight percent.
+<ID> I mean if they weren't there, would people miss them?
+<ME> Mm-mm.
+<PM> But look at the importance of them.
+<PM> The volume settings.
+<ME> Relevance of two out of ten, yeah.
+<ID> Vol volume, yes um th w we need to s identify things that people actually need and and it's a function of frequency and relevance.
+<PM> Yeah.
+<PM> They're not used often but they are quite important when they're used.
+<PM> Yeah.
+<ID> And um I would say ignoring ig ignoring power for the moment, um the channel and volume and th w w given given that we've been told to ignore teletext.
+<PM> Mm.
+<ME> Yeah.
+<ID> Uh channel and volume are the only ones that uh would appear to be essential.
+<ME> Stand out.
+<ID> Um.
+<ID> So we if we can design something that that looks interesting, know, or looks different, um incorporates the the logo and and the colours and um we can still have our interchangeable fascias even if it's the yellow and grey, um and uh I dunno, buttons or or buttons as an option.
+<ME> Uh I just had a thought actually, sorry to interrupt.
+<ID> Do, please.
+<ME> Uh you were saying about um it could technical problems of like uh someone on the television saying a channel number and it changed we could maybe have like an activation word.
+<ID> Mm-hmm.
+<ME> 'Cause I've seen I've seen this used on computers before, where you just you address the remote, you address the computer, and then give it a command.
+<ID> You cer certainly could.
+<PM> Mm.
+<ID> Depe uh i depends whether um if we want to make this so simple that anybody can walk into the room and lift it up and say BBC one.
+<ME> Oh I see.
+<ME> Oh yeah, I see.
+<ID> Um okay, I mean you could print actually print it on the uh device itself.
+<ME> Mm-hmm, yeah.
+<ID> Um.
+<ME> I mean I'm just thinking of the point of view of peop you could still like lose this remote.
+<ID> S th this I th that's always gonna be a problem I think.
+<ME> Mm.
+<ID> Um and I I I s so I suppose one um could make it so desirable that if people lose it they immediately go out and buy another one.
+<ID> Anyway, sorry, carry on.
+<ID> Do you want to just carry on with or no no, no uh b I was in the middle of in the middle of your report there.
+<ME> Oh no I I interrupted you, sorry.
+<ME> Oh okay.
+<ME> Um well, I was just kinda wrapping up there.
+<ME> Yeah, I was thinking um, yeah, maybe such things are relevant.
+<ID> Mm okay.
+<ME> We could make things much more f I think the the eighty percent of people would spend more on uh a remote uh that looks better, combined with uh decrease the or take out the limited functio functions that we don't really use much.
+<ME> alright take out teletext, but as for channel settings and stuff it might it might um turn people somewhe peop some people that want the whole functionality away.
+<ME> But, since if we're marketing a more kind of fashionable approach then it'd it would be fashion and fashion over practicality.
+<ID> Mm-hmm.
+<ID> S s we could we could make it dual function voice recognition and still have buttons on it um 'cause we're Certainly could.
+<ME> Oh, we could, yeah.
+<ME> We c yeah, we could even have it as like a yeah the buttons control this and the voice functions control the f things that you would do all the time, so.
+<ME> So uh yeah, if we could uh power on and channel selection and and volume selection, wouldn't have to really Yeah and probably it would look better as well.
+<PM> Mm.
+<ID> Yeah, yeah.
+<ID> The I mean the the advantage of doing away the buttons altogether is it makes the thing cheaper.
+<ID> No, it cou certainly opens up the possibility for making it uh, you know, visually very distinctive.
+<ME> Yeah.
+<ID> Um 'cause you know, it does not have to be a oblong box.
+<ME> yeah.
+<PM> Mm.
+<ME> Lined with numbered buttons and Uh yeah, yeah, that's everything.
+<ID> Mm, yeah.
+<ID> Okay, who sorry, have you have you finished there Andy?
+<ID> Yep, yep.
+<ID> Um given that we've already had a extensive discussion uh.
+<UI> Okay well, I can do mine.
+<PM> Hmm.
+<ME> Do you want the cable?
+<UI> Yeah, let's see if I can make this work.
+<UI> Um.
+<PM> Oh, you have to hit like function and F something.
+<UI> Oh.
+<ME> F eight.
+<PM> F eight.
+<UI> Is it doing Okay.
+<PM> Dunno.
+<ME> Uh, give it about twenty seconds, or so.
+<ID> Ah, there we go.
+<PM> Oh yeah, it's going.
+<UI> Oh okay.
+<UI> Okay, so this is just about the technical functions.
+<ID> Alright.
+<UI> So the method, I looked online for examples of other similar products and then just kind of was trying to brainstorm some possible design ideas and um identify what the necessary things are, what people are what you really wanna have a remote control do.
+<UI> Um and then there are two different kinds that I found.
+<UI> There's a user centred one and an engineering centred one which I will have pictures of and then we kinda have to decide which one this should be.
+<ID> Mm-hmm.
+<UI> So these are the two different ones.
+<UI> This one um this is the user centred, it has uh quite a few mm uh um fewer buttons and then this is the engineering centred, which has a lot more buttons, and probably this is one that people complain about, about having too many buttons that you don't use.
+<ID> Mm-hmm.
+<UI> So basically, what a remote control is is you it's to send messages to the television set, you know, turn on, off, switch the channels and the volume and things such as that.
+<UI> And so for this product it's gonna be television only, and then it has to have the uh logos for the company and the colours.
+<UI> And so, for my personal preferences, I think this one is easier to use and has quite a you know, fewer buttons.
+<UI> Um we want something that sends messages easily to the television and I was kind of wondering about this example that they have.
+<UI> It looks kind of narrow at the top, and I was thinking maybe if it were wider at the top, then that would be easier.
+<ID> Mm, yeah.
+<UI> Um and so we have to decide what's gonna make our product different.
+<UI> E the unique style, maybe have it light up so it's visible in the dark, um the changeable face-plates, and the lighting up and visible I was when we were talking about havi losing it, maybe to have a button on the television that you press and it maybe if it makes a noise or lights up or something like that, so it's easier to find if someone has hidden under the couch or something like that.
+<UI> So that's my presentation.
+<UI> Yeah.
+<ID> Okay, can I um I'm actually gonna use the um it's gonna cause great technical problems over here.
+<ID> I'm actually gonna use the Yes, rather than the uh the the traditional in fact, um I won't even go that far.
+<UI> F they probably clip to you.
+<PM> Oh yeah, they might be movable.
+<ME> Yeah.
+<PM> Oh yeah, they're all they're not connected to anything on the table, you just leave 'em on and walk around with 'em.
+<ID> Um something like this shape, you know, sort of something that you can that's sort of a more vertical shape, um that you you sort of hold in your hand, um, well I'm trying to think uh uh uh l uh l such as I mean um something you hold up like that, possibly with a couple of buttons like that, but with the the entire top with the, you know, the uh the infrared or whatever source.
+<PM> Mm.
+<ID> Uh so that you know, it's flying off in all directions, so that uh um uh again the n need to look at the the the technicalities of um actually achieving that in terms of whether the, you know, the power requirements of the uh such a source, um you know, compromise the our our need for uh you know, it it being um mm permanently uh you know, available.
+<PM> Mm.
+<ID> Uh whether whether different technology um I mean th all all these remotes are presumably infrared, and like they have been for a long time.
+<ID> Uh we we possibly need to be looking at at at something different, um you know, short range, not like the old uh radio remote controls where you'd change next door's telly when you change yours.
+<ID> Um but uh uh I think basically i if we're going for i if minimum number of buttons is our priority, then we should, as I say, r know, really bite the bullets and and reduce the buttons to absolute minimum, you know, possibly with backup channel and volume buttons and on off.
+<ID> Um and nothing else.
+<ID> Um so that it can al it could uh almost end up like that, but again, except that um you know the risk of losing it.
+<ID> Um anyway okay um so Kate, wh what are your uh your thoughts on this?
+<PM> Yes, mm.
+<UI> Oh.
+<PM> Which one does this plug into?
+<UI> Hmm I think it's all there.
+<PM> That one.
+<UI> H Oh yeah.
+<PM> I can't did you could you see it on you screen when it That's not cool.
+<UI> That's kind of strange.
+<PM> Oh well.
+<PM> Anyways.
+<PM> Um alright, yeah, so um I'll just do my presentation on the working design uh.
+<PM> Oh there we go.
+<PM> Okay um just at the m yeah the whole sort of method of how the remote control works.
+<PM> Uh the basic function of the remote control is to send messages to another sh system, the the TV or the DVD player or whatever.
+<PM> Um and it does this uh by well, you need to start off you need an energy source and this energy source will feed into an integrated circuit chip and the circuit chip is the part that actually composes the different messages uh within the remote um which will then be sent to the uh the television, the DVD to tell that what to do.
+<PM> Um and you need a user interface, which controls the chip and thus the messages and uh the user interface is that's basically just you kn the s sorta design of the actual remote which you hold in your hands and what buttons will be on it.
+<PM> Um Oh shoot.
+<PM> Okay.
+<PM> Uh just general findings.
+<PM> Uh what we need uh technically speaking for the remote control is some sort of energy source, uh some sort of user interface, which I think we've mostly been talking about the user interface and the design of that.
+<PM> Um a circuit chip within that to uh control and send the messages and um a sender and receiver.
+<PM> And um oops.
+<PM> Uh-huh.
+<PM> This is just sort of a little schematic diagram of what we're looking for.
+<PM> Uh this just kinda represents the energy source which feeds into the circuit chip uh which maybe then we could have that feed into a switch which would send signals f to um a subcomponent and on to a light bulb between so it'll light up once we start once you start pressing buttons.
+<ME> Hmm.
+<PM> Um also send signals to the um infrared bulb, which will be the part that actually what?
+<PM> Sends signals to the the television.
+<PM> And then you've got your happy little TV watcher there.
+<PM> And so my personal preferences I I just think we need sorta big uh energy source that won't die out, uh perhaps some sort of rechargeable battery or a battery dock you could place it in, so it'd constantly be charged, so you wouldn't have to uh be worrying about it running out of batteries and not changing channels for you.
+<PM> Uh a wide range uh sender-receiver, so that you can hit the buttons from basically anywhere in the room, and the channel'll still be changed.
+<PM> Uh also definitely a user-friendly interface um and I think we've all sort of mentioned adding a a locating device on it, so when it does get stuck under the couch cushions, as they inevitably do, you can find them easily.
+<PM> And that's pretty much it.
+<ID> Okay.
+<ID> Uh it seems seems to me there are a number of fundamental decisions to make before we um I think your point about the the big energy source is uh a very valid one.
+<PM> Mm.
+<PM> Mm.
+<ID> Um I don't suppose we've got any statistics on the the life expectancy of uh remote controls, particularly sort of independent ones.
+<ID> Um given you know, the number of things you buy these days, which you know, have a a a lithium whatever battery in, that's uh, you know never needs replacing.
+<ID> Um perhaps we should have the the disposable remote control, uh um you know, one some sort of typical usage.
+<ID> You know, the the the battery will last know, five, ten years.
+<ID> By which time I mean when all's said and done, the digital television will be taking over in that time scale.
+<PM> Mm.
+<ME> Mm-hmm.
+<ID> Um uh uh p perhaps we should, know, reduce the uh, you know, the sort of moving parts even more by not even having a battery compartment and uh Yeah, and if if anybody manages to run it down, we'll we'll give 'em a new one.
+<PM> Just having one that's guaranteed to last five to ten years?
+<PM> Oh, cool.
+<PM> Yeah, fair enough.
+<ID> Um it's, you know, it's what it saves in cost and you know there there's a well, it's actually a marketing gimmick.
+<ID> I mean it's hardly a gimmick, it's uh it's totally practical.
+<ID> Uh so I th think you know the idea of a rechargeable one is um uh unless you're really high tech and it sort of just recharges itself if it's n by, you know, magnetic waves or whatever, if if it Yeah.
+<ME> It could have like uh know like a cordless phone in your house it s got like a base that sits there all the time.
+<PM> Mm, mm.
+<ID> Are are people really gonna use it though?
+<ME> I suppose, yeah.
+<UI> Yeah, people are pro I would think that people might forget I mean people forget to put their cordless phones back on there, so.
+<ID> Um.
+<PM> Mm yeah.
+<ID> I I th I think Yeah, it's um I mean I know that somei times my my wife goes out in the morning and says oh I should have put the phone on to charge and then then she's had those for so long that if she hasn't worked that out by now.
+<PM> Mm-mm.
+<ME> Yeah.
+<PM> Mm.
+<ID> Um.
+<PM> 'Cause I only remember to charge my cell phone uh when battery dies.
+<PM> And that's pretty much yeah.
+<UI> Yeah.
+<ID> When it yeah, wh when it's died is a problem.
+<PM> Yeah, when it turns itself off, that's when I plug it in, yeah.
+<ID> Yeah, yeah, yeah, so uh um what so wh what what do we think about the um the the permanent mm battery?
+<PM> Yeah, think that's a good idea.
+<ME> Uh.
+<ME> That sounds pretty good, yeah.
+<UI> No.
+<ID> Is the uh you know, we we we are really going for the ultimate in ex uh external simplicity here.
+<UI> Um.
+<PM> Mm.
+<ID> Um you know, cut cost within the manufacturing and uh you know, if we have a high tech interior, then then that that sh may well be cost effective.
+<UI> Do they make batteries that last that long?
+<ID> I mean th th certainly.
+<ID> Um I can't think of anything off the s top of my head, but there are certainly things that you buy.
+<ID> I mean calculators for example.
+<PM> They usually have the little light uh source, I dunno what the heck they're called, the but yeah, the little cells that Yeah.
+<UI> Yeah, they have that little solar Yeah.
+<ID> Som well some do, I mean th th but there are battery ones that um are you know, sort of permanently sealed.
+<ME> Mm-hmm.
+<PM> Mm.
+<ID> In in fact I'd Yeah, uh uh Yeah, I I mean th th this needs going t into the technology a bit.
+<PM> Most of them, don't they have sort of a combination of the two, like when there is light, they'll work off the light, and if there isn't, they'll kick into this battery, so we can maybe do something like that whereas there is a battery, but if there's enough light, then it's using the light, so that it's not actually draining the battery all the time, but you will have the battery there for when you need it.
+<UI> Mm.
+<PM> Mm.
+<ID> I mean the the actual time that a remote control is actually operating I would think is i is is probably, you know, no more than minutes in its entire life.
+<PM> Mm.
+<PM> Oh, it depend if it's uh depends who who's using it, who's just sitting there clicking clicking clicking clicking, yeah.
+<ID> Um.
+<UI> Yeah, some people are Yeah.
+<ID> If, but I say if if people are getting RSI from it then uh then uh then then perhaps we're looking at the wrong market n Right.
+<PM> Yeah, then they're clicking a lot, yeah.
+<UI> Yeah.
+<ME> W like like this um this uh market research thing says number of times per hour that it's used, channel selection a hundred and sixty eight times per hour.
+<PM> Yeah.
+<UI> Per hour?
+<UI> Wow.
+<ME> Yeah.
+<UI> That's a lot.
+<PM> Yeah.
+<ID> Oh, I must admit I hadn't um I'd I'd missed that.
+<ID> That does sound excessive.
+<ME> But then again, if you think it of the amount of, you know amount of use it's like That's it's less than a second, um.
+<ID> Yeah.
+<PM> Yeah.
+<UI> Yeah.
+<PM> Yeah.
+<ID> Well that's right, and and I I don't I don't even know whether the I don't even know whether the s the signal lasts as long as you actually keep the button pressed, or whether it's just a sorta tenth of a second, no matter how long you press it for, I don't know I don't actually know.
+<PM> Mm.
+<ME> Yeah.
+<UI> Though I think with digital TV, like I know on my cable box, you're not supposed to do that because the channel can't keep up with it if you just press it like that, so you're supposed to use the menu and go through the different channels that way instead of Uh-oh.
+<ID> Um.
+<ID> Yeah.
+<PM> Mm.
+<ID> Mm-hmm.
+<ME> Mm-hmm.
+<ID> Mm.
+<ID> Right, so I've got a message to say five minutes, I dunno how long ago that appeared.
+<ID> Um 'cause we're we're getting um right, so I'd I need to sum up very quickly here um.
+<ID> We're looking at extreme simplicity.
+<ID> We're looking at a radically different shape.
+<ID> Possibly no buttons at all um, but if you can incorporate um channel change and volume buttons um in into the design, then then that's fine.
+<ID> Um in the I mean the the role of the of the um the user interface des designer becomes b you know more important here, because, you know, shape is no longer an a uh um a serious constraint.
+<ID> But we clearly only need th the main buttons, although, uh if clearly only need the main functions.
+<ID> Um I don't see why we shouldn't go for voice recognition um and the the only buttons that I think we need are channel control, volume control and on off.
+<ID> Um it needs to incorporate the corporate logo, uh the the grey and yellow colour scheme and there's no reason why we can't introduce um interchangeable uh covers.
+<ID> Um uh d so does that accurately summarise what we've discussed?
+<ME> Yeah.
+<UI> Yeah.
+<PM> Yep.
+<PM> Hmm.
+<ID> Right.
+<UI> Um Oh I just have one question.
+<ID> So uh Yeah.
+<UI> So are we doing just the television or are we doing so not DVD players, we okay, okay.
+<ID> We are doing just the television.
+<ID> No.
+<ID> I think that's quite clear from the the information that we've been given, no?
+<PM> Mm.
+<UI> Okay.
+<ME> Yeah, like in the email of television only.
+<ME> In fact they're in the constraints email that I got.
+<ID> Right.
+<ME> Didn't you mention the teletext, just television only?
+<ID> Oh yeah well th that's one I s that's one I sent you, which which was my interpretation of uh of the uh what came down from from head office.
+<PM> Mm.
+<UI> Yeah.
+<ME> Oh okay.
+<PM> Yeah.
+<ME> Oh yeah.
+<UI> Oh okay.
+<PM> Okay.
+<ID> Um That's that that that that's their uh their view.
+<ID> Okay, so uh we can all give some thought to that uh for for the next meeting, thank you very much indeed.
+<UI> Okay.
+<PM> Cool.
