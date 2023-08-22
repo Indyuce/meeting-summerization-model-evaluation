@@ -1,0 +1,13 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/xsum/5",
+    "model": "Salesforce/xgen-7b-8k-inst",
+    "instruction": "Summarize the following text:\n\n",
+    "input_language": "text_en",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "519",
+    "text": "以下是摘要：\n\n首季度预计增长率被提高到0.2%，由于服务行业，尤其是零售，比前一季度的下降速度更快。英国经济学会表示，这一增长率没有改善银行货币政策的预期，它计划在本周举行的市场货币政策会议上保持原始水平。根据国家统计局主席约翰·马文的说法，这一增长率没有改善银行货币政策的预期，它计划在本周举行的市场货币政策会议上保持原始水平。他补充说，经济已经在四个半年内经历了一次成功的发展，但不应该太高兴。他需要注意提高生产力，以便提高工资和生活质量。劳工党副主席约翰·莫顿说：‘今天的GDP数据显示了弱势的增长，这是一个自然的结果。’他补充说，经济增长率在首季度被降低了，这是因为消费者货币不能够满足消费者的需求。",
+    "output_length": 674,
+    "nb_words": 25,
+    "nb_characters": 305
+}

@@ -1,0 +1,13 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/xsum/3",
+    "model": "Salesforce/xgen-7b-8k-inst",
+    "instruction": "Summarize the following text:\n\n",
+    "input_language": "text_en",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "891",
+    "text": "\nThe Republican candidates for president debated on Thursday night. The three men, Donald Trump, Ted Cruz, and Marco Rubio, talked about immigration, healthcare, and outreach to Latino voters. The debate was heated and personal, with the candidates attacking each other's business records, conservative credentials, and policies. Trump was on the defensive for much of the night, but he will likely emerge as the front-runner after the debate. Super Tuesday is next week, and the Republican candidates will be competing for delegates in 11 states.",
+    "output_length": 106,
+    "nb_words": 86,
+    "nb_characters": 547
+}

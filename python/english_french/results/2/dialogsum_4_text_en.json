@@ -1,0 +1,13 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/dialogsum/4",
+    "model": "Salesforce/xgen-7b-8k-inst",
+    "instruction": "Summarize the following text:\n\n",
+    "input_language": "text_en",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "452",
+    "text": "\n\nCleo is hesitant to go to a demonstration to stop the spread of nuclear weapons, as she doesn't like demonstrations and fears tear gas. Simon encourages her to go, but she declines. Simon mentions that North Korea has nuclear weapons, and Cleo expresses skepticism about the effectiveness of demonstrations in resolving complex issues. Simon argues that demonstrations can change politicians' minds and that Cleo should consider going to the demonstration as a responsible citizen. Cleo ultimately decides not to go, saying she will study for her physics exam instead.",
+    "output_length": 108,
+    "nb_words": 90,
+    "nb_characters": 570
+}

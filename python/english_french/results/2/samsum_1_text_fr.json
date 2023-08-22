@@ -1,0 +1,13 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/samsum/1",
+    "model": "Salesforce/xgen-7b-8k-inst",
+    "instruction": "Résume le texte suivant:\n\n",
+    "input_language": "text_fr",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "570",
+    "text": "\n\nOllie and Jane talked about their plans for the week. Ollie mentioned that he had a meeting on Wednesday and that they would have dinner on Thursday. Jane said she was free on Wednesday and Thursday and asked if they could have dinner on Friday as well. Ollie said he had a previous commitment on Friday and suggested they have dinner on Saturday instead. Jane said she was busy on Saturday but was free on Sunday. Ollie asked if she wanted to have tea on Sunday and she said she was on her way. Ollie asked if she had brought the pastries and she said she had already eaten them all. Ollie said they were ready and Jane said she was on her way.",
+    "output_length": 149,
+    "nb_words": 124,
+    "nb_characters": 647
+}

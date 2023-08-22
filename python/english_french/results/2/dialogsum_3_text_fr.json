@@ -1,0 +1,13 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/dialogsum/3",
+    "model": "Salesforce/xgen-7b-8k-inst",
+    "instruction": "Résume le texte suivant:\n\n",
+    "input_language": "text_fr",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "520",
+    "text": "\n\nThe conversation between Person 1 and Person 2 goes as follows:\n\n* Person 1 asks Person 2 if they drink a lot.\n* Person 2 responds that it depends on what is considered a lot.\n* Person 1 asks how often Person 2 drinks.\n* Person 2 responds a few times per week.\n* Person 1 asks how much Person 2 can drink.\n* Person 2 responds that generally, they only drink 2 beers.\n* Person 1 asks how much Person 2 can drink.\n* Person 2 responds that they can drink all night and have at least 10 beers.\n* Person 1 asks if Person 2 spends a lot of money on drinks.\n* Person 2 responds that they do not spend much money as they often go to places that offer specials. For example, the Dante's on the avenue offers $5 pichets on Mondays, so Person 2 can have a lot of drinks for 15-20 dollars.\n* Person 1 says that it's true.\n* Person 2 suggests that Person 1 try cocktails as they are good.\n* Person 1 responds that they like beer but have a limit of 3 beers before feeling sick.\n* Person 2 advises Person 1 to develop a tolerance as their body gets used to it, but it takes time.\n* Person 1 agrees to go to the Ram Bar and Grill the next night to try the special deal of reduced prices on drinks.",
+    "output_length": 290,
+    "nb_words": 230,
+    "nb_characters": 1184
+}

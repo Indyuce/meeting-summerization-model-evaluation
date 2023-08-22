@@ -1,0 +1,13 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/mediasum/2",
+    "model": "Salesforce/xgen-7b-8k-inst",
+    "instruction": "Summarize the following text:\n\n",
+    "input_language": "text_en",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "924",
+    "text": "一个美国的大学的篮球队在比赛中战胜了一个南方的球队，这场比赛发生在1963年。这场比赛被称为“游泳的比赛”，因为它在美国的混血儿时代。这场比赛的背后更多的是美国的种族关系，而非篮球。南方的球队是一个白人球队，想要去比赛，必须满足一个条件，就是每个球员都是白人。这个条件被称为“Jim Crow法律”，这个法律在南方非常流行。这场比赛是一场犯法的比赛，南方的球队被禁止参加比赛，但是他们还是去了比赛。这场比赛的胜利者是一个美国大学的球队，他们在比赛中获胜，并且这场比赛被称为“游泳的比赛”。这场比赛的背后更多的是美国的种族关系，而非篮球。这场比赛的胜利者是一个美国大学的球队，他们在比赛中获胜，并且这场比赛被称为“游泳的比赛”。这场比赛的背后更多的是美国的种族关系，而非篮球。这场�",
+    "output_length": 700,
+    "nb_words": 31,
+    "nb_characters": 340
+}

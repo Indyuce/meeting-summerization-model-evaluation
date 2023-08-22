@@ -1,0 +1,13 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/dialogsum/1",
+    "model": "Salesforce/xgen-7b-8k-inst",
+    "instruction": "Résume le texte suivant:\n\n",
+    "input_language": "text_fr",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "549",
+    "text": "\n\nThe text is a conversation between two people, P1 and P2. P1 is asking P2 why it took so long to arrive and P2 is explaining that they were stuck in traffic again and there was a big blockage near a crossroads. P1 suggests that P2 might want to try a different route to arrive home. P2 admits that it's hard to avoid but P1 suggests they should start using public transportation to go to work. P2 agrees and mentions that the public transportation system is good. P1 also mentions that it would be better for the environment and P2 agrees. P1 then suggests that P2 can start biking to work instead of driving, which would be a lot less stressful. P2 agrees and mentions that it would be a good idea to start biking to work. P1 then suggests that P2 can start biking to work on nice days and P2 agrees. Finally, P1 asks if P2 will stop driving to go to work and P2 agrees that it's not good for them or the environment and they plan to start biking to work instead.",
+    "output_length": 228,
+    "nb_words": 188,
+    "nb_characters": 966
+}

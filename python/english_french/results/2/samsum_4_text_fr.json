@@ -1,0 +1,13 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/samsum/4",
+    "model": "Salesforce/xgen-7b-8k-inst",
+    "instruction": "Résume le texte suivant:\n\n",
+    "input_language": "text_fr",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "625",
+    "text": "\n\nHi Kate, I'm sorry to not have been in touch as planned. As planned, we have very little internet connectivity here in Cuba. But everything is fine, and we're enjoying our trip. How are things at home?\n\n- Kate: I'm glad to hear that everything is fine. Apart from not hearing from you, nothing new has happened. Momo has recovered from her injury and is back to her usual self.\n\n- Kate: <photo_of_file>\n\n- Kate: Good old Momo! Yes, that's your scarf from Laos!\n\n- Ola: NO! That's one of my favorites! The one from Laos!\n\n- Kate: Too late. Momo thinks it's hers now. Get yourself a new one. They have nice ones there.\n\n- Ola: Not at all. Only cheap cotton clothes with horrible multicolored embroidery or equally awful crochet tops. No scarves or headscarves.\n\n- Ola: <photo_of_file>\n\n- Kate: Hold on a second!\n\n- Kate: <photo_of_file>\n\n- Kate: Is it similar? Mummy would probably love it. Why not you?\n\n- Ola: Not a bad idea. But the quality is usually mediocre.\n\n- Kate: And if you went to a designer shop or something like that? Not on a market like on your photos?\n\n- Ola: I can try to find one. Would you like one too?\n\n- Kate: Not really. And mummy would prefer to be dressed in an authentic Cuban shirt:))\n\n- Ola: Okay, I'll have a look. Tell everyone at home to take care of themselves.\n\n- Kate: Take care!",
+    "output_length": 380,
+    "nb_words": 236,
+    "nb_characters": 1315
+}
