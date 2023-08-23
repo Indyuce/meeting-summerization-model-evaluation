@@ -2,7 +2,7 @@ import os
 
 INTERMEDIATE_FOLDER = 'intermediate/xgen_7b_2sl/'
 TARGET_FOLDER = 'intermediate/xgen_7b_2sl_chatgpt/'
-PREPROMPT = """Here are multiple summaries of the same meeting. Merge all of their information into a unique, concise and informative paragraph.
+PREPROMPT = """Here are multiple summaries of the same meeting. The summaries contain different information. Extract the information from all of the following summaries and recap them in a unique, informative and concise paragraph. Avoid using vague, uninformative or indicative phrasing.
 
 """
 
