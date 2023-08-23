@@ -1,0 +1,13 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/xsum/1",
+    "model": "Salesforce/xgen-7b-8k-inst",
+    "instruction": "Résume le texte suivant:\n\n",
+    "input_language": "text_fr",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "818",
+    "text": "\n\nLes archives de l'écrivain voyageur, héros de guerre et aventurier Sir Patrick Leigh Fermor ont été cataloguées par la Bibliothèque nationale d'Écosse. La collection comprend des lettres du Prince Charles et de Truman Capote. Sir Patrick, qui était connu sous le nom de Paddy, est décédé en 2011 à l'âge de 96 ans. Il a publié plusieurs livres sur ses voyages autour du monde et l'une des pièces les plus précieuses des archives est le seul carnet de notes qui subsiste de son périple de 1933 à travers l'Europe. Ce voyage a fourni la matière de ses livres les plus célèbres, 'A Time of Gifts', 'Between the Woods and the Water' et 'The Broken Road'. Il a fallu un an au personnel de la bibliothèque pour cataloguer des milliers d'articles occupant 16 mètres de rayonnages. Outre des lettres de personnalités du XXe siècle, ils ont également découvert des manuscrits littéraires, des esquisses et ce qui semble être un poème inédit de John Betjeman au dos d'une enveloppe. Sir Patrick a passé une grande partie de la Seconde Guerre mondiale dans la Crète occupée par les nazis. Pendant cette période, il s'est déguisé en berger pour organiser des opérations de guérilla contre les nazis. En 1944, il a réalisé l'un des exploits les plus audacieux de la guerre en capturant le commandant de la garnison allemande en Crète. Le film de 1957 avec Dirk Bogarde 'Ill Met by Moonlight' est basé sur cette opération. Graham Stewart, conservateur de la bibliothèque qui a travaillé sur le projet d'archives, a déclaré : 'Il s",
+    "output_length": 495,
+    "nb_words": 270,
+    "nb_characters": 1518
+}

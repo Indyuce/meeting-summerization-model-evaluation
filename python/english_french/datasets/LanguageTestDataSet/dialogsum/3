@@ -4,29 +4,37 @@
     "language": "0",
     "text_en": "P1: Do you drink much?\nP2: Depending on what you consider a lot.\nP1: How frequently do you drink?\nP2: Couple times a week. How about you?\nP1: Only when I go out. I'm not a big drinker.\nP2: How much can you drink?\nP1: I usually only have 2 beers.\nP2: You're a light weight.\nP1: How much can you drink?\nP2: I'm usually drinking all night long. At least 10 drinks.\nP1: Don't you spend a lot of money then?\nP2: No. We usually go to places that have specials. Dante's over on the Ave has $ 5. 00 pitchers on Mondays. So for ten, fifteen bucks, I can get a lot of drinks.\nP1: That's true.\nP2: If you don't like beer, have you tried mixed drinks? Some of them are pretty good.\nP1: I like beer, it's just that I get a headache when I drink more than 3.\nP2: You just have to build up a tolerance. I used to be like that. But your body gets used to it.\nP1: It'll take awhile, but I'm working on it.\nP2: Hey let's go out tomorrow night. The Ram Bar and Grill is having a special on pitchers.\nP1: Alright.",
     "text_fr": "P1: Tu bois beaucoup ?\nP2: Ça dépend de ce que tu considères comme beaucoup.\nP1: À quelle fréquence tu bois ?\nP2: Quelques fois par semaine. Et toi ?\nP1: Seulement quand je sors. Je ne suis pas un grand buveur.\nP2: Combien peux-tu boire ?\nP1: En général, je ne prends que 2 bières.\nP2: Tu es léger.\nP1: Et toi, combien peux-tu boire ?\nP2: En général, je bois toute la nuit. Au moins 10 verres.\nP1: Tu ne dépenses pas beaucoup d'argent alors ?\nP2: Non. En général, on va dans des endroits qui proposent des offres spéciales. Le Dante's, là-bas sur l'avenue, propose des pichets à 5,00 $ les lundis. Donc pour dix, quinze dollars, je peux avoir beaucoup de boissons.\nP1: C'est vrai.\nP2: Si tu n'aimes pas la bière, as-tu essayé les cocktails ? Certains sont plutôt bons.\nP1: J'aime la bière, c'est juste que j'ai mal à la tête quand j'en bois plus de 3.\nP2: Il faut juste que tu développes une tolérance. J'étais comme ça avant. Mais ton corps s'y habitue.\nP1: Ça prendra du temps, mais j'y travaille.\nP2: Hé, sortons demain soir. Le Ram Bar and Grill propose une réduction sur les pichets.\nP1: D'accord.",
-    "nb_characters": 993,
-    "nb_words": 214,
     "summaries": [
         {
             "number": "1",
             "text_en": "P1 and P2 are talking about some personal facts of drinking. P2 drinks a lot, while P1 cannot drink much for health reasons. They decide to have a drink together tomorrow night.",
             "text_fr": "P1 et P2 discutent de leur consommation personnelle d'alcool. P2 boit beaucoup, tandis que P1 ne peut pas boire beaucoup pour des raisons de santé. Ils décident de prendre un verre ensemble demain soir.",
-            "nb_characters": 177,
-            "nb_words": 32
+            "nb_words_en": "32",
+            "nb_words_fr": "35",
+            "nb_characters_en": "177",
+            "nb_characters_fr": "202"
         },
         {
             "number": "2",
             "text_en": "P2, a heavy drinker, invites P1, a light drinker to go out the next day. P2 chooses a place that has a special on pitchers.",
             "text_fr": "P2, un gros buveur, invite P1, un petit buveur, à sortir le lendemain. P2 choisit un établissement qui propose une offre spéciale sur les pichets.",
-            "nb_characters": 123,
-            "nb_words": 25
+            "nb_words_en": "25",
+            "nb_words_fr": "25",
+            "nb_characters_en": "123",
+            "nb_characters_fr": "146"
         },
         {
             "number": "3",
             "text_en": "P1 and P2 talk about their drinking capacity and their drinking habits. They decide to have a drink together tomorrow night.",
             "text_fr": "P1 et P2 discutent de leur capacité et de leurs habitudes de consommation. Ils décident de prendre un verre ensemble demain soir.",
-            "nb_characters": 124,
-            "nb_words": 21
+            "nb_words_en": "21",
+            "nb_words_fr": "22",
+            "nb_characters_en": "124",
+            "nb_characters_fr": "129"
         }
-    ]
+    ],
+    "nb_words_en": "214",
+    "nb_words_fr": "217",
+    "nb_characters_en": "993",
+    "nb_characters_fr": "1102"
 }

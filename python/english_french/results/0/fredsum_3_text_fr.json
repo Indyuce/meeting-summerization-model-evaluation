@@ -9,5 +9,7 @@
     "text": "",
     "output_length": "",
     "nb_words": "",
-    "nb_characters": ""
+    "nb_characters": "",
+    "language_output": NaN,
+    "language_input": 0
 }

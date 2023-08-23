@@ -1,0 +1,13 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/xsum/4",
+    "model": "legendhasit/xgen-7b-8k-inst-8bit",
+    "instruction": "Résume le texte suivant:\n\n",
+    "input_language": "text_fr",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "855",
+    "text": "Une étude a démontré que les inhibiteurs de Hsp90 ont un effet sur les cellules cancéreuses, en bloquant les récepteurs d'androgènes qui sont souvent anormaux dans le cancer de la prostate. Ces médicaments pourraient donc être utiles pour le traitement des cancers résistants aux médicaments, car ils attaquent plusieurs signaux à la fois, par un réseau plutôt qu'à travers une seule voie de signalisation. Les auteurs de l'étude ont déclaré que les inhibiteurs de Hsp90 sont prometteurs pour prévenir ou vaincre la résistance aux médicaments.",
+    "output_length": 183,
+    "nb_words": 88,
+    "nb_characters": 543
+}

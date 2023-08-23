@@ -1,0 +1,13 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/dialogsum/1",
+    "model": "legendhasit/xgen-7b-8k-inst-8bit",
+    "instruction": "Résume le texte suivant:\n\n",
+    "input_language": "text_fr",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "548",
+    "text": "The text is a conversation between two people, P1 and P2. P1 is asking P2 why it took so long to arrive, and P2 is explaining that they were stuck in traffic congestion at a traffic light. P1 suggests that P2 might want to try a different route to arrive home, and P2 admits that it might not be avoidable. P1 then suggests using public transportation to go to work, and P2 agrees that it is something they will have to consider. P1 mentions that it would also be better for the environment, and P2 agrees. P1 then brings up the idea of using a bike to go to work, but P2 expresses regret for having a car and the freedom it provides. P1 then suggests using a bike on nice days and going to work, and P2 agrees that it would give them the same freedom as a car. P1 then asks if P2 will stop driving to go to work, and P2 agrees that it is not good for them or the environment.",
+    "output_length": 213,
+    "nb_words": 175,
+    "nb_characters": 876
+}

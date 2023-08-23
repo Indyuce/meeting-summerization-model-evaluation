@@ -1,0 +1,13 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/mediasum/4",
+    "model": "legendhasit/xgen-7b-8k-inst-8bit",
+    "instruction": "Summarize the following text:\n\n",
+    "input_language": "text_en",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "871",
+    "text": "The text describes the situation surrounding the bottled water brand Fiji Water. In 2007, the American owners of Fiji Water closed their plant in Fiji after the military government increased the tax on water extraction from one-third of a Fijian cent to 15 Fijian cents. The plant was later reopened after negotiations. The company agreed to pay the tax to continue operating in Fiji. The text also mentions that Fiji Water is the number one export of any kind from Fiji and that the company is owned by a wealthy California couple, Lynda and Stewart Resnick, who own other successful brands such as Teleflora and POM Wonderful. The text also mentions that the product is absurd in the US, but benefits Fijians who have access to clean water.",
+    "output_length": 153,
+    "nb_words": 129,
+    "nb_characters": 742
+}

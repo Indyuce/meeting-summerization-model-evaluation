@@ -1,0 +1,13 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/dialogsum/2",
+    "model": "Salesforce/xgen-7b-8k-inst",
+    "instruction": "Résume le texte suivant:\n\n",
+    "input_language": "text_fr",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "748",
+    "text": "\n\nLe texte est une conversation entre deux personnes qui discutent de la création d'une entreprise. La première personne est dégoûtée de son travail actuel et veut créer sa propre entreprise. La deuxième personne suggère simplement de démissionner et de commencer à travailler pour soi-même. La première personne finit par accepter cette idée et décide de créer sa propre entreprise. Elle se dit que la rédaction d'un plan d'affaires ne sera pas tellement difficile et qu'elle pourrais utiliser un résumé exécutif pour mettre en évidence son idée en deux pages ou moins. Elle est d'accord que cela devrait être suffisant. Ensuite, elle doit présenter et décrire ses biens ou services et expliquer comment ils se différencient des concurrents. Ensuite, elle doit faire une analyse de marché et enquêter sur les centaines de variables pour pouvoir passer à sa stratégie et à l'étape de mise en œuvre. Enfin, elle doit calculer et estimer les ventes, les flux de trésorerie et les bénéfices pour que les investisseurs puissent voir un retour sur leur investissement. Mais en fin de compte, la première personne finit par penser que ce sera plus simple de rester à son ancien emploi et de ne pas avoir à passer par tous ces problèmes.",
+    "output_length": 405,
+    "nb_words": 211,
+    "nb_characters": 1230
+}

@@ -1,0 +1,13 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/samsum/4",
+    "model": "legendhasit/xgen-7b-8k-inst-8bit",
+    "instruction": "Summarize the following text:\n\n",
+    "input_language": "text_en",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "387",
+    "text": " Ola: Hello Kate, sorry for not keeping in touch properly. As expected, we have hardly any connectivity here in Cuba. But we're doing fine and enjoying our trip. How are the things at home?\nKate: At long last! Started to worry. Nothing new happening, if you disregard all that Xmas craze. Momo has recovered from her injury and frolicking again.\nKate: <file_photo>\nKate: Good old Momo! Yes, it is your scarf!\nOla: NO!!! It's one of my favorites! The one from Laos!\nKate: Too late. Momo thinks it belongs to her now. Get yourself a new one. They surely have nice ones there.\nOla: Not at all. Only cheapish cotton blouses with horrible multi-coloured embroidery or some equally horrible crochetted tops. No shawls or scarfs.\nOla: <file_photo>\nKate: Wait a sec!\nKate: <file_photo>\nKate: Isn't it similar?! Mum would probably like it. Why don't you?\nOla: Not a bad idea. But the quality is usually crappy.\nKate: And if you go to some boutique shop or something? Not at a market as in your pics?\nOla: I might try and find some. Would you like one too?\nKate: Not really. And Mum would prefer to be the only one with an authentic Cuban blouse :))\nOla: OK I'll have a look. Greets to everyone at home pls.\nKate: Take care!",
+    "output_length": 340,
+    "nb_words": 225,
+    "nb_characters": 1214
+}

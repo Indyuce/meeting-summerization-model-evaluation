@@ -1,0 +1,13 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/dialogsum/4",
+    "model": "legendhasit/xgen-7b-8k-inst-8bit",
+    "instruction": "Résume le texte suivant:\n\n",
+    "input_language": "text_fr",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "745",
+    "text": "\n\nSimon and Cleo are discussing whether Simon will go to a demonstration the next day to stop the spread of nuclear weapons. Simon says he will not go because he does not like demonstrations and has heard that the police will be present with tear gas. Simon mentions that North Korea claims to have nuclear weapons, and Cleo responds that over 90 countries have signed the Nuclear Non-Proliferation Treaty, but the problems are too complex. Cleo does not understand this and does not want to go to the demonstration because he does not see how it will change anything. Simon argues that as a responsible citizen, it is important to defend one's convictions. Cleo responds that it is not his responsibility to participate in the demonstration and that he will study for his physics exam instead. Simon suggests that they go to the demonstration together and takes the bus to leave the campus at 11:30 am and return at 12:45 pm. Cleo agrees to join him and they plan to have lunch on the bus.\n",
+    "output_length": 205,
+    "nb_words": 179,
+    "nb_characters": 991
+}

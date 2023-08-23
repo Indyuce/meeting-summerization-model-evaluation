@@ -1,0 +1,13 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/samsum/4",
+    "model": "legendhasit/xgen-7b-8k-inst-8bit",
+    "instruction": "Résume le texte suivant:\n\n",
+    "input_language": "text_fr",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "624",
+    "text": "Hello Kate, I apologize for not keeping in touch as planned. As planned, we have limited internet connectivity here in Cuba. However, everything is going well, and we are enjoying our trip. How are things at home?\n\nKate: I'm glad to hear that everything is going well. Momo is recovering from her injury and is back to her usual antics.\n\nKate: <photo_of_file>\n\nKate: Good old Momo! Yes, that's your favorite one from Laos.\n\nOla: NO! It's one of my favorites! The one from Laos!\n\nKate: Too late. Momo thinks it's hers now. Get yourself a new one. They're probably quite affordable there.\n\nOla: Not at all. I only want to wear plain cotton shirts with horrible multicolored embroidery or equally terrible crochet tops. No scarves or foulards.\n\nOla: <photo_of_file>\n\nKate: Wait a minute!\n\nKate: <photo_of_file>\n\nKate: It looks similar, doesn't it? Mummy would probably love it. Why not you?\n\nOla: That's a great idea. But the quality is usually poor.\n\nKate: And if you went to a designer store or something like that? Not on a market like on your photos?\n\nOla: I can try to find one. Would you like one too?\n\nKate: Not really. And mummy prefers to be dressed in an authentic Cuban shirt:))\n\nOla: Alright, I'll have a look. Tell everyone at home to take care of themselves, please.\n\nKate: Take care of yourself!",
+    "output_length": 362,
+    "nb_words": 236,
+    "nb_characters": 1307
+}

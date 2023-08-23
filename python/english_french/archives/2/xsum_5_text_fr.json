@@ -1,0 +1,13 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/xsum/5",
+    "model": "Salesforce/xgen-7b-8k-inst",
+    "instruction": "Résume le texte suivant:\n\n",
+    "input_language": "text_fr",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "1076",
+    "text": "\n\nLes chiffres de croissance économique pour le Royaume-Uni ont révélé une accélération de la croissance par rapport au premier trimestre de l'année, où elle était de 0,2 %. L'ONS a déclaré que la croissance était tirée par les services, en particulier le commerce de détail, qui a plus que compensé les baisses de production dans les secteurs de l'industrie manufacturière et de la construction. Les chiffres du deuxième trimestre sont conformes aux attentes des économistes. Les analystes ont déclaré que la hausse de la croissance ne devrait pas modifier les prévisions selon lesquelles la Banque d'Angleterre maintiendra ses taux d'intérêt à leur niveau record la semaine prochaine. Le Fonds monétaire international a revu à la baisse ses prévisions de croissance économique pour le Royaume-Uni cette année en raison de la faiblesse des chiffres du premier trimestre. Les analystes ont souligné que les chiffres sont une première estimation de la croissance, basée sur des données très fragmentaires.",
+    "output_length": 315,
+    "nb_words": 163,
+    "nb_characters": 1004
+}

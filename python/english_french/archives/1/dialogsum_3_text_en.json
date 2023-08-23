@@ -1,0 +1,13 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/dialogsum/3",
+    "model": "legendhasit/xgen-7b-8k-inst-8bit",
+    "instruction": "Summarize the following text:\n\n",
+    "input_language": "text_en",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "356",
+    "text": "The speaker and the respondent are discussing their drinking habits. The speaker is a \"light weight\" who only drinks when they go out and only has 2 beers, while the respondent is a \"big drinker\" who drinks all night long and has a tolerance for more than 10 drinks. The respondent mentions that they usually go to places that have special deals on drinks, and suggests that the speaker try mixed drinks if they don't like beer. The speaker agrees to go out the next night to the Ram Bar and Grill, which is having a special on pitchers.",
+    "output_length": 114,
+    "nb_words": 100,
+    "nb_characters": 537
+}

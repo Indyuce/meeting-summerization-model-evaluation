@@ -1,0 +1,13 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/fredsum/5",
+    "model": "legendhasit/xgen-7b-8k-inst-8bit",
+    "instruction": "Summarize the following text:\n\n",
+    "input_language": "text_en",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "863",
+    "text": "\nFrançois Bayrou, a candidate in the second round of the presidential election, opposes large private corporations that rely on government contracts owning media outlets. He believes that such ownership leads to political lock-in and media control, and that it is important to open windows for discussion in a democracy. He also believes that anti-concentration measures are necessary to prevent concentration of the press. He proposes independent media in a free country and emphasizes the importance of freedom of expression and diversity of opinions. He is opposed to the practice of making journalists fear something or the groups in question fear something, which he believes leads to a network of interest. He also believes that legislation is necessary to stop the practice of receiving phone calls and pressure.",
+    "output_length": 149,
+    "nb_words": 129,
+    "nb_characters": 819
+}

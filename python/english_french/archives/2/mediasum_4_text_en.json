@@ -1,0 +1,13 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/mediasum/4",
+    "model": "Salesforce/xgen-7b-8k-inst",
+    "instruction": "Summarize the following text:\n\n",
+    "input_language": "text_en",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "872",
+    "text": "一个美国婆婆和儿子收购了一个以前由夏威夷居民经营的水公司，后者在纽埃基地提供了美国市场上的红绿水。这家公司在夏威夷的一个地方挖了一些井，然后将水排到纽埃基地的一个大池中，之后运往美国市场。然而，当这家公司在2007年被Fast Company杂志采访时，其中一些工人反对其经营模式，并要求提高工资。这家公司在拒绝他们要求后，政府征收了从这个地方提取水的税收，从0.33美分提高到15美分。这家公司因此关闭了这个地方的工厂，但在政府威胁删除水井后，其工厂重新开始运转，并且签署了一个关于税收的新协议。这家公司最终同意支付更高的税收。",
+    "output_length": 533,
+    "nb_words": 19,
+    "nb_characters": 265
+}

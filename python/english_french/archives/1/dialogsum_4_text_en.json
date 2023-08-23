@@ -1,0 +1,13 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/dialogsum/4",
+    "model": "legendhasit/xgen-7b-8k-inst-8bit",
+    "instruction": "Summarize the following text:\n\n",
+    "input_language": "text_en",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "451",
+    "text": "The speaker is asking the other person, Cleo, if they are going to a demonstration to help stop the spread of nuclear weapons. Cleo says they are not going to the demonstration because they hate demonstrations and fear that the police will be there with tear gas. The speaker mentions that North Korea has nuclear weapons and that there are many countries that have signed the Nuclear Non-Proliferation Treaty. Cleo says that they do not understand the issues and do not plan to go to the demonstration. The speaker mentions that demonstrations have changed politicians' minds in the past and that it is important for responsible citizens to stand up for what they believe in. Cleo says they will not be going to the demonstration and will be studying for their physics exam instead. The speaker suggests asking the students in the political science class to go to the demonstration, but Cleo says they will meet their sister for coffee instead.",
+    "output_length": 183,
+    "nb_words": 162,
+    "nb_characters": 945
+}

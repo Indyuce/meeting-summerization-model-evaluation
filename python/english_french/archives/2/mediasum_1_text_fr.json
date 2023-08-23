@@ -1,0 +1,13 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/mediasum/1",
+    "model": "Salesforce/xgen-7b-8k-inst",
+    "instruction": "Résume le texte suivant:\n\n",
+    "input_language": "text_fr",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "1635",
+    "text": "\n\nLes opérations de recherche et de sauvetage sont sous contrôle en Chine après les dégâts causés par un séisme. Les experts en construction examinent les dommages structurels. Ann Kiremidjian, professeur d'ingénierie des structures à l'Université Stanford, a contribué à évaluer les dommages après un séisme en Chine en 1976 qui a fait environ 250 000 victimes. Elle observe des bâtiments effondrés autour de Chengdu et remarque des choses que je ne remarque pas. Elle constate que beaucoup de bâtiments en béton, appelés ossatures en béton, sont en béton non ductile, ce qui signifie qu'il y a peu d'armatures métalliques dans le béton et donc que le béton ne peut pas résister au déplacement dans la direction horizontale. Elle recommande aux Chinois de mettre en place des codes de résistance aux séismes et de développer des cartes de risques sismiques pour élaborer des programmes très solides pour élaborer des bâtiments résistants aux séismes.",
+    "output_length": 312,
+    "nb_words": 156,
+    "nb_characters": 951
+}

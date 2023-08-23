@@ -1,0 +1,13 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/dialogsum/2",
+    "model": "legendhasit/xgen-7b-8k-inst-8bit",
+    "instruction": "Summarize the following text:\n\n",
+    "input_language": "text_en",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "453",
+    "text": "The speaker is frustrated with their current job and feels like they are not progressing in their career. They decide to start their own business and plan to write a business plan, get investors, and start working for themselves. However, they express doubt about their ability to write a business plan and understand the complexity of the process. The other person tries to help them understand the importance of a well-written business plan and the various stages involved in starting a business. The speaker ultimately decides to stick with their current job.",
+    "output_length": 104,
+    "nb_words": 93,
+    "nb_characters": 562
+}

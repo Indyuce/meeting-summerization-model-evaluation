@@ -1,0 +1,13 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/samsum/1",
+    "model": "Salesforce/xgen-7b-8k-inst",
+    "instruction": "Summarize the following text:\n\n",
+    "input_language": "text_en",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "388",
+    "text": "以下是摘要：\n\nOllie和Jane在热青岛上游，Ollie告诉Jane他已经回到菲律宾，然后问她是否有兴趣去一次餐，并且告诉她他不会在18和19日有空。Jane回答她也不会在18和19日有空，并且她已经放弃了本周末去图书馆，她想去摩洛哥。Ollie问她是否有兴趣去一次餐，Jane回答她有兴趣。Ollie问她是否有兴趣去一次餐，Jane回答她有兴趣。Ollie问她是否有兴趣去一次餐，Jane回答她有兴趣。Ollie问她是否有兴趣去一次餐，Jane回答她有兴趣。Ollie问她是否有兴趣去一次餐，Jane回答她有兴趣。Ollie问她是否有兴趣去一次餐，Jane回答她有兴趣。Ollie问她是否有兴趣去一次餐，Jane回答她有兴趣。Ollie问她是否有兴趣去一次餐，Jane回答她有兴趣。Ollie问她是否有兴趣去一次餐，Jane回答她有兴趣。Ollie问她是否有兴趣去一次餐，Jane回答她有兴趣。Ollie问她是否有兴趣去一次餐，Jane回答她有兴趣。Ollie问�",
+    "output_length": 700,
+    "nb_words": 31,
+    "nb_characters": 435
+}

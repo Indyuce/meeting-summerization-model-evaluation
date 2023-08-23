@@ -1,0 +1,13 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/samsum/5",
+    "model": "Salesforce/xgen-7b-8k-inst",
+    "instruction": "Résume le texte suivant:\n\n",
+    "input_language": "text_fr",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "203",
+    "text": "\n\nLaura asked Paul, \"Where are you?\"\nPaul replied, \"Almost there.\"\nLaura asked, \"What does 'almost' mean?\"\nPaul said, \"Close to Macdo.\"\nLaura said, \"It's so far away!\"\nPaul said, \"It will take 15 minutes.\"\nLaura said, \"I can't wait, we'll see each other soon.\"\nPaul said, \"Please wait, I'm almost there.\"\nLaura said, \"I've been waiting for 30 minutes and you told me 15 minutes ago that you were almost there. That's too much.\nPaul said, \"I'm so sorry.\"\nLaura said, \"I'm not sorry.\"",
+    "output_length": 145,
+    "nb_words": 92,
+    "nb_characters": 482
+}

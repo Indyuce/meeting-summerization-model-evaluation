@@ -1,0 +1,13 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/dialogsum/5",
+    "model": "Salesforce/xgen-7b-8k-inst",
+    "instruction": "Résume le texte suivant:\n\n",
+    "input_language": "text_fr",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "531",
+    "text": "\n\nThe conversation between P1 and P2 goes as follows:\n\nP1: Excuse me, could you help me?\nP2: Yes, what seems to be the problem?\nP1: Well, I was wondering if someone had given a passport?\nP2: I'm afraid that no one has. Have you lost your passport?\nP1: I think so. I can't find it anywhere in my hotel room and I remember the last place where I used it was in that big department store.\nP2: Where did you use your passport in the department store?\nP1: In the shoe section. I had to show it to pay for these shoes with my travel checks.\nP2: Well, let me call the shoe department to see if they have found a passport. Sorry, but your passport was not found there either.\nP1: What should I do then?\nP2: You can fill out this loss of object form and I will keep an eye open. These kinds of things usually end up reappearing, but I suggest you contact your embassy and explain your situation, so they can help you get a new passport in case it doesn't appear.\nP1: You're right. Would you have a pen?\nP2: Here you are.\nP1: Oh, I always feel like I'm losing something every time I travel.",
+    "output_length": 293,
+    "nb_words": 217,
+    "nb_characters": 1080
+}

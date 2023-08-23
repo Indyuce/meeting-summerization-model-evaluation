@@ -4,15 +4,19 @@
     "language": "0",
     "text_en": "Andrei: hey, did you pick up the film equipment for tonite's shooting?\nSerge: no, im on my way there now.\nAndrei: cool. do you happen to have your credit card with you? we have an outstanding bill to pay with the company.\nSerge: yeah, i do. not a lot of available credit on it, but we'll see when we get there.\nAndrei: OK, thanks. theyll be glad when we pay it. its long overdue.\nSerge: ill let you know if it works out. getting of the metro now\nAndrei: ok",
     "text_fr": "Andrei: Salut, est-ce que tu as récupéré le matériel de tournage pour le tournage de ce soir ?\nSerge: Non, j'y vais en ce moment même.\nAndrei: Cool. Est-ce que par hasard tu as ta carte de crédit avec toi ? Nous avons une facture impayée à régler avec la société.\nSerge: Ouais, je l'ai. Il n'y a pas beaucoup de crédit disponible dessus, mais on verra quand on arrivera là-bas.\nAndrei: D'accord, merci. Ils seront contents quand on la paiera. Cela fait longtemps qu'elle est due.\nSerge: Je te dirai si ça fonctionne. Je descends du métro maintenant.\nAndrei: OK.",
-    "nb_characters": 456,
-    "nb_words": 92,
     "summaries": [
         {
             "number": "1",
             "text_en": "Serge is on his way to pick up the film equipment for the shooting tonight. Andrei and Serge are late with a large payment to the company. Serge and Andrei will try to use the credit card to pay the company.",
             "text_fr": "Serge est en route pour aller chercher le matériel cinématographique pour le tournage de ce soir. Andrei et Serge sont en retard dans le paiement d'une somme importante à la société. Serge et Andrei vont essayer d'utiliser la carte de crédit pour payer la société.",
-            "nb_characters": 207,
-            "nb_words": 41
+            "nb_words_en": "41",
+            "nb_words_fr": "47",
+            "nb_characters_en": "207",
+            "nb_characters_fr": "264"
         }
-    ]
+    ],
+    "nb_words_en": "92",
+    "nb_words_fr": "107",
+    "nb_characters_en": "456",
+    "nb_characters_fr": "561"
 }

@@ -1,0 +1,13 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/xsum/5",
+    "model": "legendhasit/xgen-7b-8k-inst-8bit",
+    "instruction": "Résume le texte suivant:\n\n",
+    "input_language": "text_fr",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "1075",
+    "text": "Le texte présente une estimation de la croissance économique du Royaume-Uni, qui a ralenti au premier semestre de l'année en raison de la baisse de la production dans les secteurs de l'industrie manufacturière et de la construction. Cependant, les chiffres du deuxième trimestre sont conformes aux attentes des économistes et la hausse de la croissance ne devrait pas modifier les prévisions selon lesquelles la Banque d'Angleterre maintiendra ses taux d'intérêt à leur niveau record la semaine prochaine. Les analystes ont déclaré que la hausse de la croissance ne devrait pas influencer les prévisions de croissance économique pour le Royaume-Uni cette année.",
+    "output_length": 208,
+    "nb_words": 107,
+    "nb_characters": 661
+}

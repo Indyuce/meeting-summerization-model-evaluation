@@ -1,0 +1,13 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/dialogsum/5",
+    "model": "legendhasit/xgen-7b-8k-inst-8bit",
+    "instruction": "Résume le texte suivant:\n\n",
+    "input_language": "text_fr",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "530",
+    "text": "The text describes a situation where a person (P1) is asking for help because they lost their passport while staying in a hotel. They remember using their passport in the shoe department of a large department store to pay for shoes with their travel checks. However, the passport was not found in the department store. The person (P2) assisting them suggests that the person (P1) should fill out a lost object form and keep a lookout, as these things usually reappear. They also offer the person (P1) a pen and suggest that they contact their embassy to explain their situation and get a new passport. The person (P1) expresses that they feel like they are losing something every time they travel.",
+    "output_length": 147,
+    "nb_words": 121,
+    "nb_characters": 697
+}

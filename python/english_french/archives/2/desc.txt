@@ -1,0 +1,1 @@
+This inferenee batch is aimed at testing XGen on summarization. We shall compare his performance on French and on English

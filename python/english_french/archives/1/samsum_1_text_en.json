@@ -1,0 +1,13 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/samsum/1",
+    "model": "legendhasit/xgen-7b-8k-inst-8bit",
+    "instruction": "Summarize the following text:\n\n",
+    "input_language": "text_en",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "387",
+    "text": "The two people, Ollie and Jane, are planning to meet for dinner on the 19th and the 18th, and for lunch this week. Ollie suggests they meet for tea on the 17th, and Jane says she will be busy on the 16th but can meet for tea on the 17th. Ollie also mentions that they have a party on the 15th that Jane should attend, and that they should meet for lunch on the 15th. Jane apologizes for not being able to meet for lunch on the 16th, but Ollie says it's no problem and that they can meet for tea on the 17th instead. Ollie also invites Jane to bring some sun with her to Morocco, and Jane says she can't wait to go.",
+    "output_length": 161,
+    "nb_words": 127,
+    "nb_characters": 614
+}

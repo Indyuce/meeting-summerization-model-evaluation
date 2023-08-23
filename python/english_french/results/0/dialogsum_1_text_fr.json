@@ -9,5 +9,7 @@
     "text": "\n\nThe text is a conversation between two people, P1 and P2. P1 is suggesting alternative ways for P2 to get to work without being stuck in traffic, while P2 is considering using public transportation and cycling. P1 also mentions the environmental impact of driving and the benefits of cycling and taking public transportation. P2 expresses regret for owning a car and considering giving up driving altogether. P1 suggests cycling as an alternative and P2 agrees, expressing interest in doing so.\n\nOverall, the conversation touches on the topic of transportation and its impact on traffic, the environment, and personal health.",
     "output_length": 126,
     "nb_words": 99,
-    "nb_characters": 627
+    "nb_characters": 627,
+    "language_output": 1,
+    "language_input": 0
 }

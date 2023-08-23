@@ -1,0 +1,13 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/fredsum/5",
+    "model": "legendhasit/xgen-7b-8k-inst-8bit",
+    "instruction": "Résume le texte suivant:\n\n",
+    "input_language": "text_fr",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "1480",
+    "text": "\n\nThe text is a transcript of a debate between two politicians, Francois Bayrou and someone else, about a proposed law that would prohibit large private companies that receive government orders from owning media. Francois Bayrou is against the law, arguing that it would restrict freedom of the press and political expression. He believes that media ownership by large private companies is not a problem in a democracy and that the government should not interfere with the media. The other politician, however, supports the law and believes that media ownership by large private companies is a problem because it creates a conflict of interest and undermines the independence of the media. They argue that the law is necessary to prevent the concentration of media ownership and to ensure that the media can remain independent and free.\n\nThe text also mentions the issue of phone calls and messages that politicians receive from various groups, including those who are afraid of the proposed law. The politicians discuss the issue of media ownership by large private companies and the need for the government to protect the media's independence and freedom.",
+    "output_length": 208,
+    "nb_words": 187,
+    "nb_characters": 1157
+}

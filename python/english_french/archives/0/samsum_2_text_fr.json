@@ -1,0 +1,13 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/samsum/2",
+    "model": "legendhasit/xgen-7b-8k-inst-8bit",
+    "instruction": "Résume le texte suivant:\n\n",
+    "input_language": "text_fr",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "911",
+    "text": "\n\nThe text is a conversation between two women, Deirdre and Beth. Deirdre is asking Beth how she is and Beth is telling Deirdre about a favor she wants to ask her. Deirdre suggests that they organize a weekend for the women to celebrate Beth's mother's 40th birthday and invites Kira to come back from university. Beth agrees and Deirdre offers to help with the planning. Beth tells Deirdre that she is studying to be a beautician and Deirdre suggests that she try out the spa side of the beauty business. Beth agrees and Deirdre offers to pay for some of her expenses. Beth is excited about the opportunity and Deirdre offers to give her some money for expenses. Beth agrees and Deirdre tells her to come back and see her the next day to discuss the details. Beth ends the conversation by telling Deirdre that she loves her and gives her a kiss.",
+    "output_length": 193,
+    "nb_words": 155,
+    "nb_characters": 846
+}
