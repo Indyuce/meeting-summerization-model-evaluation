@@ -1,0 +1,566 @@
+<ME> Okay.
+<ID> Okay, almost there.
+<UI> Okay.
+<UI> We'll sta I'll use the PowerPoint, I guess.
+<UI> How was that, was that fun?
+<ME> Mm.
+<ID> Yeah, yeah.
+<ME> Very fun.
+<UI> Okay.
+<UI> Uh oh I've forgotten to mail you the minutes, but I will do.
+<ID> Okay.
+<UI> Upsidaisy.
+<PM> Hmm.
+<UI> Um Um we Yeah.
+<PM> E excuse me I forgot my copy.
+<UI> Alright, okay, yeah.
+<UI> He's gonna get his pen.
+<ME> Oh right.
+<ME> Okay.
+<UI> Um Will you guys first with your prototype um before we get to the good news?
+<ID> Yeah, there's good news?
+<UI> Uh we have budget problems.
+<ID> Oh.
+<ME> Mm.
+<ID> Oh.
+<ID> Cutbacks.
+<UI> I'm afraid you're all sacked.
+<UI> Oops.
+<UI> I don't even have this on.
+<ID> Hmm.
+<UI> Okay, have you got a presentation to make?
+<ID> Okay.
+<PM> No, not mine yet.
+<UI> No.
+<UI> Okay so it's just your your show.
+<ID> Oh.
+<ID> Um maybe we should bring so that the camera can see.
+<ID> Yeah.
+<ME> Okay.
+<ME> Sure.
+<ID> Okay.
+<ME> We made three for you.
+<UI> Three?
+<UI> Oh.
+<ME> Um one's based on the banana, one's based on the tomato and the other one is st Look.
+<UI> Tomato?
+<UI> What tomato?
+<UI> I don't recall a tomato.
+<ME> Oh yeah, well yeah, we had v some red left over.
+<ME> So.
+<UI> Ah I see, okay.
+<ME> Okay, so this is the um non to non uh no buttons one, or as mm few buttons as possible, mainly speak recognition.
+<UI> Mm-hmm.
+<ME> The yellow there is the um the slogan, yeah, that we need to incorporate, it's very simple.
+<UI> Logo.
+<UI> Okay, brilliant.
+<ME> If you do need buttons, you can flip it over, and there's some there, um but mainly it's speech recognition.
+<UI> Okay.
+<UI> Okay, so the buttons would be like, you know individual users, or Yeah.
+<ME> Yeah.
+<ME> Yeah and yeah they might project things onto the screen which you can do on there.
+<UI> Alright, okay.
+<ME> Mm I'm not sure about that.
+<ME> Um and this one is the one w more like the one w that we looked at earlier.
+<UI> Right.
+<ME> Yeah, you guys can have a look at that if you want.
+<UI> That's groovy.
+<PM> Yeah.
+<PM> Uh can I have Oh sorry s Mm-hmm.
+<UI> Well I like the feel of it, I like the feel of it.
+<ME> Yeah, sure.
+<ME> Um that one is Oh no, it's delicate.
+<UI> At Oh dear.
+<ME> That's that's already got its stand that one.
+<ME> That's it stand.
+<UI> Alright, okay.
+<ME> It does also lie flat, but that's the that yellow stand there represents the the charging stand.
+<UI> Okay, brilliant mm.
+<ME> Um the black on the back is the slogan.
+<UI> Okay, nice and obvious there, if it's standing up, I guess, yeah.
+<ME> Uh yeah, that Well, we did think of that.
+<ME> Yeah, if it's standing up it's it's on there, but also we're gonna have the company name on the front, which is the little black kind of line in the middle.
+<UI> Oh right, okay, brilliant.
+<UI> Like that from its centre.
+<ME> So um and that's the um transmit the LED thing.
+<ME> These are the s two scroll ones which we thought could be channel up and down and volume up and down.
+<ME> We n were weren't sure about putting them there, because um i it's it kind of could get bashed.
+<UI> Where you're, yeah, uh were you're holding it kind of Mm-hmm.
+<ME> Yeah.
+<ME> Well, if you hold it, you can you all can hold it, is it does actually feel quite ergonomic, if you've got small hands.
+<UI> Yeah.
+<ID> Mm.
+<ME> Um, obviously I don't think that's real sized.
+<UI> Okay.
+<ME> It would have to be a bit bigger.
+<UI> Yeah, okay.
+<UI> Yeah, scale model, yeah.
+<ME> Okay.
+<ME> Um that's a speaker at the top, so you can speak into it like a little walkie-talkie as well for speak recognition.
+<UI> Mm-hmm.
+<ME> Um and um then the buttons.
+<ME> Yeah kind of self-explanatory, just buttons whenever you need them.
+<ME> Tried to keep it simple.
+<ME> Oh that's the charging base prongs at the bottom.
+<ME> We used those.
+<ME> And um then the big red button in the middle is the on and off one.
+<UI> Alright, excellent.
+<ME> It's not in the traditional place, but um it's quite an obvious place.
+<UI> Okay.
+<UI> No.
+<UI> It's out of the way as well, I suppose, so.
+<UI> Excellent.
+<ME> So there we go and and um we have the banana-based one too.
+<ID> Oh yeah, yeah.
+<UI> Yep.
+<ID> This one is uh, I suppose for the younger audiences.
+<UI> Okay, so so Barney the banana.
+<ID> A a more friendly type of Right, right.
+<ID> It's to uh induce more television watching I suppose or Yeah.
+<UI> Ah excellent, just what we need.
+<ME> Yeah.
+<ID> Say it for the camera.
+<UI> Lo Sort of Loch Ness banana.
+<ME> Mm-hmm.
+<ID> Right, right.
+<UI> Cool yeah.
+<UI> Well, nice to have uh options at least.
+<ME> Yeah.
+<ID> Yep.
+<UI> 'Kay and Oh there are issues, oh there are issues.
+<ME> So are there any um improvements or issues or Oh.
+<ID> It won't stand.
+<ID> Just let it lie down, it wont stand.
+<UI> Um main problem that we have unfortunately being finance.
+<UI> Uh, let's just enter in the um evaluation criteria.
+<UI> Um unfortunately the unit we are currently going to produce minus the extra scroll buttons, uh it's gonna cost us fourteen point six Euros.
+<PM> Mm.
+<ME> Oh.
+<UI> So we have to rea Sorry, I've accidentally highlighted somehow Um.
+<ID> What's on the uh on the left?
+<UI> There we go.
+<ID> Okay.
+<UI> Oh god, why is it doing that?
+<ME> Ooh.
+<UI> There we go.
+<UI> So basically, um in order to save our two Euros um I was thinking that we could have essentially the same shape, but just have it flattened.
+<ME> Mm-hmm.
+<ME> More like a traditional remote control.
+<UI> Um.
+<UI> Yeah, I mean it's already got a kind of cool shape, so but it wouldn't have to be curved sort of in and out.
+<ME> Mm-hmm.
+<ME> Mm-hmm.
+<UI> And by doing so Oh no, hold on.
+<UI> Doesn't save us quite as much.
+<UI> I don't know what's going on with this again.
+<ID> W why is the uh double curved two of them?
+<UI> Oh, good point.
+<PM> And double curve on both sides?
+<UI> Um.
+<PM> Curve.
+<PM> Yeah, this is double-curve, no?
+<UI> That's sort of curve in and out.
+<PM> This is double-curve.
+<ID> Is i Mm.
+<PM> It This one is single curve.
+<PM> 'Cause this is single curve, this is curved on both sides.
+<PM> So double-curve.
+<UI> No, I think it means double curved as in um like uh a single curve on that bottom half, and the double curved would be if it was that similar curve upward.
+<ME> Like an S shape.
+<ME> Okay.
+<UI> Okay, I might be wrong though.
+<PM> Like this, one curve on this side, one curve on that side.
+<UI> I don't think that counts as a curve, I think that's just a shape.
+<PM> Hmm.
+<PM> Hmm.
+<ME> Okay.
+<UI> A curvature is like the this case.
+<PM> Maybe.
+<ME> Okay.
+<ID> 'Cause that's the uh the biggest expense there, right.
+<UI> Yeah, and why why I've got it two, I don't know, I can't seem to select any more however.
+<ID> got two of them Okay.
+<ID> Well we can work around that um Cut things out.
+<ME> Mm-hmm.
+<UI> Right.
+<UI> No.
+<ID> But you think it should be one.
+<UI> It's meant to be one, yeah, I don't know why I put two in there, but um Hold on till I find it, I think this shift button might be stuck again.
+<ID> Okay.
+<UI> No maybe the shift button's stuck in.
+<ID> Yeah.
+<UI> Um okay, so that would take away three, which would give us Oh that's fine.
+<PM> Mm.
+<PM> Should Uh you can do one thing.
+<ID> Yeah, so we're We should fire the accountants.
+<UI> Eleven uh eleven Euros sixty.
+<ME> Cool.
+<ME> Cool.
+<UI> Um We cou Oh not quite, have the scroll-wheel, unfortunately.
+<ME> So we could even add something.
+<UI> What?
+<ID> Fire the accountants.
+<ID> Ah yeah, we could add things.
+<ID> Maybe if you click back in that bottom right cell, where you're starting from, and then use the arrow keys.
+<UI> Yeah.
+<ID> Does that work?
+<UI> Yeah, I know, that just extends it as well.
+<ID> No mm.
+<UI> I don't know.
+<PM> You just select one box outsi yeah, this box.
+<PM> Then move it with the help of this Okay.
+<UI> It One of the buttons is sticking, I don't know.
+<PM> Just uh just uh Okay, just a minute.
+<PM> Okay.
+<PM> No input, like this.
+<PM> Shift.
+<PM> No it's not.
+<UI> No, it's 'cause the uh the shift button's stuck, or something.
+<PM> Yeah, it's not working.
+<ID> Is it the other shift button maybe?
+<PM> Should we ask Meli Should we ask our technical expert Melissa?
+<UI> No that's fine.
+<UI> Um we've worked out what it would be anyway.
+<ID> Did you try both shift buttons?
+<ID> It could be the other side.
+<UI> Yeah.
+<UI> Cancel.
+<UI> Piss off.
+<ID> That's too bad.
+<UI> Oh well, never mind.
+<UI> Um.
+<UI> Right, so that's finances and I dunno what we what could we reckon we could add?
+<UI> Um Well I suppose that's our that's that's our design that we've got.
+<ME> Well maybe we could add something, but maybe if What do you th We're trying to save money, so.
+<ME> Yeah, if we're happy with the design there's no point in spending money, if we don't have to.
+<UI> So Yeah.
+<ME> But if there is anything you think we've missed out there, then, you know, feel free to add it.
+<ME> Maybe I mean obviously it would be bigger so there might be more space for the the slogan on the front, because it's not in an ideal place right now.
+<UI> Yeah yeah.
+<UI> Well that's that's uh Okay, so project evaluation.
+<UI> We have under twelve Euros fifty.
+<UI> Project process, how do we think that went?
+<UI> Are we happy?
+<ID> Oh.
+<ME> Mm.
+<ID> Yeah I think we have a a winning product.
+<UI> Okay.
+<UI> Evaluation.
+<UI> Oh we've been writing this up for m months.
+<ME> I think it went quite smoothly.
+<UI> Uh room for creativity, were we happy with that?
+<ME> W I think we were very creative.
+<UI> No, I mea I think it means sort of individually.
+<ME> Oh right, okay.
+<UI> Yes, no, maybe?
+<ME> Mm-hmm.
+<UI> Okay.
+<UI> Groovy.
+<UI> So uh we're just gonna.
+<UI> Uh yeah, okay.
+<UI> Teamwork?
+<UI> Leadership, sorry.
+<ID> Great leadership.
+<ME> Excellent leadership.
+<UI> Thank you very much.
+<UI> You're all get you're all getting a raise.
+<UI> Uh teamwork.
+<UI> I thought went well.
+<ID> Yeah, yeah.
+<PM> Yeah.
+<ME> Yeah, everyone got enough input, I think.
+<UI> Yeah.
+<UI> Uh and well means, yeah.
+<PM> Yeah, we Yeah.
+<UI> The technical stuff was brilliant.
+<UI> Let's buy more.
+<ME> Yeah.
+<UI> Uh Right.
+<UI> Um I don't know what, new ideas found, means, to be honest.
+<ID> These pens are are neat though.
+<PM> Yeah, these are new ideas, like glow-in-the-dark or something like that.
+<PM> We discussed all the new ideas, but of course we couldn't reach any proper goals, we couldn't use these, but we h we are using these scroll buttons like this.
+<ME> Mm-hmm.
+<UI> Mm-hmm.
+<PM> These are new ideas we And new shapes, everything.
+<ME> Yeah.
+<UI> Mm 'kay.
+<PM> At le Yeah.
+<UI> Groovy.
+<UI> So just general thumbs up for all of us then.
+<PM> Hmm.
+<UI> That kind of unfortunately is too quick.
+<ME> Okay.
+<PM> Hmm.
+<ID> Okay.
+<ME> Well um.
+<UI> Uh.
+<UI> I suppose yeah.
+<ID> Uh so let's talk about our bonuses and the raises we're getting for this, right.
+<UI> Um.
+<UI> That's it, um I think another couple of days holiday pay might be well in order for all of you.
+<ME> Mm.
+<ID> Right, right.
+<UI> Uh Let's see if I can get this bloody thing to work.
+<ID> Uh maybe we should start cleaning up the clay.
+<UI> Whoops.
+<ME> Yeah, maybe.
+<PM> So So Uh Brian, have you have you finished?
+<UI> Does it go back in, does it?
+<UI> Reusable.
+<ID> Something we should get.
+<UI> I don't know what this is but it's really really annoying.
+<UI> Uh-huh.
+<UI> Um I have, yes.
+<PM> Uh mine needs also this.
+<UI> Huh?
+<PM> At last mine is also the presentation.
+<UI> Oh right, okay, you've got more, okay.
+<ME> Oh, you got a presentation, sorry.
+<PM> Yeah, yeah.
+<UI> Sorry uh.
+<ID> Oh ok Uh.
+<UI> It didn't bother to tell me that on this thing.
+<PM> S Uh is the project evaluated, that is mine.
+<UI> Is it?
+<UI> Okay.
+<UI> Doesn't tell me.
+<UI> Oh you're doing that.
+<PM> Yeah.
+<UI> We evaluated ourselves, we thought we were great.
+<ME> Yeah.
+<ME> Mm, love to eat that now.
+<ID> Anybody Clay covered banana.
+<ME> Kind of a green banana now.
+<UI> Mm.
+<ME> It's this as well, sorry, we forgot to mention it'll be made out of kind of a rubbery latex, new material that we've got.
+<UI> O okay, hold on.
+<ME> I've got.
+<ID> blue.
+<UI> I wonder w which cell do I want.
+<ID> It's fun to touch.
+<ME> Yeah.
+<PM> So.
+<UI> Okay, I didn't realise you had that bit.
+<PM> Yeah.
+<ME> Oh could you pass the tomato please.
+<PM> So.
+<ME> Sorry.
+<ME> Thank you.
+<PM> So now is the final evaluation, final evaluation of the uh uh of our product.
+<ME> Mm-hmm.
+<PM> How we are going to means uh at what standard what standard whether it meets our standards or not.
+<PM> How mu What rating we will give to these products.
+<PM> So of course this is will be a team work, w we together have to decide wha what rating we will give to this product and everything.
+<UI> Okay.
+<PM> So what methodology I will tell you on what basis we are going to discuss all this.
+<PM> We will give the rating to this product based on the user requirements, whether it meets the user requirements or not, this product.
+<PM> Then trends, whether it is as fashion trends or not?
+<PM> Means because we have already stated that people do prefer fashionable things nowadays.
+<ME> Mm-hmm.
+<PM> So this is also an important factor for our evaluation also.
+<PM> Then marketing strategy of the company.
+<PM> As we have already discussed that our company is quite in the market, not only in terms of providing quality products, not only in pro providing latest technologies, but also in terms of providing environmental s Yeah.
+<ME> Sorry.
+<ME> Sorry, carry on.
+<PM> So but also in terms of providing environmental safe products, uh yeah like uh keeping uh keeping in mind all the safety issues.
+<PM> So Now comes the criteria rating with seven point scale.
+<UI> Okay.
+<PM> I'm having this scale this scale, so we have to do it on a board.
+<ME> Mm-hmm.
+<ME> Okay.
+<UI> Alright, okay.
+<UI> The board working again, is it?
+<PM> the user requirem I think.
+<ID> Do we have the uh the marker for the board?
+<ME> Um.
+<UI> Uh.
+<ID> There it is.
+<PM> Thank you.
+<PM> So.
+<PM> So these are the three crite criterias for our evaluation of our product.
+<ME> Mm-hmm.
+<PM> First of all uh comes user requirement.
+<PM> So we will see whether this product meets all user requirements or not.
+<PM> I I will first I would like to have your views, what do you think whether it meets all user requirements or not?
+<ME> Um I think Yeah, it did.
+<ME> It had all the basic buttons that they needed as well as the uh new technology that people said they wanted.
+<PM> S So what do you think you will personally give.
+<UI> Yeah.
+<ME> Um so.
+<UI> When the user requirement is essentially just to operate the TV, so yeah, of course we haven't actually got a working model yet.
+<ME> Does it work?
+<ME> Yeah.
+<ME> So.
+<ME> I would say seven.
+<PM> Seven.
+<PM> Uh.
+<ME> Seven is good, yeah, isn't it?
+<ME> I can't True or false?
+<ME> No sorry tr one is true.
+<UI> One, yeah.
+<PM> Uh one is means highest ranking, okay.
+<ME> Yeah.
+<PM> But I think highest ranking is seven, or one?
+<UI> No it's it's like true is one end, and false is the oth Oh, I'll go for a one.
+<ID> No that's false.
+<PM> Okay, right right.
+<ME> Okay, so one.
+<PM> So it's one for from your point of view.
+<ME> Yep.
+<PM> And what do you say our Industrial Expert?
+<ID> Uh.
+<ID> It's hard to know.
+<ID> I I give it a two.
+<PM> Uh d you can you can tell on on the like I think she has given her views on the basis of design, because she was our i Interface Expert.
+<ID> Okay.
+<PM> But you can give your views based on technology, whether the technology meets the requirements of the customers or not?
+<ID> Um yeah, I think i it might even exceed it um.
+<ID> But I guess there is a kind of a shortage of buttons.
+<ID> Um I'm gonna give it a two.
+<PM> Two.
+<ID> Two.
+<PM> And what about uh you, Brian?
+<PM> You will go for one.
+<UI> Basic requirements but of the pro of the project.
+<PM> Okay.
+<PM> Uh for me personally it is everything fine, it may be having good design, it may be uh meeting all the requirements of the customers like technology-wise, price-wise, but there is one thing which limits the customers, like we are having only two, three designs, like we are having one banana design and the other one is orange, and Uh yeah, lower end.
+<ME> Mm yellow.
+<UI> Yeah th Come on that was the tha 'Kay.
+<PM> And the third one is what you ge uh that is not a f fruit look.
+<ME> Uh-huh.
+<PM> But if a person doesn't like banana, or orange, you are limiting him.
+<ME> Uh-huh.
+<PM> No, don't buy our product, because we are l we like this only.
+<ME> Okay.
+<PM> So we are showing our preference for particular fruits, two or three kinds rather, and Yeah.
+<UI> Being fruitist.
+<ME> Is that no is that not trends?
+<PM> So.
+<PM> Uh no, uh personally as a Marketing Expert I don't believe that, because whatever companies they launch their products in the shape of fruits, they give a range of products, a range of shapes, like if we see, look at the smallest thing, toffee chocolates, they give a variety of different things.
+<ME> Mm-hmm.
+<PM> Some children like to buy banana shape, some apple shape, some even pineapple shape, some orange shape.
+<ME> Mm-hmm.
+<PM> So you can what shape a person will like.
+<PM> So in this case giving only one or two choices we are lim limiting our customers.
+<PM> And by limiting them, we are limiting our sales, limiting our profit also.
+<ME> Uh-huh.
+<ME> But in electronics, I think, it's not q always quite so um you don't always have so many choices as with chocolates.
+<ME> I think, you know, if you're going to buy a TV maybe a company'll have That you're going to choose from, a company'll have two or three choices, but they're different designs.
+<ME> We were coming up with one product.
+<PM> Uh maybe.
+<PM> Okay but I will I will personally won't give it beyond three.
+<ME> No, I mean uh obviously your opinion, I'm just trying to Okay.
+<PM> So we can Yeah, on an average we can think three, four sevenths, maybe.
+<UI> He's a tough cookie.
+<PM> Three or four?
+<PM> Uh, no sorry, it should be No sorry, sorry, sorry, sorry, we are doing a very wrong thing.
+<UI> Six.
+<UI> Five or six.
+<ME> What are we doing?
+<ID> What are we doing?
+<ME> Adding them up?
+<ID> We're gonna average them?
+<PM> Yeah, yeah, we are taking everything, and that's I have taken it very wrongly.
+<ID> Okay.
+<ME> Oh.
+<ID> So seven fourths.
+<PM> Yeah uh three four four two six seven seven sev Yeah one pe exactly.
+<ID> About one point f one point eight.
+<PM> So we can say one or two.
+<ID> Okay.
+<ME> Okay.
+<PM> because it is one point eight uh two, so we will do two.
+<UI> Oh I see.
+<ID> Yeah round it up to two.
+<PM> Yeah.
+<ME> Okay, yeah.
+<PM> So where were the trends.
+<ID> So trends.
+<ID> Can you explain what you want us to write there?
+<PM> Sorry?
+<ID> How it how conforms to the current trends?
+<PM> Yeah, again the the fashion trends, this also like whether it it will be fashionable to have these products in the uh as a fruit shape or something.
+<ME> Mm-hmm.
+<ME> Okay.
+<PM> Uh.
+<ME> Well um going on uh the specifications that we had, that fruit and vegetables are quite popular, and that people like something that is good to look at and not many buttons, I would give it um, well, because it's hard to make a fruit good to look at, that that looks cool, you know, so I would actually give it a three.
+<ME> Tha three or four, I'm not sure.
+<ME> Three.
+<PM> Okay.
+<ME> Go for three.
+<PM> Yeah.
+<ME> That's fine.
+<PM> Uh Okay.
+<ID> 'Kay.
+<ID> As far as the uh technology it its' got the latest trends in speech technology, but it's missing the screen, as we said, um but it does have the push-buttons, or the scroll-buttons, um but it doesn't have that fancy solar power or the the vibrating energy mechanism.
+<ID> So I give it a a four.
+<ID> I'd give it a kinda middle of the road for for technology.
+<ME> Mm.
+<UI> Yeah, I am sort of pret uh Just the fruit does me in, I mean uh it might it might be trendy to some, but I'm just not swallowing the fruit, so um Uh also uh I would have liked to have seen the LCD screen in it.
+<ME> Yeah.
+<UI> Um so yeah I'd say about four as well.
+<PM> Uh personally I wi uh I think that in terms of trends, these products are quite good, like, these products are in fruit shape, because that wha people now our fashion trend shows that people like everything all f everything that is being advertised, like clothes, shoes, and everything is being advertised in the form of fruits and vegetables, or getting them or showing some association with them.
+<ME> Mm-hmm.
+<PM> So and in this way our product is good.
+<PM> And the second thing, now people don't want any complicated or bulky products and ours is quite simple and quite handy.
+<ME> Mm-hmm.
+<PM> So that is also ef that also Our product meets the f the fashion uh trends of the market.
+<PM> And yes.
+<PM> It is cus spongy also.
+<PM> So they can play with it, it's quite good.
+<PM> So then I think, maybe I can give it two.
+<PM> So four five ten thirteen thirteen.
+<PM> So we can Is it fine?
+<PM> So what about company strategy?
+<ID> Yeah.
+<ID> Well it was yellow.
+<ME> Um.
+<ME> Yeah, the company strategy, okay.
+<ME> Um there was lot of discussing, that was good.
+<ME> Um I feel I got my say.
+<ME> Um so I'd give the company strategy a two.
+<PM> Okay.
+<ID> Well, I think it's the the remote control conforms to the the company strategy.
+<ME> Okay.
+<UI> Yeah, yeah.
+<ID> Is that the question?
+<ME> Is it?
+<ME> Okay.
+<ID> Um.
+<ME> Okay, so one or two.
+<ID> Yeah.
+<ME> One.
+<ME> Okay, just leave it, it's fine.
+<ID> I'll go with two.
+<PM> So what about you, Brian?
+<UI> Um yeah, a three.
+<UI> Pretty much kept to the company strategy, so I would go for a a one, as we not only kept it, but we were limited by Cool, groovy.
+<ME> Mm.
+<PM> Yeah, and me also, like, this product me uh me uh me uh this meets all company strategy like our product should be as per customers' requirement, as per latest technology, and it should be environmental safe.
+<PM> So since our product meets all these requirements, so I would also prefer to give it rank one.
+<PM> So four six six half.
+<ID> So one and a half.
+<ME> Yeah, one.
+<PM> So we can say two or one Okay.
+<ID> A two.
+<PM> So th seven seven.
+<PM> Uh overall we are getting two something, but we can round it as two.
+<ID> Yep.
+<ME> Okay.
+<PM> Yeah.
+<PM> So I think overall uh evaluation of our product is quite good.
+<ID> S Okay.
+<UI> Cool.
+<PM> So we can launch it.
+<PM> Yeah.
+<UI> Brilliant.
+<ME> Woo-hoo.
+<UI> In which case we are done.
+<UI> 'Cause we've evaluated and we are within budget.
+<ME> Cool.
+<PM> So yeah.
+<UI> Champagne lunch anyone?
+<ME> Yeah.
+<ID> Uh.
+<PM> Great.

@@ -1,0 +1,809 @@
+<ID> I'm proud of it.
+<UI> Okay.
+<UI> This is our final meeting, the detailed design meeting.
+<UI> And again I'll take minutes.
+<UI> The what we have to get through in this meeting is firstly the prototype presentation from you two, so you can show us what you've been working on so diligently.
+<ME> Yeah.
+<UI> Um then then Cat's going to present the evaluation criteria that we're going to be evaluating this against.
+<PM> It does look very cool.
+<UI> Then I need to say some st a few things about finance, 'cause we have to check that it's within the finance criteria.
+<UI> Um and then we'll be making sure that our product fits both the evaluation criteria from Cat and the financial limits.
+<UI> Um and then we uh will have a brief evaluation of the whole process of production and design that we've been through.
+<UI> So we've got forty minutes.
+<PM> And then do we get to make a remote control?
+<UI> S 'Cause we missed out.
+<PM> Yeah.
+<UI> So it's now I guess that we're supposed to start at fifteen thirty five, so we've got until four fifteen.
+<ID> Uh-huh.
+<UI> Is that right?
+<ID> How how much do we have, forty minutes?
+<ME> Yeah, about four fifteen, yeah.
+<UI> Yeah, until about four fifteen.
+<PM> Yeah.
+<ID> Yeah.
+<UI> So yeah.
+<ID> Okay, so.
+<UI> Go for it.
+<UI> Do you want Yes.
+<ME> So, you said um are are we starting with the the so will you maybe start with like the mm the shape and things and and then I will explain the the user interface th uh things, like the buttons and the scrolling things and Well, but it's it's just an a approximation.
+<ID> Presentation.
+<ID> Okay.
+<ID> Okay.
+<ID> So um basically going with our trend of vegetables and we selected the colour and approximate shape of banana.
+<ID> Um Yeah.
+<PM> You think bananas are a safe thing to use?
+<PM> It's a bit um phallic.
+<ID> Um Yeah.
+<UI> Dual use, perfect.
+<UI> Dual use, perfect.
+<PM> Oh, your remote control?
+<PM> Oh that's just bad.
+<UI> Does it vibrate when you press the buttons?
+<UI> Sorry, sorry.
+<ID> Um so basically it's the it's the flip open thing again.
+<UI> Mm-hmm.
+<ID> So now we we have the okay, so Ma Maarika will explain you the user interface there.
+<ID> And it flips open on the side, so it opens like that.
+<UI> Mm-hmm.
+<ID> And we have the user interface o in here and uh the the LCD and and the scroll are inside.
+<UI> Wow.
+<ID> Um well, everything else is probably user interface, so.
+<ID> Yeah, yeah.
+<ME> Uh yeah.
+<UI> And it's the whole thing's made of rubber, is that Mm-hmm.
+<ME> Rubber.
+<ID> Oh yeah.
+<ID> Yeah, it has, yeah.
+<ME> Yeah, .
+<PM> Is it to scale, or do you think you can make it a bit smaller?
+<ME> Um it could be made a bit smaller, and and of course it would be and yeah, but um one thing we actually kind of um forgot while designing, that one side was supposed to be rounder, so we said the back side round, yeah.
+<PM> Yeah.
+<ID> Yeah, well, but i since it's made of rubber anyway.
+<ID> I I think it's it's uh Yeah.
+<ME> Yeah.
+<PM> It l does look like the curvy and then the whole shape's curvy, so I would say that this curvy does look quite like a vegetable.
+<UI> Yeah.
+<ME> Yeah.
+<ID> Mm.
+<ID> Hmm.
+<ME> And it's spongy as well.
+<PM> I wasn't very keen on that, but yeah.
+<ME> So so uh the user interface as as we discussed last time uh mm on on the on the cover we just have the very basic things.
+<UI> Huh.
+<UI> Mm-hmm.
+<ME> So we have that n uh channels here starting from um uh one two three there would be numbers in in the on the actual one.
+<UI> Yeah.
+<ME> So it's four, up to four, up to seven, up to nine and zero, z zero here.
+<UI> Six seven eight nine.
+<UI> I like that.
+<ME> Yeah.
+<ME> And then, well this is on off button.
+<ME> It's it's quite standard mm place for it and and also the colour is quite often red, so it's it's kind of user friendly.
+<UI> Yeah.
+<ME> And then these ones would be for flipping the channels back and like the previous one and the next one.
+<UI> Uh-huh.
+<ME> And and we would also have a l little um thing saying here, previous and ne prevon prevon next.
+<PM> So where's the volume?
+<UI> Yeah.
+<ME> The volume is is scrolling.
+<ME> On the side, this one.
+<ID> It's on the side.
+<PM> Ah, you did get that in then, mm-hmm.
+<ME> Yeah you just do it like this.
+<ME> And and and it's it's on the back is mm cover or back lid, because if you flip it open, you can still do the scrolling here.
+<PM> Oh okay, .
+<UI> Mm-hmm.
+<ME> See?
+<ME> So the volume is you just scroll, but then once you flip it open, okay, there there you have the screen and and you have the mm spinning wheel with options to choose.
+<UI> Yeah.
+<UI> Mm-hmm.
+<ME> You can move back and forth and then if you need to m choose something on the screen, you just push the cen mm the middle button.
+<UI> Mm-hmm.
+<PM> Cool.
+<PM> Oh, the thing we forgot was like a mute button.
+<ME> A mute button.
+<ID> Uh no, we we'd not put so on on the cover we have the the bare essentials.
+<PM> Yeah.
+<ME> Well, we'll have this on the screen, on the display.
+<UI> Y or you could have it so you on the wheel if you.
+<PM> On the wheel, like if you hold the wheel down then it will mute.
+<ID> Uh on the LCD we r you know, the main menu will have various options.
+<ME> Well, but the but the mute yeah, the scrolling is kind of you have to scroll all the way to make it mute, right?
+<UI> But if you hold it in, if it's a scroll and click so you hold it in?
+<PM> Yeah, but it's a scroll and click, isn't it?
+<ID> Mm.
+<ME> Okay, yeah, okay.
+<PM> Okay, cool.
+<PM> So that that solves the whole mute issue.
+<ID> Mm.
+<ME> Yeah.
+<ME> And okay, so i so the the voice recognition is also just part of it.
+<ME> You can't really see it in the interface.
+<UI> no.
+<ID> Yeah, it's hidden in there somewhere.
+<ME> Yeah.
+<ME> And we do have the logo on it as well.
+<UI> Mm-hmm, very good.
+<ME> So I think it Yeah.
+<UI> And it's with the the black and yellow you're even in the right colours.
+<ME> Yeah, I think um we could do l the logo in grey, as it is on the website.
+<ID> Cool.
+<UI> Mm-hmm.
+<PM> Yeah.
+<ID> We ran out of resources here, so.
+<ME> In the actual one.
+<ME> Yeah.
+<ME> So if you have questions.
+<ID> You can have a look.
+<UI> Very good, let's have a look.
+<UI> Test it out.
+<UI> Uh it's a sort of intermediate colour, I guess.
+<PM> Yeah, oh, we hold the remote.
+<PM> Oh, but it it does feel all cold and slimy.
+<PM> I hate Play-Do, it's just minging.
+<PM> But yeah, uh that's cool, cool.
+<UI> Very good.
+<PM> Mm-hmm.
+<UI> Okay, so maybe if we go on to evaluation cri criteria and then we'll there I suspect we're gonna have a couple of minor finance issues, but um we'll se I'm sure we can get around them somehow.
+<PM> Okay.
+<ID> Yeah, see the budget.
+<UI> We'll just send all of our manufacturing to some nice poor country and cut some of the prices that way.
+<PM> Wales.
+<UI> Wales, for example.
+<PM> Mm.
+<PM> Cool, okay.
+<PM> Right, okay.
+<PM> Fabulous, yeah.
+<UI> Marketing Expert.
+<PM> Okay, cool.
+<PM> So what we're gonna do is prefer prepare the evaluation of the new design.
+<UI> Mm-hmm.
+<PM> Um so we're gonna be using a seven point scale, so one is, you know, yes, it totally meets with that requirement and seven is, no, it really doesn't, we need to go back and start again.
+<PM> Um, you know.
+<PM> Basically, what I did was I went through all the like user requirements and things that we've done and we've worked on and like made a list of them.
+<PM> Um you know, so that we can evaluate each one and like so it was about going back to the start and saying oh yeah, we did manage to do that, or oh no, we really forgot about that.
+<ME> Yeah.
+<UI> Mm-hmm.
+<PM> Okay?
+<PM> Cool, so these are what they are.
+<PM> Oh Yes, I did have A, B, C, and D down here, but it seems to have turned into like just bullet points.
+<UI> So for each of these we need to give it a one to seven.
+<UI> Is that right?
+<UI> Mm dots, never mind.
+<PM> Okay.
+<PM> But if you can imagine that they say A, B, C, and D, then that would be really good.
+<ID> I guess we'll give it maximum points in everything.
+<ME> Yeah, the yeah, it's definitely attractive.
+<UI> Yeah, I agree.
+<ME> Oh, the locatable thing we actually forgot.
+<PM> Well, I thought we'd um kinda said that you'd have a little thing to stick on the TV?
+<ME> Yeah.
+<UI> Yeah, just prepare one now.
+<ME> Shall I just prepare it now?
+<PM> Yeah.
+<ME> It will be red, too.
+<PM> Cool.
+<PM> Okay.
+<PM> So, be attractive to look at.
+<PM> That's this one.
+<PM> What do you all say?
+<ID> So?
+<UI> I reckon it Yeah.
+<ME> S seven was th the maximum, yeah?
+<PM> Yeah.
+<ME> I I go for seven.
+<UI> Seven, yeah, it's terribly sexy.
+<PM> Oh we're all so proud of the.
+<ID> Yes.
+<UI> Yeah.
+<PM> Okay, so that'll be a seven for A.
+<PM> Could oh no, you can't whilst that's up there.
+<PM> Okay um uh what I've done on the next page is I've set it up so we just put the marks in.
+<UI> Ah, okay.
+<ID> Okay.
+<UI> Excellent.
+<UI> Except we can't uh we can if we then yeah, I'll take a note, it's fine.
+<PM> Yeah.
+<PM> But that's alright.
+<ID> But we can we can I can I can take note uh uh Um the the only thing that we were considering was that uh this thing is kind of more for right-handed people than for left-handed people, so if you're left-handed you're kind of left uh scrolling with your finger.
+<PM> If you take a note of them, and then I'll put them in in a minute.
+<PM> Okay, so we're all agreeing on seven for A?
+<UI> Yeah.
+<PM> Cool, okay.
+<PM> Does it match the operating behaviour of the user?
+<ME> I would think yes, yeah.
+<UI> I think it does.
+<PM> Yeah.
+<PM> I mean Yeah.
+<ME> Yeah, so y so we we might do we might want to do like a uh another m model another another version, which is like exactly the mirror image of this one.
+<UI> Alright.
+<UI> But that's gonna be a problem, 'cause you don't always have all left-handers or all right-handers in a family.
+<ID> But then yeah.
+<ID> Yeah.
+<ME> Yeah.
+<ID> So bu it's it's not a huge problem, because i i it is operatable.
+<PM> I th I think it's not it's not like it's a pen.
+<ME> But then then I think left-handed people are already used to discrimination anyway, so they just Yeah.
+<UI> Yeah.
+<PM> Yeah, but I mean because it's not like it's a pen, you know, left-handed people can't normally write right-handed, but they can normally do most things right-handed, so I would say it's not such a big issue.
+<UI> Yeah.
+<ID> Right.
+<ME> Yeah, because I mean anyway, right-handed people would be able to scroll with it, so i if the majority are right-handed, it's uh Or maybe six, because it's just one one i one among the issues, I mean.
+<UI> Mm-hmm.
+<PM> Yeah.
+<ID> Yeah.
+<UI> Yeah.
+<PM> I mean you can you can use your finger to to scroll rather than your thumb.
+<UI> Mm-hmm.
+<UI> Yeah.
+<ID> Yep.
+<PM> So I mean that does kind of negate the whole RSI issue.
+<ID> Mm.
+<PM> So maybe we need to put that needs a little bit of investigation, maybe give it a five, I would say?
+<UI> Um Six.
+<PM> What do you what do you all think?
+<ID> Mm.
+<UI> Yeah, I think I think for um I mean most people are right-handed, so in in terms of our greatest target group, I think it's pretty good, but we might want to flag it for management, they want might want to um They Mm-hmm.
+<ME> Yeah.
+<ME> Yeah.
+<ID> One more thing is that i It might be a little clumsy when when it opens up, right, so it opens on the side.
+<PM> Okay.
+<ME> No, yeah, but mm but we have it nicely with the hinges here yeah.
+<ID> So Yeah yeah yeah, I mean yeah.
+<ME> So it won't be a problem, it will be and it will be it won't be heavy.
+<UI> Yeah.
+<PM> Yeah.
+<ID> So you guys can decide wh whether Oops.
+<PM> Yeah.
+<PM> I th I think the alternative is flipping from the top.
+<ME> Yeah well yeah, but it's it's a bit long.
+<ID> Yeah, but we which makes it kind of really big, yeah.
+<UI> The length is gonna be difficu Mm.
+<ME> It's a little bit long.
+<PM> Yeah um But you were thinking about making it smaller, yeah?
+<ME> Well, I mean it can be opened like this of course and yeah.
+<ID> Uh this this kind of uh makes it more and two, it might interfere with the IR channel.
+<PM> Because So you have to keep that side flat.
+<ME> S uh slightly smaller.
+<ME> Yeah, but if we flip it open only as much as that.
+<ID> Okay.
+<PM> So it works like a mobile phone flipping, but y you know, as long as that side's flat, than that will work.
+<ID> Right.
+<PM> Okay.
+<ID> Okay.
+<PM> Um okay, so C.
+<PM> Are are we admitting defeat on C or are we saying we're gonna stick a locator on the TV?
+<UI> No, we're gonna put it like we've got th there's the locator dot.
+<ID> No, we have a locator.
+<PM> There's a locator.
+<PM> Cool, so that means you need a that does mean you need a little speaker on it though, doesn't it?
+<ME> Mm that you stick on TV.
+<UI> Mm.
+<PM> To make it beep.
+<ME> Yeah well w but l but the speak sample speaker is included, so it it has some capacity to mm to do some to make some sounds, so yeah.
+<ID> Yeah.
+<PM> Or a buzzer.
+<UI> Yeah.
+<PM> Okay.
+<ID> Yeah.
+<PM> So that's two, so that's seven, yeah.
+<PM> It's locatable?
+<ME> Yep.
+<PM> Fabulous.
+<PM> D.
+<ID> Intuitive, completely intuitive.
+<ME> Yeah.
+<ME> If uh uh if this means intuitive, if it means the way people kind of are used to finding things and it's I th I think it's Yeah.
+<UI> Yeah.
+<UI> I'd say six, 'cause the I mean the the standard layout for numbers is three three three and one, rather than the way you've got it.
+<UI> I really like the way you have it, but it's not the immediate thing that you're used to.
+<PM> Yeah.
+<ID> Intuitive.
+<PM> Yeah, and I mean d So, should we maybe say f a five and say it is intuitive, but it's different, so, do you know, I mean it's obvious how to use it, but you might have to think about it first.
+<UI> So Might be But it and it's something that they will be experiencing in a lot of different places soon.
+<ID> And uh even the scroll, it's a it's a new technology so m m might be a little more difficult for people to get used to in the beginni so it is kind of not very intuitive but uh it's a good technology, I mean once they get used to it.
+<ID> Yeah.
+<ID> So l Yeah, okay.
+<UI> Five?
+<UI> Yeah.
+<PM> So we give that one a five, you think?
+<UI> I'm happy with five?
+<PM> Yep.
+<ID> I'm gonna give a seven in everything, so.
+<ME> Yeah.
+<UI> Yeah.
+<PM> I'm glad you're accepting this.
+<PM> It has taken a little while, hasn't it?
+<PM> Um intuitive but Sorry, it's really hard to write on those.
+<PM> I just went a bit mad, didn't I?
+<ID> Mm.
+<PM> Um okay, cool, E, okay.
+<PM> Um I would guess this comes back from this whole B thing links in here, so possibly for left-handed.
+<PM> Investigate.
+<UI> Yep.
+<UI> But otherwise it's superb.
+<PM> So, should we give it a six?
+<UI> Six.
+<PM> Six?
+<ME> Um uh the ergonom ergonomic design well mm I mean I d uh I dunno, I mean the the repetitive stress things, but then who would be really pushing the buttons so much on the on the remote control anyway, yeah?
+<UI> Yeah.
+<ID> Yeah.
+<ID> Yeah, unless you are a all the time sitting.
+<ME> See.
+<ME> Yeah, so it's kinda Yeah.
+<ID> Yeah.
+<UI> Well we've banned them from Yeah.
+<ID> Yeah, I I think it is ergonomic.
+<PM> I used to send fifty texts a day, you know, and I never got repetitive strain injury from that, so I find it quite hard to believe to be honest.
+<ID> Mm yeah.
+<ID> And moreover it it has um LCD and everything, so that uh you know uh we minimise the pressing of the buttons anyway.
+<UI> Yeah, it's varied.
+<UI> Yeah.
+<PM> Okay, so we give that a six, yeah.
+<UI> Six?
+<PM> Okay, F.
+<ME> Yeah, it does have yeah.
+<UI> Voice control have seven.
+<ID> Absolutely.
+<PM> Hang on, how come it's showing up with the things there but it only had bullet points there?
+<PM> That's just Oh okay, cool.
+<UI> Ah, that's the second one.
+<UI> So you must have changed it on this one where it's got score, but not on the previous slide.
+<PM> Um right, so.
+<ID> So it has voice control.
+<PM> Yes, so that's a seven then.
+<ID> Yep.
+<PM> Um, cool.
+<UI> G technologically innovative.
+<ID> Anyway it ha yeah, it's the most sophisticated remote that I ever seen.
+<ME> Technologi well Yeah.
+<UI> But in terms of the actual technology, none of it is actually new.
+<ME> Well mm we have we have the sample speaker as well, which is yeah, it's kind of new.
+<UI> Yeah.
+<PM> Yeah, but I mean you don't They're never been used i they've never been using remote remote control before I don't think.
+<UI> All of the components have been used in other things before.
+<ME> But at the same time they are all they are all relatively new.
+<ID> Yeah, but they've been brought together in a remote.
+<UI> But do yeah, yeah.
+<UI> Yeah.
+<UI> What do you reckon, five, six?
+<PM> Yeah, what do you all think?
+<ME> Six.
+<PM> Six?
+<ID> Yeah.
+<ME> I mean how how far can you go with a remote control, really?
+<PM> Well, that's it, I mean Yeah, but I mean everything has been used in space before it gets to anyone else really, hasn't it?
+<ME> It still has to do what i what it has to do.
+<UI> Yeah.
+<PM> So, I don't think many peop That's it, they can take it with them.
+<UI> Space remote.
+<UI> Put fashion in electronics.
+<ID> Absolutely.
+<ME> Yeah, isn't it fashionable?
+<ME> Yeah, sure.
+<ID> The carrot banana remote.
+<ME> It's the maximum fashion.
+<PM> So, we give it seven, and we write There we go.
+<ME> Fruit fruit and vegetables are fashionable these days, so.
+<ME> So I think we've done very well, but What's the assessment?
+<ID> I think that's a.
+<PM> Cool.
+<UI> Very good.
+<ID> Yeah.
+<PM> So, we need the average here, so we got Seven So we've got four sevens, so that's twenty eight, three sixes, eighteen.
+<ME> The average is about six and something.
+<UI> Yeah, one.
+<ME> A little bit over six.
+<UI> Or a seven.
+<ID> There are how many sixes?
+<ME> No, wait, a little bit under six.
+<ID> One, two, three.
+<ME> No, wait.
+<ID> Three.
+<ID> And one five.
+<ME> Oh, three sixes, okay, yeah.
+<UI> Fifty one, one, two, three, four, five, six, seven, eight.
+<ID> Okay, twenty eight, thirty eight, fo forty six.
+<ME> Four sevens.
+<ID> Forty six and five, fifty one.
+<UI> Six point point about six point five.
+<ID> Fifty one divided by Mm I guess it'll have to wait for a bit.
+<ME> Six point something, yeah.
+<PM> Two three four Seven eight.
+<ME> Six point five, yeah.
+<UI> Close enough.
+<PM> Okay, that's pretty good, I think.
+<UI> Now wait until we get to finance and then we'll see if we can afford it.
+<UI> That's all you've got at the moment, or did you have anything more?
+<PM> Um no, that's it, yeah.
+<UI> That's it?
+<UI> Alright.
+<UI> So, finance.
+<UI> And we'll see if we can unscrew this first.
+<PM> Cool, there we go.
+<UI> Sorry, this is I'm just um Beautiful.
+<PM> There we go and there are the marks.
+<ME> Yeah.
+<UI> Not anymore.
+<UI> Computer no signal?
+<UI> Adjusting.
+<UI> There we go.
+<UI> Okay, so we've looked at the prototype presentation and the evaluation criteria.
+<UI> And now we have to calculate the production costs.
+<UI> So I've got an Excel spreadsheet to help us do that.
+<UI> Can you read that?
+<UI> Almost.
+<UI> More or less.
+<UI> Um I started filling it in, but of course these are provisional, so we have to go down.
+<UI> No hand dynamo, right?
+<PM> Yeah.
+<ME> Yeah.
+<UI> One simple battery.
+<ID> Mm.
+<UI> No kinetic energy, no solar.
+<UI> The chip, we're going for an advanced chip on print.
+<ID> Advanced, yeah.
+<UI> We also said the sample sensor and sample speaker.
+<ME> Yep.
+<UI> Um single-curved surface, so that we can fold it.
+<ME> Yeah, yes.
+<UI> Case material we said rubber.
+<ME> Rubber.
+<ID> Yep.
+<UI> I don't know what special colour means.
+<ID> Mm anything uh I think which is not more.
+<ME> I think something coloured, yeah, probably.
+<ME> So I think this is probably special co no?
+<UI> It could be Rub rubber comes coloured, it's I would maybe it's like if you want titanium coloured or wood coloured, it's different.
+<ID> Yeah.
+<PM> Yeah, but rubber comes coloured, doesn't it?
+<PM> You know.
+<ME> Yeah.
+<ME> Or maybe maybe if you want some kind of pattern thing on it, yeah yeah, okay.
+<UI> Yeah, let's leave it as zero, 'cause it's easy.
+<ME> Yeah.
+<PM> Yeah, you might end up having to take off the sample sensor.
+<UI> We we're definitely going to have to so we've got pushbutton, and then we've Scroll wheel with pushbutton we had, no?
+<ME> We have pushbuttons, scro we have scroll wheel as well.
+<ID> Mm.
+<UI> S for the muting.
+<ME> S yeah, yeah, we had, for muting, yeah.
+<ID> No uh we we have uh yeah.
+<UI> Yeah.
+<ME> And we have LC display and yeah.
+<UI> And button supplements.
+<ME> Um Yeah, but what do we ha we have LC display, but but the wh but the s spinning wheel Yeah.
+<ID> Mm no.
+<PM> No.
+<ID> We don't have we're not using any of that.
+<UI> No.
+<UI> No?
+<UI> But the the spinning wheel's not there.
+<UI> I have think maybe it's integrated with the LC display?
+<ME> Okay, let's yeah.
+<PM> We've got more than one pushbutton though, haven't we?
+<UI> I think the pushbutton oh.
+<PM> 'Cause then you have That means you can only have twenty five push buttons in total doesn't it?
+<UI> I don't know if that's one Yeah.
+<PM> Not counting anything, we'd still be in budget.
+<UI> That seems unlikely.
+<UI> Push what uh whether whether pushbutton means that p count by button or do we I don't think that makes sense.
+<ID> Huh?
+<ID> Wh wh what is the limit?
+<ID> Uh.
+<PM> Twelve point five.
+<ME> We have to count all of them, or yeah.
+<ID> Mm I don't think so, no.
+<PM> No.
+<PM> Well it doesn't, but it uh And LC display.
+<ID> No it says what what is the kind of interface, if it is pushbutton then you got a zero point five, it's a scroll wheel so we we've put it's pushbutton and scroll wheel and LCD display, so that's that's the three kind of interfaces that we have.
+<UI> No.
+<UI> Yeah.
+<UI> Yeah.
+<UI> Yeah.
+<UI> Yeah.
+<UI> So, as we can see, that's way too expensive down here.
+<ID> Wh wh what's our criteria?
+<PM> This sample sensor.
+<UI> Our budget's twelve point five.
+<ID> Uh okay.
+<PM> Yeah, the sample sensor will have to go, 'cause that's the most expensive thing on there.
+<UI> Yeah, so that has implications though for the.
+<ID> Uh it does not have for voice recognition, but it does have for the feedback speaker.
+<ID> when you say when you press one it says one or it says hello.
+<PM> Yeah.
+<UI> For the locator.
+<PM> But that's a bit of a gimmick anyway really, isn't it?
+<UI> Yeah.
+<ID> Mm and the locator also goes away.
+<PM> We can afford to get rid of it.
+<ME> But it was very no innovative innovativeness.
+<UI> Yeah.
+<PM> So that means no locator, does it?
+<ME> Well um yeah.
+<PM> I mean does Yeah.
+<UI> What else does it need?
+<ME> Well the speaker uh the sample speaker is is expensive, but we could just have some some very very easy device that just beeps.
+<UI> Yeah, 'cause the sample speaker was, I think, more complicated then just a beeping thing.
+<ME> This would be Yeah, yeah yeah there you record your samples your speech samples and Yeah, then then we would be in the b budget.
+<PM> Yeah.
+<UI> Yeah, okay, so we Uh-huh.
+<ID> A also i in the case I'm not sure that you will evaluate this as a curved surface, because it's just rubber, so it's probably a flat surface rubber.
+<ID> Uh I mean uh um yeah.
+<PM> Okay, yeah.
+<UI> Right, so we need one fifty off.
+<ID> Um So tha that mean that we cannot press how do we how do we make a selection in uh in the LCD?
+<PM> See, I was gonna say the scroll wheel pushbutton thing, 'cause But that's well you would just have to to spin it down.
+<UI> Take it down to just a scroll wheel.
+<UI> We could do Yeah.
+<ID> If in the LCD we can scroll, right?
+<ID> But how do we make a selection if we d cannot push the button.
+<ME> Yeah b no no, you can push this one, but we don't have a pushbutton uh we ca we don't have this muting mechanism for this scrolling thing.
+<UI> You can have to scroll it straight r roll it straight down for for mute.
+<ME> Mm-hmm.
+<PM> So that's point three.
+<ID> No w w w but ha it's it's the scroll wheel and I thought we were referring to this as a scroll spinning wheel and pushbutton thing.
+<ME> But I mean we can put an additional mute button on the top as well.
+<ME> If you Mm.
+<PM> Yeah, I mean that wouldn't actually cost any more.
+<PM> That's the spin wheel though, isn't it?
+<PM> Didn't that come with the LC Yeah.
+<UI> That's with the LC We decided, 'cause it's not on our list.
+<ID> That comes with the LCD?
+<PM> Yeah.
+<ID> Oh so so the the this is.
+<UI> The scroll wheel is on the side.
+<ID> So we're adding costs for right, okay uh I mean I think this is good.
+<ME> So Mm-hmm.
+<PM> S so we're point three over.
+<UI> We're point three over at the moment.
+<UI> It's nothing n Yeah, I have Yeah.
+<PM> Unless we just take off the scroll wheel altogether and just have pushbuttons for the volume.
+<PM> Could b still put them on the side.
+<PM> But yeah.
+<PM> I mean the scroll wheel's pretty cool, but Yeah.
+<ID> Instead of scrolling here we have two buttons here, up for up and down.
+<PM> Yeah.
+<ID> On the side.
+<ID> Mm uh it sounds good actually, yeah.
+<ME> Okay, yeah.
+<UI> Rather than having three different things that people have to do.
+<ME> Okay.
+<UI> There we go.
+<UI> Oh look, we're way under budget and we'll make huge profits and we'll all get bonuses.
+<PM> Yeah, well we could admit to the single curve, couldn't we?
+<UI> Or or that we have to have some sort of special colour.
+<PM> Yeah, but Yeah.
+<UI> So that's alright.
+<UI> We we'll leave it at that and then I'll take I can send it back to management and say we weren't quite sure about the colour, if that costs extra then we've still got some space for it, yeah.
+<ID> We have, yeah.
+<ME> Yeah.
+<PM> Yeah.
+<UI> Excellent.
+<UI> Alright.
+<UI> So did we lose um on our evaluation criteria, as a result of doing that?
+<PM> No.
+<PM> No, I don't think so.
+<ID> Not really, no.
+<ID> Because we keep all the features, we keep voice recognition, we keep LCD display.
+<UI> Mm.
+<PM> Yeah.
+<ID> We instead of having scrolling we we just push the buttons.
+<UI> Yeah.
+<PM> We just got rid of a gimmick that was never anyway, and the scroll wheel is I mean essentially the two buttons that was it's not a great difference I don't think.
+<UI> Yeah.
+<ID> Um yeah.
+<UI> Yeah.
+<ID> Yeah.
+<UI> Alright then.
+<ID> But we lose the locator.
+<PM> Really?
+<UI> We're gonna have a beep.
+<ME> Well we're going to have a beeping thing.
+<ID> So instead of speaker, .
+<ME> But yeah, it's it's not like sample speaker, but it will just beep, so we still have the locate.
+<UI> Yeah.
+<UI> Yeah.
+<ID> 'Kay.
+<PM> Cool.
+<PM> That's not a very exciting colour.
+<PM> I think you should make it more vegetable-like.
+<ME> Which colour, the the colour of the phone or the colour of the But it can be yellow as well.
+<UI> Tha.
+<PM> Oh the the beeper thing.
+<PM> It Yeah, I think Jen wants it to vibrate.
+<ME> It can come in the same colour as the the case.
+<UI> 'Cause we we won't have run out of our pot of Play-Doh.
+<PM> You know, your pen vibrates?
+<UI> Yeah, I know I know, my pen vibrates.
+<PM> Yeah.
+<UI> But only for a very short time.
+<UI> Um okay.
+<UI> So looks like we've designed a banana.
+<UI> Well done, team.
+<UI> Um we need we've just got about ten minutes or so left of the meeting, so it would be good if we could just have a little talk about the project itself and how it went, um so that we can feed back to the management for next time they're designing a product.
+<PM> Cool.
+<UI> Feedback?
+<ID> I think it mm I think uh n one thing that was lacking uh was that we did not know what the various things cost to begin with.
+<UI> Ideas?
+<ME> Yeah mm, as far as creativity is concerned, yeah I think there was there was room for creativity.
+<ME> The only the only problem being that at the end we had to cut some things down because of the the budget we had.
+<UI> Mm-hmm.
+<UI> Mm-hmm.
+<PM> Yeah.
+<ID> Um we kap kept a adding things randomly.
+<UI> Yeah.
+<ID> So, had we known Yeah, that or not, yeah.
+<PM> If we'd had that sheet at the beginning should've been like, okay, so we can have that lot, let's just throw it together and do what we can.
+<UI> Mm-hmm.
+<ME> Yeah, yeah, yeah.
+<ID> Yeah.
+<ID> So d all the random decisions at the end could have been prevented.
+<PM> Yeah.
+<ID> Mm.
+<UI> But in terms of the process of um going and working individually and then coming back to a meeting, that that worked in terms of.
+<ID> Yeah, mm.
+<PM> I think 'cause the meetings were so regular, you know.
+<UI> Mm-hmm.
+<PM> It wasn't like we were alone for very long, so you didn't st go off and think, wouldn't it be great to have a vibrating remote control shaped like a banana, and then, you know, come back three days later and Jen's going look, look, it vibrates and it looks like a banana.
+<UI> Mm-hmm.
+<UI> Banana.
+<ME> Yeah.
+<PM> Um yeah, so yeah.
+<ME> Yeah, the m the means were very very good, the means we used.
+<UI> Mm-hmm, the whiteboard digital pens.
+<ME> And the pens.
+<PM> Uh I like the pens.
+<UI> We like the pens.
+<PM> I want one.
+<PM> That would just be so cool, to d do all your notes and s I don't think you should say that was the recording.
+<UI> Yeah, you could take it to lectures and just write stuff down and have it printed out when you got back to the office.
+<ID> Yeah yeah yeah, that's it's it's I wonder what one of these costs.
+<ME> Yeah, yeah.
+<UI> They great?
+<UI> Do you think they'd notice if one went?
+<UI> Oh okay.
+<PM> Okay, cover up the microphone.
+<PM> Alright, let's take it.
+<UI> Yep.
+<UI> Shh.
+<UI> Yep.
+<PM> Okay.
+<UI> But that worked well having having a whiteboard that we could draw on as well as having the PowerPoint, 'cause the I find that the problem with PowerPoint often is that it's so static and you can't change it once you're in there, yep.
+<PM> It is a bit limiting, isn't it?
+<ME> Yeah.
+<ID> Yeah.
+<PM> Yeah.
+<ME> Yeah, and and and this time also the time limits but actually preparing the Yeah.
+<PM> Yeah.
+<PM> The thing flew in, you didn't have the whole whooshing thing, 'cause there wasn't time for that, so yeah.
+<UI> Mm-hmm.
+<UI> Yeah.
+<UI> That's alright, that always irritates me anyway, yeah.
+<PM> Not that you can do that on the board, either.
+<PM> We could make some little Yeah, totally, I mean that was fairly tight anyway, I mean especially with that last-minute alteration.
+<ME> But yeah, but I mean already just just preparing the slides before before the meeting, yeah.
+<UI> Mm.
+<ME> Yeah.
+<UI> Yeah.
+<ID> Mm yeah.
+<PM> back it, this is just had to be changed.
+<PM> And yeah, so cool.
+<UI> Yeah.
+<PM> Are we supposed to say nice things about Jen now?
+<UI> And presumably you don't you can say nasty things as well.
+<ME> Yeah.
+<ME> I was I was satisfied with with the leadership, yeah.
+<UI> I have no stake in it.
+<PM> Yeah, definitely.
+<ID> Yeah.
+<PM> You weren't like a a dictating leader, so that was always good.
+<UI> You have to say that, 'cause I'm taking the notes.
+<ME> Mm-hmm.
+<UI> I'll leave the room and you can have another go.
+<PM> I know you've got the pen, you might attack me with it.
+<UI> Better than that than the banana.
+<ME> And then the teamwork I think I think it worked quite quite nicely, yeah.
+<UI> I think it worked quite well.
+<PM> Yeah.
+<ID> Yeah.
+<UI> Did anyone feel that they were getting sort of covered up and not being able to say their bit?
+<ME> To express them mm mm no.
+<ID> Mm.
+<ID> I guess it was a fairly small group, so all of us got to express our opinions, yeah.
+<UI> Yeah.
+<PM> Yeah.
+<UI> New ideas found.
+<UI> Not quite sure what about.
+<ME> Well it's it's it's pretty new, pretty novel solution for a for a remote control really, all this flipping open thing and Yeah, neither neither do I, but I've never seen anything and and none of my examples were was was like this, actually, so.
+<UI> Yeah.
+<ID> Mm.
+<UI> Yeah.
+<PM> I don't know, I don't go shopping for remote controls that often, maybe somebody's already though of it.
+<UI> Mm-hmm.
+<PM> Yeah.
+<ID> Hmm.
+<PM> Yeah.
+<PM> I'll be looking out next time I need to write an essay.
+<UI> Yeah, that's right.
+<PM> That looks boring, I'll see if anyone's made a remote control.
+<ME> Yeah maybe w maybe we could have a patent on this one.
+<PM> Yeah, yeah.
+<ID> Yeah.
+<ME> Patent patent patent.
+<UI> Banana remote.
+<PM> I think we'd like to think the ideas were new, but we've got no way of finding out.
+<ME> Mm.
+<UI> Yeah.
+<ME> Mm-hmm.
+<UI> Or you can always go to Google and type in banana remote control.
+<PM> That vibrates Yeah, but that would just come up with like other things really wouldn't it.
+<UI> Flip.
+<UI> Vibrate.
+<UI> And uh yeah.
+<UI> Nothing that you really want.
+<UI> True.
+<UI> Yeah.
+<UI> Okay.
+<UI> So, costs are within budget, well within budget, including a little what have we got?
+<ME> Yes.
+<PM> Yes.
+<UI> One Euro left over for bits that we didn't foresee.
+<UI> Um we've evaluated the project.
+<ME> Yes.
+<UI> You've got the scores.
+<PM> And it's fabulous.
+<UI> Can you put that in the project documents file?
+<PM> It's in the project documents.
+<UI> It's in there already.
+<UI> And the process wheel didn't really have any major problems with.
+<UI> Were there any was there anything that you found difficult, or anything that didn't go as smoothly as you'd hope?
+<ME> And my main difficulty was the the time pressure.
+<UI> Yeah.
+<ME> Otherwise it's it's all fine.
+<PM> Yeah, yeah, sometimes it's like a little bit rushed.
+<ID> Mm-hmm.
+<ID> I thought that was good though, because if you're given too much time then you got nothing to do with your time and um yeah.
+<ME> Yeah, yeah, yeah.
+<ID> Although we could have made the Rs better had we had five more minute.
+<ME> Yeah.
+<UI> Okay then.
+<UI> Um I think we're still well within our time.
+<PM> Yeah, we've got like five minutes left.
+<UI> We've got about five minutes left, but if we've finished, then we've finished.
+<ME> Yeah.
+<UI> We're just too too efficient and you should never drag a meeting on just because you have extra time.
+<ID> We certainly are, mm.
+<PM> Yeah.
+<ID> Yeah.
+<ME> Yes.
+<UI> So I would say that's the end of that meeting.
+<ME> Yeah, it was a pleasure working with you.
+<UI> Thank you, team.
+<PM> 'Kay.
+<UI> It was very productive day and Mm uh no.
+<ID> Yeah, same here.
+<PM> We could draw animals on the board again.
+<ID> Mm uh no.
+<ID> I don't think so.
+<ME> You can make some animals.
+<PM> I don't like Play-Doh, no.
+<ME> Oh, you don't like anim It doesn't?
+<PM> It's just minging.
+<PM> It smells so bad.
+<PM> It does.
+<ME> Smells quite nice.
+<ME> Smells very sweet.
+<PM> Mm.
+<UI> Right, so we have to complete the final questionnaire and meeting summary when they send it.
+<ID> Was there a questionnaire already sent?
+<UI> I don't know if it's already sent or not.
+<PM> No, it hasn't been.
+<UI> Um presumably I have to I don't see why you can't stay here, really.
+<PM> Do we have to go back into the other room or can we stay in here now?
+<PM> Okay, so the other way.
+<UI> Did I save this one?
+<UI> Production costs.
+<ME> I made your animal for you.
+<UI> It was supposed to be pink.
+<UI> But it was blue on the board.

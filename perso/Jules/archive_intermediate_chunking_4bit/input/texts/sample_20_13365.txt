@@ -1,0 +1,831 @@
+<ID> Okay um, welcome to our detailed design meeting.
+<ID> I'm pretty excited.
+<ID> Let's start it's approximately fifteen forty or something like that.
+<ID> Okay um the agenda we're gonna do an opening and then um I'll talk about the minutes from the last meeting, what we d discussed um, then we'll have the prototype presentation and a look at the evaluation criteria.
+<ID> We'll look at the finances and finally a do a production evaluation and close.
+<ID> So, starting off with the um last the last one, oh I don't have it here um, but we talked about energy, we're gonna use a kinetic battery um, we want to use a simple chip, because we're not gonna need a a shuffle um, we're gonna need a scroll um, we're choosing a latex case w in fruity colours that's curved and um we're using push buttons uh with a supplement of an on-screen menu.
+<ID> And it sounded like we had set um like eight or nine buttons, including five pre-set channels.
+<ID> Okay?
+<ID> Let's do the look and feel design presentation first.
+<UI> Right, do you wanna start?
+<PM> Right, well we made three different prototypes and I guess we'll start with with this one.
+<PM> Um we have our colours not are not fixed, but this is the general shape.
+<PM> Um it's you hold it sort of either like like this in your left hand or you switch it over and uh it's easily adaptable to either hand.
+<PM> You can push the buttons with your thumb like a mobile phone, or you can push them with your index finger of your other hand, or even I mean there's a whole variety, you can hold it like this and press it with your same index finger.
+<PM> Uh we have the on off button at the tip, very visible, very big.
+<PM> We have our up and down buttons, which are also gonna be our channel selectors, and we have our little menu button here.
+<PM> If you push if you're just pushing these normally, they're the menu buttons, if uh the volume buttons rather.
+<PM> If you press select once, they become channel changing buttons.
+<PM> If we press select three times, the menu with the other features and pro possibly also with your TV channel choices shows up, and you have your five presets down here.
+<PM> Um if people wanna grab hold of that, see how it feels in your hand.
+<PM> That's our number one prototype.
+<PM> Um do you wanna present the potato, or shall I present the Martian?
+<ID> like a little lightning in it.
+<UI> Okay, um What We call that one the rhombus, uh the rhombus.
+<ID> The little lightning bolt in it, very cute.
+<ME> I could Could the middle button of the on-screen menu function as a power button?
+<ID> The v the rhombus rhombus?
+<PM> That's the rhombus, yep.
+<UI> Um this one is known as the potato, uh it's it's a how can I present it?
+<UI> It's an ergonomic shape, so it it fits in your hand nicely.
+<UI> Um it's designed to be used either in your left hand or or in your right hand.
+<UI> Um I've gone here just for just for four buttons on this one.
+<UI> Um the two blue buttons here are for adjusting the volume.
+<UI> So you've got volume up and volume down on the other side here.
+<UI> Um the red ones are for uh changing channels, channel up and channel down and that's um moves between your favourite channels that you've selected.
+<UI> Uh this middle button here brings up the on-screen menu and when you're working in the on-screen menu you use the other four buttons to navigate around the menu system and the middle button uh to select and that's basically it, that's the potato.
+<ID> Um on, off?
+<UI> Uh that would be one of your channels, basically, so like channel zero would be t to switch switch the machine off, yeah.
+<ID> Okay.
+<ID> Yeah we turn it off.
+<UI> Um not really, it would make it hard to turn the machine off, to turn your TV off.
+<ID> Mm-hmm.
+<PM> If you pressed and held it maybe.
+<UI> Yeah yeah, that that'd be one way of doing it, yeah.
+<ME> If you like held it down, that would be on off.
+<PM> Yeah.
+<UI> That'd work, yeah.
+<PM> On off, that's a possibility, yeah.
+<ID> Okay.
+<PM> And then finally we have um the Martian or the pear, either way.
+<PM> Um it's a bit different, just a little bit more of a creative feel.
+<PM> Uh you have the on off toggle stem on the top.
+<PM> We have the five preset seeds.
+<PM> And then you have on the sides to make it a little bit more three-dimensional, you have your channel changing, volume changing buttons and your menu button right here in the middle.
+<PM> So, that's for your consideration as well, plus it's an interesting talking point to have standing up.
+<UI> Let's pass.
+<PM> We figured it could stand up like this on your table, if you wanted it to, if I made the bot the bottom flat.
+<ID> Uh-huh.
+<ME> Sorry, what's the yellow one in the middle, I forgot.
+<PM> Uh the menu select button.
+<ID> Very interesting.
+<ID> I think that one's my favourite.
+<UI> So that's So that's our three prototypes.
+<UI> Um basically, in terms of making decisions, what we'd need to do is first of all decide on a form uh which of the three different shapes we want, then decide what kind of button layout we want, how many buttons, and then to choose what colours we want to make the buttons and if we wanna put any text on the device, like label on the buttons or put a brand name or or a logo on it or whatever.
+<ID> Mm-hmm.
+<PM> We were we were thinking that normally we'd go for fruity colours, but maybe we're also thinking that your sort of middle aged man, for an example customer, might not want a fruity coloured remote, so m maybe we'd have one version that's a bit toned down, maybe with with less contrasts on it.
+<ID> Mm 'kay.
+<PM> Yeah, something still a little bright to make it hard to lose, but yeah.
+<UI> Would Yeah, but we don't want it to look like a kids' toy.
+<ID> Now that was one thing that we brought up over email.
+<ID> I don't know if you picked up your email, but um the f the um feature that we considered for it not getting lost.
+<UI> Yeah.
+<PM> Right.
+<PM> Well we were we were talking about that a little bit when we got that email and we think that each of these are so distinctive, that it it's not just like another piece of technology around your house.
+<PM> It's gonna be somewhere that it can be seen.
+<ID> Mm-hmm.
+<PM> So we're we're not thinking that it's gonna be as critical to have the loss I think Yeah.
+<ME> But if it's like under covers or like in a couch you still can't see it.
+<ID> It's really Would it be very difficult to um just have an external device that like I dunno, you tape to your to your TV um that when you press it you ha a little light beep goes off?
+<ID> Do you think that would be conceptually possible?
+<UI> I think it would be difficult technologically, because if your if your remote's lost it's probably under the settee and in that case you can't you can't send an infrared sing signal to it to find it, s so it's I'm not quite sure how it would work and then I wonder if it's if it's more just a gimmick then anything else.
+<ID> Mm-hmm.
+<ID> Mm.
+<ID> That's true, mm 'kay.
+<UI> Uh I mean ho how many times do you really, seriously lose your remote control and would would a device like that actually help you to find it?
+<PM> There might be something that you can do in the circuit board and the chip to make it make a noise or something, but it would take a lot more development than we have this afternoon.
+<ID> Mm-hmm.
+<ID> Okay, that's a fair evaluation.
+<ID> Getting lost.
+<ID> Um we so we do we've decided not to worry about that for now.
+<ID> Okay 'cause well, the designs are very bright, so you're right, they're gonna stick out, but um Mm-hmm.
+<PM> So d do people have a preference as far as feel and functionality?
+<PM> Um.
+<ME> I feel like this is simil or it's sort of what already exists so if we're trying to think of something sort of like new and fun, even though this is like what you're init I'm initially drawn to, just 'cause it's like comfortable and like not different.
+<ME> I sort of like this one, like I I don't know why, it just it's like small but still sort of like cute looking, I dunno.
+<ME> But I also like the b the side buttons on that one, like I think that's kind of neat.
+<ME> But I dunno how much any of this has to do with the fashionable, sort of cool looking thing that we also need to focus on.
+<ID> Could we maybe have like an extra button on the top for on off?
+<ID> So then w we wouldn't have to have like a dual function?
+<PM> Mm yeah, that's good, that's good.
+<ME> Ah, there we go.
+<UI> Yeah, it's possible, yeah, yeah.
+<PM> Here, stick it on.
+<UI> Put an extra the button on.
+<ID> Sure.
+<ID> Um uh why don't we do a product evaluation using your criteria, if you've developed some?
+<ME> Well do we w like I think we're supposed to have one that we do it for.
+<ID> Oh okay.
+<ID> Okay.
+<ME> That was I was a little vague on what exactly I'm supposed to do, but let me I have to like write something on the whiteboard, so.
+<PM> So where Right.
+<ID> Okay.
+<ID> Do you need this or just write on the white board?
+<ME> No, I actually don't have like a PowerPointy thing, 'cause I think it would be redundant.
+<ID> Okay.
+<PM> Okay.
+<ME> I dunno.
+<ID> It's kind of like uh like a joystick kind of thing, you know, kinda push it.
+<PM> Ooh.
+<UI> Cool.
+<PM> Hey.
+<ID> 'Kay.
+<ID> Maybe a little smaller than that.
+<PM> No, I kinda like it.
+<PM> That's hard to miss.
+<UI> It makes look more fruity as well.
+<ID> Oh it does, it's kind of like There it could have a stem like that, 'cause I do l kind of like the stem.
+<UI> It's like a deformed foot, I dunno.
+<UI> Yeah.
+<PM> Like Yeah.
+<ID> Yeah.
+<ID> It almost helps you ge keep a grip too, 'cause it goes in between fingers.
+<UI> Yeah.
+<PM> Interesting.
+<ID> I like this one.
+<PM> Okay, is that where people are leaning then, the potato?
+<ID> Variety of colours are nice.
+<PM> I like the idea of the I mean that's really gotten the simplicity of the buttons down, that one.
+<ID> I think I'm leaning towards the potato.
+<ID> Mm-hmm.
+<ID> I am worried about like um using a menu.
+<ID> Um in that like i withing menus there are submenus, and so how do you get back to the main menu?
+<PM> Hmm.
+<UI> Yeah.
+<PM> Well that on the iPod, for example, you just every time you wanna go back you hit the menu button again and it brings you back one level.
+<ID> But that has a menu button separate from a select button, whereas if this one's both the menu and the select button?
+<UI> Yeah.
+<PM> Good point.
+<UI> This is, it's the up and down buttons are used for scrolling up and down for a list of choices.
+<ID> Okay.
+<UI> You find the choice that you want and you press uh you press the right button uh.
+<ID> Could these be used for going to submenus or Okay.
+<UI> Yeah.
+<UI> Yeah, so they're used for going into and out of your submenus, yeah.
+<PM> Maybe yeah, maybe it can be one of those, if you press down and hold for two seconds, then it brings you back one level or something.
+<ID> Mm-hmm.
+<ID> Okay.
+<ID> Well, as long as we have that in mind as we're designing it still, mm 'kay.
+<ME> Okay, so which one are we sort of roughly looking at to address whether or not it meets our s um necessities, the yellowy one is that Okay, well we can obviously change it after we go through each different one.
+<PM> The potato?
+<PM> Are we leaning towards the potato?
+<UI> Potato.
+<ID> I think so.
+<PM> Okay.
+<ME> So basically what we need to do is some of the things that we've talked about before we need to make sure that that remote actually does conform to the things that we said it was going to.
+<PM> Okay.
+<ME> So what we sort of wanna do is that we each need to separately rank each of the following things and then I'll tabulate an average just to make sure that it does meet that.
+<PM> Okay.
+<ME> So we'll just go through them one at a time and we'll just go around and each of you can tell me on a scale of one to seven with one being really extremely true and seven being not true at all, or false, if the remote that we've created conforms to the following criteria.
+<ME> So we can do this one first.
+<ME> First we wanna know if it meets the fancy look and feel um objective.
+<ME> So like in my opinion the for now at least, the yellow one is probably somewhere in the middle so I'm gonna say it's like a three.
+<ME> That's just my opinion.
+<PM> Yeah.
+<ME> What does each of you Okay, well give it a number, sorry.
+<ID> I I kind of think it's it's unique enough that I'd give it a one or a two.
+<ID> Okay.
+<ID> I will give it a one.
+<PM> Um I dunno if it's it's creative.
+<PM> I dunno if fancy is the word I would use.
+<PM> I dunno if any of them are fancy in I'd say two, because c unique.
+<ME> Okay.
+<ME> And two, awesome.
+<UI> I'll go for two.
+<ME> Alright, and same sort of scale for functionality, is it functional?
+<ME> I think it's extremely functional, I'm gonna give it a one.
+<PM> Yeah, one.
+<ME> One?
+<UI> I think it's it's functional, it's also pretty basic, so I'll give it a two.
+<ME> Okay.
+<ID> Um functional.
+<ID> I think it'll get everything done, I think it might be a little confusing at first, um, I don't know if that's gonna be a later one.
+<ME> Okay.
+<ME> Well there's some other ones, I will address that, yeah.
+<ID> Okay, then I'm gonna give it a two.
+<ME> Awesome, okay.
+<ME> Um we wanna know next if it's technologically innovative.
+<ID> Did you give a functional?
+<ME> Yeah, she said it was one.
+<ID> Okay.
+<ME> Um is it technologically innovative?
+<ME> Mm.
+<ME> Not really, I mean not so much, 'cause we we don't have the LCD screen, we don't have fancy chip.
+<ME> Other than what it looks like, I dunno if it's really I kinetic battery is a big one, so.
+<ID> Well, the kinetic battery.
+<PM> In the battery, that's it.
+<PM> How many people would notice that, though?
+<ME> Mm.
+<ME> But it but we know it's there.
+<ID> But they'll notice it after like a year, they'll be like hey, I have never changed the battery.
+<ME> And if it's made of like latex, that whole idea, that's pretty cool.
+<ID> Mm.
+<ME> I'll give it a three.
+<ID> Just the material.
+<ME> 'Cause it we could've picked a lot of features that would've made it really Alright.
+<PM> Yeah.
+<PM> I I would say that it's Yeah, like fancy versus creative it's it's different.
+<PM> But does that equal innovative?
+<PM> I dunno.
+<PM> I'll give it a three.
+<ME> Everyone else?
+<UI> I'd say it's technologically it's not it's not unique, I mean it's it's just it is just pushbuttons um, so I I'd give it a four.
+<ID> Think I'm gonna go with the four as well.
+<ME> Mm 'kay.
+<ID> I really like that kinetic battery though.
+<ME> Next, is it easy to use?
+<ME> Just so you know, easy to learn will be separate, so don't overlap them.
+<ID> Mm 'kay.
+<PM> Okay.
+<ME> I think it's really easy to use.
+<ME> I'll give it a two.
+<PM> Um I'll give it a one.
+<PM> Pretty hard to mess up.
+<UI> I'll say one.
+<ID> Uh let's say two.
+<ME> Alright.
+<ME> Um we next wanna see if it has a spongy quality and if indeed it's made of latex or rubber I it's spongy all the way.
+<ID> Give it a one.
+<ME> Yeah.
+<PM> Yeah.
+<UI> I wonder if it bounces when you drop it.
+<PM> Ooh, that you couldn't it'd be harder to break, harder to lose.
+<ME> Mm-hmm.
+<ID> Mm.
+<UI> Yeah.
+<ID> 'Cause there would be less impact maybe, .
+<ME> Iain, what do you give it?
+<PM> Mm.
+<UI> Yeah I'd I'd give it a one.
+<ME> Alright and the next is, does it integrate some notion of fruits and vegetables?
+<UI> Uh um.
+<ME> Well, is it gonna be yellow?
+<PM> It it might be, 'cause that's our corporate colour, isn't it?
+<ID> That's right, yeah, corporate colour, we didn't keep that in um well if we I know it would make it a little less c a little more confusing, but if we had all the buttons in black, and a design in and the outside in yellow, that'd be our corporate one and we could also have alternative colours, one a more conservative one, one that's more fruity.
+<UI> Yeah.
+<PM> We might wanna keep it yellow.
+<ME> Yeah, but if you had like a silvery kind of white or something.
+<PM> Yeah.
+<UI> Yeah, Yeah.
+<ID> Um and can we have like an RR inscribed on the bottom or something?
+<PM> If we had a yellow Sure.
+<ID> Okay.
+<ME> Oh, yeah.
+<ME> Alright, so I think it it's Yeah.
+<ID> Fruity, so fruity.
+<PM> So it was inspired by the potato, so I think it's pretty fruity.
+<ID> I think i it's kind of mangoey too.
+<PM> Oh, mango that that That's a much more trendy than a potato one.
+<ME> Yeah.
+<UI> Mangoey is better, yeah.
+<ME> I okay, I'm giving it a one the mango put me over.
+<ID> Yes.
+<UI> I like mangoes.
+<ID> Mm.
+<ME> What are what's everyone's numbers?
+<UI> Uh two.
+<ID> One.
+<ME> Alright um, and does the design match the appropriate behaviour?
+<ME> Remember earlier we discussed that people don't use a lot of buttons, that they use the channel flipping and the volume the most.
+<ME> I think we really took that into account a lot, so I'm gonna give it a one.
+<ID> Mm-hmm.
+<PM> Yeah, me too.
+<UI> Uh one.
+<ME> Did you say one, Rose?
+<ID> Yes.
+<ME> Okay um, also we talked earlier about RSI and wanting to prevent um any sort of like Carpal Tunnely kind of thing.
+<ME> Do we think that the latex sort of grip appropriately takes that into account?
+<ME> I think I'll give it a two, 'cause I almost feel like no matter what you do, something is gonna happen.
+<ID> It's gonna be hard.
+<PM> Yeah.
+<UI> Yeah, yeah.
+<ID> And if it's repetitive movement it is gonna be only four buttons that you're constantly pushing, but um I like how it fits in the hand though so I I'd go with a two.
+<ME> Um um worth the risk, I think.
+<PM> Yeah.
+<PM> I'll I'll say two as well.
+<PM> Because older people that aren't used to like texting with the thumb might find it a bit at first, but The menu system and the the fact that multiple buttons are used for different things might be a bit confusing, but I think if it's one it's one of those things that it might take you five minutes to figure out, but you'll have it afterwards.
+<ID> Mm.
+<ME> 'Kay.
+<UI> Yeah I'll I'll say two.
+<ME> Alright, awesome.
+<ME> And the ease of learning it.
+<ME> I know you were saying that you're a little bit nervous about that, I dunno.
+<ME> It sort of reminds me of the iPod.
+<ME> I just got mine, I still haven't read the instruction book and I'm doing okay, so and I'm not good at learning technology.
+<ID> Mm.
+<ME> So I'll give it a two.
+<ID> Mm-hmm.
+<PM> So I'd I think I'd give it a two I guess.
+<UI> I think it it's probably a little harder then most remotes to learn, because you have to you have to use the menu system and you have to tell it what your favourite channels are and that could take a bit of learning at first, but once you've, yeah once you'd learned how to use it, I think it is a lot easier.
+<PM> Oh, good point.
+<ME> Mm-hmm.
+<UI> So I'd I'd give it a four.
+<ME> Okay.
+<ID> I think I'd give it a four too.
+<ID> It's a pretty high learning curve, it'll be easy once you've done it, but We we I think we can kind of say we addressed it with colour, but Mm-hmm.
+<ME> Mm-hmm.
+<UI> Yeah.
+<ME> Alright, um also earlier we had something about losing it and so now we're not addressing that at all, so Okay, so in terms of not losing it, do you think that on a scale of one to seven, how easy or hard is it to lose?
+<ME> I'm gonna I'm gonna give it a four, 'cause I think that you can still if it's in between somewhere where you can't see it, you're kind of not gonna find it, but anywhere else it's gonna stand out.
+<UI> Yeah.
+<PM> Um I'd say I'd give it uh a three, I guess it depends on how tidy you are normally.
+<ID> Mm I'd give it a four.
+<UI> Um I'll give it a five 'cause i it would be easy to lose something like that, yeah.
+<ID> Small too.
+<ME> Alright, we also said simplicity, how w how well does it address just being simple?
+<PM> Simple to use or simple in design?
+<PM> Do you know?
+<ME> I think overall, 'cause we had said before our two main things were simplicity and fashion, so those are the next two things we're gonna look at.
+<ME> Separate from fancy, like that sort of thing.
+<PM> Right.
+<ME> Um it like wants to be simple but it's not like totally totally simple, so I'm gonna give it a two.
+<PM> I'm give it a three I guess.
+<UI> I'll give it a two.
+<ID> Three.
+<ME> Alright, and fashionable?
+<ID> It's totally fashionable.
+<ME> It's hot, I mean it's a mango, come on.
+<ID> I'd give it a one.
+<ID> Mango.
+<ME> I mean how fashionable can you make a remote?
+<ME> I think it's bringing technology and fashion together real really well.
+<PM> I dunno.
+<PM> I don't think it's quite as fashionable as my robot remote or alien or whatever he was.
+<ID> I do like uh the little Martian one.
+<ME> Yeah, the toggle on off switch, it's really appealing.
+<ME> Number.
+<PM> Um two.
+<UI> Three.
+<ID> One.
+<ME> And does it meet our like demographic need sort of for international appeal, that whole thing?
+<ME> Just that it would se serve our audience.
+<ME> I don't see why not.
+<ID> Mm-hmm.
+<ID> I think as long if we offer in a in at least three different colour arrangements.
+<ID> Um yeah, that's good.
+<PM> Yeah.
+<ME> Mm-hmm.
+<ID> So I'll give it a a two.
+<PM> Yeah, I'll say two.
+<ME> Alright, did anyone have any other features that they think were important that we didn't talk about?
+<ID> Well um we didn't we didn't address the fact that it does need to b have a corporate logo, so let's let's make sure we keep that in mind that we ha that one of our colours concepts is corporate and has an RR on it.
+<PM> Shall we uh Well I think all of them should have an RR.
+<ID> All of them should have RR, yeah.
+<ME> And so we're gonna do that, so it will address it, fine.
+<ID> Mm-hmm.
+<ID> Mm 'kay.
+<ME> Okay.
+<ME> That's me.
+<ID> Lovely.
+<ID> Okay, now we're gonna look at finances.
+<ID> Um I have an Excel sheet that we're actually gonna calculate the cost um, so let me exit out of this first.
+<ID> Okay um I know.
+<ME> Whoa.
+<PM> Oh my.
+<ID> Let me one more space.
+<ID> Gonna zoom in real quick.
+<ID> Okay.
+<ID> Hand dynamo.
+<ID> We're using kinetic battery, right?
+<PM> Uh we're n using kinetic, yeah.
+<ID> Um and we're having one per One, okay.
+<PM> Yeah.
+<ID> Um electronics.
+<PM> Single.
+<PM> Simple, simple rather.
+<ID> Simple.
+<ME> Simple.
+<ID> Mm 'kay.
+<ID> Um the case.
+<PM> Uh uh uh double-curved.
+<UI> Guess it's double-curved.
+<UI> It is pretty curvy.
+<ME> Yeah.
+<ID> It's very curvy, so okay.
+<PM> Yeah I never did get a picture of those so I don't really know.
+<PM> Our case material supplements oops, we just skipped by them.
+<ME> Well don't we need plastic, and Provided, okay.
+<PM> No, we we the plastic is the plastic for the inside is assumed.
+<PM> The supplement is Oh, I guess it was rubber rather than latex.
+<ID> The wood?
+<ID> I mean the rubber.
+<ME> It was rubber and special colour, right?
+<PM> Yeah.
+<ID> Mm-hmm, okay.
+<ME> Do we have more than one special colour?
+<ID> Yeah, we're using we're gonna need at least two special colours.
+<PM> Uh well I don't know what the se the basic colour is though.
+<UI> Special colours, isn't it?
+<ID> Um.
+<ME> Per Well, but we know that we're having at least three colours, so Right.
+<ID> I dunno where it yeah.
+<ID> So let's y say three.
+<PM> Well, are we talking about on each colour combination or are we, you know, we'll like we'll have yellow and black.
+<PM> Is that two special colours?
+<ID> Yeah, I dunno.
+<PM> Or or is white and black, then two more or Uh.
+<ID> That I thi I thought that would be under yours.
+<PM> I guess it's three, three three.
+<ID> We'll just say three.
+<ID> Mm-hmm.
+<PM> Alright.
+<ID> Maybe the RR will be in colour as well, so yeah.
+<ID> Interface, we're doing push buttons.
+<PM> Yeah.
+<ID> And how many buttons do we have?
+<ME> We have six.
+<UI> We've got five.
+<ME> Oh no, five.
+<PM> Six, with the power.
+<UI> Oh six.
+<ID> Six.
+<PM> Yeah.
+<ID> Anything else?
+<PM> No.
+<PM> Oh, we'll do we wa Are the buttons in special colour, special f I didn't get information on Well, does it but if we're making multiple varieties of this is where I'm getting confused.
+<ME> Oh wait.
+<ID> Oh, buttons oh, so um.
+<ID> So the case material will just have one colour, right, but then the buttons will be in special colours?
+<ME> Yeah.
+<ID> We're saying per unit.
+<PM> per unit, okay, okay.
+<ME> Yeah, per unit.
+<ID> Okay, so each unit will only have one colour on their but the case is could have up to thr I mean the buttons could ea could be up to three colours, 'cause that how it's designed there.
+<PM> Alright, and each button s Yeah, okay.
+<ME> Yeah.
+<UI> Yeah.
+<ME> I like it like that.
+<ID> So Special form?
+<ID> They're all kind of just push button, right?
+<PM> No, I think they're fine.
+<UI> Yeah.
+<ID> Special material?
+<PM> Material, we want them rubber as well probably, yeah.
+<ID> Uh.
+<ID> Oh do I have to do it per button, do I?
+<PM> No, I don't think so.
+<PM> I think they're if they're all gonna be rubber then it that's what it matters.
+<ID> Okay.
+<ME> Yeah, 'cause it wouldn't make sense otherwise, 'cause for the whole mat case material it's only one.
+<PM> Yeah.
+<ID> Yeah.
+<ID> Mm-hmm.
+<PM> Yeah.
+<ME> It's I mean it's two to make it rubber.
+<PM> Okay.
+<ME> Oh wait, so maybe.
+<ID> Thirteen point seven.
+<PM> Oh oh.
+<ID> Yeah, what can we reduce?
+<PM> Okay, let's have our buttons all be one colour.
+<ME> Mm, I kind of like the buttons.
+<ID> Let's see what that would do.
+<ID> It's only gonna bring us down to thirteen point three anyway.
+<PM> Alright.
+<ID> Okay um, are we sure this is double-curved?
+<PM> Uh.
+<ID> Maybe it's single-curved, we have no idea.
+<PM> We have no idea.
+<PM> I dunno, I didn't get any pictures.
+<ME> It's single curved.
+<PM> It's single curved.
+<PM> Why not?
+<ID> Well it's not the yeah.
+<ID> Okay, it's the kinetic battery that's kind of expensive, but we have a simple chip, single curve, case material is rubber and it's a special colour, but that's important.
+<PM> Yeah.
+<PM> That is important.
+<ID> Six buttons we have to have six buttons.
+<PM> How did it get more expensive, what did you just change?
+<ID> What?
+<PM> It was it was thirteen and now it's fifteen.
+<ID> No, okay, maybe not.
+<ID> I don't know what just happened.
+<ID> Now it's twelve.
+<ME> We Yeah, they are.
+<UI> What was our target price again?
+<PM> Twelve point five.
+<ID> Twelve point five.
+<PM> Hey hey.
+<UI> Twelve point five.
+<UI> So we're just just about there.
+<ID> So we're okay, I think.
+<PM> We're all set then.
+<ID> Yeah.
+<PM> Ish.
+<ID> Okay, we're all set.
+<PM> Alright.
+<ID> Um save.
+<ID> I saved that to our um our big shared folder, so you know.
+<ID> Um okay, back to agenda.
+<ID> Um are the are the costs under twelve fifty Euro?
+<PM> Yes.
+<ID> Yes.
+<UI> Yeah.
+<ID> Let's move on to the project evaluation.
+<ID> Project process.
+<ID> Satisfaction with for example the room for creativity, leadership, teamwork, the means, any new ideas found.
+<ID> So I guess what we're gonna talk about here is just evaluating how we created this project, the information we got on the news, how we used it, if we were able to um, you know, use our creativity with the information, um how how well I guess I led it, um the how well we worked together as a team, um the digital pens, the whiteboard.
+<PM> Well.
+<ID> Okay.
+<PM> I felt very creative.
+<PM> I enjoyed making the prototypes.
+<UI> I think we've been successful in that we've achieved almost all of the design goals that we've set and we've come up with a finished project and we just about got cost.
+<PM> Yeah.
+<PM> I think we could've done even better with a little bit more information, like what's a single-curved case, how many colours, what do colours count things, but given given what we had I think that we did we did really well.
+<ID> Mm-hmm.
+<ID> Mm-hmm.
+<PM> Um I think we worked together pretty well.
+<UI> Yeah.
+<ME> Yeah, I mean if I'd had more market research on the fruits and vegetables, maybe we could've taken that into account.
+<ID> Mm-hmm.
+<PM> Yeah.
+<PM> But the fruits and vegetables, they really my creativity, so.
+<ME> I know, I really did, the the whole mango idea was great.
+<ME> No, I mean I thought the pen was a little distracting for me personally, like its heaviness, and like just being so conscious of like turning the pages, I dunno.
+<PM> Do you think we could Yeah.
+<ME> That was a bit of a distraction.
+<ME> That was the last one, like I chose not to do a PowerPoint 'cause I didn't think it made sense to, so I liked that I had the option to do that and just to take my own notes and that whole sort of thing.
+<ID> Mm-hmm.
+<UI> Yeah.
+<ID> I think we all made um very significant contributions, I don't think anybody dominated it, which I thought was really good, like each of us was able to um like each of you had your information and I uh I tried to facilitate it without like taking over, um I like our little finished products.
+<PM> Yeah.
+<ME> They're funny.
+<ID> Really cute.
+<ME> I kind of want one.
+<PM> Can we market this as the mango remote?
+<PM> Should we have that somewhere on the packaging?
+<PM> I have a little RR.
+<ME> I'm trying to think of a good pun that I could add there.
+<ID> I know, let's think of it like a little jingle.
+<ID> Um.
+<ME> I like the RR, that's gonna be etched in.
+<PM> Yes.
+<PM> Hopefully not with just my fingernail at some point but um it's quite a useful little gadget.
+<PM> All thanks to Iain for the design of that one.
+<ID> Okay um new ideas found?
+<PM> Mm.
+<PM> What did we find for new ideas?
+<PM> People should really base their remotes on fruits and vegetables.
+<ID> Definitely.
+<UI> Yeah.
+<ID> Or or at least be c p creative enough to think of toggle switches mm etcetera.
+<PM> I I am really into the idea of kinetic batteries now after reading about them.
+<ID> Oh, I'm so excited.
+<ME> Yeah, I didn't even know they existed.
+<PM> That was I I knew you can get watches that had them, like really quite expensive watches that just never need a battery, 'cause you're always moving your wrist.
+<ID> Mm-hmm.
+<PM> But in other things, I think it'd be really good.
+<ID> I thi yeah, that's awesome.
+<ID> Um okay, closing.
+<ID> Are the costs within the budget?
+<ID> Is the project evaluated?
+<PM> Yes.
+<ID> Now there's the final questionnaire and meeting summary.
+<ID> Um so, this is the great product kids, I think we've created something really interesting and that we have a market for it, um especially if we can produce it at twelve point three which we hope um yeah.
+<PM> Yeah.
+<ID> Make sure in your questionnaire to put down criticisms of both the process and the um the final results and.
+<ME> Yeah, Real Reaction.
+<ID> I do like the Martian remote.
+<ID> If we could choose more than one, that would be my second choice.
+<ME> Oh, that would definitely be my second choice.
+<UI> Mm.
+<ID> Although the tog toggle I'm afraid I would It's cool.
+<UI> That's cool.
+<UI> Let's all let's all go for the yellow Break the stem off.
+<ME> I would break it.
+<ME> I would break it.
+<ID> I think I would break it.
+<PM> It started because I wanted to have it as st as a stem and then alright, so Is it started as a pear, but then it started looking more and more like a Martian when I put the Take me to your leader.
+<ME> Oh that's funny.
+<ME> Kind of looks like a penguin, like with no eye.
+<ID> Oh yeah, it's kind of a penguin.
+<ME> I like that it stands up.
+<ID> Mm-mm.
+<PM> Wow, maybe I should market it to some remote control company now.
+<PM> So are are poor little thing.
+<UI> That was bound to happen Mm.
+<ME> Oh, sad.
+<ID> Mm 'kay, congratulations.
+<ID> Um.
+<ID> Anything else to say?
+<ME> Nothing will come up until after our meeting's supposed to be over, its all timed.
+<ID> Alright.
+<PM> Oh.
+<ID> Um anybody have I got more master classes, anybody else wanna like take a master's class?
+<ME> Oh.
+<PM> It's really funny that you got spam in your work emails.
+<ID> Yeah, but check it out.
+<ID> So like there are all these like links, they don't go anywhere.
+<ID> But all that you need to keep in mind your knowledge management.
+<ID> Um just wanna make sure you do.
+<ME> No the first one that you sent like I didn't realise that it was a joke and I was like why did she send this to us?
+<ID> Oh It is.
+<ME> It's very it's very work relevant, 'cause people send spam a lot.
+<ID> Yes definitely I'm very sad that I didn't get any links to the corporate website.
+<ME> Oh here you can you can view.
+<PM> Let's see, what did I get through the corporate website?
+<PM> It's just inspiration about circuit boards.
+<ME> You can just see what's up.
+<ID> Wow.
+<ME> Yeah it's it's really deep.
+<ME> Hold on.
+<ME> Takes a little while to get excited to load.
+<ME> That the Excel thing is pretty cool.
+<ID> Yes.
+<PM> Yeah, that is pretty neat.
+<ME> Here, like, basically it's like inspiration, basically I'm gonna give you two sentences on fashion and that kind of thing, see.
+<ID> I love Excel, it's one of my favourite programs.
+<ME> You didn't miss out that much.
+<ID> I see, mm.
+<PM> Yeah, my inspiration from from last time is the in interior of a remote control being taken apart bit by bit, talking about circuit boards.
+<ID> Spongy.
+<PM> I learned a lot actually.
+<ME> Oh wow.
+<PM> I could probably take apart a remote control now if I really needed to.
+<ME> This one was cooler.
+<ME> I got a whole table and everything.
+<PM> Now I have all about circuits and chips and transponders and I wrote it all down, because I thought it would be relevant, like all the different parts of the inside of a remote control, but then they're like, you don't actually need this you just need to talk about the case.
+<ME> That's like mine it was like, would you prefer an LCD screen or a multifunction remote control?
+<ME> And then it didn't have like any kind of table, like awesome, I'm glad they asked that question and didn't report the result.
+<PM> It's really interesting though.
+<ID> I I thought it was a little tricky having to hand around this thing.
+<PM> Yeah.
+<ME> Yeah.
+<UI> Yeah.
+<ID> We had a lot of the um otherwise the technology today was kinda cool.
+<UI> I think.
+<UI> Yeah.
+<PM> That was really neat how I got emails and No.
+<UI> We didn't we didn't use the whiteboard that much.
+<ID> Mm-hmm.
+<ID> No.
+<ID> Although I don't see how we could have very l at least for me I Mm.
+<PM> I yeah.
+<PM> If I'd gotten pictures of the different parts of the case, the different looks of the case, I would have probably drawn them up, but Yeah, we could've put our brainstorming stuff up there rather than just talking about it, but with only four people it doesn't really make sense.
+<ME> 'Cause we weren't like voting on anything and I think usually, like whiteboards are good, you know like crossing out ideas, or like if we had had like a brainstorming period.
+<ID> Mm-hmm.
+<ME> But I thought we were good orally.
+<ME> Get crazy.
+<PM> I think if you had a larger group Yeah.
+<ID> And with and with the PowerPoint that we can all look at, like you can do all those things pretty much on PowerPoint as that's not as necessary to have.
+<UI> Yeah.
+<ME> And these might've made us more willing to like take notes than to like write up them here, 'cause we all needed them separately, kind of on the whiteboards in this room.
+<ID> Mm.
+<ID> Mm-hmm.
+<PM> Because we're all gonna be working in different places.
+<ME> Yeah.
+<PM> We if we were all gonna stay in here all the time, then having the notes up on the whiteboard would've been alright, but everyone needs their own, like specific notes, I guess.
+<ID> Mm-hmm.
+<ID> Now when you were um creating your um prototypes here, did you work together or did you like do separate projects?
+<UI> Uh we we worked together, um but we were making like we sort of made different shapes and then discussed how the how the buttons might work, um and how we could like improve on the on the design.
+<PM> Yeah.
+<ID> Mm-hmm.
+<PM> Yeah.
+<PM> So it was a bit of both really, we just kind of started out by each taking a colour of clay and just fooling around with it and I came up with that rhombus shape and he came up with the sort of potatoey, mangoey shape, and then just went from there really.
+<ID> Mm-hmm.
+<ID> Cool.
+<PM> It was fun.
+<PM> So well done with the management, I felt well managed.
+<ID> Oh thanks.
+<UI> I think we did well in first of all giving our meetings the time, and second we actually we we did a good job of making firm decisions at the ends of the meetings.
+<ID> It's kinda fun.
+<ID> Mm.
+<ME> Sorry.
+<UI> And I I know what happens sometimes is that you tend to sort of have meetings and then people sorta drift away without anything actually really being decided.
+<PM> That happened to me all the time though.
+<ID> Mm-hmm.
+<UI> But I think here we got we got clear and and decisive decisive points at the end of the meetings, so that we we knew where to go on from there.
+<PM> Yeah, I was quite worried at the end of the last meeting that we weren't getting we didn't really have enough information to make firm decisions, but we were able to do it regardless, so.
+<ID> Mm-hmm.
+<PM> I'm not usually a very decisive person, so it helped to have people say this needs to be done in five minutes.
+<ID> This is what we'll do.
+<UI> Yeah.
+<ID> I found that we did we could have used another five or ten minutes sometimes in the meetings.
+<UI> Yeah, for some of the meetings, yeah.
+<PM> Especially last time, yeah.
+<ID> Mm-hmm.
+<ID> Yeah I think the last time we had a lot of information, but at the same time not quite enough, you know what I mean, like we we couldn't answer every single question.
+<PM> Yeah, Yeah.
+<UI> Yeah.
+<PM> Yeah.
+<PM> Right.
+<ID> Um but Mm.
+<PM> And I I felt the first two meetings, that I was coming in with no information, and not sort of made me really like, ooh I don't know, throwing together PowerPoint out of no no information and then last time it was like the opposite.
+<PM> I had so much information and so much to talk about.
+<ID> It was interesting what came out like later, like as I was doing the when I was doing the breakdown on the agenda that they gave me um, that more points came out from your presentation even.
+<PM> Yeah.
+<PM> Mm.
+<ID> Um.
+<ID> I'm a little I am a little disappointed that we didn't do a um something for losing the remote, because that was kind of a big point.
+<PM> Yeah.
+<PM> that was something like in order to talk about that we would've had to have actual knowledge about circuit boards and things like Yeah.
+<ID> About yeah.
+<ME> Well the problem was, even when we just were creating from the Excel file, there wasn't like a option to select to somehow have it included, so there was no we could be like yeah, it has it included.
+<UI> Yeah.
+<ID> Mm-hmm.
+<PM> I think we were Yeah.
+<ID> Mm-hmm.
+<ME> There was no way for us to have written down that it was really there.
+<ID> Considered the re yeah.
+<PM> I think we were just getting overenthusiastic with the task.
+<ID> Well it's interesting that they Mm-hmm, yeah.
+<PM> I think we really got into it, I mean I got into it as the day went on and I got really like, ooh I'm designing a remote control, I dunno if that's just me, but Yeah.
+<ID> It was interesting though that they put that fifty percent of people say they have frustration with losing their remote and yet they didn't provide us with information to um we weren't provided with information to discuss that.
+<ME> Yeah.
+<ID> I know that like people people have like things they can put on their keys that you press it and it'll beep, but I but I'm sure that would require some kind of technology that I just don't know what it is, but Mm.
+<PM> Yeah.
+<UI> Yeah.
+<PM> I think there are some of those like infomercial remotes that have things so you won't lose them.
+<PM> I dunno.
+<PM> I mean we were talking about it and like i in my household at least, there's only about two places that the remote is ever 'cause there's only one TV and there's only like three chairs.
+<ID> Hmm.
+<ME> That's like saying you're never gonna lose your keys, and I always do, anyway.
+<ME> You'll lose 'em in your pocket, like you just will forget that or you like put it down somewhere that like made sense and then not remember, there's always ways to lose things.
+<ID> Mm-hmm.
+<ID> Mm.
+<PM> Yeah.
+<ID> It d yeah, it depends on how organised you are personally, but Mm-hmm.
+<PM> Yeah, or like I guess what the setup of the house is too.
+<PM> But, I mean I am notorious for losing my keys, I just I guess I've just never lost the remote.
+<PM> I put my keys in the refrigerator the other night and couldn't find them.
+<PM> 'Cause I was putting groceries away.
+<ME> That's funny.
+<ID> Oh.
+<PM> You you're taking stuff from a bag and putting them in the refrigerator and then go back to my room.
+<ID> Can't get in.
+<PM> Can't get in, look all around the kitchen.
+<PM> Definitely in the vegetable drawer.
+<ME> That's funny.
+<PM> So.
+<ME> I always do that, leaving it in my coat, and then like using a different coat.
+<PM> Mm.
+<ID> Yep.
+<PM> But I guess it's 'cause we don't carry remotes around that much.
+<ME> Yeah.
+<ME> Can't really take it into the other room.
+<PM> Yeah.
+<PM> Maybe with our little robot one we could've had him have a robot, alien, pear, whatever he is, have a little voice like, I am located Oh a GPS system, internal GPS.
+<ME> Oh man.
+<ME> Here you go.
+<PM> Although if it's sitting still for too long.
+<ID> We should make one that walks by itself.
+<PM> Yes I Or little Or just just a wheel, you know.
+<ME> That really could get up and walk away.
+<ID> Or or like some crazy like electro-magnet, that you push it and it'll go zoom to the TV and stick there.
+<PM> Just if you like you'd have a remote for your remote, that'll.
+<UI> Yeah.
+<ID> Well, but if you could attach them to the TV, then you can.
+<PM> zoom Yeah.
+<PM> Hmm.
+<PM> All kinds of possibilities.
+<ID> Mm.
+<ID> Okay.
+<ID> Sorry, I'm just um trying to update my minutes.
+<ID> I decided to you know how I sent you the email saying that PowerPoint minutes will be complimentary, rather than like repeating them.
+<PM> Yeah.
+<ID> Just gonna make I'm making full minutes, so that it'll include all of the agenda and all that.
+<PM> Oh.
+<PM> Wow.
+<ID> 'Cause that seems a little more useful.
+<PM> 'Cause you've had like the most typing and organising to do.
+<ID> But I didn't have like information to sloth through either, so Most of it, mm-hmm.
+<PM> Yeah, I guess How much of your PowerPoint was already done for you, every meeting.
+<ID> I added slides, um I added a couple slides each time, but that was about it.
+<PM> Oh.
+<PM> Okay.
+<PM> Yeah, I didn't even think about adding slides, 'cause I would just get slides with titles on them and fill them all in w didn't even think about adding more.
+<ID> Mm.
+<ID> Well, the thing was they would provide y an agenda with s like several points, but it wouldn't have a slide for each point.
+<PM> Ah yeah..
+<ID> And that's the only way I remember that I need to go other that point.
+<ID> I know personally when I do PowerPoint, that's what I do and so I had it once, even if it was just like the title of it, like the three presentations, and I would do your three.
+<PM> Right.
+<ME> You have you have to have the slogan on it or can it just be like Okay good.
+<ID> The slogan on it?
+<PM> No, no, definitely not.
+<ID> No no no.
+<PM> We No, I don't think we need to I think the R and R, especially if the yellow and black one.
+<ME> 'Cause I was like, it could go around the outside.
+<ID> I think we just need the um the RR, yeah.
+<ME> Is it yellow and blue?
+<PM> Or yellow and blue.
+<PM> Lemme go to the web page.
+<ID> Yeah, I was just kinda going by the web page, 'cause they didn't give me any clear, like yellow, grey, or.
+<ME> Oh I guess it is black, grey.
+<ME> Grey is better than black, doesn't look so bumblebeeish.
+<ID> I don't really like yellow in general.
+<ME> Hey now I understand the random like newsclippings.
+<ID> But it Wasn't it interesting that um I thought it was interesting that our market marketing um expert did not agree with the marketing um the marketing choices, you know, like that was a bit of a conflict.
+<PM> Finish meeting now.
+<ME> Yes.
+<ME> I will I just feel like if you're really doing like a a really big market evaluation, you wouldn't just have like one set of source, it's kind of an they were so not backed up, it would just be a sentence like we did a survey, this is what people said.
+<PM> Yeah.
+<ME> S mm, I dunno.
+<ID> People are stupid.
+<PM> I guess it i it sort of a grey, isn't it?
+<PM> Yellow and grey, but then the slogan's in blue.
+<ME> Well we got some grey and we got some blue buttons, we're good.
+<PM> Yeah.
+<PM> Well we don't have the right colour clay anyway.
+<ID> Maybe, like I don't know.
+<ID> That could always be.
+<PM> Well we're not, sadly, going to actually be producing this, so.
+<ID> Oh.
+<ME> If they ever come out with potato I'm gonna have to Yeah.
+<PM> Potato mango shaped remotes.
+<ID> I'm claiming it intellectual property.
+<PM> I can't believe a whole day is gone.
+<ME> I know.
+<PM> I don't feel like it's been that long.
+<PM> Get sucked in.
+<PM> Mm I haven't gotten questionnaire eight yet.
