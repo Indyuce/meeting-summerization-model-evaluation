@@ -1,0 +1,2 @@
+hallucination: "three designers" no there's one marketing expert => chatgpt fell into it
+hallucination: who does what is confusing "The industrial designer will be working on the functional design stage, while the user interface and technical functions will be the responsibility of the marketing executive.". hallucination removed by chatgpt as it synthesized it further
