@@ -1,0 +1,75 @@
+{
+  "annotator": "Rayan",
+  "meeting_objective": "L'objectif de cette réunion est de choisir une date et d'identifier et répartir les tâches visant à l'organisation du festival.",
+  "agenda": [
+    {
+      "subject": "Choix des dates et du format",
+      "minutes": [
+        "La date de début du festival est le 14 mars et il durera un mois. La date a été choisie pour chevaucher à la fois les vacances de la zone A et celles de la zone B.",
+        "Des ateliers seront organisés en journée pour rendre l'évènemement plus attrayant pour les parents et encourager à faire le déplacement. Sont évoqués un atelier de dessin type manga et un atelier de dégustation."
+      ]
+    }
+  ],
+  "assignment": [
+    {
+      "task": "Obtenir l'accord de la mairie",
+      "description": [
+        "Il s'agit de demander un lieu à la mairie pour le déroulement du festival."
+      ],
+      "date": "20 octobre.",
+      "assignee": ""
+    },
+    {
+      "task": "Obtention du droit de diffusion",
+      "description": [
+        "Il s'agit de demander le droit de diffusion des films présentés au festival."
+      ],
+      "date": "Dès que l'accord de la mairie est donné.",
+      "assignee": ""
+    },
+    {
+      "task": "Aménagements et fournitures",
+      "description": [
+        "Chercher le mobilier.",
+        "Les décorations devront être cherchées en s'épaulant de personnes qui connaissent la culture japonaise ou coréenne pour en garantir l'authenticité."
+      ],
+      "date": "A partir du 25 octobre",
+      "assignee": ""
+    },
+    {
+      "task": "Recrutement du personnel",
+      "description": [
+        "Il faudra recruter du personnel pour la sécurité."
+      ],
+      "date": "Deux mois avant l'évènement",
+      "assignee": ""
+    },
+    {
+      "task": "Invitation des musiciens",
+      "description": [
+        "Inviter des musiciens"
+      ],
+      "date": "Le plus tôt possible",
+      "assignee": ""
+    },
+    {
+      "task": "Campagne de communication",
+      "description": [
+        "Il faudra communiquer sur l'évènement sur Facebook, Instagram, Tiktok. Il faudra inviter des influenceurs et faire des affiches."
+      ],
+      "date": "Deux mois avant l'évènement",
+      "assignee": ""
+    },
+    {
+      "task": "Nourriture",
+      "description": [
+        "Contacter un traiteur japonais et importer de la nourriture ou contacter une association japonaise pour conseiller."
+      ],
+      "date": "",
+      "assignee": ""
+    }
+  ],
+  "abstractive_summary": "Dans cette réunion, les 2 organisatrices choisissent de faire débuter leur festival de cinéma le 14 mars et de le faire durer un mois. Ces dates permettent de chevaucher les périodes de vacances des zones A et B. Pour rendre le festival plus attractif et notamment pour les adultes, des activités seront proposées la journée et la diffusion aura lieu le soir. Sont évoqués un atelier de dégustation et un atelier de dessin japonais. Le 20 octobre, le terrain sera demandé à la mairie. Dès l'accord obtenu, les droits de diffusion des films présentés seront demandés, le mobilier nécessaire sera recherché et des musiciens seront contactés. Pour le choix des décorations et du traiteur, les organisatrices s'appuieront sur la communauté japonaise en France, avec qui ils doivent se mettre en relation. Deux mois avant l'évènement, il faudra recruter du personnel, notamment pour la sécurité, inviter des influenceurs pour faire de la publicité et comuniquer sur Facebook, Instagram ou Tiktok, puis poster des affiches.",
+  "vocal_summary": null,
+  "meeting_code": "084c_EPBH"
+}
