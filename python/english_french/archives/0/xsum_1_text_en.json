@@ -1,0 +1,13 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/xsum/1",
+    "model": "legendhasit/xgen-7b-8k-inst-8bit",
+    "instruction": "Summarize the following text:\n\n",
+    "input_language": "text_en",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "464",
+    "text": " The National Library of Scotland has catalogued the archive of travel writer, war hero and adventurer Sir Patrick Leigh Fermor. The collection includes letters from Prince Charles and Truman Capote, and thousands of items occupy 16 meters of shelving. The archive includes literary manuscripts, sketches and an unpublished John Betjeman poem on the back of an envelope. Sir Patrick spent much of World War Two on Nazi-occupied Crete, where he disguised himself as a shepherd to organize guerrilla operations against the Nazis. He led one of the most daring feats of the war in capturing the commander of the German garrison on Crete. The National Library of Scotland is working on digitizing some of the archive and considering holding exhibitions and displays of the collection. The archive was given to the library by the John R Murray Charitable Trust.",
+    "output_length": 164,
+    "nb_words": 140,
+    "nb_characters": 856
+}

@@ -1,0 +1,13 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/xsum/2",
+    "model": "legendhasit/xgen-7b-8k-inst-8bit",
+    "instruction": "Résume le texte suivant:\n\n",
+    "input_language": "text_fr",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "1159",
+    "text": " Les images publiées par la société de renseignement Stratfor, basée aux États-Unis, montrent que presque tous les bâtiments de l'aéroport de Mossoul, situé à la périphérie sud de la ville, ont été rasés. Les pistes d'atterrissage ont également été endommagées, avec des tranchées creusées et des gravats déposés sur toute leur longueur, selon l'analyse de Stratfor. Les voies de circulation et les aires de trafic, où les avions se garent, ont également été sabotées. Les forces de sécurité irakiennes, les combattants kurdes Peshmerga, les membres de tribus arabes sunnites et les miliciens chiites, aidés par les frappes aériennes de la coalition dirigée par les États-Unis, participent actuellement à une offensive militaire visant à reprendre Mossoul aux militants de l'EI. Les forces gouvernementales ont déjà repris des dizaines de villages et de villes autour de la ville et consolident actuellement les gains réalisés dans la périphérie orientale de Mossoul. Selon Stratfor, les dommages subis par les pistes d'atterrissage ont rendu l'aéroport inutilisable pour les forces d'attaque. Les aéroports ou les pistes d'atterrissage sont généralement un objectif principal pour les assauts sur les villes, car leur contrôle peut empêcher ou permettre des capacités logistiques, ce qui a un impact considérable sur l issue des batailles. Toutefois, les militants de l'EI ont fait en sorte que les forces d'approche n'aient plus grand-chose à gagner en s'emparant du site, indique Stratfor. L'EI a utilisé une tactique similaire sur la base aérienne de Qayyarah, à 70 km au sud de Mossoul. Toutefois, les tranchées creusées à cet endroit ne couvraient que partiellement la piste principale, indique Stratfor, et celle-ci a été remise en service quelques mois après la reprise de la base par les forces irakiennes en juillet. En comparaison, la destruction de l'aéroport de Mossoul pourrait être beaucoup plus difficile à réparer. À l'image de la démolition de Qayyarah, les combattants de l'EI ont également rasé presque toutes les structures de l'aéroport de Mossoul. Stratfor explique qu'en plus d'emp",
+    "output_length": 700,
+    "nb_words": 348,
+    "nb_characters": 2105
+}

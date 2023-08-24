@@ -1,0 +1,13 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/mediasum/2",
+    "model": "Salesforce/xgen-7b-8k-inst",
+    "instruction": "Résume le texte suivant:\n\n",
+    "input_language": "text_fr",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "1626",
+    "text": "\n\nThe text is a summary of a conversation between two individuals, one named David and the other named Kevin Blackistone. David and Kevin are discussing the 1963 NCAA men's basketball tournament, specifically the game between Loyola Chicago and Mississippi State University. Mississippi State had to travel to Michigan to play Loyola Chicago, as they were not allowed to play against teams with African American players in Mississippi. The game was played against the backdrop of racial segregation laws in Mississippi, and it was a significant moment in the civil rights movement.\n\nKevin Blackistone, a sports journalist, recently wrote an article about the game for the Washington Post. He argues that Mississippi State's participation in the tournament was a way to express their support for civil rights, but it was also a way for them to continue playing, regardless of who they played against. However, as Kevin points out, it is difficult to know for certain the motivations behind Mississippi State's decision to participate in the tournament.\n\nDespite the positive aspects of the story, Kevin also notes that not much has changed since the \"Championship Game\" of the civil rights movement. There were several violent incidents that occurred in Mississippi after the game, including the beating of Fannie Lou Hamer and the murders of three civil rights activists. The Meredith March, in which James Meredith was injured, also took place after the game.\n\nKevin also touches on the role of white people in the civil rights movement and how they are often given credit for making sacrifices. He argues that it is important to examine the history of the civil rights movement from a broader perspective and to remember the contributions of African American men and women who were denied the right to participate in sports for so long.",
+    "output_length": 351,
+    "nb_words": 301,
+    "nb_characters": 1838
+}

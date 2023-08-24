@@ -9,5 +9,7 @@
     "text": "\n\nP1: I'm fed up with working for a company that isn't taking me anywhere.\n\nP2: Are you going to quit?\n\nP1: Yes, I'm going to create my own company and start working for myself.\n\nP2: Have you ever written a business plan before?\n\nP1: No, but I think it can't be that hard.\n\nP2: You're wrong. A business plan needs an executive summary that highlights the idea in two pages or less. Then it needs to describe the company, including its legal structure, history, etc.\n\nP1: Okay, that seems easy enough.\n\nP2: Wait, there's more. Then you need to introduce and describe your goods or services, how they're different from competitors, and do a market analysis. You need to investigate and analyze hundreds of variables, such as GDP per capita and the number of children in the population.\n\nP1: Geez, is that all?\n\nP2: Almost. The most important piece of information for investors is the financial analysis. You'll need to estimate sales, cash flow, and profits, so they'll know when they'll start seeing a return on their investment.\n\nP1: I think I'll just stick to my old job and save myself all the hassle of trying to start up a business.",
     "output_length": 290,
     "nb_words": 212,
-    "nb_characters": 1136
+    "nb_characters": 1136,
+    "language_output": 1,
+    "language_input": 1
 }

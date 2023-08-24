@@ -1,0 +1,13 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/xsum/3",
+    "model": "legendhasit/xgen-7b-8k-inst-8bit",
+    "instruction": "Résume le texte suivant:\n\n",
+    "input_language": "text_fr",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "1675",
+    "text": "Le texte décrit une scène d'élections américaines dans laquelle trois hommes républicains se disputent la candidature à l'élection présidentielle de novembre. Les élections se déroulent dans 11 États et le candidat républicain qui obtient le plus de délégués d'État sera déclaré vainqueur. Les trois hommes ont attaqué le candidat principal, Donald Trump, sur ses antécédents professionnels, ses références conservatrices, ses politiques et son recours à l'esbroufe. Les attaques ont été vives et les candidats ont utilisé des insultes personnelles pour attaquer leurs adversaires. Le texte mentionne également que Trump est très populaire malgré ses commentaires controversés sur l'expulsion de millions de travailleurs sans papiers et l'interdiction faite aux musulmans de se rendre aux États-Unis.",
+    "output_length": 256,
+    "nb_words": 121,
+    "nb_characters": 800
+}

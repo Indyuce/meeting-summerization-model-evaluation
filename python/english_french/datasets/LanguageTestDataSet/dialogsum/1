@@ -4,29 +4,37 @@
     "language": "0",
     "text_en": "P1: You're finally here! What took so long?\nP2: I got stuck in traffic again. There was a terrible traffic jam near the Carrefour intersection.\nP1: It's always rather congested down there during rush hour. Maybe you should try to find a different route to get home.\nP2: I don't think it can be avoided, to be honest.\nP1: perhaps it would be better if you started taking public transport system to work.\nP2: I think it's something that I'll have to consider. The public transport system is pretty good.\nP1: It would be better for the environment, too.\nP2: I know. I feel bad about how much my car is adding to the pollution problem in this city.\nP1: Taking the subway would be a lot less stressful than driving as well.\nP2: The only problem is that I'm going to really miss having the freedom that you have with a car.\nP1: Well, when it's nicer outside, you can start biking to work. That will give you just as much freedom as your car usually provides.\nP2: That's true. I could certainly use the exercise!\nP1: So, are you going to quit driving to work then?\nP2: Yes, it's not good for me or for the environment.",
     "text_fr": "P1: Tu es enfin là ! Qu'est-ce qui t'a pris autant de temps ?\nP2: J'ai été bloqué dans les embouteillages encore une fois. Il y avait un énorme bouchon près du carrefour.\nP1: C'est toujours très congestionné là-bas pendant les heures de pointe. Peut-être que tu devrais essayer de trouver un itinéraire différent pour rentrer chez toi.\nP2: Je ne pense pas que cela puisse être évité, pour être honnête.\nP1: Peut-être serait-il préférable que tu commences à utiliser les transports en commun pour aller travailler.\nP2: Je pense que c'est quelque chose que je vais devoir envisager. Le système de transports en commun est plutôt bon.\nP1: Ce serait aussi mieux pour l'environnement.\nP2: Je le sais. Je me sens mal à propos de la contribution de ma voiture au problème de pollution dans cette ville.\nP1: Prendre le métro serait beaucoup moins stressant que conduire également.\nP2: Le seul problème, c'est que je vais vraiment regretter d'avoir la liberté que l'on a avec une voiture.\nP1: Eh bien, quand il fera beau, tu peux commencer à aller au travail à vélo. Cela te donnera autant de liberté que ta voiture offre habituellement.\nP2: C'est vrai. Je pourrais certainement faire de l'exercice !\nP1: Alors, est-ce que tu vas arrêter de conduire pour aller travailler ?\nP2: Oui, ce n'est pas bon pour moi ni pour l'environnement.",
-    "nb_characters": 1111,
-    "nb_words": 218,
     "summaries": [
         {
             "number": "1",
             "text_en": "P2 arrives late because of traffic jam. P1 persuades P2 to use public transportations to keep healthy and to protect the environment.",
             "text_fr": "P2 arrive en retard à cause des embouteillages. P1 persuade P2 d'utiliser les transports publics pour se maintenir en bonne santé et protéger l'environnement.",
-            "nb_characters": 133,
-            "nb_words": 22
+            "nb_words_en": "22",
+            "nb_words_fr": "26",
+            "nb_characters_en": "133",
+            "nb_characters_fr": "158"
         },
         {
             "number": "2",
             "text_en": "P2 decides to follow P1's suggestions on quitting driving to work and will try to use public transportations.",
             "text_fr": "P2 décide d'arrêter de conduire pour aller au travail et d'essayer les transports publics en suivant les suggestions de P1.",
-            "nb_characters": 109,
-            "nb_words": 19
+            "nb_words_en": "19",
+            "nb_words_fr": "22",
+            "nb_characters_en": "109",
+            "nb_characters_fr": "123"
         },
         {
             "number": "3",
             "text_en": "P2 complains to P1 about the traffic jam, P1 suggests quitting driving and taking public transportation instead.",
             "text_fr": "P2 se plaint des embouteillages à P1, qui lui conseille d'arrêter de conduire et de prendre les transports publics à la place.",
-            "nb_characters": 112,
-            "nb_words": 17
+            "nb_words_en": "17",
+            "nb_words_fr": "23",
+            "nb_characters_en": "112",
+            "nb_characters_fr": "126"
         }
-    ]
+    ],
+    "nb_words_en": "218",
+    "nb_words_fr": "244",
+    "nb_characters_en": "1111",
+    "nb_characters_fr": "1324"
 }

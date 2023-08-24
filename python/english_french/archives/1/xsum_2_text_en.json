@@ -1,0 +1,13 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/xsum/2",
+    "model": "legendhasit/xgen-7b-8k-inst-8bit",
+    "instruction": "Summarize the following text:\n\n",
+    "input_language": "text_en",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "572",
+    "text": "The text describes a military offensive to retake Mosul from Islamic State militants. The offensive has involved Iraqi security forces, Kurdish Peshmerga fighters, Sunni Arab tribesmen, and Shia militiamen. The offensive has resulted in the retaking of dozens of villages and towns surrounding Mosul, and Iraqi forces are currently consolidating their gains in the city's eastern outskirts. The offensive has also resulted in the destruction of the Mosul airport, with almost all buildings at the airport having been razed, runways having been damaged, taxiways and aprons having been sabotaged, and wide trenches having been carved into the runways. The destruction of the airport has made it useless as an asset for attacking forces, and the tactic of destroying airports or runways has been employed by Islamic State militants in order to prevent Iraqi forces and their allies from using the facilities and to clear the line of sight for defensive positions. The airstrikes have caused some damage to the buildings at the sugar factory, which Islamic State militants have used as a logistical base.",
+    "output_length": 206,
+    "nb_words": 175,
+    "nb_characters": 1101
+}

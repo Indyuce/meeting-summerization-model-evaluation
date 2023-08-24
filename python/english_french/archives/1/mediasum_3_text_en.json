@@ -1,0 +1,13 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/mediasum/3",
+    "model": "legendhasit/xgen-7b-8k-inst-8bit",
+    "instruction": "Summarize the following text:\n\n",
+    "input_language": "text_en",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "685",
+    "text": "The text discusses the issue of youth soccer in the US and the new guidelines issued by the US Soccer Federation for coaches. The commentator, Mike Woitalla, argues that the current practice of organized youth soccer is too structured and that it is better for children to play freely without adult intervention. He suggests that children should be allowed to play on their own, without being forced into specific positions or told what to do. The author also mentions that the world's greatest soccer players developed their skills without adult guidance and that the sport should be a form of play for children.",
+    "output_length": 115,
+    "nb_words": 104,
+    "nb_characters": 613
+}

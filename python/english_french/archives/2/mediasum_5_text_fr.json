@@ -1,0 +1,13 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/mediasum/5",
+    "model": "Salesforce/xgen-7b-8k-inst",
+    "instruction": "Résume le texte suivant:\n\n",
+    "input_language": "text_fr",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "1394",
+    "text": "\n\nKentaro Toyama, an award-winning computer scientist teaching at the University of Michigan, argues in his book \"Geek Heresy\" that the belief in a transformative power of technology is misplaced. Toyama is skeptical of projects that present technology as a major solution to development problems. For example, in Nigeria, a country with 170 million people, most of whom earn relatively modest sums, even if 100,000 Nigerians became software developers in the United States, it would only represent a drop in the bucket. He also points out that technology has promised solutions to some global problems that it has not been able to deliver. He gives examples, such as the \"One Laptop per Child\" project founded by Nicholas Negroponte, which aimed to provide education to children in many parts of the world, but was actually a computer-focused project rather than an educational one. Toyama argues that technology itself does not provide education, and that good guidance is always needed. He believes that technology has changed the world in a certain way, but it has not solved social problems such as poverty and inequality in the United States. He believes that the Silicon Valley movement is more about rhetoric than actual engagement in solving social problems and that companies use it as a way to increase shareholder value by pretending to address a problem, but actually working only in the periphery. He concludes by suggesting that if we believe that technology is a tool that amplifies existing human forces, the more technology we have, the more important it is to focus on human forces and to ensure that they are good.",
+    "output_length": 317,
+    "nb_words": 271,
+    "nb_characters": 1634
+}

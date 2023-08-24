@@ -1,0 +1,13 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/samsum/5",
+    "model": "legendhasit/xgen-7b-8k-inst-8bit",
+    "instruction": "Résume le texte suivant:\n\n",
+    "input_language": "text_fr",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "202",
+    "text": "Laura asked Paul where he was, and he replied that he was almost there. Laura asked what he meant, and Paul said that he was close to Macdo. Laura expressed surprise that it was so far, and Paul said it would take 15 minutes to get there. Laura said she had waited for 30 minutes, and 15 minutes ago Paul had told her that he was almost there. Laura said she was not upset, but Paul apologized and said he was truly sorry.",
+    "output_length": 96,
+    "nb_words": 83,
+    "nb_characters": 422
+}

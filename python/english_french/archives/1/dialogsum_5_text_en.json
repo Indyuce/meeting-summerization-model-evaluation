@@ -1,0 +1,13 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/dialogsum/5",
+    "model": "legendhasit/xgen-7b-8k-inst-8bit",
+    "instruction": "Summarize the following text:\n\n",
+    "input_language": "text_en",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "322",
+    "text": "The speaker, P1, is asking for help because they lost their passport in a department store. P2, the person helping them, has not found the passport in the shoe department and suggests filling out a lost property report and keeping an eye out for it. P2 also advises the speaker to contact their embassy and get a new passport in case it doesn't turn up. The speaker seems to have a habit of losing things when they travel.",
+    "output_length": 92,
+    "nb_words": 79,
+    "nb_characters": 422
+}

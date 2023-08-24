@@ -1,0 +1,13 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/samsum/2",
+    "model": "Salesforce/xgen-7b-8k-inst",
+    "instruction": "Résume le texte suivant:\n\n",
+    "input_language": "text_fr",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "911",
+    "text": "\n\nThe text is a conversation between two women, Deirdre and Beth. Deirdre expresses her concern for Beth's mother's 40th birthday and suggests organizing a weekend getaway for women, including Beth's mother, Deirdre, and Beth's friend Kira. Beth agrees and mentions that they could do a surprise party for Deirdre's birthday, which Deirdre remembers from her own childhood. Beth then mentions that she wants to try her hand at a beauty salon and Deirdre offers to introduce her to a friend who works in the industry. Beth expresses her interest in the beauty aspect, but Deirdre warns her that it's not for the faint of heart and includes massages, pedicures, and waxing. Deirdre also mentions that she has a friend who works in the beauty industry and they could meet up the next day to discuss further. Beth expresses her excitement for the opportunity and Deirdre offers to give her a few euros per session to start. The conversation ends with Deirdre saying goodbye and sending kisses.",
+    "output_length": 218,
+    "nb_words": 172,
+    "nb_characters": 989
+}

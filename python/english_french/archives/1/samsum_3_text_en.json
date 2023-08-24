@@ -1,0 +1,13 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/samsum/3",
+    "model": "legendhasit/xgen-7b-8k-inst-8bit",
+    "instruction": "Summarize the following text:\n\n",
+    "input_language": "text_en",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "178",
+    "text": "The text describes a conversation between two people, Andrei and Serge, about film equipment for a shooting that is taking place tonight. Andrei asks Serge if he has picked up the equipment yet, and Serge responds that he is on his way there. Andrei also asks Serge if he has his credit card with him, as they have an outstanding bill with a company that needs to be paid. Serge confirms that he does have the credit card and that he will let Andrei know if it works out. Finally, Andrei thanks Serge and tells him to let him know if it is successful.",
+    "output_length": 121,
+    "nb_words": 104,
+    "nb_characters": 551
+}

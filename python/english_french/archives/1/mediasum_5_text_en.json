@@ -1,0 +1,13 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/mediasum/5",
+    "model": "legendhasit/xgen-7b-8k-inst-8bit",
+    "instruction": "Summarize the following text:\n\n",
+    "input_language": "text_en",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "825",
+    "text": "Kentaro Toyama, a computer scientist and professor at the University of Michigan, argues in his book \"Geek Heresy\" that technology projects in developing countries often fail to address the deeper inequalities in those countries. Toyama cites examples such as the One Laptop per Child project, which he says was more of a laptop project than an education project, and suggests that technology by itself does not necessarily lead to social progress. He advocates for a focus on human forces and suggests that technology should be used as a tool to amplify those forces rather than as a solution in and of itself.",
+    "output_length": 119,
+    "nb_words": 102,
+    "nb_characters": 611
+}

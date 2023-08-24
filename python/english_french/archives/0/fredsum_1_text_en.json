@@ -1,0 +1,13 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/fredsum/1",
+    "model": "legendhasit/xgen-7b-8k-inst-8bit",
+    "instruction": "Summarize the following text:\n\n",
+    "input_language": "text_en",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "1248",
+    "text": " The speaker is discussing a proposal by the National Front party to exempt individuals under thirty from income tax. The proposal is criticized for targeting young people, particularly those who earn a lot of money, such as footballers, bankers, and traders. The National Front's proposal is seen as social injustice and a demagogic measure that replaces solidarity between the rich and the poor with a tax exemption for young people. The speaker also mentions the elimination of the ISF and the flat tax, and the proposal to exempt young people under thirty from corporate taxes for five years. The speaker disagrees with the proposal, stating that there are fewer young people under thirty who start a business and pay corporate taxes.",
+    "output_length": 139,
+    "nb_words": 122,
+    "nb_characters": 738
+}

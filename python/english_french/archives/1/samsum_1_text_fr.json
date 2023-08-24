@@ -1,0 +1,13 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/samsum/1",
+    "model": "legendhasit/xgen-7b-8k-inst-8bit",
+    "instruction": "Résume le texte suivant:\n\n",
+    "input_language": "text_fr",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "569",
+    "text": "Ollie and Jane talked about their plans for the week. Ollie asked if Jane was in Warsaw, and Jane replied that she had just arrived. Ollie mentioned that he had a dinner reservation for the next night, but it was already full. Jane asked about the 18th and 19th, but Ollie said he had to be at a meeting. Jane asked about breakfast this week, and Ollie said they could have that. Ollie asked if Jane was free on Friday, and Jane said she was. Ollie mentioned that they would have to check on the whisky, and Jane asked what was going on. Ollie said he had just received a strange phone call and couldn't understand what he heard. Jane asked if there was a spy on Ollie's phone, and Ollie said no, it was just a joke. Ollie asked if Jane would check on the whisky on Friday, and Jane said she would. Ollie asked if Jane would bring some sun with her, and Jane said she would be in Morocco soon. Ollie said he was looking forward to it and asked if Jane would have time for tea on Friday. Jane said she would be busy, but Ollie said they could have tea at a different time. Ollie asked if Jane had brought the tea and the pastries, and Jane said she had already eaten them all. Ollie said okay.",
+    "output_length": 298,
+    "nb_words": 234,
+    "nb_characters": 1192
+}

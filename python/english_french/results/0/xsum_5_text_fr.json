@@ -9,5 +9,7 @@
     "text": "\n\nLes chiffres du PIB (Produits de",
     "output_length": 15,
     "nb_words": 6,
-    "nb_characters": 34
+    "nb_characters": 34,
+    "language_output": 0,
+    "language_input": 0
 }

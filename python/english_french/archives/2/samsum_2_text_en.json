@@ -1,0 +1,13 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/samsum/2",
+    "model": "Salesforce/xgen-7b-8k-inst",
+    "instruction": "Summarize the following text:\n\n",
+    "input_language": "text_en",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "593",
+    "text": "\n\nAuntie Deirdre and Beth are discussing a plan for Beth's mother's 40th birthday celebration. Beth expresses interest in trying out a new job in the salon, and Deirdre offers to give her some work experience and pay her for it. Beth agrees, and they discuss the possibility of a tutor for Beth to help her with her foundation papers. Deirdre offers to give Beth some money to start off with and to take it from there.",
+    "output_length": 97,
+    "nb_words": 78,
+    "nb_characters": 418
+}

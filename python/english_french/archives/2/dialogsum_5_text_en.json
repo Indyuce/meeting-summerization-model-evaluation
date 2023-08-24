@@ -1,0 +1,13 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/dialogsum/5",
+    "model": "Salesforce/xgen-7b-8k-inst",
+    "instruction": "Summarize the following text:\n\n",
+    "input_language": "text_en",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "323",
+    "text": "你好",
+    "output_length": 6,
+    "nb_words": 1,
+    "nb_characters": 2
+}

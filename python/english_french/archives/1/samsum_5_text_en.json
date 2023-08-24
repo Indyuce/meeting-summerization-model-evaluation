@@ -1,0 +1,13 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/samsum/5",
+    "model": "legendhasit/xgen-7b-8k-inst-8bit",
+    "instruction": "Summarize the following text:\n\n",
+    "input_language": "text_en",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "150",
+    "text": "Paul is running late and tells Laura that he is almost there. Laura is frustrated and tells Paul that she has waited for him for 30 minutes and that he wrote he was almost there 15 minutes ago. Paul apologizes and tells Laura that he is sorry. Laura is not satisfied with Paul's apology and tells him that she is not waiting any more.",
+    "output_length": 72,
+    "nb_words": 65,
+    "nb_characters": 334
+}

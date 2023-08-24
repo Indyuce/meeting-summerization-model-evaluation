@@ -1,0 +1,13 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/dialogsum/3",
+    "model": "legendhasit/xgen-7b-8k-inst-8bit",
+    "instruction": "Summarize the following text:\n\n",
+    "input_language": "text_en",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "357",
+    "text": "\n\nP1 asked P2 how often they drink and P2 said \"couple times a week.\" P1 then asked P2 how much they can drink and P2 said \"at least 10 drinks.\" P1 replied that they only drink when they go out and have 2 beers, to which P2 said \"you're a light weight.\" P2 also mentioned that they usually drink all night and have a special deal at Dante's on Mondays where they can get $5 pitchers for $10. P1 agreed that this was a good deal. P2 then suggested going to the Ram Bar and Grill the next night for a special on pitchers and P1 agreed.",
+    "output_length": 138,
+    "nb_words": 109,
+    "nb_characters": 533
+}

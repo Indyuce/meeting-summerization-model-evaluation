@@ -1,0 +1,13 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/xsum/2",
+    "model": "Salesforce/xgen-7b-8k-inst",
+    "instruction": "Summarize the following text:\n\n",
+    "input_language": "text_en",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "573",
+    "text": "\n\nThe imagery shows that almost all buildings at the airport in Mosul have been destroyed, including runways, taxiways, and aprons. The destruction of the airport would make it difficult for attacking forces to gain control of the site. The tactic of destroying infrastructure serves to clear the line of sight for defensive positions and prevent Iraqi forces and their allies from using the facilities. The images also show that the city's sugar factory remains relatively intact, despite its utility to IS. The airstrikes have caused some damage to the buildings.",
+    "output_length": 107,
+    "nb_words": 91,
+    "nb_characters": 565
+}

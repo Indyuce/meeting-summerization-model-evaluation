@@ -1,0 +1,13 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/samsum/3",
+    "model": "Salesforce/xgen-7b-8k-inst",
+    "instruction": "Résume le texte suivant:\n\n",
+    "input_language": "text_fr",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "273",
+    "text": "\n\nAndrei asked Serge if he had picked up the equipment for the shoot that evening. Serge replied that he was currently doing so. Andrei then asked if Serge had his credit card with him. Serge replied that he did, and that there wasn't much credit available on it, but they would see when they arrived there. Andrei thanked him and said that they would be happy to pay the bill once it was settled. This had been due for a long time. Serge said that he would let Andrei know if it worked out.",
+    "output_length": 112,
+    "nb_words": 95,
+    "nb_characters": 491
+}

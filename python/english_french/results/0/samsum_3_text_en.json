@@ -9,5 +9,7 @@
     "text": "\n\nAndrei and Serge are planning to shoot a film tonight. Andrei asks if Serge has picked up the film equipment yet, and Serge responds that he is on his way there now. Serge also mentions that he has his credit card with him, which he will use to pay an outstanding bill with the company. Andrei thanks him and Serge says he will let him know if the payment goes smoothly.",
     "output_length": 84,
     "nb_words": 71,
-    "nb_characters": 372
+    "nb_characters": 372,
+    "language_output": 1,
+    "language_input": 1
 }

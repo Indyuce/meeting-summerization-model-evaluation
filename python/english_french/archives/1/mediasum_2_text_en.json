@@ -1,0 +1,13 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/mediasum/2",
+    "model": "legendhasit/xgen-7b-8k-inst-8bit",
+    "instruction": "Summarize the following text:\n\n",
+    "input_language": "text_en",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "923",
+    "text": "The text is about a 1963 basketball game between Loyola University Chicago and Mississippi State University. Loyola had four black starters, while Mississippi State had to sneak out of the state to play in the game due to Mississippi Jim Crow laws. The game was called the \"Game of Change\" during the civil rights movement. Mississippi State may have been trying to make a statement about civil rights, but they were also upset that they had not been able to play in the NCAA tournament. The game did not change much in the state of Mississippi, and some of the most horrific incidents of racial violence occurred after the game. The text also discusses the role of white people in the civil rights movement and how they are often glorified.",
+    "output_length": 148,
+    "nb_words": 130,
+    "nb_characters": 741
+}

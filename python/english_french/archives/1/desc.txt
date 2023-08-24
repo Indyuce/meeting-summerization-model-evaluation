@@ -1,0 +1,1 @@
+This inference batch is aimed at testing XGen 8bit on summarization. We shall compare his performance on French and on English

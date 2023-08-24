@@ -1,0 +1,13 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/xsum/1",
+    "model": "legendhasit/xgen-7b-8k-inst-8bit",
+    "instruction": "Résume le texte suivant:\n\n",
+    "input_language": "text_fr",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "817",
+    "text": "The archives of the British author, war hero and adventurer Sir Patrick Leigh Fermor have been cataloged by the National Library of Scotland. The collection includes letters from Prince Charles and Truman Capote. Sir Patrick, who was known as Paddy, died in 2011 at the age of 96. He was a prolific writer who published several books on his travels around the world, and one of the most valuable pieces in the archives is the only notebook that survives from his 1933-1934 journey across Europe. This journey provided the material for his most famous books, 'A Time of Gifts', 'Between the Woods and the Water' and 'The Broken Road'. The cataloging of the collection took one year by the library staff, and they found not only letters from prominent people of the 20th century, but also literary manuscripts, sketches and what seems to be an unpublished poem by John Betjeman on the back of an envelope. Sir Patrick spent most of World War II in Crete, which was occupied by the Nazis. He disguised himself as a shepherd to organize guerrilla operations against the Nazis. In 1944, he carried out one of the most daring feats of the war by capturing the German commander of the island. The film 'Ill Met by Moonlight' from 1957, starring Dirk Bogarde, is based on this operation. The National Library of Scotland conservator who worked on the project stated, 'It's the colorful story of a famous writer's life. He was undoubtedly a superstar in his time and his books have become even more popular over the years. The archives have already generated a lot of interest, and we expect it to increase among Leigh Fermor fans and people interested in the 20th century in general.' The library is working on the digitization of some parts of the archives to be available on its website, and it also plans to organize exhibitions and presentations of the collection to make it accessible to a wider audience. The archives were donated to the National Library of Scotland by the John R Murray Charitable Trust. John Murray was Leigh Fermor's publisher, and the trust also supported the cataloging of the collection.",
+    "output_length": 428,
+    "nb_words": 367,
+    "nb_characters": 2108
+}

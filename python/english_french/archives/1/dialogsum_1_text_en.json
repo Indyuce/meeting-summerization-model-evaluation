@@ -1,0 +1,13 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/dialogsum/1",
+    "model": "legendhasit/xgen-7b-8k-inst-8bit",
+    "instruction": "Summarize the following text:\n\n",
+    "input_language": "text_en",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "337",
+    "text": "The speaker is discussing traffic congestion and the use of cars with a friend. The friend got stuck in traffic and the speaker suggests that they consider taking public transport or biking to work instead. The friend agrees that it would be better for the environment and they feel bad about adding to the pollution problem in the city. The speaker also suggests that they could start biking to work as an alternative to driving. The friend agrees that it would be a good idea to quit driving to work and start biking instead.",
+    "output_length": 101,
+    "nb_words": 94,
+    "nb_characters": 527
+}

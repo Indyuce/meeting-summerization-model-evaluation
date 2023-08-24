@@ -1,0 +1,13 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/mediasum/3",
+    "model": "Salesforce/xgen-7b-8k-inst",
+    "instruction": "Résume le texte suivant:\n\n",
+    "input_language": "text_fr",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "1252",
+    "text": "\n\nThe text is discussing the role of soccer in the United States and the new guidelines released by the US Soccer Federation for coaches training children in the sport. The author, Mike Woitalla, argues that the guidelines are good advice, but that they are not enough to make soccer a fun and effective activity for young children. He suggests that instead of focusing on structured drills and instructions, coaches should let children play freely and explore the game. He also criticizes the emphasis on structured practices and the use of balls and goals, which can make the sport too competitive and stressful for young children. He concludes by saying that the most important thing is to make soccer a game for children to enjoy, and that playing is the best way to develop skills and passion for the sport.",
+    "output_length": 157,
+    "nb_words": 139,
+    "nb_characters": 812
+}

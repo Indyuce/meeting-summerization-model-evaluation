@@ -9,5 +9,7 @@
     "text": "\n\nThe Republican presidential candidates, including Donald Trump, Marco Rubio, and Ted Cruz, debated in a televised event. The candidates discussed a variety of topics, including immigration, healthcare, and outreach to Latino voters. The debate was characterized by long periods of shouting and personal insults, and the candidates frequently attacked each other's business and political records. Trump was a frequent target of criticism, with the other candidates questioning his conservative credentials, lack of detail in his policies, and reliance on bluster. Despite the attacks, Trump emerged largely unharmed, and it is unclear if the other candidates' efforts to discredit him will be successful. The Republican candidates will continue to compete for the nomination in upcoming contests, with the goal of securing 1,237 total state delegates.",
     "output_length": 155,
     "nb_words": 126,
-    "nb_characters": 852
+    "nb_characters": 852,
+    "language_output": 1,
+    "language_input": 1
 }

@@ -1,0 +1,13 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/xsum/2",
+    "model": "legendhasit/xgen-7b-8k-inst-8bit",
+    "instruction": "Summarize the following text:\n\n",
+    "input_language": "text_en",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "573",
+    "text": "\n\nThe imagery released by US geopolitical intelligence company Stratfor shows that almost all buildings at the airport in Mosul have been razed, runways have been damaged, taxiways and aprons have been sabotaged, and about 50,000 Iraqi security forces, Kurdish Peshmerga fighters, Sunni Arab tribesmen, and Shia militiamen are involved in a military offensive to retake Mosul from Islamic State militants. The damage to the runways has made the airport worthless as an asset for attacking forces, and the destruction of the airport could be more difficult to repair than at Qayyarah air base, where only part of the main runway was damaged. The tactics employed by Islamic State militants include levelling almost every structure at the airport and demolishing buildings in order to clear the line of sight for defensive positions. The airstrikes have caused some damage to the buildings, but the images show that the city's sugar factory remains relatively intact.",
+    "output_length": 188,
+    "nb_words": 154,
+    "nb_characters": 965
+}

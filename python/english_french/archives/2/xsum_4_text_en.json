@@ -1,0 +1,13 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/xsum/4",
+    "model": "Salesforce/xgen-7b-8k-inst",
+    "instruction": "Summarize the following text:\n\n",
+    "input_language": "text_en",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "418",
+    "text": "一个研究在小鼠中使用Hsp90阻止素的研究发现这些药物特别有前途来治疗抗药性癌症，研究团队表达了这一点。在这项研究中，发现了一种新的药物类型，可以减少两种反应的产生。这项研究发表在《癌症研究》期刊上。",
+    "output_length": 220,
+    "nb_words": 8,
+    "nb_characters": 100
+}

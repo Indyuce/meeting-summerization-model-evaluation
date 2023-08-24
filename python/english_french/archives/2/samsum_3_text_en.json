@@ -1,0 +1,13 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/samsum/3",
+    "model": "Salesforce/xgen-7b-8k-inst",
+    "instruction": "Summarize the following text:\n\n",
+    "input_language": "text_en",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "179",
+    "text": "你好，你收到了电影设备吗？今晚要拍电影的拍摄已经开始了吧？\n\n是的，我已经收到了电影设备了。\n\n好的，我正在前往拍摄地点的地铁站。我没有我的信用卡，但我已经知道它在哪里。\n\n是的，我已经知道了。我们的债务很长了，我们会很高兴地支付它们。\n\n是的，我们会很高兴地支付它们。它们已经多了一段时间了。\n\n是的，我会告诉你。我正在出发。",
+    "output_length": 333,
+    "nb_words": 19,
+    "nb_characters": 164
+}

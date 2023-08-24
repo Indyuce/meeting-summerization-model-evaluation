@@ -1,0 +1,13 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/xsum/3",
+    "model": "legendhasit/xgen-7b-8k-inst-8bit",
+    "instruction": "Summarize the following text:\n\n",
+    "input_language": "text_en",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "890",
+    "text": "The Republican presidential candidates debated on immigration, healthcare, and outreach to Latino voters. The candidates attacked each other on their business records, hypocrisy, conservative credentials, and policies. The front-runner, Donald Trump, was on the defensive but is still leading in the polls. The next week's vote, Super Tuesday, will determine the Republican nominee.",
+    "output_length": 71,
+    "nb_words": 55,
+    "nb_characters": 382
+}
