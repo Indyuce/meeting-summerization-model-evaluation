@@ -1,0 +1,34 @@
+{
+  "annotator": "Rayan",
+  "meeting_objective": "L'objectif de la réunion est de définir des thèmes, des catégories de films pour attirer du monde à l'évènement cinématographique organisé.",
+  "agenda": [
+    {
+      "subject": "Romance",
+      "minutes": [
+        "[175] parle de romance, un genre qui nous fait suivre l'évolution des sentiments entre les personnages. C'est ce qu'elle regarde exclusivement, en particulier les dramas coréens. Ce genre n'a pas vocation  à être réaliste.",
+        "Les symboles du genre sont le film Titanic, le K-drama Extraordinary you, les acteurs George Clooney et Julia Roberts. Le public est majoritairement féminin, même si cela pourrait intéresser tout le monde.",
+        "Les films deviennent de plus-en-plus explicites dans les scènes intimes, au détriment de l'histoire. Les K-drama échappent tout de même à cette tendance."
+      ]
+    },
+    {
+      "subject": "Action",
+      "minutes": [
+        "[176] présente les films d'action, basés sur le combat physique au corps-à-corps ou à distance. Le scénario typique met en scène un protagoniste qui a perdu quelque chose et qui est en quête de vengeance. Dans cette quête, il s'améliore physiquement et mentalement auprès d'un mentor avec lequel il tisse des liens forts.",
+        "Les films Kickboxing et Double impact de JCVD ont fortement inspiré [176], ainsi que les films de Jackie Chan.",
+        "Le genre évolue aujourd'hui vers toujours plus de spectacle, avec plus d'hémoglobine et plus d'impacts. Il est principalement destiné aux hommes."
+      ]
+    },
+    {
+      "subject": "Films historiques",
+      "minutes": [
+        "[174] présente les films historiques, qui retracent l'histoire en mettant en scène les protagonistes de façon romancée.",
+        "Avec ces films, l'histoire n'est plus une description, elle devient dynamique, imagée avec des mécanismes d'identification. Les films ont une valeur culturelle et pédagogique.",
+        "Le genre est très varié, il regroupe des K-drama comme Hwarang, des séries et films français autour de la révolution, des bibliographies. Gérard Depardieu est une figuire du genre en France, mais peu d'acteurs extrêmement connus en sont spécialistes.",
+        "Le genre s'est adapté aux évolutions des autres genres et propose des adaptations modernes. Il est tout public."
+      ]
+    }
+  ],
+  "abstractive_summary": "3 personnes se réunissent pour définir le genre des films à projeter durant leur évènement cinématographique. [175] pense à la romance, où l'on suit le développement des sentiments entre les personnages, avec pour enjeu l'aboutissement de la relation. [175] regarde exclusivement ce genre et en particulier les K-drama, qui n'ont pas vocation à être réaliste. Titanic est un des plus connus parmi ceux issus d'Hollywood. [175] cite Extraordinary you comme K-drama. Un acteur du genre serait George Clooney ou Julia Roberts. La tendance est de rendre les scènes intimes de plus-en-plus explicites, ce que dicte Hollywood et qui résiste encore aux K-drama avec des histoires plus intéressantes. Le public est majoritairement féminin, même si le genre peut être tout public. [176] a choisi les films d'action, caractérisés par les combats physiques, à distance ou au corps-à-corps, qui mettent typiquement en scène quelqu'un qui a perdu quelque chose et qui est en quête de vengeance. Ce qui inspire [176], c'est cette quête d'amélioration physique et mentale, qui passe souvent par un mentor avec qui une relation très forte est nouée. Karaté kid est très connu, Jackie Chan et JCVD avec Double impact, Kickboxing. La tendance est à l'exagération dans l'hémoglobine, les impacts, le spectacle, les scènes de sexe. Ce genre plaît surtout aux hommes. [174] présente les films historiques, qui peuvent mêler romance et rivalité, car ils s'appuient souvent sur une trame qui rajoute fiction et attractivité au récit. L'histoire devient dynamique, imagée, avec des possibilités d'identification, facilitant la pédagogie. Il y a des dramas coréens, comme Hwarang, des séries et films français autour de la révolution, beaucoup de biographies etc. Gérard Depardieu est un habitué du genre, mais peu d'acteurs très connus y sont spécialisés car on cherche un physique et une personnalité qui correspondent aux rôles. l'historique s'est adapté à l'évolution des autres genres et se modernise. C'est destiné à tous les publics.",
+  "vocal_summary": null,
+  "meeting_code": "081a_EBRH"
+}
