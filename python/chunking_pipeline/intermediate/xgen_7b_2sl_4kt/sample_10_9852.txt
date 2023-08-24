@@ -1,0 +1,13 @@
+The meeting is discussing the design of a remote control for a television. The goal is to identify the components of the remote control and how they work together. The functional design perspective will be used to update and create a new design. The design should be simple and clear, and not include outdated features like teletext. The remote control should only be used for television and the design should be unique and incorporate color and the company's slogan. The cost of the design may be a consideration.
+
+After analyzing the text, we can summarize the following points:
+
+* A usability lab conducted a survey with 100 subjects to determine their opinions on remote control design.
+* The survey found that 75% of respondents found remote controls to be unattractive, with the majority of respondents preferring a sleek, stylish design.
+* The survey also found that most respondents would be willing to pay more for a remote control with fewer buttons, as long as it matched their behavior well.
+* Current remote controls are not well-suited for users' behavior, with most buttons being used only 10% of the time.
+* The survey found that younger users (ages 15-35) are more likely to pay more for a voice recognition software, while older users (ages 36 and up) are less willing to try it.
+* The survey also found that respondents preferred a sleek, stylish design, with minimal buttons or features.
+* The survey did not find a clear preference for a specific type of battery life or locator feature, but did find that respondents preferred a design that was both functional and beautiful.
+
+The text is a recording of a meeting discussing a product development project. The participants discuss the features and components of the product and the user interface. They also discuss the possibility of incorporating voice recognition into the remote control and the potential use of a beeper button to locate the remote control. The meeting concludes with a discussion of the next steps for the project.
