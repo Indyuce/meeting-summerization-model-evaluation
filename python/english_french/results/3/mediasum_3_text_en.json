@@ -1,0 +1,15 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/mediasum/3",
+    "model": "mosaicml/mpt-7b-instruct",
+    "instruction": "Summarize the following text:\n\n",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "683",
+    "text": "Soccer is one of the most popular sports in the United States, with more than three million children playing organized soccer. The U.S. Soccer Federation recently issued new guidelines for adults coaching youth soccer, which emphasize the importance of letting children play and not over-coaching. It sounds like good advice, because it's equally absurd to treat a day at the playground like a youth soccer practice. If you lined up six-year-olds and made them wait to take turns on the monkey bars, and if one of them wandered off toward the swings, you'd yell at him, and at the sandbox, you wouldn't let them dig around making castles or mounds. You'd line them up for the shovel drill and yell, \"dig, dig, dig.\" After 50 minutes of instructions on the various aspects of proper playground usage, you'd give the kids ten minutes to play, and then you'd sit them down for a lecture. It sounds absurd, but it's equally ludicrous to drill six-year-old soccer players, to make them wait in line to kick a ball, instead of setting up small goals and letting them play. It's unnecessary and rude to yell nonstop instructions at soccer playing children. It's clear that children are much more likely to become talented soccer players if they're allowed to explore the game without adults bossing them around. The U.S. Soccer Federation is concerned about creating great players, which is why it has created guidelines for youth coaches warning them that youth soccer has become too organized, too structured. The guidelines advise coaches to organize less, to say less, to encourage dribbling, to let kids move wherever they want on the field, and to make practices simulate pick-up games. Most importantly, the message is that youth soccer should be play time for children and that playing is the best practice",
+    "output_length": 379,
+    "nb_words": 322,
+    "nb_characters": 1807,
+    "input_language": "0",
+    "output_language": "",
+    "language_output": "1"
+}

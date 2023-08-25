@@ -1,0 +1,15 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/dialogsum/2",
+    "model": "mosaicml/mpt-7b-instruct",
+    "instruction": "Summarize the following text:\n\n",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "443",
+    "text": "The text describes a conversation between two people discussing the idea of starting a business. The first person, P1, is frustrated with his current job and wants to start his own business. P2 tries to dissuade him from starting a business, pointing out that starting a business is a lot of work and requires a lot of planning and research. P1 is not deterred and insists that he will start his own business anyway. P2 then explains that a business plan is a document that describes a business, its goals, and how it will be run. P1 is surprised to learn how much work writing a business plan actually is, and decides not to start his own business after all",
+    "output_length": 141,
+    "nb_words": 120,
+    "nb_characters": 658,
+    "input_language": "0",
+    "output_language": "",
+    "language_output": "1"
+}

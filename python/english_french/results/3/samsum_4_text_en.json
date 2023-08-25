@@ -1,0 +1,15 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/samsum/4",
+    "model": "mosaicml/mpt-7b-instruct",
+    "instruction": "Summarize the following text:\n\n",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "380",
+    "text": "Ola and Kate are friends who have not been in touch for a while, but are now reconnecting. Ola is in Cuba, and Kate is in the UK. Ola is sorry for not keeping in touch properly, but they are doing fine and enjoying their trip. Ola says they have no connectivity in Cuba, but they are doing fine otherwise. Kate asks how things are at home, and Ola says nothing new is happening, but that Momo has recovered from her injury and is frolicking again. Kate then shows Ola a photo of Momo, which is Ola's scarf. Ola denies this, but Kate shows her another photo of Ola's scarf, which is similar to the one in the first photo. Ola agrees that it is similar, and Kate suggests that Ola buy herself a new scarf. Ola agrees that this is a good idea, and greets everyone at home",
+    "output_length": 191,
+    "nb_words": 151,
+    "nb_characters": 768,
+    "input_language": "0",
+    "output_language": "",
+    "language_output": "1"
+}

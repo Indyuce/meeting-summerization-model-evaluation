@@ -1,0 +1,15 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/xsum/2",
+    "model": "mosaicml/mpt-7b-instruct",
+    "instruction": "Summarize the following text:\n\n",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "590",
+    "text": "The imagery shows that the airport of Mosul, Iraq has been extensively damaged by the Islamic State (IS) militants. The damage is so severe that it is no longer useful for attacking forces. The IS militants have also levelled almost every structure at Mosul airport. The damage to the runways has rendered the airport worthless as an asset for attacking forces",
+    "output_length": 73,
+    "nb_words": 61,
+    "nb_characters": 360,
+    "input_language": "0",
+    "output_language": "",
+    "language_output": "1"
+}

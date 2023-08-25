@@ -1,0 +1,15 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/samsum/5",
+    "model": "mosaicml/mpt-7b-instruct",
+    "instruction": "Summarize the following text:\n\n",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "145",
+    "text": "Laura: Where are you?\nPaul: Almost there.\nLaura: Which is?\nPaul: Close to the Mac.\nLaura: That's so far away!\nPaul: 15 mins\nLaura: I am not waiting any more, see you some other time.\nPaul: Please, wait!\nLaura: I've waited 30 minutes, 15 minutes ago you wrote you were almost here. This is too much.\nPaul: I am so sorry.\nLaura: I am not",
+    "output_length": 109,
+    "nb_words": 67,
+    "nb_characters": 335,
+    "input_language": "0",
+    "output_language": "",
+    "language_output": "2"
+}

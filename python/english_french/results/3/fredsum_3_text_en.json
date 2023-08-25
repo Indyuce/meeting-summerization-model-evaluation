@@ -1,0 +1,15 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/fredsum/3",
+    "model": "mosaicml/mpt-7b-instruct",
+    "instruction": "Summarize the following text:\n\n",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "1408",
+    "text": "François Mitterrand and Jacques Chirac are debating the European position on disarmament with the US and the Soviet Union. François Mitterrand is questioning Jacques Chirac's belief that Mikhail Gorbachev is sincere in his efforts to reduce nuclear weapons. Mitterrand is also questioning Gorbachev's sincerity in his efforts to disarm Europe",
+    "output_length": 81,
+    "nb_words": 52,
+    "nb_characters": 342,
+    "input_language": "1",
+    "output_language": "",
+    "language_output": "1"
+}

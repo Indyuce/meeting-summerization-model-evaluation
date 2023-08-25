@@ -1,0 +1,15 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/samsum/2",
+    "model": "mosaicml/mpt-7b-instruct",
+    "instruction": "Summarize the following text:\n\n",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "584",
+    "text": "Deirdre: Hi Beth, how are you love?\nBeth: Hi Auntie Deirdre, I'm been meaning to message you, had a favour to ask.\nDeirdre: Wondered if you had any thought about your Mum's 40th, we've got to do something special!\nBeth: How about a girls weekend, just mum, me, you and the girls, Kira will have to come back from Uni, of course.\nDeirdre: Sounds fab! Get your thinking cap on, it's only in 6 weeks! Bet she's dreading it, I remember doing that!\nBeth: Oh yeah, we had a surprise party for you, you nearly had a heart attack! \nDeirdre: Well, it was a lovely surprise! Gosh, thats nearly 4 years ago now, time flies! What was the favour, darling?\nBeth: Oh, it was just that I fancied trying a bit of work experience in the salon, auntie.\nDeirdre: Well, I am looking for Saturday girls, are you sure about it? you could do well in the exams and go on to college or 6th form.\nBeth: I know, but it's not for me, auntie, I am doing all foundation papers and I'm struggling with those.\nDeirdre: What about a tutor? Kira could help you in the hols.\nBeth: Maybe, but I'd like to try working. I'm 16 soon, I'm old enough.\nDeirdre: I know. Look, pop in tomorrow after school and we'll have a cuppa and a chat.\nBeth: Yes, I'd really like to try the beauty therapy side.\nDeirdre: Its not for the squeamish, mind. Massage, pedicures, not to mention waxing!\nBeth: Oh yes, I was chatting to a friend about it yesterday!\nDeirdre: Maxine manages the beauty side, you can meet her tomorrow and we'll see how it goes.\nBeth: Yes, I'd really like that. \nDeirdre: We can try a few hours on a Saturday for a couple of weeks as work experience. I'll give you a tenner or so per session to start off for your lunch, coffee and bus fare etc. If you like, we'll take it from there.\nBeth: OK, I like the sound of it! See you tomorrow Auntie! Love you!\nDeirdre: Bye, lovely girl! X",
+    "output_length": 544,
+    "nb_words": 369,
+    "nb_characters": 1849,
+    "input_language": "0",
+    "output_language": "",
+    "language_output": "1"
+}

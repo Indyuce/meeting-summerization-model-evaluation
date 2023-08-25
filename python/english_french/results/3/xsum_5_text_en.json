@@ -1,0 +1,15 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/xsum/5",
+    "model": "mosaicml/mpt-7b-instruct",
+    "instruction": "Summarize the following text:\n\n",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "513",
+    "text": "The following text is a summary of the above article:\n\nThe UK economy grew by 0.4% in the second quarter of 2017, according to the Office for National Statistics (ONS). This was a notable slowdown from the 0.7% growth in the first quarter of the year, and below the 0.5% growth predicted by economists. However, the figure for the second quarter was in line with economists' expectations. The ONS said the rise in growth was unlikely to change expectations that the Bank of England will keep interest rates at their current record low next week. The ONS head of national accounts Darren Morgan said: 'The economy has experienced a notable slowdown in the first half of this year.' Film production in the UK, plus box-office receipts from cinemas, was one of the best performing parts of the economy during the period. 'While services such as retail, and film production and distribution showed some improvement in the second quarter, a weaker performance from construction and manufacturing pulled down overall growth,' Mr Morgan said. On Monday, the International Monetary Fund downgraded its forecast for UK economic growth this year because of the weak first-quarter figure. The IMF said it expects UK GDP to grow by 1.7% instead of its previous projection of 2%. Chancellor Philip Hammond said the UK economy had now grown consistently for four-and-a-half years. 'We can be proud of that, but we are not complacent,' he added. 'We need to focus on restoring productivity growth to deliver higher wages and living standards for people across the country.' Labour shadow chancellor John McDonnell said: 'Today's GDP figures reveal weak growth under a weak government, and expose the last seven years of Tory economic failure. 'Growth for the first half of 2017 is below expectations, and it follows continued data showing working families are being squeezed with wages not keeping up with prices.' Aberdeen Asset Management chief economist Lucy O'Carroll said: 'This pick-up will be taken as good news, but it really doesn't amount to much. 'The figures are the first estimate of growth, based on very patchy data. They always get revised over time, and often substantially so. 'It's the underlying trends that matter. They don't look favourable at the moment, given the uncertainties around Brexit and the pressure on household budgets from higher inflation.",
+    "output_length": 483,
+    "nb_words": 400,
+    "nb_characters": 2361,
+    "input_language": "0",
+    "output_language": "",
+    "language_output": "1"
+}

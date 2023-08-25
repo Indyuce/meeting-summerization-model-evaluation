@@ -1,0 +1,15 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/fredsum/2",
+    "model": "mosaicml/mpt-7b-instruct",
+    "instruction": "Summarize the following text:\n\n",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "1111",
+    "text": "I agree with the speaker that the separation of Church and State is not just one religion among others; it's secularism",
+    "output_length": 26,
+    "nb_words": 22,
+    "nb_characters": 119,
+    "input_language": "1",
+    "output_language": "",
+    "language_output": "1"
+}

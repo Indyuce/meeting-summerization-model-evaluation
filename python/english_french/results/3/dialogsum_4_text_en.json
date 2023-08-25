@@ -1,0 +1,15 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/dialogsum/4",
+    "model": "mosaicml/mpt-7b-instruct",
+    "instruction": "Summarize the following text:\n\n",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "442",
+    "text": "P1: Cleo, are you going to the demonstration tomorrow to help stop the spread of nuclear weapons?\nP2: No, Simon. I hate demonstrations. I have heard the police will be standing by with tear gas.\nP1: Yes, but North Korea boasts it has nuclear arms.\nP2: One hundred ninety countries have signed the Nuclear Non-Proliferation Treaty but the issues are just too complex. There are two sides to every story. I don't understand it and I have no intention of going to a demonstration. Demonstrations don't seem to accomplish anything anyway.\nP1: Several demonstrations have changed politician's minds throughout history. As a responsible citizen I think it is important to stand up for what you believe in.\nP2: Leave it to someone else. As I said, if you listen to both sides of a story, both sides have some good points. Why should I demonstrate and risk getting hurt for something that I am not even sure is right?\nP1: You are not likely to get hurt. This will be a peaceful demonstration. I have spoken to the organizer for the university group. He insists that this will be peaceful. He advocates if you want world peace, peace begins at home-and that means right here in this city.\nP2: You go if you want, Simon, but I plan to study for my physics exam.\nP1: You are not likely to get hurt. This will be a peaceful demonstration. I have spoken to the organizer for the university group. He insists that this will be peaceful. He advocates if you want world peace, peace begins at home-and that means right here in this city.\nP2: Okay, Simon. I need to meet my sister for coffee now.\nP1: Bye then. See you in physics class tomorrow",
+    "output_length": 382,
+    "nb_words": 300,
+    "nb_characters": 1627,
+    "input_language": "0",
+    "output_language": "",
+    "language_output": "1"
+}

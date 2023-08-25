@@ -1,0 +1,268 @@
+---- Model : mosaicml/mpt-7b-instruct (1/1)----              (loading tokenizer and model...)
+Instantiating an MPTForCausalLM model from /workspace/.cache/huggingface/modules/transformers_modules/mosaicml/mpt-7b-instruct/925e0d80e50e77aaddaf9c3ced41ca4ea23a1025/modeling_mpt.py
+You are using config.init_device='cpu', but you can also use config.init_device="meta" with Composer + FSDP for fast initialization.
+
+The model weights are not tied. Please use the `tie_weights` method before using the `infer_auto_device` function.
+
+Loading checkpoint shards: 100%
+2/2 [00:19<00:00, 8.78s/it]
+
+Fri Aug 25 07:30:17 2023       
++-----------------------------------------------------------------------------+
+| NVIDIA-SMI 525.105.17   Driver Version: 525.105.17   CUDA Version: 12.0     |
+|-------------------------------+----------------------+----------------------+
+| GPU  Name        Persistence-M| Bus-Id        Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp  Perf  Pwr:Usage/Cap|         Memory-Usage | GPU-Util  Compute M. |
+|                               |                      |               MIG M. |
+|===============================+======================+======================|
+|   0  Tesla V100S-PCI...  Off  | 00000000:00:06.0 Off |                    0 |
+| N/A   44C    P0    40W / 250W |  26210MiB / 32768MiB |      0%      Default |
+|                               |                      |                  N/A |
++-------------------------------+----------------------+----------------------+
+                                                                               
++-----------------------------------------------------------------------------+
+| Processes:                                                                  |
+|  GPU   GI   CI        PID   Type   Process name                  GPU Memory |
+|        ID   ID                                                   Usage      |
+|=============================================================================|
++-----------------------------------------------------------------------------+
+Tokenizer and model loaded in 0:00:22 seconds
+Fri Aug 25 07:30:19 2023       
++-----------------------------------------------------------------------------+
+| NVIDIA-SMI 525.105.17   Driver Version: 525.105.17   CUDA Version: 12.0     |
+|-------------------------------+----------------------+----------------------+
+| GPU  Name        Persistence-M| Bus-Id        Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp  Perf  Pwr:Usage/Cap|         Memory-Usage | GPU-Util  Compute M. |
+|                               |                      |               MIG M. |
+|===============================+======================+======================|
+|   0  Tesla V100S-PCI...  Off  | 00000000:00:06.0 Off |                    0 |
+| N/A   44C    P0    40W / 250W |  26210MiB / 32768MiB |      0%      Default |
+|                               |                      |                  N/A |
++-------------------------------+----------------------+----------------------+
+                                                                               
++-----------------------------------------------------------------------------+
+| Processes:                                                                  |
+|  GPU   GI   CI        PID   Type   Process name                  GPU Memory |
+|        ID   ID                                                   Usage      |
+|=============================================================================|
++-----------------------------------------------------------------------------+
+
+/workspace/.miniconda3/lib/python3.10/site-packages/transformers/generation/utils.py:1411: UserWarning: You have modified the pretrained model configuration to control generation. This is a deprecated strategy to control generation and will be removed soon, in a future version. Please use a generation configuration file (see https://huggingface.co/docs/transformers/main_classes/text_generation )
+  warnings.warn(
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+
+Starting inference for text 1/5 in the samsum corpus.
+
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+
+Inference done for French and English in 0:00:36 seconds.
+Starting inference for text 2/5 in the samsum corpus.
+
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+
+Inference done for French and English in 0:08:49 seconds.
+Starting inference for text 3/5 in the samsum corpus.
+
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+
+Inference done for French and English in 0:01:46 seconds.
+Starting inference for text 4/5 in the samsum corpus.
+
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+
+Inference done for French and English in 0:02:20 seconds.
+Starting inference for text 5/5 in the samsum corpus.
+Inference done for French and English in 0:00:25 seconds.
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+Fri Aug 25 07:44:19 2023       
++-----------------------------------------------------------------------------+
+| NVIDIA-SMI 525.105.17   Driver Version: 525.105.17   CUDA Version: 12.0     |
+|-------------------------------+----------------------+----------------------+
+| GPU  Name        Persistence-M| Bus-Id        Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp  Perf  Pwr:Usage/Cap|         Memory-Usage | GPU-Util  Compute M. |
+|                               |                      |               MIG M. |
+|===============================+======================+======================|
+|   0  Tesla V100S-PCI...  Off  | 00000000:00:06.0 Off |                    0 |
+| N/A   47C    P0    45W / 250W |  28656MiB / 32768MiB |      0%      Default |
+|                               |                      |                  N/A |
++-------------------------------+----------------------+----------------------+
+                                                                               
++-----------------------------------------------------------------------------+
+| Processes:                                                                  |
+|  GPU   GI   CI        PID   Type   Process name                  GPU Memory |
+|        ID   ID                                                   Usage      |
+|=============================================================================|
++-----------------------------------------------------------------------------+
+
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+
+Starting inference for text 1/5 in the xsum corpus.
+
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+
+Inference done for French and English in 0:03:25 seconds.
+Starting inference for text 2/5 in the xsum corpus.
+
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+
+Inference done for French and English in 0:00:50 seconds.
+Starting inference for text 3/5 in the xsum corpus.
+
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+
+Inference done for French and English in 0:04:04 seconds.
+Starting inference for text 4/5 in the xsum corpus.
+
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+
+Inference done for French and English in 0:05:33 seconds.
+Starting inference for text 5/5 in the xsum corpus.
+Inference done for French and English in 0:06:54 seconds.
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+Fri Aug 25 08:05:10 2023       
++-----------------------------------------------------------------------------+
+| NVIDIA-SMI 525.105.17   Driver Version: 525.105.17   CUDA Version: 12.0     |
+|-------------------------------+----------------------+----------------------+
+| GPU  Name        Persistence-M| Bus-Id        Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp  Perf  Pwr:Usage/Cap|         Memory-Usage | GPU-Util  Compute M. |
+|                               |                      |               MIG M. |
+|===============================+======================+======================|
+|   0  Tesla V100S-PCI...  Off  | 00000000:00:06.0 Off |                    0 |
+| N/A   47C    P0    46W / 250W |  28658MiB / 32768MiB |      0%      Default |
+|                               |                      |                  N/A |
++-------------------------------+----------------------+----------------------+
+                                                                               
++-----------------------------------------------------------------------------+
+| Processes:                                                                  |
+|  GPU   GI   CI        PID   Type   Process name                  GPU Memory |
+|        ID   ID                                                   Usage      |
+|=============================================================================|
++-----------------------------------------------------------------------------+
+
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+
+Starting inference for text 1/5 in the fredsum corpus.
+
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+
+Inference done for French and English in 0:02:18 seconds.
+Starting inference for text 2/5 in the fredsum corpus.
+
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+
+Inference done for French and English in 0:00:33 seconds.
+Starting inference for text 3/5 in the fredsum corpus.
+
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+
+Inference done for French and English in 0:01:09 seconds.
+Starting inference for text 4/5 in the fredsum corpus.
+
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+
+Inference done for French and English in 0:04:12 seconds.
+Starting inference for text 5/5 in the fredsum corpus.
+Inference done for French and English in 0:06:42 seconds.
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+Fri Aug 25 08:20:07 2023       
++-----------------------------------------------------------------------------+
+| NVIDIA-SMI 525.105.17   Driver Version: 525.105.17   CUDA Version: 12.0     |
+|-------------------------------+----------------------+----------------------+
+| GPU  Name        Persistence-M| Bus-Id        Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp  Perf  Pwr:Usage/Cap|         Memory-Usage | GPU-Util  Compute M. |
+|                               |                      |               MIG M. |
+|===============================+======================+======================|
+|   0  Tesla V100S-PCI...  Off  | 00000000:00:06.0 Off |                    0 |
+| N/A   48C    P0    52W / 250W |  31118MiB / 32768MiB |      0%      Default |
+|                               |                      |                  N/A |
++-------------------------------+----------------------+----------------------+
+                                                                               
++-----------------------------------------------------------------------------+
+| Processes:                                                                  |
+|  GPU   GI   CI        PID   Type   Process name                  GPU Memory |
+|        ID   ID                                                   Usage      |
+|=============================================================================|
++-----------------------------------------------------------------------------+
+
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+
+Starting inference for text 1/5 in the dialogsum corpus.
+
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+
+Inference done for French and English in 0:01:59 seconds.
+Starting inference for text 2/5 in the dialogsum corpus.
+
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+
+Inference done for French and English in 0:01:23 seconds.
+Starting inference for text 3/5 in the dialogsum corpus.
+
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+
+Inference done for French and English in 0:04:36 seconds.
+Starting inference for text 4/5 in the dialogsum corpus.
+
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+
+Inference done for French and English in 0:01:12 seconds.
+Starting inference for text 5/5 in the dialogsum corpus.
+Inference done for French and English in 0:02:33 seconds.
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+Fri Aug 25 08:31:53 2023       
++-----------------------------------------------------------------------------+
+| NVIDIA-SMI 525.105.17   Driver Version: 525.105.17   CUDA Version: 12.0     |
+|-------------------------------+----------------------+----------------------+
+| GPU  Name        Persistence-M| Bus-Id        Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp  Perf  Pwr:Usage/Cap|         Memory-Usage | GPU-Util  Compute M. |
+|                               |                      |               MIG M. |
+|===============================+======================+======================|
+|   0  Tesla V100S-PCI...  Off  | 00000000:00:06.0 Off |                    0 |
+| N/A   48C    P0    54W / 250W |  31118MiB / 32768MiB |      0%      Default |
+|                               |                      |                  N/A |
++-------------------------------+----------------------+----------------------+
+                                                                               
++-----------------------------------------------------------------------------+
+| Processes:                                                                  |
+|  GPU   GI   CI        PID   Type   Process name                  GPU Memory |
+|        ID   ID                                                   Usage      |
+|=============================================================================|
++-----------------------------------------------------------------------------+
+
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+
+Starting inference for text 1/5 in the mediasum corpus.
+
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+
+Inference done for French and English in 0:06:16 seconds.
+Starting inference for text 2/5 in the mediasum corpus.
+
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+
+Inference done for French and English in 0:03:30 seconds.
+Starting inference for text 3/5 in the mediasum corpus.
+
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+
+Inference done for French and English in 0:02:13 seconds.
+Starting inference for text 4/5 in the mediasum corpus.
+
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+
+Inference done for French and English in 0:17:11 seconds.
+Starting inference for text 5/5 in the mediasum corpus.
+Inference done for French and English in 0:02:04 seconds.
+Done! Took 1:33:17 seconds

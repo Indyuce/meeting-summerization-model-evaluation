@@ -1,0 +1,15 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/mediasum/4",
+    "model": "mosaicml/mpt-7b-instruct",
+    "instruction": "Summarize the following text:\n\n",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "888",
+    "text": "Fiji Water is a bottled water brand owned by a California couple, Lynda and Stewart Resnick. They own Teleflora and POM Wonderful as well. The water comes from an aquifer in Fiji, a small island nation in the South Pacific. The company nearly lost its claim to fame when the Fijian government increased the tax on water extraction from one-third of a Fijian cent to 15 Fijian cents. But the company responded by firing all of the employees in Fiji and closing the plant. The company agreed to pay the tax and reopened the plant",
+    "output_length": 124,
+    "nb_words": 96,
+    "nb_characters": 527,
+    "input_language": "0",
+    "output_language": "",
+    "language_output": "1"
+}

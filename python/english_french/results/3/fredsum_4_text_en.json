@@ -1,0 +1,15 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/fredsum/4",
+    "model": "mosaicml/mpt-7b-instruct",
+    "instruction": "Summarize the following text:\n\n",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "1575",
+    "text": "The IMF has called on France to start streamlining its expenses from the year 2023. The IMF has called on France to start streamlining its expenses from the year 2023",
+    "output_length": 37,
+    "nb_words": 30,
+    "nb_characters": 166,
+    "input_language": "1",
+    "output_language": "",
+    "language_output": "2"
+}

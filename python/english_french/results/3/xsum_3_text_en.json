@@ -1,0 +1,15 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/xsum/3",
+    "model": "mosaicml/mpt-7b-instruct",
+    "instruction": "Summarize the following text:\n\n",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "887",
+    "text": "The following is a summary of the above text:\n\nThe Republican candidates for the 2016 US presidential election debated in Miami on Thursday, February 11th, 2016.  The debate was moderated by CNN's Jake Tapper.  The three candidates were Marco Rubio, Ted Cruz, and Donald Trump.  The debate was very contentious and personal in nature.  Mr. Trump was on the defensive for much of the evening, and was attacked by both Mr. Rubio and Mr. Cruz.  Mr. Trump responded with a number of personal attacks of his own.  The debate was very negative and lacked substance.  The candidates did not offer any new policy proposals, and instead attacked each other's character and credibility.  The debate was watched by many millions of people, and was considered a major turning point in the race.  Mr. Trump emerged unbowed, and seems to be gaining momentum",
+    "output_length": 185,
+    "nb_words": 143,
+    "nb_characters": 843,
+    "input_language": "0",
+    "output_language": "",
+    "language_output": "1"
+}

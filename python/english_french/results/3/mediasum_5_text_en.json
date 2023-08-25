@@ -1,0 +1,15 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/mediasum/5",
+    "model": "mosaicml/mpt-7b-instruct",
+    "instruction": "Summarize the following text:\n\n",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "819",
+    "text": "Kentaro Toyama is a computer scientist who teaches at the University of Michigan. He argues in his book 'Geek Heresy' that there is a misplaced belief in the transformative power of technology. He is skeptical about stories that present technology projects as major solutions for developing countries. Toyama argues that technology promised solutions to some global problems it couldn't keep. For Toyama, technology tends to fall short of delivering on social change because it is a tool that amplifies what human forces already exist. He says that it is more important to focus on the human forces and making sure that those are right",
+    "output_length": 125,
+    "nb_words": 105,
+    "nb_characters": 635,
+    "input_language": "0",
+    "output_language": "",
+    "language_output": "1"
+}
