@@ -1,0 +1,14 @@
+* The meeting is about the remote control project
+* The project goal is to sell a remote control for 25 Euros
+* The project finance department has told the team that they need to make a profit of 50 million Euros on the project
+* The remote control needs to be able to do NTSC, PAL, and various other formats
+* The remote control will be an international sold product
+* The team wants to make the remote control for 12.50
+* The team will need to think about what the user wants and what the user can have
+* The team will have more meetings and will receive emails with more specific instructions
+* The team will discuss the trade-offs between size and functionality
+* The team discussed the idea of a touch screen remote with multi-format features
+* The team also discussed the importance of making the remote control out of a nice material
+* The team will continue to brainstorm ideas and discuss them in future meetings.
+
+A group of individuals discuss ideas for a new product, such as a multi-plate face plate for televisions or a locator device for remotes. They consider the design, material quality, and pricing of the product, as well as who they will market it to and how they will sell it. They also mention other potential features, such as a button to page the remote or a sleek design similar to Apple's surgical white or titanium products. The group discusses the trade-offs between different features and prices and the need to consider the target market. They plan to document their ideas and revisit them later.

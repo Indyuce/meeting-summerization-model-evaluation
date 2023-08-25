@@ -1,0 +1,9 @@
+* The Industrial Designer suggests going with plastic for the remote control, as it is the most feasible option for a remote control with a small form factor and limited functionality.
+* Sarah suggests simplifying the remote control's functions and making it more attractive to younger demographics, who are more interested in voice recognition options.
+* Ron suggests revolutionizing the way the remote control looks and feels, which might be easier given that they are going for simpler functions and a younger demographic.
+* The Industrial Designer suggests looking into the possibility of a touch screen interface, which would allow for more customization and the ability to input different types of skins for the interface.
+* The group discusses the possibility of including a paging function, but ultimately decides to stick with the basic functions of on/off, channels, and volume.
+* The group also discusses the possibility of including a voice recognition function, but decides that it is not feasible given the limitations of the remote control.
+* The group decides to focus on a plastic-based touch screen remote control with simple functions and a sleek design, and to consider the possibility of including different types of skins for the interface.
+
+A group of individuals discuss the design of a remote control, including the possibility of using a touch screen instead of a traditional button-based design. They consider the trade-offs between having the logo displayed prominently versus having it disappear after a brief subliminal message. They also discuss the importance of battery life and the convenience of being able to turn on the remote with a single touch of the screen. The group agrees that they are good to proceed with their work.
