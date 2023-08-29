@@ -1,0 +1,15 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/mediasum/2",
+    "model": "meta-llama/Llama-2-7b-chat-hf",
+    "instruction": "Summarize the following text:\n\n",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "1093",
+    "text": "The text discusses the 1963 NCAA Men's Basketball Tournament game between Loyola University Chicago and Mississippi State University, which was notable for the racial tensions surrounding the game. The game was played during the civil rights movement, and Mississippi State University had a rule that prevented white teams from playing against black teams. Despite this, Mississippi State snuck out of the state at night to play Loyola in the tournament, which was a violation of Mississippi Jim Crow laws. The game was won by Loyola, and it has become a symbol of the civil rights movement. However, sports journalist Kevin Blackistone argues that the game did not lead to significant changes in racial attitudes or policies in Mississippi, and that the focus on white figures in sports stories can overshadow the contributions of black athletes and the ongoing struggles for civil rights.</s><s> The 2023 Grammy Awards will be held on February 5, 2023, at the MGM Grand Garden Arena in Las Vegas, Nevada. The ceremony will be broadcast live on CBS at 8 p.m. ET/5 p.m. PT.\nThe nominees for the 2023 Grammy Awards were announced on November 28, 2022. The list of nominees includes a diverse range of artists and genres, including pop, rock, hip-hop, R&B, and classical music. Some of the top nominees include:\n* Beyoncé, who is nominated for Album of the Year and Record of the Year for her album \"Renaissance\" and single \"Cuff It,\" respectively.\n* Adele, who is nominated for Album of the Year and Best Pop Vocal Album for her album \"30.\"\n* Bad Bunny, who is nominated for Best Rap Performance and Best Latin Pop Album for his album \"El Ultimo Tour del Mundo.\"\n* Kendrick Lamar, who is nominated for Album of the Year and Best Rap Performance for his album \"Mr. Morale & the Big Steppers.\"\n* Taylor Swift, who is nominated for Album of the Year and Best Pop Vocal Album for her album \"evermore.\"\nThe 2023 Grammy Awards will be hosted by comedian Trevor Noah. The ceremony will feature performances by a variety of artists, including Billie Eilish, Kacey Musgraves, and Lil Nas X.\nThe 2023 Grammy Awards are highly anticipated, as they will mark the 65th anniversary of the awards ceremony. The event is expected to be a celebration of music and culture, with a focus on recognizing and honoring the achievements of artists across a range of genres.</s><s> The 2023 Grammy Awards will be held on February 5, 2023, at the MGM Grand Garden Arena in Las Vegas, Nevada. The ceremony will be broadcast live on CBS at 8 p.m. ET/5 p.m. PT.\nThe nominees for the 2023 Grammy Awards were announced on November 28, 2022, and include a diverse range of artists and genres. Some of the",
+    "output_length": 700,
+    "nb_words": 469,
+    "nb_characters": 2672,
+    "input_language": "0",
+    "output_language": "",
+    "language_output": "1"
+}

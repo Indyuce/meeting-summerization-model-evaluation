@@ -1,0 +1,15 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/mediasum/3",
+    "model": "meta-llama/Llama-2-7b-chat-hf",
+    "instruction": "Summarize the following text:\n\n",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "884",
+    "text": "The article discusses the new guidelines issued by the U.S. Soccer Federation for youth soccer coaches, which emphasize the importance of allowing children to play and learn the game through play, rather than through structured drills and adult instruction. The guidelines advise coaches to \"coach less, say less,\" and to encourage dribbling and creativity on the field. The article also highlights the importance of making practices more like pick-up games, and of allowing children to play without excessive adult supervision or instruction. The author, Mike Woitalla, argues that this approach will help to create a more enjoyable and successful soccer experience for children, and to develop the skills and creativity of the world's greatest players.</s><s> The 10 Best Books on the History of Sci",
+    "output_length": 700,
+    "nb_words": 129,
+    "nb_characters": 801,
+    "input_language": "0",
+    "output_language": "",
+    "language_output": "1"
+}

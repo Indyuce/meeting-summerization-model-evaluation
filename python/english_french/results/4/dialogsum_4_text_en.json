@@ -1,0 +1,15 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/dialogsum/4",
+    "model": "meta-llama/Llama-2-7b-chat-hf",
+    "instruction": "Summarize the following text:\n\n",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "587",
+    "text": "The conversation is about a demonstration being held to protest the spread of nuclear weapons. Person 1 (P1) is planning to attend the demonstration, while Person 2 (P2) is not interested in attending due to concerns about the potential use of tear gas by the police. P1 argues that demonstrations can be effective in bringing about change, while P2 is skeptical and would rather focus on studying for their physics exam. P1 tries to persuade P2 to attend by offering to buy their lunch and suggesting they ask their political science classmates if they want to go. P2 declines and leaves the conversation.</s",
+    "output_length": 700,
+    "nb_words": 104,
+    "nb_characters": 609,
+    "input_language": "0",
+    "output_language": "",
+    "language_output": "1"
+}

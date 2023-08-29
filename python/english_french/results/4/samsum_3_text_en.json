@@ -1,0 +1,15 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/samsum/3",
+    "model": "meta-llama/Llama-2-7b-chat-hf",
+    "instruction": "Summarize the following text:\n\n",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "284",
+    "text": "The text appears to be a conversation between two people, Andrei and Serge, regarding the pickup of film equipment for a shooting tonight. Serge informs Andrei that he is on his way to the location and has his credit card with him, which they will use to pay an outstanding bill with the company. Andrei expresses gratitude and mentions that the bill is long overdue. Serge confirms that he will let Andrei know if the payment goes through.</s>s</s>sales@example",
+    "output_length": 700,
+    "nb_words": 83,
+    "nb_characters": 462,
+    "input_language": "0",
+    "output_language": "",
+    "language_output": "1"
+}

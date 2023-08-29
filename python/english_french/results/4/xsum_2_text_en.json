@@ -1,0 +1,15 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/xsum/2",
+    "model": "meta-llama/Llama-2-7b-chat-hf",
+    "instruction": "Summarize the following text:\n\n",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "798",
+    "text": "The article discusses the destruction of Mosul Airport in Iraq, which has been largely leveled by IS militants. The airport's runways, taxiways, and aprons have been damaged, with wide trenches carved into them and rubble placed along their lengths. The destruction of the airport has rendered it unusable for attacking forces, as it can deny or enable logistical capabilities, which could have a significant impact on the outcome of battles. The article also mentions that IS militants have destroyed almost every structure at the airport, including hangars, warehouses, and other infrastructure, in order to clear the line of sight for their defensive positions on the northern edge of the airport. The article highlights that the destruction of the airport is similar to the tactics used by IS at Qayyarah air base, where they only partially covered the main runway, which was restored to service within months of the Iraqi forces recapturing the base. The article concludes that restoring the runways and rebuilding infrastructure at Mosul airport would be a significant task for Iraqi forces, and that the destruction of the airport has shown the importance of controlling key infrastructure in urban warfare.</s",
+    "output_length": 700,
+    "nb_words": 194,
+    "nb_characters": 1217,
+    "input_language": "0",
+    "output_language": "",
+    "language_output": "1"
+}

@@ -1,0 +1,15 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/dialogsum/3",
+    "model": "meta-llama/Llama-2-7b-chat-hf",
+    "instruction": "Summarize the following text:\n\n",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "495",
+    "text": "The conversation between P1 and P2 is about their drinking habits. P1 asks how often P2 drinks, and P2 replies that they drink a few times a week. P1 then asks how much they can drink, and P2 responds that they usually drink all night long and can consume around 10 drinks. P1 expresses surprise at the amount, but P2 explains that they go to places with specials and can get a lot of drinks for a reasonable price. P1 mentions that they only drink beer and get a headache when they drink too much, and P2 suggests building up a tolerance. P2 then invites P1 to go out the next night to a bar with a pitcher special.</s",
+    "output_length": 700,
+    "nb_words": 120,
+    "nb_characters": 619,
+    "input_language": "0",
+    "output_language": "",
+    "language_output": "1"
+}

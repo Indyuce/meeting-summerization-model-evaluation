@@ -1,0 +1,15 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/dialogsum/1",
+    "model": "meta-llama/Llama-2-7b-chat-hf",
+    "instruction": "Summarize the following text:\n\n",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "455",
+    "text": "Sure, I'd be happy to help you summarize the text! Here's a summary of the conversation between P1 and P2:\nP1: Hey, what took you so long?\nP2: I got stuck in traffic again, near the Carrefour intersection.\nP1: Oh no, that's always a problem during rush hour. Maybe you should try a different route to get home.\nP2: I don't think that's possible, to be honest.\nP1: Well, you could consider taking the public transport system to work. It's pretty good here.\nP2: Yeah, I've been thinking about that. I know it's better for the environment and it would be less stressful than driving.\nP1: Exactly! And you could use the exercise by biking to work when it's nicer outside.\nP2: That's a good idea. I'll definitely consider it. I don't want to contribute to the pollution problem in this city.\nP1: So, are you going to quit driving to work?\nP2: Yes, I think it's the best option for me and the environment.</s",
+    "output_length": 700,
+    "nb_words": 179,
+    "nb_characters": 902,
+    "input_language": "0",
+    "output_language": "",
+    "language_output": "1"
+}
