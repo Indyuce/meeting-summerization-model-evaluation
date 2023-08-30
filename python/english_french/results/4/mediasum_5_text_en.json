@@ -1,0 +1,15 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/mediasum/5",
+    "model": "meta-llama/Llama-2-7b-chat-hf",
+    "instruction": "Summarize the following text:\n\n",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "1004",
+    "text": "Kentaro Toyama, a computer scientist and professor at the University of Michigan, argues that there is a misconception that technology can solve major problems in developing countries. He believes that many technology projects, such as One Laptop per Child, are not effective in addressing deeper inequalities within these countries. Toyama suggests that technology alone cannot provide education or alleviate poverty, and that it is important to focus on the human forces behind these efforts. He believes that Silicon Valley's movement towards social impact is often rhetorical and does not go far enough in addressing societal problems. Instead, he advocates for a more nuanced approach that recognizes the importance of human forces in conjunction with technology.",
+    "output_length": 700,
+    "nb_words": 446,
+    "nb_characters": 2830,
+    "input_language": "0",
+    "output_language": "",
+    "language_output": "1"
+}

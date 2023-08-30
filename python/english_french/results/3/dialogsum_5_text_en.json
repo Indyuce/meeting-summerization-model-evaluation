@@ -1,0 +1,15 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/dialogsum/5",
+    "model": "mosaicml/mpt-7b-instruct",
+    "instruction": "Summarize the following text:\n\n",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "312",
+    "text": "The following is a summary of the above text:\n\nP1: Excuse me, could you help me?\nP2: Yes, what seems to be the problem?\nP1: Well. I was wondering if anyone has turned in a passport?\nP2: I am afraid not. Have you lost your passport?\nP1: I think so. I can't find it anywhere in my hotel room and I remember the last place I used it yesterday was in this department store.\nP2: Where exactly did you use your passport in the store?\nP1: In the shoe department. I had to show it to pay for these shoes with my traveler's cheques.\nP2: Well, let me call the shoe department to see if they'Ve found a passport. Sorry, your passport hasn't turned up there either.\nP1: Then what shall I do?\nP2: You can fill in this lost property report and I will keep my eye out for it. These kinds of things usually turn up eventually, but I suggest you contact your embassy and tell them about your situation, so they can issue you a new passport in case it doesn't show up.\nP1: You are right. Do you have a pen?\nP2: Here you are.\nP1: Oh, I seem to lose something every time I travel",
+    "output_length": 288,
+    "nb_words": 215,
+    "nb_characters": 1059,
+    "input_language": "0",
+    "output_language": "",
+    "language_output": "1"
+}

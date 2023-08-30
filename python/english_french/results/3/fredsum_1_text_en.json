@@ -1,0 +1,15 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/fredsum/1",
+    "model": "mosaicml/mpt-7b-instruct",
+    "instruction": "Summarize the following text:\n\n",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "1239",
+    "text": "The text is a discussion between two French politicians about the National Front party's proposed tax policies. The two politicians are agreeing that the National Front's proposed tax policy is unfair and will disproportionately affect young people. They argue that the National Front's plan to exempt young people from income taxes will benefit the wealthy and the elite, while unfairly targeting young people who are likely to have lower incomes. The politicians also criticize the National Front's plan to exempt young people from paying wealth taxes on their assets, arguing that this measure will benefit the wealthy and the elite while unfairly targeting young people who are likely to have fewer assets. Overall, the politicians agree that the National Front's proposed tax policy is unfair and discriminatory, and will benefit the wealthy and the elite while unfairly targeting young people who are likely to have lower incomes",
+    "output_length": 166,
+    "nb_words": 152,
+    "nb_characters": 935,
+    "input_language": "1",
+    "output_language": "",
+    "language_output": "1"
+}

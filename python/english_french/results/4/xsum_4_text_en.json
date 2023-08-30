@@ -1,0 +1,15 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/xsum/4",
+    "model": "meta-llama/Llama-2-7b-chat-hf",
+    "instruction": "Summarize the following text:\n\n",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "593",
+    "text": "A study on mice found that drugs called Hsp90 inhibitors can strip cancer cells of their defenses against hormone treatments, making them promising for treating drug-resistant cancers, particularly prostate cancer. Prostate cancer is the most common cancer in men in the UK, and it can be treated with hormone treatments that target androgen receptors. However, some prostate cancers don't respond to these treatments because they produce an abnormal form of androgen receptor. The latest research found that Hsp90 inhibitors reduced production of both receptors, making them exciting discoveries for overcoming drug resistance in prostate cancer. The researchers believe that these drugs could be tested in clinical trials on patients with aggressive, drug-resistant prostate cancer.",
+    "output_length": 700,
+    "nb_words": 118,
+    "nb_characters": 787,
+    "input_language": "0",
+    "output_language": "",
+    "language_output": "1"
+}

@@ -1,0 +1,15 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/xsum/5",
+    "model": "meta-llama/Llama-2-7b-chat-hf",
+    "instruction": "Summarize the following text:\n\n",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "693",
+    "text": "The UK economy grew at a rate of 0.3% in the second quarter of 2017, which is in line with economists' expectations. This growth was driven primarily by the services sector, particularly retail, which offset declines in manufacturing and construction. However, the overall growth rate for the first half of 2017 is below expectations, and some analysts have expressed concern about the underlying trends in the economy, particularly given the uncertainties surrounding Brexit and the pressure on household budgets from higher inflation. The International Monetary Fund (IMF) has downgraded its forecast for UK economic growth this year due to the weak first-quarter figure. Despite this, Chancellor Philip Hammond remains optimistic about the economy's performance, highlighting the consistent growth over the past four-and-a-half years. However, Labour shadow chancellor John McDonnell has criticized the government's economic policies, arguing that they have failed to deliver higher wages and living standards for working families.",
+    "output_length": 700,
+    "nb_words": 158,
+    "nb_characters": 1037,
+    "input_language": "0",
+    "output_language": "",
+    "language_output": "1"
+}

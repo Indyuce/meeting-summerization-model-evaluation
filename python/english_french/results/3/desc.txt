@@ -1,0 +1,1 @@
+This inference batch is aimed at testing MPT7B on summarization. There is no French summarization at all.

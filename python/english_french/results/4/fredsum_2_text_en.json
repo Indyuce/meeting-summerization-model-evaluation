@@ -1,0 +1,15 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/fredsum/2",
+    "model": "meta-llama/Llama-2-7b-chat-hf",
+    "instruction": "Summarize the following text:\n\n",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "1332",
+    "text": "The text discusses the issue of young people, particularly those from non-Muslim backgrounds, joining extremist groups such as ISIS. The speakers argue that this is not a new phenomenon, but rather a sign of the failure of the French Republic to fulfill its promises and provide a sense of belonging and purpose to its citizens. They suggest that the vulnerability of these young people is due to the fragility of the society they grow up in, which offers little in terms of ideals and a sense of purpose.\nThe speakers propose that the solution to this problem lies in education, culture, and the emancipatory process of the Republic. They emphasize the importance of providing moral tools to children and young people, and of creating a political will to address the issue. They also stress the need for a more inclusive and diverse society, where all religions are treated equally and where young people feel a sense of belonging.\nThe speakers also argue that the current approach to combating Islamic proselytism is flawed, as it singles out Muslims for criticism and treatment, while ignoring the broader social and cultural factors that contribute to radicalization. They suggest that a more comprehensive approach is needed, one that addresses the root causes of radicalization and provides young people with positive alternatives to extremism.\nOverall, the speakers argue that the issue of young people joining extremist groups is a complex and multifaceted problem, and that it requires a nuanced and comprehensive approach to address it effectively.",
+    "output_length": 700,
+    "nb_words": 520,
+    "nb_characters": 3242,
+    "input_language": "1",
+    "output_language": "",
+    "language_output": "1"
+}

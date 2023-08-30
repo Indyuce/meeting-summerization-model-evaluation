@@ -1,0 +1,15 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/fredsum/3",
+    "model": "meta-llama/Llama-2-7b-chat-hf",
+    "instruction": "Summarize the following text:\n\n",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "1664",
+    "text": "The text appears to be a conversation between two politicians, François Mitterrand and Jacques Chirac, and a moderator, discussing various topics related to French foreign policy and security. The conversation touches on the subjects of disarmament, nuclear deterrence, and the hostage issue.\nMitterrand and Chirac have different views on the importance of nuclear deterrence and the role of France in international affairs. Mitterrand emphasizes the need for France to maintain its nuclear capabilities in order to ensure its security and the balance of power in Europe, while Chirac is more focused on reducing the imbalance in conventional and chemical weapons between Eastern and Western countries.\nChirac also raises concerns about Mitterrand's past actions and judgment, suggesting that he has a history of dividing France and making flawed decisions. Mitterrand responds by arguing that he has always put France's interests first and that his experience and knowledge of French foreign policy are essential for navigating the complex geopolitical landscape.\nOverall, the conversation highlights the complexities and nuances of international relations and the challenges of balancing security, diplomacy, and the interests of different nations.",
+    "output_length": 700,
+    "nb_words": 473,
+    "nb_characters": 2955,
+    "input_language": "1",
+    "output_language": "",
+    "language_output": "1"
+}

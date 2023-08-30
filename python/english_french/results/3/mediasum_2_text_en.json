@@ -1,0 +1,15 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/mediasum/2",
+    "model": "mosaicml/mpt-7b-instruct",
+    "instruction": "Summarize the following text:\n\n",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "914",
+    "text": "The civil rights movement of the 1950s and 1960s was a series of events and struggles that sought to end racial segregation and discrimination in the United States. In the early 1960s, racial segregation in sports was a major issue, and in 1963, the state of Mississippi passed a law banning interracial competition between teams from different states. This law was intended to prevent the state's teams from playing against black teams from other states. However, the law was violated when the University of Mississippi State team, which was all-white, sneaked out of the state in the middle of the night to play in a tournament in Michigan. The team, which was known as the \"Mississippi State Bulldogs,\" won the game against the Loyola University Chicago team, which had four black players. The victory was a major milestone in the civil rights movement, and it helped to end racial segregation in sports",
+    "output_length": 184,
+    "nb_words": 154,
+    "nb_characters": 906,
+    "input_language": "0",
+    "output_language": "",
+    "language_output": "1"
+}

@@ -1,0 +1,15 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/samsum/1",
+    "model": "mosaicml/mpt-7b-instruct",
+    "instruction": "Summarize the following text:\n\n",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "380",
+    "text": "Ollie: Hi, are you in Warsaw\nJane: yes, just back! Btw are you free for diner the 19th?\nOllie: nope!\nJane: and the  18th?\nOllie: nope, we have this party and you must be there, remember?\nJane: oh right! i lost my calendar..  thanks for reminding me\nOllie: we have lunch this week?\nJane: with pleasure!\nOllie: friday?\nJane: ok\nJane: what do you mean \" we don't have any more whisky!\" lol..\nOllie: what!!!\nJane: you just call me and the all thing i heard was that sentence about whisky... what's wrong with you?\nOllie: oh oh... very strange! i have to be carefull may be there is some spy in my mobile! lol\nJane: dont' worry, we'll check on friday.\nOllie: tea is ready, did you bring the pastries?\nJane: I already ate them all... see you in a minute\nOllie: o",
+    "output_length": 243,
+    "nb_words": 146,
+    "nb_characters": 756,
+    "input_language": "0",
+    "output_language": "",
+    "language_output": "1"
+}

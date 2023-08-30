@@ -1,0 +1,15 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/dialogsum/3",
+    "model": "mosaicml/mpt-7b-instruct",
+    "instruction": "Summarize the following text:\n\n",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "349",
+    "text": "The first person in the conversation (P1) asks the second person (P2) how much they drink. P2 responds that they drink \"depending on what you consider a lot\" and that they drink \"couple times a week.\" P1 then asks P2 how much they can drink, to which P2 responds that they can drink \"at least 10 drinks\" and that they usually drink \"all night long.\" P1 then asks P2 how much money they spend when they drink, to which P2 responds that they spend \"no money\" and that they usually go to places that have \"special deals.\" P1 then asks P2 if they like mixed drinks, to which P2 responds that they do like mixed drinks and that some of them are \"pretty good.\" P1 then asks P2 if they spend a lot of money when they drink, to which P2 responds that they spend \"no money\" and that they usually go to places that have \"special deals.\" P2 then suggests that they go out to drink the next night, to which P1 agrees",
+    "output_length": 223,
+    "nb_words": 174,
+    "nb_characters": 904,
+    "input_language": "0",
+    "output_language": "",
+    "language_output": "1"
+}

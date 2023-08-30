@@ -1,0 +1,15 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/dialogsum/2",
+    "model": "meta-llama/Llama-2-7b-chat-hf",
+    "instruction": "Summarize the following text:\n\n",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "576",
+    "text": "The speaker, P1, is expressing their frustration with their current job and has decided to start their own business. However, they are unsure of the process and complexity involved in creating a business plan. P2, a knowledgeable assistant, explains that a well-written business plan includes an executive summary, company description, goods and services, market analysis, strategy and implementation, and financial analysis. P2 highlights the importance of each section and the amount of research and analysis required to create a comprehensive plan. P1 seems overwhelmed by the task and decides to stick with their current job.",
+    "output_length": 700,
+    "nb_words": 454,
+    "nb_characters": 2827,
+    "input_language": "0",
+    "output_language": "",
+    "language_output": "1"
+}

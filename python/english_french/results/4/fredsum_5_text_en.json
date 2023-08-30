@@ -1,0 +1,15 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/fredsum/5",
+    "model": "meta-llama/Llama-2-7b-chat-hf",
+    "instruction": "Summarize the following text:\n\n",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "1018",
+    "text": "The text is a conversation between two people, P1 and FB, discussing the issue of large private groups that rely on government contracts owning media outlets. FB is opposed to this idea and believes that it is important to have independent media in a free country, while P1 is not entirely in agreement. FB mentions that there have been attempts at pressure on the media, but P1 assures them that they have not received any phone calls. The conversation highlights the importance of ensuring that media outlets are not controlled by a small group of powerful individuals or groups, and that diversity of opinions and freedom of expression are protected.",
+    "output_length": 700,
+    "nb_words": 111,
+    "nb_characters": 656,
+    "input_language": "1",
+    "output_language": "",
+    "language_output": "1"
+}

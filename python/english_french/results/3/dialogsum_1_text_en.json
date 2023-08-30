@@ -1,0 +1,15 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/dialogsum/1",
+    "model": "mosaicml/mpt-7b-instruct",
+    "instruction": "Summarize the following text:\n\n",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "327",
+    "text": "P1 and P2 are discussing the traffic situation in a city. P2 is complaining about the traffic jams near the Carrefour intersection, which is a very congested area during rush hour. P1 suggests that P2 should consider taking public transport to work instead of driving, as it would be better for the environment and would reduce P2's stress level. P2 agrees that this is a good idea, but points out that he will miss having the freedom that driving provides. P1 suggests that P2 could start biking to work instead, which would give him the same freedom as driving while also being better for the environment and providing exercise. P2 agrees that this is a good idea and decides to quit driving to work",
+    "output_length": 151,
+    "nb_words": 125,
+    "nb_characters": 701,
+    "input_language": "0",
+    "output_language": "",
+    "language_output": "1"
+}

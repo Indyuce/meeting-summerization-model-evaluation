@@ -1,0 +1,15 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/dialogsum/5",
+    "model": "meta-llama/Llama-2-7b-chat-hf",
+    "instruction": "Summarize the following text:\n\n",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "440",
+    "text": "Of course, I'd be happy to help you summarize the text! Here's a summary of the conversation between Person 1 (P1) and Person 2 (P2):\nP1: Can you help me find my passport? I think I lost it in a department store.\nP2: I'm afraid not, we haven't found any passports here. Have you checked with the shoe department?\nP1: Yes, I used my passport there to pay for some shoes with traveler's cheques.\nP2: I'll call the shoe department to see if they've found it. Sorry, but it hasn't turned up there either.\nP1: What should I do now?\nP2: You can fill out a lost property report and I'll keep an eye out for it. It's best to contact your embassy too, so they can issue you a new passport if it doesn't turn up.\nP1: Oh no, I seem to be losing things every time I travel!\nIn this conversation, P1 is trying to locate their lost passport after using it to pay for shoes in a department store. P2 is helpful and informative, providing support and suggestions for how to proceed.</s",
+    "output_length": 700,
+    "nb_words": 197,
+    "nb_characters": 969,
+    "input_language": "0",
+    "output_language": "",
+    "language_output": "1"
+}

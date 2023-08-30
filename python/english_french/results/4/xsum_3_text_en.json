@@ -1,0 +1,15 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/xsum/3",
+    "model": "meta-llama/Llama-2-7b-chat-hf",
+    "instruction": "Summarize the following text:\n\n",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "1166",
+    "text": "The article discusses the heated debate between the three Republican presidential candidates, Donald Trump, Marco Rubio, and Ted Cruz, during a primary debate in Florida. The candidates clashed on various issues, including immigration, healthcare, and Trump's business record. Rubio and Cruz attacked Trump on his business dealings and conservative credentials, while Trump defended himself and criticized his opponents. The article highlights several memorable quotes from the debate, including Trump's response to Rubio's attack on his business dealings, \"I hired tens of thousands of people. You've hired nobody,\" and Cruz's response to Trump's attack on his conservative credentials, \"Falsely accusing someone of lying is itself a lie, and it's something Donald does daily.\" The article also provides context on the candidates' standings in the race for the Republican nomination, with Trump currently leading in 10 states and Rubio and Cruz trailing behind.",
+    "output_length": 700,
+    "nb_words": 149,
+    "nb_characters": 965,
+    "input_language": "0",
+    "output_language": "",
+    "language_output": "1"
+}

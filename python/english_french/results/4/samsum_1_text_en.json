@@ -1,0 +1,15 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/samsum/1",
+    "model": "meta-llama/Llama-2-7b-chat-hf",
+    "instruction": "Summarize the following text:\n\n",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "528",
+    "text": "Sure, I'd be happy to help you summarize the text! Here's a summary of the conversation between Ollie and Jane:\nOllie: Hi Jane, are you in Warsaw?\nJane: Yes, just back! Are you free for dinner on the 19th?\nOllie: No, I'm not free on either the 18th or 19th.\nJane: Oh right, I lost my calendar. Thanks for reminding me!\nOllie: We can have lunch this week?\nJane: Sure, Friday works for me.\nJane: What do you mean \"we don't have any more whisky\"?\nOllie: Oh, I must have misread something. Don't worry about it!\nJane: Haha, okay! Don't forget to bring some sun on Friday.\nOllie: Looking forward to it!\nJane: Sorry, I'm busy and won't be able to make it for lunch tomorrow. Maybe at 6pm after your courses?\nOllie: Okay, tea is ready! Did you bring the pastries?\nJane: I already ate them all. See you in a minute!",
+    "output_length": 700,
+    "nb_words": 172,
+    "nb_characters": 854,
+    "input_language": "0",
+    "output_language": "",
+    "language_output": "1"
+}

@@ -1,0 +1,15 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/samsum/3",
+    "model": "mosaicml/mpt-7b-instruct",
+    "instruction": "Summarize the following text:\n\n",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "168",
+    "text": "Andrei: Hey, did you pick up the film equipment for tonites shooting?\nSerge: No, Im on my way there now.\nAndrei: Cool. Do you happen to have your credit card with you? We have an outstanding bill to pay with the company.\nSerge: Yeah, I do. Not a lot of available credit on it, but well see when we get there.\nAndrei: OK, thanks. Theyll be glad when we pay it. Its long overdue.\nSerge: Ill let you know if it works out. Getting of the metro now\nAndrei: O",
+    "output_length": 130,
+    "nb_words": 90,
+    "nb_characters": 453,
+    "input_language": "0",
+    "output_language": "",
+    "language_output": "1"
+}

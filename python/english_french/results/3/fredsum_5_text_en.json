@@ -1,0 +1,15 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/fredsum/5",
+    "model": "mosaicml/mpt-7b-instruct",
+    "instruction": "Summarize the following text:\n\n",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "852",
+    "text": "The following is a summary of the text provided:\n\nP2: Are you in favor of a law prohibiting large private groups that rely on government contracts from owning media?\nFB: I am absolutely opposed. I was talking about political lock-in there. I am completely opposed to media control. Well, it's not a secret that this debate has been difficult to organize, it's not a secret for you, you know it very well, since you had the courage to do it. This debate has been hard to organize, as if someone could in a democracy prevent people from speaking together in plain view of everyone. I am convinced that those who practice these kinds of things are mistaken for themselves, not just for us, not just for the citizens. They are mistaken for themselves. They lock themselves into a system from which they will not escape. And the various multiple phone calls. And saying, listen, you're wrong, you shouldn't, is a mistake. A country that moves forward is a country that is willing to open windows. What does it matter? Who could it harm? That, as a candidate in the second round of the presidential election or as a candidate in the first round, we discuss the country together. What is the crime of lese majesty? I saw that there were people on the left who were not satisfied. I know very well, because I receive messages, that there are people on the right who were afraid that it might... But there is nothing simpler than speaking in France. It's because we haven't spoken in France that we are where we are. And that with every election, we discover the deep reality of the country. I am for opening windows",
+    "output_length": 345,
+    "nb_words": 296,
+    "nb_characters": 1607,
+    "input_language": "1",
+    "output_language": "",
+    "language_output": "1"
+}

@@ -1,0 +1,15 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/mediasum/2",
+    "model": "meta-llama/Llama-2-7b-chat-hf",
+    "instruction": "Summarize the following text:\n\n",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "1093",
+    "text": "The text discusses the 1963 NCAA Men's Basketball Tournament game between Loyola University Chicago and Mississippi State University, which was notable for the racial tensions surrounding the game. The game was played during the civil rights movement, and Mississippi State University had a rule that prevented white teams from playing against black teams. Despite this, Mississippi State snuck out of the state at night to play Loyola in the tournament, which was a violation of Mississippi Jim Crow laws. The game was won by Loyola, and it has become a symbol of the civil rights movement. However, sports journalist Kevin Blackistone argues that the game did not lead to significant changes in racial attitudes or policies in Mississippi, and that the focus on white figures in sports stories can overshadow the contributions of black athletes and the ongoing struggles for civil rights.",
+    "output_length": 700,
+    "nb_words": 469,
+    "nb_characters": 2672,
+    "input_language": "0",
+    "output_language": "",
+    "language_output": "1"
+}

@@ -1,0 +1,15 @@
+{
+    "input_path": "datasets/LanguageTestDataSet/xsum/1",
+    "model": "meta-llama/Llama-2-7b-chat-hf",
+    "instruction": "Summarize the following text:\n\n",
+    "success": "1",
+    "over_context": "0",
+    "input_length": "643",
+    "text": "The National Library of Scotland has catalogued the archive of Sir Patrick Leigh Fermor, a renowned travel writer, war hero, and adventurer. The collection includes letters from notable figures such as Prince Charles and Truman Capote, as well as literary manuscripts, sketches, and an unpublished poem by John Betjeman. The archive spans Sir Patrick's life and career, including his travels across Europe in the 1930s, his time on Nazi-occupied Crete during World War II, and his subsequent writing. The library plans to digitize some of the archive and hold exhibitions and displays to make it more accessible to the public. The archive was donated to the library by the John R Murray Charitable Trust, which also supported the cataloguing of the collection.",
+    "output_length": 700,
+    "nb_words": 125,
+    "nb_characters": 763,
+    "input_language": "0",
+    "output_language": "",
+    "language_output": "1"
+}
