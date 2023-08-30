@@ -1,0 +1,53 @@
+{
+  "annotator": "Rayan",
+  "meeting_objective": "L'objectif de cette réunion est de réfléchir sur le genre des films projetés lors du festival, et donc sur le public ciblé.",
+  "agenda": [
+    {
+      "subject": "Films de super-héros",
+      "minutes": [
+        "[25] dit que les gens ont besoin d'espoir pour affronter les enjeux environnementaux et sanitaires. C'est ce que les super-héros, par leur côté humain, peuvent apporter au spectateur",
+        "Les films Marvel, extrêmement populaires, permettraient de toucher un large public inter-générationnel"
+      ]
+    },
+    {
+      "subject": "Genre comédie romance",
+      "minutes": [
+        "[75] propose le genre comédie et romance, pour son côté distrayant et tous publics.",
+        "Certaines figures, comme Di Caprio, sont communément associées dans l'esprit des gens à la romance. Ce serait intéressant de faire venir une telle figure.",
+        "Pour donner une coloration actuelle à l'évènement, il serait intéressant de diffuser un film avec des personnages LGBT pour lancer ensuite la discussion durant la phase d'activités."
+      ]
+    },
+    {
+      "subject": "Genre horreur",
+      "minutes": [
+        "[78] propose le cinéma d'horreur, qui compte une base d'adeptes, amateurs de sensations fortes, à laquelle peut s'ajouter des curieux.",
+        "Ce genre risque de ne pas faire l'unanimité. Mais il existe plusieurs angles, comme le pastiche ou l'intervention de spécialistes de la faculté, pour bénéficier d'un regard nouveau sur le sujet."
+      ]
+    },
+    {
+      "subject": "Films documentaires",
+      "minutes": [
+        "En opposition au flot quotidien d'informations médiatiques courtes, [25] propose le documentaire, qui prend le temps de traiter les sujets en profondeur, appuyé par une expertise scientifique. La diffusion pourra être fractionnée.",
+        "[25] évoque les thèmes de l'environnement, de la société et prend en exemple le documentaire Happiness",
+        "Selon le sujet, cela pourra être adapté aux enfants."
+      ]
+    },
+    {
+      "subject": "Genre aventure",
+      "minutes": [
+        "[75] propose l'aventure, pour s'échapper du quotidien. Ce genre est souvent symbolisé par des acteurs, comme Jean-Paul Belmondo, Harrison Ford, ou des personnages comme James Bond. ",
+        "Ce genre reste indémodable et très large et peut se rattacher facilement à d'autres types de film."
+      ]
+    },
+    {
+      "subject": "Films historiques",
+      "minutes": [
+        "[78] prend pour exemples le succès de la série Netflix The Crown, des films historiques autour de la guerre ou encore de l'Antiquité pour montrer à quel point le genre historique plaît.",
+        "Dans certains films historiques, on retrouve aussi une partie documentaire, qui laisse moins de place à la fiction. Cela les rend d'autant plus intéressants, comme le montre le film très actuel les deux Papes, primé aux oscars."
+      ]
+    }
+  ],
+  "abstractive_summary": "[25], [75] et [78] se réunissent pour réfléchir sur le genre des films qu'ils souhaitent projeter pour leur festival. [25] propose les films de super-héros ou les films documentaires, [75] évoque la comédie et la romance ainsi que l'aventure et [78] propose l'horreur et les films historiques. Pour [25], le documentaire permettrait de s'informer sur les enjeux sociétaux et environnementaux, et les super-héros seraient des figures d'inspiration pour donner espoir sur ces enjeux. [75] pense plutôt à des films distrayants, qui permettraient de s'évader du quotidien. [78] s'intéresse surtout à des genres qui fonctionnent, comme la série Netflix The Crown ou le film documentaire les deux Papes, primé aux oscars. Pour rendre le festival plus intéressant, il est proposé de faire intervenir des figures symboliques comme Di Caprio pour la romance, ou Harrison Ford pour l'aventure. Il est aussi proposé d'inviter des spécialistes de la faculté pour apporter du recul, notamment sur le genre de l'horreur. L'idée de donner une coloration actuelle au festival en représentant des personnages LGBT dans les films est également proposée.",
+  "vocal_summary": null,
+  "meeting_code": "027a_EBRH"
+}

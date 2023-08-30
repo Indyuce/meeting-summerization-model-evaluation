@@ -1,0 +1,42 @@
+{
+  "annotator": "Rayan",
+  "meeting_objective": "L'objectif de cette réunion est de discuter de 3 sujets d'actualité proposés par les 3 interlocuteurs.",
+  "agenda": [
+    {
+      "subject": "Transition numérique",
+      "minutes": [
+        "[83] parle de la transition numérique, qui consiste à passer du support papier au support numérique. Cela produirait moins de déchets, moins de déforestation.",
+        "[83] se pose la question de la gestion des supports numériques, qui reposent sur des data centers encombrants qui consomment énormément d'électricité pas toujours verte. De plus, les composants des supports numériques sont polluants à produire. Il s'agirait de trouver des matériaux moins polluants ou de recycler les supports existants.",
+        "[83] questionne aussi l'accessibilité, avec l'augmentation du coût de l'énergie et donc des factures, du numérique. Cela met en balance les bénéfices écologiques de la transition."
+      ]
+    },
+    {
+      "subject": "Open source",
+      "minutes": [
+        "[100] s'intéresse à l'open source, une pratique qui vise à la création collaborative de programmes informatiques en les laissant en libre accès.",
+        "C'est un contrepoids aux GAFAM qui enferment les usagers dans leur catalogue de produits par incompatibilité et qui les rendent dépendants.",
+        "Un atout, c'est de pouvoir contourner le contrôle étatique ou de ces grosses entreprises sur nos données. L'inconvénient, c'est que la recherche de failles de sécurité est ainsi facilitée pour les hackers."
+      ]
+    },
+    {
+      "subject": "Réseaux sociaux",
+      "minutes": [
+        "Pour [95], les réseaux sociaux sont un sujet récent, avec beaucoup d'utilités.",
+        "Ils permettent de communiquer avec son entourage, de partager ce qu'on vit, ce qu'on veut montrer et de permettre aux autres de réagir à distance. En particulier, d'après [83], la vidéo et la voix enrichissent la communication par rapport à l'utilisation du courrier ou la ligne fixe. Les appels vidéo ont permis de rester en contact avec ses grands-parents durant la pandémie, même si les réseaux pénètrent moins le troisième âge de manière générale.",
+        "[95] dit que lorsqu'on affiche toute sa vie en ligne, on s'expose à la malveillance. Particulièrement pour les jeunes sujets au harcèlement en ligne aux conséquences dramatiques, comme le suicide d'une youtubeuse un mois auparavant.",
+        "Les réseaux sociaux ont aussi un aspect informatif, avec une facilité d'accès à une diversité de médias et la possibilité de voir les réactions des gens. Il y a certaines choses qui ne passent même que sur les réseaux sociaux, comme le sujet des Ouïghours qui a mis du temps à franchir la sphère médiatique classique, d'après [95].",
+        "Enfin, les réseaux sociaux sont créateurs de nouveaux emplois, permettent de booster sa carrière en partageant simplement son travail et peuvent créer des communautés bienveillantes."
+      ]
+    },
+    {
+      "subject": "Débriefing et questions",
+      "minutes": [
+        "Les sujets et arguments évoqués sont rappelés, et [100], qui n'a pas de téléphone portable, questionne les autres sur leur rapport au numérique.",
+        "[95] et [83] disent qu'ils ne pourraient pas vivre sans téléphone portable, notamment pour communiquer avec ceux qui vivent éloignés et qu'ils ne connaissent personne dans leur entourage qui vive ainsi."
+      ]
+    }
+  ],
+  "abstractive_summary": "[95], [83] et [100] se réunissent et présentent chacun à leur tour un sujet d'actualité. [83] parle de la transition numérique, qui consiste à passer du support papier au support numérique pour réduire les déchets et la déforestation. Pour contrebalancer, il s'interroge sur l'impact écologique de la fabrication polluante des appareils numériques et la consommation d'électricité issue des énergies fossiles des data centers. Comme piste, il propose de trouver des matériaux moins polluants ou de recycler les supports existants. [100] s'intéresse à l'open source, une pratique qui vise à la création collaborative de programmes informatiques en les laissant en libre accès. Cela permet de diminuer notre dépendance aux GAFAM et de contourner le contrôle étatique sur nos données. Néanmoins, le travail des hackers est facilité sur du code disponible librement. [95] parle ensuite des réseaux sociaux, qui permettent de faciliter l'interaction avec son entourage, même à distance. Néanmoins, il est dangereux d'y exposer trop d'éléments personnels, car on s'expose à la malveillance. Pour les jeunes, il y a aussi le danger du harcèlement en ligne. Les réseaux sociaux sont aussi une large source d'informations diverses, qui donnent la possibilité de recueillir les avis des autres. On peut y voir plus que dans les médias traditionnels, comme le montre le traitement du sujet Ouïghour. Enfin, cela crée de l'emploi et offre de la visibilité professionnelle. [83] se propose de résumer ce qui a été dit, avant que [100], qui n'a pas de portable, n'interroge [100] et [95] à ce sujet. Les deux répondent qu'ils ne pourraient pas vivre sans portable, ne serait-ce que pour communiquer avec ceux qui vivent à distance.",
+  "vocal_summary": null,
+  "meeting_code": "037a_EARH"
+}
