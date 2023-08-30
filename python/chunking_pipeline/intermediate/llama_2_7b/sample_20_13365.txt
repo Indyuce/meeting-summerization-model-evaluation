@@ -1,0 +1,45 @@
+The meeting is discussing the design of a new remote control for a TV device. The meeting is led by a project manager (PM) and includes an interface designer (ID) and a member of the engineering team (ME). They are reviewing three different prototype designs for the remote control, each with their own unique shape and button layout.
+The first prototype, called the "rhombus," has a ergonomic shape that fits comfortably in the hand and includes four buttons for adjusting volume and changing channels. The middle button can also be used as a power button.
+The second prototype, called the "potato," has a more angular shape and includes only four buttons for volume, channel up and down, and menu navigation. The middle button can also be used as a power button.
+The third prototype, called the "Martian," has a more creative feel and includes a toggle switch on the top for on and off, as well as five preset buttons and menu and channel changing buttons on the sides.
+The team is considering the form, button layout, and color scheme of the remote control, as well as the possibility of having a toned-down version for a middle-aged male customer who might not want a fruity-colored remote. They are also discussing the feature of the remote control not getting lost, which was discussed via email.
+
+The conversation revolves around a group of people discussing the design of a new remote control for a TV. They are considering various features and functionality, such as the shape, size, color, and button layout. They also discuss the possibility of adding an external device that can be attached to the TV to make it easier to find the remote when it's lost. The group decides to evaluate the remotes using a set of criteria they have developed, including simplicity, ease of use, and functionality. They also consider the preference of the users and whether the remote control meets their needs. In the end, they decide to lean towards the "potato" design, which has a simple and intuitive layout of buttons.
+
+Based on the conversation provided, here is a summary of the remote control's features and the scores given by the group:
+* Fancy look and feel: 3 (ID)
+* Unique: 1 (ME)
+* Technologically innovative: 3 (ME)
+* Easy to use: 2 (PM, UI)
+* Spongy quality: 1 (ID)
+* Made of latex or rubber: 1 (ID)
+* Integration of fruits and vegetables: 1 (UI)
+* Design match the appropriate behaviour: 1 (ME)
+* RSI prevention: 2 (ID, ME)
+
+Overall, the group gave the remote control a score of 7 out of 7, with the majority of the features receiving a score of 2 or 3.
+
+The group discussed the remote control for the TV, addressing various aspects such as ease of use, simplicity, fashion, and finances. They provided ratings and comments on each aspect, as follows:
+* Ease of use: 2-4 (depending on individual experience with texting)
+* Simplicity: 2-4 (the menu system and button layout may be confusing at first)
+* Fashion: 1-3 (the remote is fashionable, but not totally simple)
+* International appeal: 2 (the remote should be available in at least three different colour arrangements to appeal to a wider audience)
+* Finances: 1-3 (the cost of the remote is simple, but the supplemental materials, such as the case and rubber, are not yet determined)
+* Special colours: 3 (the remote will have at least three special colours, but the exact number and combination are not yet decided)
+Overall, the group gave ratings and comments on various aspects of the remote control, providing a comprehensive assessment of its features and potential issues.
+
+The conversation revolves around the design and development of a remote control for a smartphone, with a focus on creativity, teamwork, and new ideas. The group discusses the design goals, information gathered from market research, and the creation of prototypes. They also evaluate their process and satisfaction with the project, including the use of digital pens and whiteboards. Additionally, they brainstorm new ideas for remote controls based on fruits and vegetables.
+
+The conversation revolves around a group of people discussing their experiences with remote controls, circuit boards, and brainstorming sessions. They share their thoughts on the usefulness of whiteboards in meetings, the importance of taking notes, and the challenges of working in a group.
+Some key points from the conversation are:
+* The group is excited about the idea of kinetic batteries and the potential for watches that never need a battery (ID, PM)
+* They discuss the pros and cons of different types of remote controls, including the Martian remote (PM, ID)
+* They brainstorm ideas for a master's class, including circuit boards and fashion (ID, PM, ME)
+* They mention the usefulness of Excel and the inspiration they received from taking apart a remote control (PM, ME)
+* They discuss the challenges of working in a group and the importance of having specific notes (ID, PM)
+* They mention the potential for using PowerPoint in meetings instead of whiteboards (UI, ME)
+* They conclude that whiteboards are useful for brainstorming but may not be necessary for larger groups (PM, ID)
+
+The text describes a group of people who worked together to design a remote control for a TV. They had meetings to discuss the design and make decisions about the shape and features of the remote. They also considered the problem of losing the remote and came up with some ideas for how to prevent it, such as using a GPS system or a robot that could walk to the TV and stick there. The group found that they worked well together and were able to make decisions in their meetings, but they also realized that they tended to lose their keys and remotes frequently.
+
+The conversation is about a meeting where the participants are discussing the design of a remote control for a TV. They are considering different colors, such as yellow and grey, and the use of a slogan on the remote. They also mention the possibility of adding slides to a PowerPoint presentation and the importance of including all agenda points. The conversation also touches on the topic of marketing and the use of surveys to gather information. Finally, they mention the idea of creating a remote control shaped like a potato.

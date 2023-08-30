@@ -1,0 +1,37 @@
+The meeting discussed the design requirements for a new remote control. The team was presented with new project requirements from management, which include the following:
+* The device should only cover television, as teletext is no longer important with the rise of the internet.
+* The logo and colors of the company should be incorporated into the design.
+* The device should be simple and easy to use.
+* It should be simple to get the device to market quickly.
+* The team was given individual reports from each member, and there was no order of precedence for who would go first.
+* The team discussed the functionality requirements from the research lab, which included data on how often different functions are used and how much they are necessary.
+* The team also discussed current remote controls and how they are perceived as ugly.
+* The team noted that users tend to use multiple remotes at the same time and that current remotes do not match the operating behavior of the user.
+* The team also discussed the issue of users only using a small percentage of the buttons on a remote control.
+* The team concluded that the device should be designed to be simple, easy to use, and visually appealing, while also meeting the functional requirements of the user.
+
+The text discusses the design of television remote controls and the preferences of users regarding their functionality. The main points from the conversation are:
+1. Fewer buttons: Many people suggest that remote controls should have fewer buttons to make them more sleek and easy to use.
+2. Speech recognition: Some people are willing to pay more for remote controls with speech recognition capabilities, especially younger users.
+3. Relevance of buttons: The relevance of different buttons on a remote control is discussed, with some buttons (such as power and volume) being used more frequently than others (such as channel selection).
+4. Hidden buttons: One idea is to hide less frequently used buttons behind a flip or sliding mechanism, making them easier to access when needed.
+5. Voice recognition: The possibility of using voice recognition instead of buttons is discussed, but the potential technical issues with this approach are also raised.
+6. Buttonless remote: One idea is to create a buttonless remote control with voice recognition capabilities, but this would require a significant change in user behavior and may not be practical for all users.
+7. Importance of buttons: The importance of different buttons on a remote control is discussed, with some buttons (such as channel selection) being used more frequently than others (such as audio settings).
+
+The text discusses the design of a remote control for a television set. The group of people in the conversation are brainstorming ideas for the remote control's design, including the layout of the buttons, the use of color and logos, and the functionality of the remote. They are considering two different design approaches: a "user-centred" design, which has fewer buttons but is easier to use, and an "engineering-centred" design, which has more buttons but may be more complicated to use. They are also considering the importance of making the remote control visually distinctive and easy to use.
+
+The conversation is about designing a new remote control for a television or DVD player. The group discusses various features they would like to include, such as a rechargeable battery, a wide range sender-receiver, and a user-friendly interface. They also mention the possibility of adding a locating device to the remote control so that it can be easily found when it gets stuck under a couch cushion. The conversation also touches on the topic of the life expectancy of remote controls and whether they should be designed to be disposable.
+
+The conversation is about designing a new remote control for digital TVs that is simple, easy to use, and has a long-lasting battery. The speakers discuss various ideas, including:
+* Using a rechargeable battery that can be recharged by magnetic waves or a cordless phone base
+* Having a permanent battery that never needs to be replaced
+* Incorporating channel change and volume buttons into the design
+* Using voice recognition technology instead of buttons
+* Making the remote control's shape radically different from traditional remotes
+* Making the user interface designer's role more important in the design process
+* Only including the main buttons (channel control, volume control, and on/off)
+
+The speakers also mention that the remote control is used for a short amount of time each day, but some people may click on buttons excessively, leading to the need for a more ergonomic design.
+
+The conversation revolves around a project related to a television and DVD player. The team members are discussing the design and features of the product, including the incorporation of the corporate logo and color scheme, as well as the possibility of interchangeable covers. They also mention that they are only working on the television aspect of the project and not the DVD player. The team leader confirms that this is in line with the constraints provided in an email. The team members agree to give some thought to the project for the next meeting.
