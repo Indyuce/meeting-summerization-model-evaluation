@@ -1,0 +1,40 @@
+{
+    "file_name": "test_5",
+    "source_dataset": "4",
+    "language": "0",
+    "text_en": "P1: I've had it! I am done working for a company that is taking me nowhere!\nP2: So what are you gonna do? Just quit?\nP1: That's exactly what I am going to do! I have decided to create my own company! I am going to write up a business plan, get some investors and start working for myself!\nP2: Have you ever written up a business plan before?\nP1: Well, no, it can't be that hard! I mean, all you have to do is explain your business, how you are going to do things and that's it, right?\nP2: You couldn't be more wrong! A well written business plan will include an executive summary which highlights the idea of the business in two pages or less. Then you need to describe your company with information such as what type of legal structure it has, history, etc.\nP1: Well, that seems easy enough.\nP2: Wait, there is more! Then you need to introduce and describe your goods or services. What they are and how they are different from competitors? Then comes the hard part, a market analysis. You need to investigate and analyze hundreds of variables! You need to take into consideration socioeconomic factors from GDP per capita to how many children on average the population has! All this information is useful so that you can move on to your strategy and implementation stage, where you will describe in detail how you will actually execute your idea.\nP1: Geez. Is that all?\nP2: Almost, the most important piece of information for your investors will be the financial analysis. Here you will calculate and estimate sales, cash flow and profits. After all, people will want to know when they will begin to see a return on their investment!\nP1: Umm. I think I ' ll just stick to my old job and save myself all the hassle of trying to start up a business!",
+    "text_fr": "P1: J'en ai assez ! J'en ai marre de travailler pour une entreprise qui ne me mène nulle part !\nP2: Alors que vas-tu faire ? Tout simplement démissionner ?\nP1: C'est exactement ce que je vais faire ! J'ai décidé de créer ma propre entreprise ! Je vais rédiger un plan d'affaires, trouver des investisseurs et commencer à travailler pour moi-même !\nP2: As-tu déjà rédigé un plan d'affaires auparavant ?\nP1: Eh bien, non, ça ne peut pas être si difficile ! Je veux dire, tout ce que vous avez à faire c'est d'expliquer votre entreprise, comment vous allez faire les choses et c'est tout, non ?\nP2: Tu ne pourrais pas avoir plus tort ! Un plan d'affaires bien rédigé comprendra un résumé exécutif qui met en évidence l'idée de l'entreprise en deux pages ou moins. Ensuite, tu dois décrire ton entreprise avec des informations telles que le type de structure juridique qu'elle a, son histoire, etc.\nP1: Eh bien, ça semble assez facile.\nP2: Attends, il y en a plus ! Ensuite, tu dois présenter et décrire tes biens ou services. Ce qu'ils sont et comment ils se différencient des concurrents ? Ensuite vient la partie difficile, une analyse de marché. Tu dois enquêter et analyser des centaines de variables ! Tu dois prendre en compte des facteurs socio-économiques, du PIB par habitant au nombre moyen d'enfants par population ! Toutes ces informations sont utiles pour que tu puisses passer à ta stratégie et à l'étape de mise en œuvre, où tu décriras en détail comment tu exécuteras réellement ton idée.\nP1: Ouah. C'est tout ?\nP2: Presque, la partie la plus importante pour tes investisseurs sera l'analyse financière. Ici, tu calculeras et estimeras les ventes, les flux de trésorerie et les bénéfices. Après tout, les gens voudront savoir quand ils commenceront à voir un retour sur leur investissement !\nP1: Euh. Je pense que je vais simplement rester à mon ancien emploi et m'épargner tout le tracas d'essayer de créer une entreprise !",
+    "summaries": [
+        {
+            "number": "1",
+            "text_en": "P1 wants to create a company and is going to write a business plan. P2 gives P1 suggestions on how to summarise business ideas, describe the service, differ from competitors and attract investment in a good business plan. P1 decides to stick to the old job.",
+            "text_fr": "P1 veut créer une entreprise et va rédiger un plan d'affaires. P2 donne à P1 des suggestions sur la manière de résumer les idées commerciales, de décrire le service, de se différencier des concurrents et d'attirer les investissements dans un bon plan d'entreprise. P1 décide de conserver son ancien emploi.",
+            "nb_words_en": "46",
+            "nb_words_fr": "53",
+            "nb_characters_en": "257",
+            "nb_characters_fr": "306"
+        },
+        {
+            "number": "2",
+            "text_en": "P1 abandons the idea of creating a company after P2 explains what a business plan includes. P2 specifies that a well-written business plan includes an executive summary, goods and service description, strategy and implementation, and financial analysis.",
+            "text_fr": "P1 abandonne l'idée de créer une entreprise après que P2 ait expliqué ce qu'un modèle d'affaires implique. P2 précise qu'un modèle d'affaires bien rédigé comprend un résumé, une description des biens et des services, une stratégie et une mise en œuvre, ainsi qu'une analyse financière.",
+            "nb_words_en": "38",
+            "nb_words_fr": "51",
+            "nb_characters_en": "253",
+            "nb_characters_fr": "285"
+        },
+        {
+            "number": "3",
+            "text_en": "P1 wants to start P1's own business, but P2 warns P1 of the hassle. P2 tells P1 what is needed in a business plan and P1 decides to stick to the old job for now.",
+            "text_fr": "P1 veut créer sa propre entreprise, mais P2 le met en garde contre les tracas qui en résulteraient. P2 explique à P1 ce que doit contenir un plan d'entreprise et P1 décide de conserver son ancien emploi pour l'instant.",
+            "nb_words_en": "36",
+            "nb_words_fr": "41",
+            "nb_characters_en": "161",
+            "nb_characters_fr": "218"
+        }
+    ],
+    "nb_words_en": "327",
+    "nb_words_fr": "344",
+    "nb_characters_en": "1748",
+    "nb_characters_fr": "1937"
+}

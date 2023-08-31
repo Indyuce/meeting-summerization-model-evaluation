@@ -1,0 +1,77 @@
+{
+  "annotator": "Rayan",
+  "meeting_objective": "L'objectif de cette réunion est de répartir les tâches visant à l'organisation du festival de cinéma et de se fixer sur les dates.",
+  "agenda": [
+    {
+      "subject": "Choix des dates",
+      "minutes": [
+        "Le festival d'Avignon a lieu entre le 5 et le 25 juillet. Ils ont retenu les dates du 31 juillet au 4 août."
+      ]
+    },
+    {
+      "subject": "Gestion de la sécurité",
+      "minutes": [
+        "La sécurité sera gérée par la mairie avec la police municipale."
+      ]
+    }
+  ],
+  "assignment": [
+    {
+      "task": "Financement de l'évènement",
+      "description": [
+        "Les locuteurs envisagent la possibilité de bénéficier d'un prêt à taux 0 auprès des banques, garanti par l'état.",
+        "Lancement d'une cagnotte Leetchi."
+      ],
+      "date": "",
+      "assignee": "[215] et [214]"
+    },
+    {
+      "task": "Installation et gestion du matériel",
+      "description": [
+        "Mettre en place les hauts-parleur et la toile de projection.",
+        "[215] assure que son père possède les compétences techniques requises pour ces manoeuvres."
+      ],
+      "date": "",
+      "assignee": "[213] et [216]"
+    },
+    {
+      "task": "Campagne de communication",
+      "description": [
+        "Créer et poster des affiches biodégradables",
+        "Lancer une campagne de communication sur internet, sur les réseaux sociaux etc."
+      ],
+      "date": "",
+      "assignee": "[215] et [214]"
+    },
+    {
+      "task": "Organisation d'ateliers",
+      "description": [
+        "Organiser atelier de confections de poupées en lien avec Chucky.",
+        "Organiser une garderie qui diffuse Miraculous.",
+        "Organiser un atelier de maquillage simple en lien avec Avatar."
+      ],
+      "date": "",
+      "assignee": "[215]"
+    },
+    {
+      "task": "Obtention des autorisations",
+      "description": [
+        "Négociation des tarifs et des dates à la mairie d'Avignon."
+      ],
+      "date": "",
+      "assignee": "[216]"
+    },
+    {
+      "task": "Invitations et partenaires",
+      "description": [
+        "Appeler les boîtes de production pour faire venir des stars. Elles devront venir avec leur propre équipe de sécurité et de maquillage, si besoin.",
+        "Inviter les food-trucks pour la nourriture. Ils gagneront 5 à 10 % sur les recettes des food-trucks."
+      ],
+      "date": "",
+      "assignee": "[213] et [214]"
+    }
+  ],
+  "abstractive_summary": "La réunion a pour objectif la répartition des tâches entre les 4 interlocuteurs ainsi que le choix des dates pour l'organisation d'un festival de cinéma à Avignon. Ils s'accordent pour choisir les dates de l'évènement, qui doit commencer un lundi, autour du festival d'Avignon ayant lieu de 5 au 25 juillet. Les dates retenues sont donc du 31 juillet au 4 août. [214] et [215] s'occuperont de financer l'évènement, en lançant une cagnotte Leetchi ainsi qu'un prêt à taux 0 garanti par l'état auprès d'une banque. [213] et [216] mettront en place les haut-parleurs et la toile, avec l'aide du père de [215], compétent techniquement. La publicité sera réalisée par [214] et [215] sur les réseaux sociaux, ainsi qu'avec des affiches biodégradables chères, pour ne pas polluer. Les ateliers d'animation suivants sont proposés: confection de poupées dans le style de Chucky, garderie et diffusion de Miraculous, maquillage simple d'Avatar, cirque et spectacle de lions en lien avec Narnia, mais ce dernier n'est pas retenu. [215] propose d'inviter le tiktokeur célèbre Rodrigo pour assurer la sécurité de l'évènement, avant de décider que la sécurité sera gérée par la police municipale. [216], en tant qu'avignonnais, souhaite négocier les tarifs et les dates auprès de la mairie, bien qu'il ne connaisse pas le maire actuel. [213], qui parle bien anglais, appelera les boîtes de production pour faire venir les stars des films projetés. Ils viendront avec leur propre équipe, de sécurité et de maquillage. [214] invitera les food-trucks, sur lesquels ils récupèreront 5 à 10% des recettes. Le fait qu'une personne de l'organisation s'occupe de la nourriture n'a pas été retenu.",
+  "vocal_summary": null,
+  "meeting_code": "097c_EBPH"
+}

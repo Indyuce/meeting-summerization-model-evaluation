@@ -1,0 +1,40 @@
+{
+    "file_name": "test_56",
+    "source_dataset": "4",
+    "language": "0",
+    "text_en": "P1: Excuse me, could you help me?\nP2: Yes, what seems to be the problem?\nP1: Well. I was wondering if anyone has turned in a passport?\nP2: I am afraid not. Have you lost your passport?\nP1: I think so. I can't find it anywhere in my hotel room and I remember the last place I used it yesterday was in this department store.\nP2: Where exactly did you use your passport in the store?\nP1: In the shoe department. I had to show it to pay for these shoes with my traveler's cheques.\nP2: Well, let me call the shoe department to see if they'Ve found a passport. Sorry, your passport hasn't turned up there either.\nP1: Then what shall I do?\nP2: You can fill in this lost property report and I will keep my eye out for it. These kinds of things usually turn up eventually, but I suggest you contact your embassy and tell them about your situation, so they can issue you a new passport in case it doesn't show up.\nP1: You are right. Do you have a pen?\nP2: Here you are.\nP1: Oh, I seem to lose something every time I travel.",
+    "text_fr": "P1: Excusez-moi, pourriez-vous m'aider ?\nP2: Oui, quel semble être le problème ?\nP1: Eh bien. Je me demandais si quelqu'un avait remis un passeport ?\nP2: J'ai bien peur que non. Avez-vous perdu votre passeport ?\nP1: Je pense que oui. Je n'arrive pas à le trouver nulle part dans ma chambre d'hôtel et je me souviens que le dernier endroit où je l'ai utilisé hier était dans ce grand magasin.\nP2: Où exactement avez-vous utilisé votre passeport dans le magasin ?\nP1: Dans le rayon chaussures. J'ai dû le montrer pour payer ces chaussures avec mes chèques de voyage.\nP2: Eh bien, laissez-moi appeler le rayon chaussures pour voir s'ils ont trouvé un passeport. Désolé, mais votre passeport n'a pas été trouvé là non plus.\nP1: Alors que dois-je faire ?\nP2: Vous pouvez remplir ce formulaire de perte d'objet et je garderai un œil ouvert. Ce genre de choses finit généralement par réapparaître, mais je vous suggère de contacter votre ambassade et de leur expliquer votre situation, afin qu'ils puissent vous délivrer un nouveau passeport au cas où il n'apparaîtrait pas.\nP1: Vous avez raison. Auriez-vous un stylo ?\nP2: Voici.\nP1: Oh, j'ai l'impression de perdre quelque chose à chaque fois que je voyage.",
+    "summaries": [
+        {
+            "number": "1",
+            "text_en": "P1 lost P1's passport. P2 suggests P1 fill in the lost property report and inform the embassy of the situation so they can issue a new passport in case it cannot be found.",
+            "text_fr": "P1 a perdu son passeport. P2 suggère à P1 de remplir le formulaire d'objet perdu et d'informer l'ambassade de la situation pour qu'ils envoient un nouveau passeport si il n'est pas retrouvé.",
+            "nb_words_en": "34",
+            "nb_words_fr": "37",
+            "nb_characters_en": "171",
+            "nb_characters_fr": "190"
+        },
+        {
+            "number": "2",
+            "text_en": "P1 asks P2 for help to find P1's passport. P2 checks the shoe department but finds nothing. Thus, P2 lets P1 fill in a report and contact the embassy.",
+            "text_fr": "P1 demande de l'aide à P2 pour retrouver son passeport. P2 vérifie au département chaussures mais ne trouve rien. P2 laisse alors P1 remplir un formulaire et contacter l'ambassade.",
+            "nb_words_en": "30",
+            "nb_words_fr": "31",
+            "nb_characters_en": "150",
+            "nb_characters_fr": "180"
+        },
+        {
+            "number": "3",
+            "text_en": "P1 lost the passport. P2 suggests P1 fill in the lost property report and contact the embassy.",
+            "text_fr": "P1 a perdu son passeport. P2 suggère à P1 de remplir le formulaire d'objet perdu et de contacter l'ambassade.",
+            "nb_words_en": "17",
+            "nb_words_fr": "21",
+            "nb_characters_en": "94",
+            "nb_characters_fr": "109"
+        }
+    ],
+    "nb_words_en": "206",
+    "nb_words_fr": "222",
+    "nb_characters_en": "1013",
+    "nb_characters_fr": "1202"
+}

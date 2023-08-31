@@ -1,0 +1,582 @@
+D: OK .
+D: So , uh
+D: You can fill those out , uh <pause> after , actually ,
+D: so
+D: So , I got , uh <pause> these results from , uh , Stephane .
+D: Also , um , I think that , uh <pause> um <pause> we might hear later today , about other results .
+D: I think s that , uh , there were some other very good results that we 're gonna wanna compare to .
+D: But , <vocalsound> r our results from other <disfmarker> other places ,
+D: yeah .
+A: I I 'm sorry ?
+A: I didn't
+D: Um , I got this from you
+A: Yeah .
+D: and then I sent a note to Sunil about the <disfmarker> cuz he has been running some other systems
+D: other than the <disfmarker> the ICSI OGI one .
+A: Mm - hmm .
+A: Oh yeah .
+D: So <pause> um , I wan wanna <disfmarker> wanna see what that is .
+D: But , uh , you know , so we 'll see what it is comparatively later .
+D: But <pause> it looks like , um
+A: M yeah .
+D: You know most of the time , even <disfmarker> I mean even though it 's true that the overall number for Danish <disfmarker> we didn't improve it
+D: If you look at it individually , what it really says is that there 's , um , uh
+D: Looks like out of the six cases , between the different kinds of , uh , matching conditions <pause> out of the six cases , there 's basically , um , a couple where it stays about the same ,
+D: uh , three where it gets better , and one where it gets worse .
+A: Yeah .
+D: Uh , go ahead .
+A: Y Actually , uh , um , for the Danish , there 's still some kind of mystery
+A: because , um , um , when we use the straight features , we are not able to get these nice number
+A: with the ICSI OGI one , I mean .
+A: We don't have this ninety - three seventy - eight , we have
+A: eight
+E: Eighty - nine forty - four .
+A: yeah .
+A: Uh , so , uh , that 's probably something wrong with the features that we get from OGI .
+A: Uh , and Sunil is working on <disfmarker> on trying to <disfmarker> to check everything .
+D: Oh ,
+D: and <disfmarker> and we have a little time on that <disfmarker> and <disfmarker> actually
+D: so
+A: Hmm ?
+D: We have a little bit of time on that , actually .
+A: Yeah .
+D: We have a day or so ,
+D: so
+D: When <disfmarker> when <disfmarker> when do you folks leave ?
+A: Uh , Sunday .
+D: Sunday ?
+D: So
+D: So , uh
+D: Yeah ,
+D: until Saturday midnight , or something , we have
+D: W we <disfmarker> we have time ,
+D: yeah .
+D: Well , that would be good .
+D: That 'd be good .
+A: Yeah .
+D: Yeah .
+D: Uh , and , you know , i u when whenever anybody figures it out they should also , for sure , email Hynek
+D: because Hynek will be over there <vocalsound> telling people <vocalsound> what we did ,
+D: so he should know .
+A: Mmm .
+D: Good ,
+A: Yeah .
+D: OK .
+D: So , um
+D: So , we 'll <disfmarker> we 'll hold off on that a little bit .
+D: I mean , even with these results as they are , it 's <disfmarker> it 's <disfmarker> it 's really not that bad .
+D: But <disfmarker> but , uh , um
+D: And it looks like the overall result as they are now , even without , you know , any <disfmarker> any bugs being fixed is that , uh , on the <disfmarker> the other tasks , we had this average of , uh , forty uh <disfmarker> nine percent , or so , improvement .
+D: And here we have somewhat better than that than the Danish , and somewhat worse than that on the German ,
+D: but I mean , it sounds like , uh , one way or another , the methods that we 're doing can reduce the error rate from <disfmarker> from mel ceptrum <pause> down by , you know <pause> a fourth of them to , uh , a half of them .
+D: Somewhere in there , depending on the <pause> exact case .
+D: So
+D: So that 's good .
+D: I mean , I think that , uh , one of the things that Hynek was talking about was understanding what was in the other really good proposals
+D: and <disfmarker>
+D: and trying to see if what should ultimately be proposed is some , uh , combination of things .
+D: Um , if , uh <disfmarker>
+D: Cuz there 's things that they are doing <pause> there that we certainly are not doing .
+D: And there 's things that we 're doing that <pause> they 're not doing .
+D: And <disfmarker> and they all seem like good things .
+A: Yeah .
+E: Mmm , yeah .
+D: So
+D: So
+C: How much <disfmarker> how much better was the best system than ours ?
+D: Well , we don't know yet .
+C: Mmm .
+D: Uh , I mean , first place , there 's still this thing to <disfmarker> to work out ,
+D: and second place <disfmarker> second thing is that the only results that we have so far from before were really development set results .
+C: Oh , OK .
+D: So , I think in this community that 's of interest .
+D: It 's not like everything is being pinned on the evaluation set .
+D: But , um , for the development set , our best result was a little bit short of fifty percent .
+D: And the best result of any system was about fifty - four ,
+D: where these numbers are the , uh , relative , uh , reduction in , uh , word error rate .
+C: Oh ,
+C: OK .
+D: And , um , the other systems were , uh , somewhat lower than that .
+D: There was actually <disfmarker> there was much less of a huge range than there was in Aurora one .
+D: In Aurora one there were <disfmarker> there were systems that ba basically didn't improve things .
+C: Hmm .
+D: And here the <disfmarker> the worst system <pause> still reduced the error rate by thirty - three percent , or something , in development set .
+C: Oh , wow .
+D: So <disfmarker> so , you know , sort of everybody is doing things between , well , roughly a third of the errors , and half the errors being eliminated , <vocalsound> uh , and varying on different test sets and so forth .
+C: Mm - hmm .
+D: So I think
+D: Um <pause> It 's probably a good time to look at what 's really going on and seeing if there 's a <disfmarker> there 's a way to combine the best ideas
+D: while at the same time not blowing up the amount of , uh , resources used ,
+D: cuz that 's <disfmarker> that 's critical for this <disfmarker> this test .
+C: Do we know anything about <disfmarker>
+C: who <disfmarker> who 's was it that had the lowest on the dev set ?
+D: Um , uh , the , uh , the there were two systems that were put forth by a combination of <disfmarker> of , uh , French Telecom and Alcatel .
+D: And , um they <disfmarker> they differed in some respects ,
+D: but they e em one was called the French Telecom Alcatel System the other was called the Alcatel French Telecom System , <vocalsound> uh , which is the biggest difference , I think .
+D: But <disfmarker> but there 're <disfmarker> there 're <disfmarker> there 're some other differences , too .
+D: Uh , and <disfmarker> and , uh , they both did very well ,
+C: Uh - huh .
+D: you know ?
+D: So , <vocalsound> um , my impression is they also did very well on <disfmarker> on the <disfmarker> the , uh , evaluation set ,
+D: but , um , I <disfmarker> I we haven't seen <disfmarker>
+D: you 've - you haven't seen any final results for that
+D: yeah .
+C: And they used <disfmarker> the main thing that <disfmarker> that they used was spectral subtraction ?
+C: Or
+D: There is a couple pieces to it .
+D: There 's a spectral subtraction style piece <disfmarker> it was basically , you know , Wiener filtering .
+D: And then <disfmarker> then there was some p some modification of the cepstral parameters , where they <disfmarker>
+A: Yeah ,
+A: actually , something that 's close to cepstral mean subtraction .
+A: But , uh , the way the mean is adapted <disfmarker> um , it 's signal dependent .
+A: I 'm <disfmarker> I 'm , uh
+A: So , basically , the mean is adapted during speech and not during silence .
+D: Yeah .
+A: But it 's very close to <disfmarker> to cepstral mean subtraction .
+D: But some people have done <vocalsound> <pause> exactly that sort of thing ,
+D: of <disfmarker> of <disfmarker> and the <disfmarker> I mean it 's not <disfmarker> To <disfmarker> to look in <pause> speech only , to try to m to measure these things during speech ,
+A: Yeah ,
+A: yeah .
+D: that 's p that 's not that uncommon .
+D: But i it it <disfmarker> so it looks like they did some <disfmarker> some , uh , reasonable things ,
+D: uh , and they 're not things that we did , precisely .
+D: We did unreasonable things , <vocalsound> which <disfmarker> because we like to try strange things ,
+D: and <disfmarker> and , uh , and our things worked too .
+C: Hmm .
+D: And so , um ,
+D: uh , it 's possible that some combination of these different things that were done would be the best thing to do .
+D: But the only caveat to that is that everybody 's being real conscious of how much memory and how much CPU they 're using
+D: because these , <vocalsound> <vocalsound> <vocalsound> uh , standards are supposed to go on cell phones with m moderate resources in both respects .
+C: Mm - hmm .
+C: Did anybody , uh , do anything with the models as a <disfmarker> an experiment ?
+C: Or
+D: Uh , they didn't report it , if they did .
+C: N nobody reported it ?
+D: Yeah .
+D: I think everybody was focused elsewhere .
+D: Um , now , one of the things that 's nice about what we did is , we do have a <disfmarker> a , uh <disfmarker> a filtering , which leads to a <disfmarker> a , uh <disfmarker> a reduction in the bandwidth in the modulation spectrum , which allows us to downsample .
+D: So , uh , as a result of that we have a reduced , um , transmission rate for the bits .
+C: Mm - hmm .
+D: That was misreported the first time out .
+D: It <disfmarker> it said the same amount because for convenience sake in the particular way that this is being tested , uh , they were repeating the packets .
+D: So it was <disfmarker> they were s they <disfmarker> they had twenty - four hundred bits per second , but they were literally creating forty - eight hundred bits per second , <vocalsound> um , even though y it was just repeated .
+C: Oh .
+C: Mm - hmm .
+C: Right .
+D: So , uh , in practice
+C: So you could 've had a repeat count in there or something .
+D: Well , n I mean , this was just a ph phoney thing just to <disfmarker> to fit into the <disfmarker> the software that was testing the errors <disfmarker> channel errors and so on .
+C: Oh .
+D: So <disfmarker>
+C: Oh .
+D: so in reality , if you put this <disfmarker> this system in into , uh , the field , it would be twenty - four hundred bits per second , not forty - eight hundred .
+D: So ,
+D: um , so that 's a nice feature of what <disfmarker> what we did .
+D: Um ,
+D: but , um , well , we still have to see how it all comes out .
+C: Hmm .
+D: Um , and then there 's the whole standards process , which is another thing altogether .
+C: When is the development set <disfmarker> I mean , the , uh , uh , test set results due ?
+C: Like the day before you leave or something ?
+D: Uh , probably the day after they leave ,
+D: but we 'll have to <disfmarker> <vocalsound> we 'll have to stop it the day before <comment> we leave .
+A: Yeah , yeah .
+A: So
+C: Huh .
+D: I think tha I think the <disfmarker> the meeting is on the thirteenth or something .
+A: Yeah ,
+A: this Tuesday ,
+A: yeah .
+D: And , uh ,
+D: they , uh
+D: Right .
+D: And the <disfmarker> the , uh , results are due like the day before the meeting or something .
+D: So
+A: Yeah ,
+A: probably ,
+A: well
+D: I th I think <disfmarker> I I think they are ,
+A: Yeah , well
+D: yeah .
+D: So <pause> <vocalsound> um , since we have a bit farther to travel than <vocalsound> some of the others , <vocalsound> uh , we 'll have to get done a little quicker .
+D: But , um , I mean , it 's just tracing down these bugs .
+D: I mean , just exactly this sort of thing of , you know , why <disfmarker> why these features seem to be behaving differently , uh , in California than in Oregon .
+C: Hmm .
+D: Might have something to do with electricity shortage .
+D: Uh , we didn't <disfmarker> we didn't have enough electrons here
+D: and
+D: Uh , but , um
+D: Uh , I think , you know , the main reason for having <disfmarker>
+D: I mean , it only takes w to run the <disfmarker> the two test sets in <disfmarker> just in computer time is just a day or so ,
+D: right ?
+D: So
+A: Yeah ,
+A: it 's very short interval .
+D: yeah .
+D: So , I think the who the whole reason for having as long as we have , which was <pause> like a week and a half , is <disfmarker> is because of bugs like that .
+D: So
+D: Huh
+D: So , we 're gonna end up with these same kind of sheets that have the <pause> the percentages and so on just for the <disfmarker>
+A: Yeah , so there are two more columns in the sheets ,
+D: Oh , I guess it 's the same sheets ,
+D: yeah ,
+A: two . Yeah ,
+A: it 's the same sheets ,
+D: yeah <disfmarker>
+D: just with the missing columns filled in .
+A: yeah .
+A: Yeah .
+D: Yeah .
+D: Well , that 'll be good .
+D: So , I 'll dis I 'll disregard these numbers .
+D: That 's <disfmarker> that 's <disfmarker> that 's good .
+A: So , Hynek will try to push for trying to combine , uh , different things ?
+A: Or
+D: Uh , well that 's <pause> um
+A: Hmm ?
+D: yeah
+D: I mean , I think the question is " Is there <disfmarker> is there some advantage ? "
+D: I mean , you could just take the best system and say that 's the standard .
+D: But the thing is that if different systems are getting at good things , um , a again within the constraint of the resources , if there 's something simple that you can do
+D: Now for instance , uh , it 's , I think , very reasonable to have a standard for the terminal 's side and then for the server 's side say , " Here 's a number of things that could be done . "
+D: So , um , everything that we did could probably just be added on to what Alcatel did ,
+D: and i it 'd probably work pretty well with them , too .
+D: So ,
+D: um , uh , that 's one <disfmarker> one aspect of it .
+D: And then on the terminal 's side , I don't know how much , um , memory and <disfmarker> and CPU it takes , but it seems like the filtering <pause> Uh ,
+D: I mean , the VAD stuff they both had ,
+D: right ?
+D: And , um , so <disfmarker> and they both had some kind of on - line normalization ,
+D: right ?
+A: Uh , yeah .
+D: Of sorts ,
+D: yeah ?
+D: So <disfmarker>
+D: so , it seems like the main different there is the <disfmarker> is the , uh , filtering .
+D: And the filtering <disfmarker> I think if you can <disfmarker>
+D: shouldn't take a lot of memory to do that Uh , and I also wouldn't think the CPU , uh , would be much either for that part .
+D: So , if you can <disfmarker> if you can add those in <pause> um <pause> then , uh , you can cut the data rate in half .
+A: Yeah .
+D: So it seems like the right thing to do is to <disfmarker> on the <disfmarker> on the terminal 's side , take what they did , if it <disfmarker> if it does seem to generalize well to German and Danish ,
+D: uh , take what they did add in a filter , and add in some stuff on the server 's side
+D: and <disfmarker> and <disfmarker> and that 's probably a reasonable standard .
+D: Um <pause> Uh
+A: They are working on this already ?
+A: Because <disfmarker> yeah , Su - Sunil told me that he was trying already to put some kind of , uh , filtering in the <vocalsound> <pause> France Telecom .
+D: Yeah , so that 's <disfmarker> that 's <disfmarker> that 's what
+D: That would be ideal <disfmarker> would be is that they could , you know , they could actually show that , in fact , a combination of some sort , <vocalsound> uh , would work even better than what <disfmarker> what any of the systems had .
+D: And , um , then it would <disfmarker> it would , uh <pause> be something to <disfmarker> to discuss in the meeting .
+D: But , uh , not clear what will go on .
+D: Um , I mean , on the one hand , um , sometimes people are just anxious to get a standard out there .
+D: I mean , you can always have another standard after that ,
+D: but <vocalsound> this process has gone on for a while on <disfmarker> already
+D: and <disfmarker> and people might just wanna pick something and say , " OK , this is it . "
+D: And then , that 's a standard .
+D: Uh , standards are always optional .
+D: It 's just that , uh , if you disobey them , then you risk not being able to sell your product ,
+D: or <pause> <vocalsound> Uh <pause> um
+D: And people often work on new standards while an old standard is in place and so on .
+D: So it 's not final even if they declared a standard .
+D: The other hand , they might just say they just don't know enough yet to <disfmarker> to declare a standard .
+D: So
+D: you <disfmarker> you <disfmarker> you will be <disfmarker> you will become experts on this and know more <disfmarker> far more than me about the tha this particular standards process once you <disfmarker> you go to this meeting .
+D: So ,
+D: be interested in hearing .
+D: So , uh , I 'd be , uh , interested in hearing , uh , your thoughts now
+D: I mean you 're almost done .
+D: I mean , you 're done in the sense that , um , you may be able to get some new features from Sunil , and we 'll re - run it .
+D: Uh , but other than that , you 're <disfmarker> you 're basically done ,
+D: right ?
+D: So , uh , I 'm interested in hearing <disfmarker> hearing your thoughts about <pause> where you think we should go from this .
+A: Yeah .
+D: I mean , we tried a lot of things in a hurry ,
+D: and , uh , if we can back off from this now and sort of take our time with something , and not have doing things quickly be quite so much the constraint , what <disfmarker> what you think would be the best thing to do .
+A: Uh , well
+A: Hmm
+A: Well , first , uh , to really have a look at <disfmarker> at the speech <pause> <vocalsound> from these databases
+A: because , well , we tried several thing ,
+A: but we did not really look <vocalsound> at what what 's happening , and <vocalsound> where is the noise , and
+D: OK .
+A: Eh
+D: It 's a novel idea .
+D: Look at the data .
+D: OK .
+A: Yeah .
+D: Or more generally , I guess , what <disfmarker> what is causing the degradation .
+A: Yeah ,
+A: yeah .
+A: Actually , there is one thing that <disfmarker> well <pause> Um , generally we <disfmarker> we think that <vocalsound> most of the errors are within phoneme classes ,
+A: and
+A: so I think it could be interesting to <disfmarker> to see if it <disfmarker> I don't think it 's still true when we add noise ,
+A: and <vocalsound> so we have <disfmarker> I <disfmarker> I guess the confusion ma the confusion matrices are very different when <disfmarker> when we have noise , and when it 's clean speech .
+A: And probably , there is much more <pause> between classes errors for noisy speech .
+D: Mm - hmm .
+A: And <vocalsound> so , um
+A: Yeah , so perhaps we could have a <disfmarker> a large gain , eh , just by looking at improving the , uh , recognition , not of phonemes , but of phoneme classes , simply .
+D: Mm - hmm .
+A: And <vocalsound> which is a s a s a simpler problem , perhaps , but <disfmarker> which is perhaps important for noisy speech .
+D: The other thing that strikes me , just looking at these numbers is , just taking the best cases ,
+D: I mean , some of these , of course , even with all of our <disfmarker> our wonderful processing , still are horrible kinds of numbers .
+D: But just take the best case , the well - matched <pause> uh , German case after <disfmarker> er well - matched Danish after we <disfmarker>
+A: Mm - hmm .
+D: the kind of numbers we 're getting are about eight or nine <pause> uh <pause> p percent <pause> error <pause> per digit .
+A: Mm - hmm .
+A: Yeah .
+D: This is obviously not usable ,
+D: right ?
+A: No .
+D: I mean , if you have ten digits for a phone number <comment> I mean , every now and then you 'll get it right .
+A: Sure .
+D: I mean , it 's <disfmarker> it 's , uh , <vocalsound> um
+D: So , I mean , the other thing is that , uh <disfmarker>
+D: And <disfmarker> and <disfmarker> a and <disfmarker> and also , um <pause> part of what 's nice about this is that this is , uh , <vocalsound> um <pause> a realistic <disfmarker> almost realistic database .
+D: I mean , it 's still not people who are really trying to accomplish something ,
+D: but <disfmarker> but , uh , within the artificial setup , it isn't noise artificially added , you know , simulated , uh , additive noise .
+A: Mm - hmm .
+D: It 's real noise condition .
+D: And , um , <vocalsound> the <disfmarker> the training <disfmarker> the training , I guess , is always done on the close talking
+A: No ,
+A: actually <disfmarker> actually the well - matched condition <pause> is <pause> still quite di still quite difficult .
+D: No ?
+A: I mean , it 's <disfmarker> they have all these data from the close mike and from the distant mike , <vocalsound> from different driving condition , open window , closed window ,
+D: Yeah .
+A: and they take all of this
+A: and they take seventy percent , I think , for training and thirty percent for testing .
+E: Mm - hmm .
+A: So , training is done <vocalsound> on different conditions and different microphones ,
+A: and testing also is done <pause> on different microphone and conditions .
+A: So , probably if we only take the close microphones , <vocalsound> I guess the results should be much much better than this .
+D: I see .
+A: Mmm .
+D: Oh , OK ,
+D: that explains it partially .
+A: Uh
+D: Wha - what about
+D: i in <disfmarker> so the <disfmarker> the <disfmarker>
+A: Yeah ,
+A: so <disfmarker> there is this , the mismatched is , um <pause> the same kind of thing ,
+D: go ahead .
+A: but <pause> the driving conditions , I mean the speed and the kind of road , is different for training and testing ,
+A: is that right ?
+E: Yeah .
+A: And the last condition is close microphone for training and distant for testing .
+A: Yeah .
+D: Uh , OK ,
+D: so
+A: So <disfmarker> <vocalsound> s so <disfmarker>
+D: I see .
+D: So , yeah ,
+D: so the high <disfmarker> so the <disfmarker> right <disfmarker> so the highly mismatched <vocalsound> case <pause> is in some sense a good model for what we 've been , you know , typically talking about when we talk about additive noise in <disfmarker>
+D: And so <disfmarker> and i i k it does correspond to a realistic situation in the sense that , <vocalsound> um , people might really be trying to , uh , call out telephone numbers or some or something like that , in <disfmarker> in their cars
+A: Yeah .
+D: and they 're trying to connect to something .
+A: Mmm .
+D: Um
+A: Actually , yeah , it 's very close to clean speech training because , well , because the close microphone <vocalsound> and noisy speech testing ,
+D: Yeah .
+D: Yeah .
+D: Yeah .
+A: yeah .
+A: Mmm .
+D: And the well - matched condition <pause> is what you might imagine that you might be able to approach , if you know that this is the application .
+D: You 're gonna record a bunch on people in cars and so forth , and do these training .
+D: And then , uh , when y you sell it to somebody , they will be a different person with a different car , and so on .
+D: So it 's <disfmarker> this is a an optim somewhat optimistic view on it ,
+D: uh , so , you know , the real thing is somewhere in between the two .
+D: Uh ,
+A: Yeah .
+D: uh , but
+A: But the <disfmarker> I mean , the <pause> th th
+D: Even the optimistic one is
+A: it doesn't work .
+D: Yeah ,
+D: right .
+A: It <disfmarker>
+D: Right ,
+D: it doesn't work .
+D: So , in a way , that 's , you know , that 's sort of the dominant thing
+D: is that even , say on the development set stuff that we saw , the , uh , the numbers that , uh , that Alcatel was getting when choosing out the best single numbers , <vocalsound> it was just <disfmarker> you know , it wasn't good enough for <disfmarker> for <pause> a <disfmarker> a <disfmarker> for a real system .
+A: Mmm .
+A: Mm - hmm .
+D: You <disfmarker> you <disfmarker>
+D: you , <vocalsound> um
+D: So , uh , we still have stuff to do .
+A: Yeah .
+D: Uh , and , uh
+D: I don't know
+D: So , looking at the data , where , you know <disfmarker> what 's the <disfmarker> what 's <disfmarker> what 's th what 's characteristic
+D: i e yeah , I think that 's <disfmarker> that 's a good thing .
+D: Does a any you have any thoughts about what else <vocalsound> y you 're thinking that you didn't get to that you would like to do if you had more time ?
+D: Uh
+E: Oh , f a lot of thing .
+E: Because we trying a lot of s <pause> thing ,
+E: and we doesn't work , <vocalsound> we remove these .
+E: Maybe <vocalsound> we trying again with the articulatory feature .
+E: I don't know exactly
+E: because we tried <disfmarker> we <disfmarker> some <disfmarker> one experiment that doesn't work .
+E: Um , forgot it , something <pause> I don't know exactly
+D: Mm - hmm .
+E: because , tsk <comment> <vocalsound> maybe do better some step the general , <vocalsound> eh , diagram .
+D: Mm - hmm .
+E: I don't know exactly s to think what we can improve .
+D: Yeah , cuz a lot of time it 's true ,
+D: there were a lot of times when we 've tried something and it didn't work right away , even though we had an intuition that there should be something there .
+D: And so then we would just stop it .
+D: Um
+D: And , uh , one of the things <disfmarker> I don't remember the details on , but I remember at some point , when you were working with a second stream , and you tried a low - pass filtering to cepstrum , in some case you got <disfmarker>
+E: MSG Yeah .
+D: Well , but it was <comment> an MSG - like thing , but it wasn't MSG ,
+D: right ?
+D: Uh , you <disfmarker> y I think in some case you got some little improvement ,
+D: but it was , you know , sort of a small improvement ,
+D: and it was a <disfmarker> a big added complication , so you dropped it .
+D: But , um , that was just sort of one try ,
+D: right ?
+D: You just took one filter , threw it there ,
+A: Yeah ,
+D: right ?
+D: And it seems to me that , um , if that is an important idea , which , you know , might be , that one could work at it for a while , as you 're saying .
+A: Hmm .
+D: And , uh
+D: Uh , and you had , you know , you had the multi - band things also , and , you know , there was issue of that .
+A: Yeah ,
+E: Mm - hmm .
+D: Um , Barry 's going to be , uh , continuing working on multi - band things as well .
+D: We were just talking about , um , <vocalsound> some , uh , some work that we 're interested in .
+D: Kind of inspired by the stuff by Larry Saul with the , uh <pause> uh , learning articulatory feature in <disfmarker> I think , in the case of his paper <disfmarker> with sonorance based on , uh , multi - band information where you have a <disfmarker> a combination of gradient learning an and , uh , EM .
+A: Mm - hmm .
+D: Um , and <pause> <vocalsound> <vocalsound> Um ,
+D: so , I think that , you know , this is a , uh <disfmarker> this is a neat data set .
+D: Um , and then , uh , as we mentioned before , we also have the <disfmarker> the new , uh , digit set coming up from recordings in this room .
+D: So , there 's a lot of things to work with .
+D: Um
+D: and , uh
+D: what I like about it , in a way , is that , uh , the results are still so terrible .
+D: Uh <pause> <vocalsound> Uh <pause> <vocalsound> I mean , they 're much better than they were , you know .
+D: We 're talking about thirty to sixty percent , uh , error rate reduction .
+D: That 's <disfmarker> that 's really great stuff to <disfmarker> to do that in relatively short time .
+D: But even after that it 's still , you know , so poor that <disfmarker> that , uh , no one could really use it .
+D: So , um
+D: I think that 's great that <disfmarker> because <disfmarker> and y also because again , it 's not something <disfmarker>
+D: sometimes we 've gotten terrible results by taking some data , and artificially , you know , convolving it with some room response , or something <disfmarker>
+D: we take a very <disfmarker>
+D: Uh , at one point , uh , Brian and I went downstairs into the <disfmarker> the basement where it was <disfmarker> it was in a hallway where it was very reverberant
+D: and we <disfmarker> we made some recordings there .
+D: And then we <vocalsound> <disfmarker> we , uh <disfmarker> uh , made a simulation of the <disfmarker> of the room acoustics there and <disfmarker> and applied it to other things ,
+A: Mm - hmm .
+D: and uh
+D: But it was all pretty artificial ,
+D: and <disfmarker> and , you know , how often would you really try to have your most crucial conversations in this very reverberant hallway ?
+D: Um <pause> So ,
+D: uh <pause> This is what 's nice about the Aurora data and the data here , is that <disfmarker> is that it 's sort of a realistic room situation <pause> uh , acoustics <disfmarker> acoustic situation , both terms in noise and reflections , and so on
+D: and n n And , uh ,
+D: uh , with something that 's still relatively realistic , it 's still very very hard to do very well .
+D: So
+D: Yeah .
+A: Yeah ,
+A: so d
+A: well
+A: Actually , this is <disfmarker> tha that 's why we <disfmarker>
+A: well , it 's a different kind of data .
+A: We 're not <disfmarker> we 're not used to work with this kind of data .
+D: Yeah .
+A: That 's why we should have a loo more closer look at what 's going on .
+E: Mm - hmm .
+A: Um
+A: Yeah .
+A: So this would be the first thing ,
+A: and then , of course , try to <disfmarker> well , <vocalsound> kind of debug what was wrong , eh , when we do Aurora test on the MSG <pause> particularly , and on the multi - band .
+D: Yeah .
+D: Yeah .
+D: Yeah .
+A: Uh
+D: Yeah .
+D: Yeah .
+D: No , I <disfmarker> I think there 's lots of <disfmarker> lots of good things to do with this .
+D: So
+D: Um
+D: So let 's <disfmarker>
+D: I guess <pause> You were gonna say something else ?
+D: Oh , OK .
+D: What do you think ?
+C: About
+D: Anything
+C: About other experiments ?
+C: Uh , now , I 'm interested in , um , uh <pause> looking at the experiments where you use , um <pause> uh , data from multiple languages to train the neural net .
+C: And I don't know how far , or if you guys even had a chance to try that , but <pause> that would be some it 'd be interesting to me .
+A: Yeah , but
+D: S b
+A: Again , it 's the kind of <disfmarker> of thing that , uh , we were thin thinking <disfmarker> thinking that it would work , but it didn't work .
+A: And , eh , so there is kind of <disfmarker> of <pause> not a bug , but something wrong in what we are doing , perhaps .
+D: Yeah .
+C: Right .
+C: Right .
+C: Right .
+A: Uh , something wrong , perhaps in the <disfmarker> just in the <disfmarker> the fact that the labels are <disfmarker>
+A: well
+C: Mm - hmm .
+A: What worked best is the hand - labeled data .
+C: Mm - hmm .
+A: Um
+A: Uh , so , yeah .
+A: I don't know if we can get some hand - labeled data from other languages .
+C: Yeah .
+A: It 's not so easy to find .
+C: Right .
+A: But <pause> that would be something interesting t to <disfmarker> to see .
+C: Yeah ,
+C: yeah .
+D: Yeah .
+D: Also , uh , <vocalsound> I mean , there was just the whole notion of having multiple nets that were trained on different data .
+D: So one form of different data was <disfmarker> is from different languages , but the other
+D: Well , i in fact , uh , m in those experiments it wasn't so much combining multiple nets , it was a single net that had different
+A: Yeah .
+D: So , first thing is would it be better if they were multiple nets , for some reason ?
+D: Second thing is , never mind the different languages , just having acoustic conditions rather than training them all up in one ,
+D: would it be helpful to have different ones ?
+D: So , um
+D: That was a question that was kind of raised by Mike Shire 's thesis , and on <disfmarker> in that case in terms of reverberation .
+D: Right ?
+D: That <disfmarker> that sometimes it might be better to do that .
+D: But , um , <vocalsound> I don't think we know for sure .
+D: So , um
+D: Right .
+D: So , next week , we , uh , won't meet because you 'll be in Europe .
+D: Whe - when are you two getting back ?
+E: Um , I 'm
+A: You on Friday or S on Saturday
+E: Sunday
+A: or <pause> ?
+E: because it 's <disfmarker> it 's less expensive , the price <disfmarker> the price the ticket .
+A: S oh yeah , Sunday , yeah .
+D: Yeah , that 's right .
+D: You 've gotta S have a Saturday overnight ,
+D: right ?
+A: I 'll be back on Tuesday .
+D: Tuesday .
+C: Where <disfmarker> where 's the meeting ?
+D: Uh , Amsterdam , I think ,
+A: Yeah , Amsterdam .
+D: yeah ?
+C: Uh - huh .
+D: Yeah .
+D: Yeah , yeah .
+D: Yep .
+D: Um <pause> So , we 'll skip next week , and we 'll meet two weeks from now .
+D: And , uh , I guess the main topic will be , uh , you telling us what happened .
+A: Yeah .
+E: Yeah .
+D: Uh , so
+D: Yeah ,
+D: well , if we don't have an anything else to discuss , we should , uh , turn off the machine and then say the real nasty things .
+C: Should we do digits first ?
+B: Oh , yeah , digits .
+D: Oh yeah , digits !
+A: Yeah .
+D: Yeah .
+D: Good point .
+D: Yeah ,
+D: good thinking .
+D: Why don't you go ahead .
+C: OK .
+C: OK .
