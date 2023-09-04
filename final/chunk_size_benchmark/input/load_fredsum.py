@@ -29,7 +29,7 @@ def to_transcript(json_object):
         
     return transcript
 
-root_folder = '../../../Datasets/FredSum_std/'
+root_folder = '../../../Datasets/FredSum_std.ignored/'
 folder_names = os.listdir(root_folder)
 random.shuffle(folder_names)
 

@@ -28,8 +28,10 @@ def to_transcript(json_object):
         
     return transcript
 
+root_folder = '../../../Datasets/summre_transcripts_minutes.ignored/'
+
 counter = 0
-for file_name in os.listdir('summre/.ignored'):
+for file_name in os.listdir(root_folder):
     if not(file_name.endswith('_minutes.json')):
         continue
 
@@ -38,11 +40,11 @@ for file_name in os.listdir('summre/.ignored'):
     cropped = '_'.join(file_name.split('_')[:2])
 
     # Load minutes > summary
-    minutes_file = open('summre/.ignored/' + file_name, 'r', encoding='utf-8')
+    minutes_file = open(root_folder + file_name, 'r', encoding='utf-8')
     summary = json.load(minutes_file)['abstractive_summary']
     minutes_file.close()
     
-    transcript_file = open('summre/.ignored/' + cropped + '_merged_CM.json', 'r', encoding='utf-8')
+    transcript_file = open(root_folder + cropped + '_merged_CM.json', 'r', encoding='utf-8')
     transcript = to_transcript(json.load(transcript_file))
     transcript_file.close()
 
