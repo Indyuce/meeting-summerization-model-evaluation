@@ -6,6 +6,7 @@ import random
 from datasets import load_dataset
 import json
 from huggingface_login import perform_login
+from json_builder import to_json
 
 MAX_SAMPLES = 30
 
@@ -42,20 +43,11 @@ for index in range(len(dataset)):
     # Get info from dataset
     dataset_sample = dataset[index]
     dialogue = format_transcript(dataset_sample['transcript'])
-    dialogue_length = len(dialogue)
-
-    json_dict = {
-        'reference': dataset_sample['summary'],
-        'id': dataset_sample['id'],
-        'dialogue': dialogue,
-        'dialogue_length': dialogue_length
-    }
-
-    json_object = json.dumps(json_dict)
+    summary = dataset_sample['summary']
     
     # Write to file
     target_text_file = open('ami/sample_' + str(counter) + '.txt', 'w', encoding = 'utf-8')
-    target_text_file.write(json_object)
+    target_text_file.write(to_json(dialogue, summary))
     target_text_file.close()
 
 print('Done!')
