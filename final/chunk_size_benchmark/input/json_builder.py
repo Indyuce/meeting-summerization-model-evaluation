@@ -7,4 +7,5 @@ def to_json(transcript, summary):
         'summary': summary
     }
 
-    return json.dumps(json_dict)
+    # Important for non ascii characters!!!
+    return json.dumps(json_dict, ensure_ascii=False)
