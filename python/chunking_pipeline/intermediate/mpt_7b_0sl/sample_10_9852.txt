@@ -1,0 +1,148 @@
+The following is a summary of the above text:
+
+<UI> All hooked up.
+<UI> Okay, so now we are here at the functional design meeting.
+<UI> Um hopefully this meeting I'll be doing a little bit less talking than I did last time 'cause this is when you get to show us what you've been doing individually.
+<UI> The agenda for the meeting, I put it in the shared documents folder.
+<UI> I don't know if that meant that you could see it or not.
+<UI> Did anyone?
+<ME> No.
+<UI> Oh well.
+<UI> Um I'll try and do that for the next meeting as well so if you check in there, there's a shared project documents folder.
+<UI> Project documents, yeah.
+<UI> So I'll put it in there.
+<ME> Oh okay, yeah.
+<UI> Is it best if I send you an email maybe, to let you know it's there?
+<ME> Yes, I think so.
+<UI> Yep.
+<UI> I'll do that next time.
+<UI> Um I'll act as secretary for this meeting and just take minutes as we go through, and then I'll send them to you after the meeting.
+<UI> The main the main focus of this meeting is your presentations that you've been preparing during the time, so we'll go through each of you one by one.
+<UI> Um then we need to briefly discuss the new project requirements that were sent to us.
+<UI> I just sent at the last minute, I'm sorry about that, but we can see how that affects what you were you were doing.
+<ME> Yeah, the last minute, yeah, yeah.
+<ME> Yeah.
+<UI> Um and then we need to, by the end of the meeting come to some kind of decision on who our target group's going to be and what the functions of the remote control that's the the main goal is to come up with those two things, target group and functions of the remote control.
+<UI> And we've got forty minutes to do that in.
+<UI> So I would say yeah?
+<ID> You said that the last bullet was the new requirements, and we need to 
+
+The remote control is a device that allows the user to interact with a television set.  The remote control has a chip that communicates with the television set.  The chip is powered by a battery.  The chip communicates with the television set using infrared light.  The television set has an infrared receiver that receives the infrared light from the chip.  The television set can then respond to the infrared light from the chip.  The user interface is a button on the remote control that the user presses to communicate with the chip.  The chip then generates a response that is communicated to the television set using infrared light.  The television set has an infrared receiver that receives the infrared light from the chip.  The television set can then respond to the infrared light from the chip.  The user interface can be a light that indicates whether the television set is on or communicating.  The user interface can also be a bulb that indicates whether the user interface is on or off.  The user interface can also be a button that the user presses to communicate with the television set.  The television set can then respond to the user interface.  The user interface can also be a light that indicates whether the user interface is on or off.  The user interface can also be a button that the user presses to communicate with the television set.  The television set can then respond to the user interface.
+
+The following is a summary of the above text:
+
+Maarika: "Um um I also okay. Sorry, could you go back for a second? Switching on off channel, volume, that's great. 'Kay. Um um among the findings I found that most of the curr presently available remote controls also include other functionalities in their design, like operating a VCR, but they don't seem to be able to deal with DVD players, but then there are surely there are many other functionalities that could possibly be added to them, but according to the last minute update actually we do not want to have all this complicated functions added to our design."
+
+User Interface: "Mm-hmm."
+
+Maarika: "So my personal preferences would be to keep the whole remote control small just like the physical size. And then it must be easy to use, so it must follow some conventions like whereabouts you find the on off button and maybe the colour tends to be red or something. Then yeah, the must-have buttons would be on off and then the channel numbers and then the one that allows us to go to the next or the previous channel, and then volume has to be there. But then other functionalities could be just that there could be a menu button and you could change things on the screen then, for example brightness and similar functions could be just done through the menu. And yeah, the last question I had about whether we wanted to incorporate more functionalities, the answer was already no because of the last minute update."
+
+User Interface: "Mm-hmm."
+
+Maarika: "So at the for the time being that's all."
+
+User Interface: "If you have questions Yeah, and also it's it's other question is whether we wanted to incorporate more functionalities, the answer was already no because of the last minute update."
+
+Maarika: "So at the for the time being that's all."
+
+Here is a summary of the above text:
+
+“People don’t like current remote controls, so you should be looking at something quite different.”
+
+“Seventy five percent of users find most remote controls ugly.”
+
+“The other twenty five percent have no fashion sense.”
+
+“Eighty percent of users would spend more to get a nice looking remote control.”
+
+“Current remote controls, they don’t match the user behaviour well, as you’ll see on the next slide.”
+
+“I dunno what zapping is, but Oh, right.”
+
+“Fifty percent of users say they only use ten percent of the buttons, so that’s going back to what, you know, we were saying earlier about, you know, do you need all the buttons on the remote control, they just make it look ugly.”
+
+“Okay?”
+
+“Cool.”
+
+“This is my little graph thing.  It’s cones, ‘cause I thought they’d be more exciting.”
+
+“Oh.  I liked the, I liked the little litt ooh come back.”
+
+“Okay, I’m gonna stop playing with the little pointy thing.”
+
+“Okay, so what it shows is how much things are used relatively and what you can clearly see from that is the thing that’s used most is the channel selection.”
+
+“What you can’t see is volume selection, it’s a little bit higher than all the others.”
+
+“This is my little graph thing.  It’s cones, ‘cause I thought they’d be more exciting.”
+
+“The rest of them, you know, nobody really uses and so that’s the the numbers along the top represent their like their importance, you know, so on a scale of one to ten, how important is that.”
+
+“Sleek, stylish, sophisticated, you know, so something that’s, you know, a bit cool.”
+
+“Functional, so it’s useful, but minimalist.”
+
+“There’s an important thing that, you know, people use when, you know, you’re filling up your home, you know, a lot of people fill up their home with bits of crap, basically, and you’ve got all this stuff, and you’re ju
+
+The following is a summary of the above conversation:
+
+<PM> Um okay, then a long battery life, like you were talking about earlier and um, you know, I was thinking that solar power would be quite cool because, you know, your remote control just sits there, and you could just sit it in the sunshine and save the environment a bit.
+<PM> Um and then like a locator, so you know, kind of like you have for a mobile phone or not a mobile phone Yeah, that's it, you know.
+<ID> Mm.
+<ID> Some kind of a ring, some Right.
+<UI> Keys and things like that, yeah.
+<UI> Whistle and it screams at you, yeah.
+<PM> I know, it's weird.
+<PM> My flatmate and I were talking about this on the way into uni this morning and I was like I need to get one for everything.
+<PM> So yeah, so maybe something where you clap and then it beeps, something a kind of sound that you don't often hear on the TV, you know, 'cause you don't want your remote control beeping every five minutes, 'cause you you'd then deliberately lose it by throwing it out the window or something.
+<UI> Mm-hmm.
+<PM> So okay?
+<ID> Cool.
+<PM> That's me.
+<UI> That's you, excellent.
+<ID> Okay, that's great, thanks.
+<ME> Um that's very good, very interesting.
+<UI> Um.
+<UI> I'm just gonna tick yes.
+<ID> Mm-hmm.
+<ME> Mm-hmm.
+<UI> Mm-hmm.
+<UI> Yeah.
+<UI> Then again I guess the survey did say that people between twenty five to thirty five years old were more likely to use voice recognition, so if we want to target that age group, we'll need to make it more appealing to them.
+<ID> Mm-hmm.
+<UI> Mm-hmm.
+<UI> Yeah.
+<ID> Mm-hmm.
+<UI> Mm-hmm.
+<UI> Mm-hmm.
+
+The following is a summary of the above conversation:
+
+<ID> Bu but even even in the case of twenty five to thirty five it's quite popular, right?
+<ME> Yeah, we're still yeah.
+<UI> Yeah.
+<ID> So mm uh are are are Mm.
+<ME> Or w maybe we can just kind of uh uh Yeah, but at the same time I think maybe we can we can just decide to to have both of these groups as our target, because actually I mean they're all still re young people.
+<PM> Yeah.
+<PM> I think I think the fact that, you know, ninety one point two percent of fifteen to twenty five year olds are saying yes, I would pay more for a voice recognition remote control, does say quite a lot really.
+<UI> Yeah.
+<UI> You know, so I mean that and the disposable income and I don't think it's something to ignore, you know.
+<PM> Is not a massive difference, you know.
+<UI> Yeah.
+<UI> Yeah, if we ta if we take fifteen to thirty five, but that then does imply that we should try and incorporate voice recognition.
+<PM> No, do totally.
+<UI> Is that gonna have a an implication for the technical specs?
+<ID> Um I was having a a general outlook on um m most like sophisticated features, but voice recognition itself I'm not very sure about, because one of the p uh things that Cat pointed out was uh uh how do we go about implementing it?
+<UI> Mm-hmm.
+<ID> Uh and uh Yeah.
+<UI> Is that gonna have a an implication for the technical specs?
+<PM> Do totally.
+<UI> Yeah, but maybe if you look at the technical specs of the TV, and then you look at the technical specs of the remote control, and then you look at the technical specs of the voice recognition, and you try and work out how to implement it, you might find that it's not as easy as you think.
+<PM> Yeah, that's a good point.
+<UI> Yeah, that's a good point.
+<ID> Mm.
+<UI> Mm-hmm.
+<ID> Ri
+
+The summary of the conversation is that the remote control is kept close to the person watching the television, because it is used to control the television, and yelling at the television is difficult from a distance.  The remote control is kept close to the person watching the television because it is used to control the television, and yelling at the television is difficult from a distance.
