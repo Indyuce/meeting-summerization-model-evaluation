@@ -1,0 +1,26 @@
+The meeting discussed the design of a new remote control for televisions, with the goal of creating a device that is simple, easy to use, and aesthetically pleasing. The team was presented with new project requirements from management, which include the following:
+* The device should only cover television functions, with no mention of teletext or other media.
+* The logo and colors of the company should be incorporated into the design.
+* The device should be simple and easy to use, with a focus on quick market release.
+* The team was also asked to consider the following functionality requirements:
+* The device should be able to control multiple functions at once.
+* The device should be able to recognize and respond to voice commands.
+* The device should be designed to be comfortable to hold and use, with fewer buttons and a more ergonomic design.
+* The team was also asked to consider the following user preferences:
+* Seventy-five percent of users find current remote controls to be ugly.
+* Eighty percent of users would be willing to pay more for a remote control that is more aesthetically pleasing.
+* Fifty percent of users only use ten percent of the buttons on their remote controls.
+* Users often lose remote controls and find it difficult to locate them.
+* The team was also asked to consider the following challenges:
+* The device must be easy to use for new users.
+* The device must be comfortable to hold and use.
+* The device must be able to recognize and respond to voice commands.
+* The team was given a report on user behavior and preferences, which included the above information.
+
+The conversation revolves around the design of a remote control for a TV, with a focus on making it user-friendly and intuitive. The group discusses various ideas, including a buttonless remote control with voice recognition, a remote with hidden buttons that can be accessed by flipping the device, and a design that incorporates the TV's logo and colors. They also consider the importance of identifying essential buttons, such as channel and volume, and potential technical issues with voice recognition. The group also touches on the issue of people losing remotes and how to make them desirable enough that people will buy a replacement if they lose it.
+
+The text describes a brainstorming session for designing a new remote control for a television set. The group discusses various ideas for the design of the remote, including the number of buttons, the shape, and the features that should be included. They consider both user-centered and engineering-centered approaches to design, and look at examples of other similar products for inspiration. The group also discusses the technical challenges of creating a remote control, such as power requirements and the need for a unique design that is easy to use and find.
+
+The conversation revolves around designing a remote control for a television that is easy to use and has a long-lasting battery. The team discusses various ideas, including using a rechargeable battery, a wide range sender-receiver, and a user-friendly interface. They also consider the possibility of reducing the number of moving parts and using a combination of light and battery power to extend the battery life. The team agrees that the remote control should be designed with simplicity and cost-effectiveness in mind, while also taking into account the needs of the user.
+
+The conversation revolves around a market research finding that the number of times people press the channel button on their TV remote control per hour is 168. The group discusses the implications of this finding, including the potential for a redesign of the TV remote control with fewer buttons and a focus on voice recognition. They also consider the importance of incorporating the corporate logo and color scheme, as well as the possibility of interchangeable covers. The conversation concludes with a mention of the focus being on television only, with no plans to include DVD players.

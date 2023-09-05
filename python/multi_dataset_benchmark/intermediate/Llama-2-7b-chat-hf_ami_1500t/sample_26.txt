@@ -1,0 +1,22 @@
+The meeting discussed the functional design of a remote control, with the goal of determining the user requirements and technical functions of the device. The presentations covered the considerations for the remote control's design, including the inclusion of buttons for basic functions such as channel switching, volume control, and power, as well as more advanced features like playback controls for VHS and DVD players. The group also discussed the importance of considering the user experience and aesthetics of the remote control. The meeting ended with a discussion on the functional requirements of the remote control, including the results of a user survey that found that 75% of users find current remote controls to be unattractive.
+
+The text describes a meeting where a team is discussing the design of a new remote control. They have found that most people only use about 10% of the buttons on their current remote controls, and that users prefer a simple and high-tech design. The team also wants to include speech recognition technology in the remote, as consumers are interested in this feature. They also mention that their rival companies have manufactured remotes with a beeping function that can help locate the remote if it is lost. The team is looking to create a working design that is both user-friendly and visually appealing.
+
+The group is discussing the design of a new TV remote control. They have identified the following components and features:
+* Power source (batteries)
+* Smart chip for multi-functionality and universal application
+* Infra-red bulb for communication with TV and other devices
+* Large on-off button for ease of use
+* Selection button for selecting different entertainment devices
+* Extra bulb for flashiness and reassurance
+* Glow-in-the-dark feature for visibility in the dark
+* Larger buttons for ease of use
+* Oval or round shape for aesthetics
+
+The group is considering the design of the remote and the components they will need to include. They are also discussing the importance of promoting their company through the design of the remote.
+
+The meeting discusses the development of a new remote control for TVs, with a focus on making it user-friendly and easy to use for a wide range of users, including children and adults. The group agrees that the remote should have a simple and intuitive design, with a limited number of buttons to accommodate the most frequently used functions, such as changing channels, turning the TV on and off, and adjusting the volume. They also want to include a finding device, such as a homing feature, to help locate the remote if it is lost under a couch cushion or elsewhere. Additionally, the group suggests including a charger for the remote, similar to a phone charger, to make it more convenient and easy to use.
+
+The conversation revolves around the development of a new remote control for a television. The team discusses various features and functionalities they want to include, such as speech recognition, color, and logo. They also consider the target demographic, which is people aged 25-35, who are likely to watch a lot of TV and use the remote frequently. The team decides to simplify the remote by removing unnecessary buttons and focusing on the most essential functions, such as on/off, volume, mute, channel up/down, and numbers 0-9. They also want to include audio settings and screen settings, such as brightness and color, but decide to access them from the television itself rather than the remote.
+
+The meeting discussed the design of a new television remote control with additional buttons for subtitles, audio, and video settings. The group agreed that having separate buttons for these functions would be more convenient than using a menu button, and they brainstormed ideas for the button layout. They also discussed the possibility of incorporating voice recognition capabilities into the remote. The meeting was concluded with each person assigned specific tasks to work on during the lunch break and individual work time.

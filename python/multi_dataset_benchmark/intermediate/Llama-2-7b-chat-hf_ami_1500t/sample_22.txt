@@ -1,0 +1,18 @@
+The meeting discusses the design of a new remote control for a television, with the main requirements being that it must be television-only, have the company's colors (red and black), and include the slogan "We put fashion in electronics." The team also wants to avoid using metal in the design due to potential interference and safety concerns. The Industrial Designer presents a brief overview of how remote controls work, including the use of infrared signals and microchips, and suggests using primarily plastic construction with an alkaline battery backup and high-grade recycled plastic for the user interface. The team also discusses the use of modern types of polymers or plastics that could potentially have aesthetic value.
+
+The speaker is discussing the results of a usability test on TV remotes, which revealed that the majority of users only use a few basic functions, such as changing channels and adjusting the volume, while the more complex features are not often used. The test also found that users find it frustrating when they cannot find their remote control and that a pager or something similar could be useful. The speaker mentions that younger demographics are interested in voice recognition options, but it is unclear if this is something the company is ready to pursue technically. The speaker suggests that the design should be simple and sleek, catering to a younger demographic.
+
+The group is discussing the development of a new remote control for a television that incorporates various advanced features such as voice recognition, touchpad, and simplified button layout. They are considering the target market for the product, which is primarily the younger demographic, but with options for older users as well. The group is also discussing the technical aspects of the product, including the use of microchips and the potential for interference with other devices. They are considering the cost of the product and how to balance the features with the price to meet their goal of selling the remote controls for €12.50 each.
+
+The meeting discusses the design and features of a new remote control for a TV. The main points of the discussion are:
+* The idea of including a touch screen and face plates, but it may be difficult to make them interchangeable.
+* The cost of including face plates and the potential impact on the overall cost of the remote control.
+* The possibility of using recycled plastic for the casing.
+* The idea of including a high-quality battery technology to make the remote control last longer.
+* The potential for people to lose the remote control and the need for a docking base.
+* The possibility of using a new battery technology that lasts for twenty years.
+* The decision to go with a touch screen and some kind of cutting-edge battery technology, with the option to default to a simple plastic design if necessary.
+* The importance of presenting the remote control well and making the basics easy to use.
+* The possibility of including a voice recognition option for simple functions, with a simple button for paging.
+
+The team is discussing the design of a new remote control for a device. They are considering the use of a touch screen and the possibility of allowing users to input different types of skins for the interface. They also want to include the company's logo or motto on the screen. The team is also thinking about how to incorporate fashion into the design of the remote. They are considering a black and red color scheme and want to make sure the device is easy to use and has a long battery life. The team is also discussing the idea of having a subliminal message appear on the screen for a brief period of time when the device turns on.

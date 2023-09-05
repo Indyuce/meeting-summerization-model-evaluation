@@ -1,0 +1,19 @@
+The meeting discussed the design of a new remote control for a television, with a focus on making it easy to use and aesthetically pleasing for consumers. The team considered various factors, including the age group of potential users, the need for speech recognition, and the difficulty of operating existing remote controls. They also discussed the importance of making the remote control trendy and fashionable, in line with the company's motto. The team members agreed to take into account these factors and findings when designing the remote control, with the goal of enhancing profits and sales.
+
+The text discusses the design of a new remote control for a TV, with a focus on making it more user-friendly and differentiating it from existing designs. The team brainstorms ideas for the remote's design, including a gimmick feature such as a glow-in-the-dark button, and a novel feature such as automatic speech recognition or noise detection. The team also considers the limitations and practical considerations of the design, such as cost and the need to keep the remote stuck to the TV for production purposes. The conversation touches on the importance of making the remote look sleek and organic, and the potential for using voice recognition or other novel features to set the remote apart from others on the market.
+
+The text describes a meeting between several people discussing the design of a new remote control for a television. They are trying to decide on the features and functionality of the remote, including the use of speech recognition, a glow-in-the-dark design, and a small number of buttons. They also want to incorporate the company's corporate colours and logo. Some of the ideas mentioned include using a TFT display, interactive display, and a basic selection of buttons that can be accessed through a menu at the top. The meeting attendees also discuss the potential problems with speech recognition, such as noise interference, and how to work around them.
+
+The text discusses the development of a new remote control for a TV, with various features and ideas being considered and rejected. The main points include:
+* The remote control should have a glow-in-the-dark logo and slogan for easy visibility
+* The remote control should have a speech recognition system for controlling the TV without pressing buttons
+* The remote control should have a limited number of buttons for a more organic, fashionable design
+* The remote control should be programmable for custom button functions
+* The TFT (Thin-Film Transistor) screen idea was considered but deemed too expensive
+* The speech recognition system was also considered but deemed too expensive
+* The remote control should have a glow-in-the-dark material for easy finding
+* The logo and slogan should be integrated into the design
+* The remote control should be programmable for custom button functions
+* The project documents are located on the AMI scenario controller.
+
+The conversation revolves around a brainstorming session for a new remote control design. The group discusses various ideas, including using a rubbery material for the remote, making it more ergonomic and durable, and incorporating a fashionable design. They also consider the safety aspect of the remote and the potential for children to chew on it. The group also discusses the possibility of making the remote control a big red ball with no buttons, and using a small logo with a yellow strip or yellow with the logo in it. They also touch on the idea of putting fashion into electronics and the potential for the remote to vibrate when buttons are pressed. Finally, they discuss the need for a questionnaire to gather more ideas and feedback.

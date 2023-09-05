@@ -1,0 +1,15 @@
+The meeting discussed the design of a new remote control for a television set. The team was given guidelines by the board, including the requirement that the remote control only be used for television functions, the inclusion of the company's colors and slogan, and the prohibition of teletext. The Industrial Designer presented their findings, including the potential for interference with the remote's signal if too much metal is used in the design, and suggested primarily plastic construction. The User Interface Developer followed with their presentation, highlighting the need for a simple and easy-to-use design, and proposing the use of modern plastics or polymers to achieve aesthetic value.
+
+The text describes a meeting where a group of people are discussing the design of a new remote control for a television. They have conducted market research and user testing to determine what features are most important to consumers. The majority of participants preferred simple, easy-to-use remotes with basic functions such as channel changing, volume control, and power on/off. They also expressed a desire for voice recognition capabilities, particularly among younger demographics. The group is considering incorporating a touchpad screen for additional functionality, but are unsure if it is technically feasible or cost-effective. They are also exploring the idea of using a locator device that can be activated with a voice command, such as " locate TV."
+
+The main points discussed in the meeting are:
+1. The remote control should have a touch screen with several submenus for extra functions.
+2. The basic functions such as channels, volume, and on/off should be large and easy to access.
+3. The voice recognition feature is a possibility, but it may be limited to simple functions.
+4. The battery life is a concern, and new battery technology may be necessary to make the remote control last longer.
+5. The design and presentation of the remote control are important, and the team will focus on these aspects.
+6. The price of the remote control is set at 12 Euros.
+7. The team will evaluate the market for face plates and determine whether to include them in the final product.
+8. The team will also consider the cost of including a docking base for the remote control.
+
+The team is discussing the design of a new remote control for a device. They are considering the use of a touch screen and the possibility of allowing users to input different types of skins for the interface. They also discuss the importance of including the company's logo and colors on the touch screen, and the potential for using a subliminal message to display the company's name. The team agrees that it is important for the remote to be easy to use and have a simple design, and they consider the idea of using a sleep mode to conserve battery life. They also discuss the possibility of saving the meeting minutes and files in a shared folder for future reference.
