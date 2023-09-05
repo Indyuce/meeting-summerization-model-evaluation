@@ -1,0 +1,43 @@
+{
+    "chunks": [
+        {
+            "success": "1",
+            "input_length": "621",
+            "text": "Here are the key points from the text:\n1. Adventure on the high seas is a concept that captures people's imagination, but it also means sailing beyond the reach of law and order, where criminal activities like piracy, murder, exploitation, sea slavery, and gun running are prevalent.\n2. The ocean is essential to humanity, providing 90% of what we consume, including iPhones, running shoes, and seafood, as well as producing 50% of the oxygen we breathe.\n3. The global fishing industry is unsustainable and unethical, with companies using illegal and inhumane practices to save money and deliver cheap seafood to grocery stores.\n4. The reality of the supply chain is hidden from consumers, with illegal activities and inhumane practices embedded in the process.\n5. Investigative reporter Ian Urbina's new book, \"The Outlaw Ocean,\" reveals the extent of criminal activity at sea and the dependence of humanity on the ocean.",
+            "nb_characters": 922,
+            "nb_words": 151,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1109",
+            "text": "Key points from the text:\n1. The high seas are a lawless zone, where criminal activity such as piracy, murder, exploitation, sea slavery, and illegal dumping are common.\n2. The global fishing industry is plagued by illegal and inhumane practices, including the use of captive labor, overfishing, and illegal dumping.\n3. The ocean is essential to human life, providing 90% of the things we consume, including food, oxygen, and climate regulation.\n4. The reality of the global fishing industry is far from sustainable or ethical, with hidden costs and illegal activities that are hidden from consumers.\n5. The book \"The Outlaw Ocean\" by Ian Urbina highlights the stories of people working in terrible conditions, including Lang Long, a Cambodian man who was enslaved on a Thai fishing trawler for three years.\n6. The ocean itself is in poor health due to illegal dumping and lack of policing, with the vastness of the ocean making it difficult to monitor and regulate.\n7. The book aims to raise awareness of the criminal activity and poor conditions on the high seas, and to advocate for better regulation and protection of the ocean and its inhabitants.",
+            "nb_characters": 1152,
+            "nb_words": 192,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1125",
+            "text": "Here are the key points from the text:\n1. The illegal fishing industry is worth billions of dollars and involves unethical practices such as using captive labor, also known as sea slavery, and fishing in protected waters.\n2. The book \"The Outlaw Ocean\" by Ian Urbina highlights the hidden costs of the fishing industry, including the exploitation of workers and the degradation of the ocean's health.\n3. The author spoke to a Cambodian man named Lang Long who was enslaved on a Thai fishing trawler for three years and was shackled by the neck whenever he wasn't working.\n4. The ocean is vast and under-policed, making it easy for illegal activities to occur, such as dumping oil and industrial-level fishing, which has led to the collapse of fishing stocks and the extinction of species.\n5. Small, achievable actions can be taken to address these issues, such as pressuring companies to clean up their supply chains and governments to enforce human rights and environmental laws.\n6. Working on this book has changed the author's habits, including not eating seafood or meat.\n7. There are many urgent stories out there that are not receiving enough attention, and journalists can help by exploring these topics.",
+            "nb_characters": 1211,
+            "nb_words": 207,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "637",
+            "text": "Sure, here are some key points from the text:\n1. The dumping of oil and industrial-level fishing have caused systemic contamination and the collapse of fishing stocks worldwide, leading to species extinction.\n2. Addressing these issues requires a multi-faceted approach that involves political will, legal enforcement, and market pressure.\n3. Governments can play a crucial role in raising the bar on human rights and environmental laws and enforcement when ships come into port.\n4. Consumers can also pressure companies to clean up their supply chains and know the true cost of their products.\n5. As a journalist, Urbina has realized that there are many urgent stories out there that are not getting enough attention, and he hopes to shed light on these issues through his work.\n6. Urbina has changed his personal habits, including not eating seafood or meat, to reduce his impact on the environment.\n7. The book \"The Outlaw Ocean\" aims to raise awareness about the urgent issues in the ocean and the need for systemic change.",
+            "nb_characters": 1027,
+            "nb_words": 171,
+            "language_output": "1"
+        }
+    ],
+    "input_path": "inputs/llama27b_500/mediasum/mediasum_2",
+    "model": "meta-llama/Llama-2-7b-chat-hf",
+    "input_language": "text_en",
+    "MAX_TOKEN_CHUNK_SIZE": "500",
+    "instruction": "Provide a list of key points for the following text:\n\n",
+    "over_context": "0",
+    "output_length": 241
+}

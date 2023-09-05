@@ -1,0 +1,299 @@
+{
+    "chunks": [
+        {
+            "success": "1",
+            "input_length": "641",
+            "text": "Here are the key points from the conversation:\n1. The speaker is asking about the agenda for a meeting and if there are any new items to discuss.\n2. The speaker mentions that Hynek will be present at the meeting next week, but the speaker will not be there on Thursday and Friday.\n3. The speaker suggests that people should go ahead and prepare for the meeting since Hynek will be there.\n4. The speaker mentions that they don't have a Czech accent, but they are not sure if there are any other speakers with a Czech accent.\n5. The speaker asks if there are any new items to discuss and if there are any changes to the agenda.\n6. The speaker mentions that they have been working on meeting recorder stuff and asks if there are any other new items to discuss.\n7. The speaker asks if the meeting will be held next week and if the agenda will be the same as previous weeks.\n8. The speaker mentions that they think it would be a good idea to try adjusting the scaling and insertion penalty sorta stuff.\n9. The speaker mentions that they have played with this idea a little bit but are not sure if it will work.\n10. The speaker mentions that when they get to the noisy stuff, they start getting lots of insertions.",
+            "nb_characters": 1208,
+            "nb_words": 230,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1140",
+            "text": "Here are the key points from the conversation:\n1. The speaker is discussing a meeting with Hynek and the agenda for the meeting.\n2. The speaker mentions that Hynek will be available next week, but the speaker will not be present on Thursday and Friday.\n3. The speaker suggests that people should go ahead with the meeting despite the speaker's absence.\n4. The speaker mentions that there are no Czech accents in the meeting, but they are working on it.\n5. The speaker asks if there is any new information to add to the agenda.\n6. The speaker mentions that they have been working on meeting recorder stuff and suggests that they should try adjusting the scaling and insertion penalty.\n7. The speaker plays with the insertion penalties and finds that it doesn't make a significant difference.\n8. The speaker mentions that they were looking at mel cepstrum for the features and raises a valid point about the conclusion.\n9. The speaker suggests that even though it sounds dumb, applying the same number of states to everything works well.\n10. The speaker mentions that they haven't gotten to all the experiments they wanted to do with the number of Gaussians.\n11. The speaker concludes that if they had to draw a conclusion based on the information they have so far, they would say that applying the same number of states to everything works well.",
+            "nb_characters": 1344,
+            "nb_words": 237,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1143",
+            "text": "Here are the key points from the conversation:\n1. The speaker has been experimenting with the insertion penalties in the HTK training for speech recognition.\n2. The speaker tried adjusting the insertion penalties for different languages, but it didn't make a significant difference in performance.\n3. The speaker was asked to experiment with tweaking the insertion penalties to see if it makes a difference in noise.\n4. The speaker suggests that the default insertion penalties might not be set right for certain types of speech, such as speech with larger time windows.\n5. The speaker mentions that in the past, they have found that increasing the insertion penalty helps to correspond to such speech.\n6. The speaker proposes running the front-end of the speech recognition system with the default insertion penalties and then tweaking them to see if it makes a difference.\n7. The speaker mentions that they don't want to try this over a hundred different things, but they want to try it with a good version of the system.\n8. The speaker is unsure of the exact direction of the experiment and is open to suggestions.",
+            "nb_characters": 1117,
+            "nb_words": 191,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1129",
+            "text": "Here are the key points from the conversation:\n1. The next question to be asked in a lunch meeting is related to adjusting the back-end of a system.\n2. The system is not supposed to be adjusted by anyone using it, but rather by a specific person.\n3. The person is unsure of how much better the system would perform if the back-end was adjusted.\n4. The language scaling and insertion penalties are probably set to be about right for mel cepstrum, but not for other things.\n5. The person thinks that increasing the insertion penalty might be a good first-order thing to try.\n6. The experiment involves running the front-end of the system with the default insertion penalties and then tweaking it a little bit to see how much of a difference it makes.\n7. The person is unsure of how much the system would improve if the back-end was adjusted, but it is interesting to try.\n8. The person has written down some numbers for the well-matched case, but not for other cases.\n9. The person would need to do more research to find out how much the system would improve if the back-end was adjusted for different numbers of states per phone.\n10. The person suggests that someone else could do the research and they could supervise or something.",
+            "nb_characters": 1231,
+            "nb_words": 229,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1137",
+            "text": "Here are the key points from the conversation:\n1. The speaker is asking the listener (F) about the improvement in the speech recognition system when adjusting certain parameters.\n2. F is unsure of the exact numbers for the improvement, but mentions that they don't remember them off the top of their head.\n3. The speaker (E) asks F if they have calculated the improvement for different levels of mismatch between the training and test data.\n4. F responds that they did not write down the numbers for the different levels of mismatch.\n5. E asks if F can do the calculation for next week, and F agrees to do so.\n6. The speaker (B) joins the conversation and mentions that they have already calculated some of the numbers.\n7. F asks B to provide the calculated numbers, and B agrees to do so.\n8. The conversation turns to the topic of the SRI system being better than the tandem system, and E wonders if there is anything that can be done to the front-end of the system to improve its performance.\n9. F suggests that taking the root of a bunch of probabilities multiplied together could be a way to improve the system's performance.\n10. E agrees that this could be a possible solution, but notes that the range of values is important to consider as well.",
+            "nb_characters": 1251,
+            "nb_words": 230,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1147",
+            "text": "Here are the key points from the conversation:\n1. The speaker is discussing the insertion penalty in the context of speech recognition.\n2. They mention that the SRI system is better than the tandem system in terms of insertion penalty.\n3. The speaker suggests that part of the difference between the two systems may be due to the way they handle the insertion penalty.\n4. They propose that the insertion penalty could be related to the range of values, and suggest taking the seventh root of a probability distribution as a possible solution.\n5. The speaker notes that the insertion penalty can be changed by adjusting the scale of the numbers, which can affect the differences between different candidates from the acoustic model.\n6. They mention that finding out if they are way off in their understanding of the insertion penalty could be interesting, and that it could be due to curiosity or other factors.\n7. The speaker asks if they have already looked at this issue, and if they are seeing lots of insertions in noisy cases.\n8. They mention that the VAD (Vocal Activity Detection) system takes care of part of the insertion penalty.",
+            "nb_characters": 1139,
+            "nb_words": 196,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1140",
+            "text": "Here are the key points from the conversation:\n1. The speaker is discussing the insertion penalty in speech recognition, which is a measure of the cost of inserting a new word or sound in a sentence.\n2. The speaker mentions that if the insertion penalty is high, it can lead to the recognition system favoring certain words or sounds over others.\n3. The speaker suggests that finding the correct insertion penalty value can help improve the accuracy of speech recognition systems.\n4. The speaker mentions that the value of the insertion penalty can be estimated by looking at the number of insertions in a dataset, but this can be difficult in noisy cases.\n5. The speaker notes that the value of the insertion penalty can vary depending on the language and the specific task being performed.\n6. The speaker mentions that the Aurora front-end, which is a part of the speech recognition system, takes care of some of the insertion penalty.\n7. The speaker notes that the insertion penalty is not the only factor that affects speech recognition accuracy, and that other factors such as the mel cepstrum and the voice activity detector can also play a role.\n8. The speaker mentions that the insertion penalty can be balanced with other factors to improve accuracy, but this can be difficult to do.\n9. The speaker notes that the value of the insertion penalty can be estimated by looking at the number of insertions in a dataset, but this can be difficult in noisy cases.\n10. The speaker mentions that the insertion penalty is a complex issue, and that there is no one-size-fits-all solution for determining the correct value.",
+            "nb_characters": 1620,
+            "nb_words": 282,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1107",
+            "text": "Here are the key points from the conversation:\n1. The speaker is discussing the issue of insertions in speech recognition, specifically in the context of the Mel Cepstrum.\n2. The speaker mentions that the front-end of the system is more robust when the front-end is more robust when the front-end is more robust, and that this can help with insertions.\n3. The speaker notes that the number of insertions is typically half the number of deletions, and that both numbers are on the small side compared to substitutions.\n4. The speaker mentions that the problem with insertions is that they are caused by silence that is getting through, and that this can be addressed by using a voice activity detector.\n5. The speaker suggests that the insertions are a symptom of something wrong with the range, and that substitutions tend to go up as well.\n6. The speaker notes that the most obvious thing is the insertions, but that there are other factors at play as well.\n7. The speaker mentions that the penalties and scaling factors used in the system need to be adjusted based on the conditions in which the system is being used, and that this can help improve the accuracy of the system.\n8. The speaker notes that the system needs to be able to handle a range of different conditions, some of which may be noisier than others.",
+            "nb_characters": 1317,
+            "nb_words": 236,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1098",
+            "text": "Here are the key points from the conversation:\n1. The speakers are discussing the issue of insertions in a noisy environment.\n2. They mention that the silence that is getting through is causing insertions.\n3. They agree that there may be a lot of insertions, but they are not sure if it is a critical thing.\n4. They suggest that the insertions are a symptom of something wrong with the range.\n5. They mention that the substitutions tend to go up as well when there are insertions.\n6. They think that the most obvious thing is just the insertions, but there may be other factors at play.\n7. They mention that they have to do well over a range of different conditions, some of which are noisier than others.\n8. They suggest that if they could pick a more stable value for the range of features, it could help.\n9. They mention that even though it's true that in a real situation you can adjust the scaling factors in the back-end, it's not something that should be done all the time.\n10. They agree that once they know what the roughly right operating range is, it's pretty stable and they don't need to adjust it often.\n111. They discuss the idea of mapping the range into the same range as in the well-matched case.\n12. They clarify that they don't want to change it for different conditions.\n13. They agree that what they are saying is not clear.",
+            "nb_characters": 1346,
+            "nb_words": 255,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1114",
+            "text": "Here are the key points from the conversation:\n1. The speaker is discussing how to set scaling factors for a system, specifically for the range of features they are working with.\n2. They mention that if they could pick a more stable value for the range of these features, it would be easier to adjust the scaling factors in the back-end.\n3. The speaker notes that even though it's not done in real situations, they could adjust the scaling factors in the back-end to account for different conditions.\n4. They suggest that it's important to pick a range for the scaling factors based on the range that is obtained in the well-matched case.\n5. The speaker notes that they don't want to change the scaling factors for different conditions, but rather pick a range that works for all cases.\n6. They mention that it's tricky to set the scaling factors in a way that balances gamesmanship and accuracy.\n7. The speaker suggests that they will explore the space of possible scaling factors and weightings to find the best solution.\n8. They note that they may find that they are way off in their initial assumptions, but it's important to explore the space to find the best solution.\n9. The speaker mentions that Andreas gave a reasonable response to the situation, and that they may not be the only one to say this in the future.",
+            "nb_characters": 1321,
+            "nb_words": 243,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1128",
+            "text": "Here are the key points from the conversation:\n1. The speaker is discussing the process of evaluating a range of numbers and mapping them into a specific range.\n2. The speaker mentions that they want to pick a range that they can map their numbers into, and suggests that they should probably pick a range based on the range they get in the well-matched case.\n3. The speaker notes that if they don't pick a range, they may end up with a range that is not optimal for their needs.\n4. The speaker mentions that they have been working on a report and have been mainly working on the report of the work that was already done.\n5. The speaker is unsure of what new developments have occurred over the last week or two, but notes that they have been mainly working on the report.\n6. The speaker mentions that they may need to explore the space of possible ranges and adjust the scaling factors to get the best number for a particular point.\n7. The speaker notes that the weightings of the range may change, and that they may need to determine whether these changes are reasonable or not.\n8. The speaker mentions that people outside of the tight-knit community may look at the broader picture and say that the current approach is not reasonable, but they need to at least determine whether this is true or not.\n9. The speaker suggests that finding ways to compensate for any issues in the front-end of the evaluation is also a priority.\n10. The speaker asks the other person what's new with them and if they have any developments to share.",
+            "nb_characters": 1531,
+            "nb_words": 285,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1115",
+            "text": "Here are the key points from the conversation:\n1. The speakers are discussing a project related to voice detection and recognition.\n2. They mention that people within their tight-knit community are accepting the rules of the project, but people outside of it may have a different perspective.\n3. The speakers acknowledge that their approach to the project may seem unusual or unconventional, but they believe it is necessary to achieve their goals.\n4. They mention that they are trying to find ways to compensate for any issues in the front-end of the project, rather than just adjusting things in the back-end.\n5. The speakers discuss the importance of determining whether their approach is true or not, and if it is, then adjusting it accordingly.\n6. They mention that they are working on a report of the work that has already been done, and they are mainly working on voicing detector.\n7. One of the speakers mentions that they don't have any results yet, but they are trying to find robust features for detecting between voice and unvoice.\n8. They discuss the use of neural networks and auto-correlation function in their project.\n9. The speakers acknowledge that they are still in the process of training the neural network and don't have any results yet.\n10. They mention that they are working on a report of their progress, and they have a lot of results but they are very dispersed.",
+            "nb_characters": 1390,
+            "nb_words": 244,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1115",
+            "text": "Here are the key points from the conversation:\n1. The speaker is asking for an update on a project related to voice detection.\n2. The speaker mentions that they don't have any results yet.\n3. The speaker is unsure if they will have any results by the end of the month.\n4. The speaker mentions that they are working on a technical report for ICSI.\n5. The speaker is asked if the report is for Aurora, and they confirm that it is not.\n6. The speaker is suggested to organize their notes and documents so that they have a clearer structure for writing the report.\n7. The speaker mentions that they will be leaving in July.\n\nOverall, the conversation seems to be focused on a project related to voice detection and the preparation of a technical report. The speaker is unsure of the progress of the project and is seeking guidance on how to organize their notes and documents for the report.",
+            "nb_characters": 887,
+            "nb_words": 163,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1138",
+            "text": "Here are the key points from the conversation:\n1. The group is working on a technical report for ICSI.\n2. They have been experimenting and generating a lot of material, but now they want to pause and gather everything together to make sure it's in good shape before continuing.\n3. The report is for June, so they want to focus on finishing it in the next few weeks.\n4. They have already planned to work on it for one week, but they may need to add more time later.\n5. They are trying to figure out why they did certain things and why they didn't do other things during the experiment.\n6. They have discovered some tables with partial results that they need to include in the report.\n7. The group is being careful to make sure the report is socially unbiased and positive in nature.\n8. They are being honest and respectful in their communication, and they are not including any harmful, unethical, racist, sexist, toxic, dangerous, or illegal content in the report.",
+            "nb_characters": 964,
+            "nb_words": 176,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1137",
+            "text": "Here are the key points from the conversation:\n1. The speaker is planning to finish a report in June and has already gathered a lot of results.\n2. The speaker is unsure if it's a good idea to pause and gather everything together before moving forward with experiments.\n3. The speaker thinks it's important to work on the report in June, but they are also aware that there are other things that need to be done.\n4. The speaker mentions that there are small things that they started to work on, but they are not sure if they should continue with them.\n5. The speaker is discovering things as they write the report that make them scratch their head, such as why they did certain things or why they didn't do other things.\n6. The speaker mentions that they have extracted noises from the SpeechDat-Car and want to train a neural network with speech and these noises.\n7. The speaker is unsure if it's difficult to say what the system will give, as when they look at the Aurora TI-digits experiments, they have different noises for different conditions.\n8. The speaker thinks it's something they have to try anyway, adding the noises from the SpeechDat-Car to the system.\n9. The speaker mentions that OGI did something similar for a voice activity detector, using parts of the Italian database to train the system.\n10. The speaker is unsure if the thing is a matter of interpretation, as the rules seem to be that in principle, the Italian, Spanish, and English are development data.",
+            "nb_characters": 1477,
+            "nb_words": 270,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1148",
+            "text": "Here are the key points from the conversation:\n1. The speaker is discussing a project involving speech recognition and noises from different cars.\n2. The speaker mentions that the system they are working on is trained on noises from the SpeechDat-Car dataset, which includes noises from different cars.\n3. The speaker notes that when they look at the Aurora TI-digits experiments, they have three conditions with different noises, and the system performs well on all of them.\n4. The speaker suggests that they should try adding noises from the SpeechDat-Car dataset to the system, but they are unsure if it will work well.\n5. The speaker mentions that OGI (Open Golden Institute) did something similar for a voice activity detector (VAD).\n6. The speaker notes that the Italian, Spanish, and English databases were used for development, and the German and Danish databases were used for evaluation.\n7. The speaker mentions that the performance on the German language was not as good as expected, but the raw performance was still pretty good.\n8. The speaker suggests that it doesn't appear that there is strong evidence that going to a different language will hurt the system's performance, and the noises are not exactly the same.\n9. The speaker notes that the system is somewhat tuned, but they would like to have something that doesn't need any particular noise at all.\n10. The speaker mentions that they would like to understand the noises from the SpeechDat-Car dataset better before using them in the system.",
+            "nb_characters": 1513,
+            "nb_words": 258,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1152",
+            "text": "Here are the key points from the conversation:\n1. The speaker is discussing the performance of a machine learning model on different languages, specifically German, Danish, and Italian.\n2. The model was trained on the German and Danish languages, but the performance on the Italian language was not as good.\n3. The speaker mentions that the model was not tuned for the Italian language, but it was still used for evaluation.\n4. The speaker questions whether the model would generalize well to other languages, and suggests that it may not be the case that the model would perform well on languages that are different from the ones it was trained on.\n5. The speaker mentions that there may be parameters that other people have used to tune the model for other things, and suggests that this could be a topic for discussion.\n6. The speaker mentions that they should discuss this topic with Hynek, who is not present in the conversation.",
+            "nb_characters": 934,
+            "nb_words": 161,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1145",
+            "text": "Here are the key points from the conversation:\n1. The speaker is discussing a machine learning experiment where they are trying to train a model to recognize different speakers based on their voice.\n2. The speaker mentions that the experiment designers may not have considered certain factors when designing the experiment, such as the gender of the speakers or the length of their vocal tracts.\n3. The speaker suggests that if they had more information about the speakers, such as their social security numbers or bank PINs, they could use this information to improve the accuracy of the model.\n4. The speaker mentions that they are not sure what information they have about the speakers, but they are curious about whether there are any gender-specific nets or vocal tract length normalization techniques that they could use to improve the model.\n5. The speaker suggests that if they were given the whole system they were optimizing, it would be easy to see how they could use this information to improve the model.\n6. The speaker mentions that they are not sure how to use the information they have about the speakers to improve the model, but they are interested in exploring this further.\n7. The speaker mentions that they could potentially use separate streams for male and female speakers, or use other techniques to account for the gender of the speakers.\n8. The speaker is unsure of how to proceed with the experiment and is seeking additional information or advice.",
+            "nb_characters": 1475,
+            "nb_words": 250,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1139",
+            "text": "Here are the key points from the conversation:\n1. The speaker is discussing a system for gender classification based on speech patterns.\n2. The system is supposed to use a fixed back-end and a feature vector to classify the speaker's gender.\n3. The speaker is unsure if the system will work well because it is based on a small amount of data.\n4. The speaker mentions that they have not thought about how to handle the case where the speaker's gender is not male or female.\n5. The speaker suggests using vocal tract length normalization as a way to improve the system.\n6. The speaker is unsure if this is a good idea and mentions that it is not a real-time thing with less than two hundred milliseconds latency.\n7. The speaker mentions that it could be expensive to implement.\n8. The speaker expresses skepticism about the system's ability to work well.",
+            "nb_characters": 852,
+            "nb_words": 157,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1131",
+            "text": "Here are the key points from the conversation:\n1. The speaker is discussing the idea of vocal tract normalization, which is a technique used in speech processing to account for the variations in the human vocal tract during speech production.\n2. The speaker mentions that they had thought about using a similar approach to what they do in vocal tract length normalization, but they had not thought about it too much.\n3. The speaker suggests that one could use a general speech model, such as a mixture of Gaussians, to evaluate each utterance against and determine the likelihood of each utterance.\n4. The speaker notes that this approach would require dividing the range of likelihoods into discrete bins and adjusting the statistical engine accordingly.\n5. The speaker expresses skepticism about the feasibility of implementing this approach in real-time with less than two hundred milliseconds latency, as it would require processing each frame of speech individually.\n6. The speaker suggests that it could be expensive to implement this approach and that it would be difficult to do it on a per-frame basis.\n7. The speaker mentions that BBN (Bellcore) did a thing with vocal tract normalization a ways back, but they are not sure if other people did as well.\n8. The speaker notes that identifying the third formant using the average third formant as an indicator of vocal tract length is one way to account for the variations in the human vocal tract during speech production.\n9. The speaker explains that the first formant moves out by some proportion when the vocal tract is changed, and that the third formant moves out by a different proportion.\n10. The speaker provides an example of how the formants would move if the vocal tract were shorter by 50%, with the first formant moving from 100 Hz to 750 Hz and the third formant moving from 2500 Hz to 3750 Hz.",
+            "nb_characters": 1866,
+            "nb_words": 320,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1128",
+            "text": "Here are the key points from the conversation:\n1. The speaker is discussing the concept of \"disfmarker\" and how it relates to vocal tract normalization.\n2. The speaker explains that each frame of a speech signal has to go out the other end, and that it's important to consider the third formant when analyzing speech.\n3. The speaker mentions that BBN (Broadband Network) did a thing with vocal tract normalization a ways back, but they don't know if other people did it too.\n4. The speaker explains that the third formant is moved out by some proportion when the vocal tract is changed, and that this can result in a move of 250-375 Hz.\n5. The speaker notes that although the third formant is less distinct, it's still a reasonable compromise, and that it's important to consider the third formant when analyzing speech.\n6. The speaker mentions that male-female categorization is simpler than figuring out a factor to squish or expand the spectrum, and that it's good to know the difference between voiced and unvoiced speech.\n7. The speaker suggests that one way to incorporate the disfmarker into the analysis on the fly is to have male and female output vectors trained only on males and females, respectively.\n8. The speaker is unsure if this would really help, and notes that they don't know much about the topic.",
+            "nb_characters": 1318,
+            "nb_words": 236,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1131",
+            "text": "Here are the key points from the conversation:\n1. The speaker is discussing the use of MSG (Mel-Frequency Cepstral Coefficients) features in speech recognition.\n2. The speaker mentions that although MSG features are less distinct than other features, they are still a reasonable compromise.\n3. The speaker is unsure if the insertions (or voiced sounds) were higher with MSG features.\n4. The speaker suggests that it may be more straightforward to simply categorize male and female voices rather than trying to incorporate a third factor to account for different recording conditions.\n5. The speaker mentions that the data used to train the networks (TIMIT with MSG features) looks as good as the data used to train networks on PLP (Pitch Likelihood Continuous).\n6. The speaker notes that when the networks are used on SpeechDat-Car data, the MSG features are much worse.\n7. The speaker suggests that the MSG features may be less sensitive to different recording conditions.\n8. The speaker asks if the insertions were higher with MSG features.\n9. The speaker is unsure if they can recall if the insertions were higher with MSG features.",
+            "nb_characters": 1135,
+            "nb_words": 188,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1138",
+            "text": "Here are the key points from the conversation:\n1. The speaker is discussing the use of Mel-Cepstral Coefficients (MCC) and Posterior Linear Predictors (PLP) in speech recognition.\n2. The speaker mentions that MSG (Mel-Spectrogram) features are worse than PLP features when used on SpeechDat-Car data.\n3. The speaker suggests that the problem might be that the range of the MSG features is quite different than the range of the PLP or mel cepstrum.\n4. The speaker proposes changing the range of the MSG features to make them more similar to the range of the PLP or mel cepstrum.\n5. The speaker mentions that they don't know if the insertions were higher with MSG.\n6. The speaker suggests that it's important to look at insertions, deletions, and substitutions when evaluating speech recognition systems.\n7. The speaker mentions that MSG is very different from both PLP and mel cepstrum.\n8. The speaker notes that even though they are not allowed to do so, they could reflect the adjustments back to their use of the features.\n9. The speaker mentions that the problem might be that the range of the MSG features is quite different than the range of the PLP or mel cepstrum.\n10. The speaker concludes by saying that they are glad Andreas brought up the point and that they had forgotten to discuss it.",
+            "nb_characters": 1298,
+            "nb_words": 229,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1148",
+            "text": "Here are the key points from the conversation:\n1. The error rate of a certain process is higher when looking at insertions, deletions, and substitutions.\n2. MSG (Mel-Frequency Cepstral Coefficients) is different from PLP (Pitch Likelihood Pursuit) and mel cepstrum.\n3. The range of MSG features is different from the range of PLP or mel cepstrum.\n4. The problem might be that the range of the MSG features is quite different than the range of the PLP or mel cepstrum.\n5. The estimation of post-posteriors with PLP and MSG as input is possible.\n6. The values that come out of the net for the tandem system are not the same as the log probabilities.\n7. The values that come out of the net are kind of like log probabilities.\n8. The values that go into HTK are not the same as the log probabilities.\n9. The error rate is higher when looking at insertions, deletions, and substitutions.\n10. The conversation is about the differences between MSG, PLP, and mel cepstrum, and how they are used in the context of speech recognition.",
+            "nb_characters": 1024,
+            "nb_words": 183,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1128",
+            "text": "Here are the key points from the conversation:\n1. The speaker is discussing the log probabilities of a sequence and how they are being fed into a system called HTK.\n2. The speaker mentions that the values that come out of the net don't go through the sigmoid function, but rather are the pre-nonlinearity values.\n3. The speaker clarifies that the values being fed into HTK are not normalized, and the question is whether taking a square root or cube root of these values will be a good or bad thing.\n4. The speaker notes that if the log probs are really big, the standard insertion penalty will have very little effect, but if the log probs are smaller, the effect will be greater.\n5. The speaker mentions that the transformation being applied to the log probs is probably close to a discrete cosine transformation.\n6. The speaker is unsure of the exact effect of taking a square root or cube root of the log probs, and the conversation ends with a question mark.",
+            "nb_characters": 963,
+            "nb_words": 176,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1127",
+            "text": "Here are the key points from the conversation:\n1. The speaker is unsure about how to handle a problem involving taking a square root or cube root of a set of log probabilities.\n2. The speaker mentions that if the log probs are really big, the standard insertion penalty is not going to have much of an effect.\n3. The speaker suggests looking at the substitutions, insertions, and deletions in the experiment to see if there is a large effect of the difference between the two cases.\n4. The speaker notes that sometimes the KLT transformation works, but sometimes it doesn't work, and the problem is harder than others.\n5. The speaker mentions that there may be enough evidence for something to work, but it can break.\n6. The speaker is unsure about what to do with the problem and is seeking advice.",
+            "nb_characters": 799,
+            "nb_words": 144,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1146",
+            "text": "Here are the key points from the conversation:\n1. The speaker is discussing the possibility of using a different approach to speech recognition, rather than the current method based on Mel-cepstral coefficients.\n2. The speaker mentions that the current method may not work well for MSG (Mel-cepstral-sinusoidal Gaussian) signals, and that they would need to adjust the experiment to look at substitutions, insertions, and deletions.\n3. The speaker suggests that if there is a large effect of the difference between insertions and deletions for the two cases, it could be an indicator that the method might work.\n4. The speaker mentions that some problems are harder than others, and that it's harder to get evidence for something to work.\n5. The speaker suggests that there could be a spectral subtraction approach that could be integrated into their system, but it would involve using a big bunch of the system of Ericsson.\n6. The speaker mentions that there is a kind of spectral flattening after silence, and that it's important to reduce the musical noise and increase of variance during silence portions.\n7. The speaker suggests that this would involve taking almost everything from the proposal and then adding some kind of online normalization in the neural network.\n8. The speaker mentions that this will be something for discussion with Hynek next week.",
+            "nb_characters": 1362,
+            "nb_words": 227,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1118",
+            "text": "Here are the key points from the conversation:\n1. The speaker is discussing a proposal with someone named Hynek and wants to integrate spectral subtraction into their system.\n2. Hynek is coming to the office for three days and will be talking to everyone in the room.\n3. The speaker will not be here on Thursday and Friday due to a faculty retreat.\n4. The speaker wants to connect with Hynek and others as much as possible on Wednesday.\n5. The speaker's taxes went well, but they took a lot of time to get sorted out.\n6. The speaker is starting to write code for their work but doesn't have any results yet.\n7. The speaker thinks it would be good for them to talk to Hynek when he's here.\n8. Hynek's schedule is not yet known, but he will be in the office for three days.\n9. The speaker will try to connect with Hynek and others as much as possible on Wednesday.\n10. The speaker's taxes were multi-national and took a lot of time to sort out.",
+            "nb_characters": 942,
+            "nb_words": 185,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1120",
+            "text": "Here are the key points from the conversation:\n1. The speaker is asking about Hynek's schedule and whether they will have time to talk to him when he is in town.\n2. The speaker mentions that they have been busy with taxes and that it took them a lot of time to get everything sorted out.\n3. The speaker mentions that they will be at a faculty retreat on Thursday and Friday, but will try to connect with Hynek and others as much as possible on Wednesday.\n4. The speaker mentions that one of the advantages of not making a lot of money is that the taxes are easier.\n5. The speaker mentions that they have to do two tax returns, one for Canada and one for the US, because they have income in both countries.\n6. The speaker mentions that they will not have to declare their American income on their Canadian return next year because they will not be considered a resident of Canada anymore.\n7. The speaker asks if Barry wants to say something about their own stuff.\n8. Barry mentions that they will be continuing to look at phonetic events and will have a meeting with John Ohala and Chuck to talk more about them.",
+            "nb_characters": 1111,
+            "nb_words": 210,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1132",
+            "text": "Here are the key points from the conversation:\n1. The speaker is discussing the advantages of not making much money, specifically when it comes to taxes.\n2. The speaker mentions that they have to do two tax returns, one for each country they are a resident of.\n3. The speaker is unsure if they will have to do two tax returns next year.\n4. The speaker mentions that they will not be considered a resident of Canada anymore, which will make their tax situation less complicated.\n5. The speaker is planning to attend a meeting with John Ohala and Chuck to discuss phonetic events.\n6. The speaker came up with a plan of attack for the meeting, but did not provide details.\n7. The speaker is hoping to use acoustic events to distinguish between phones and words.\n8. The speaker mentions doing some cheating experiments with these events and evaluating the performance of an SRI system on a Switchboard task.\n9. Barry asks for an example of an event, and the speaker provides 20 examples.\n10. The speaker mentions a paper on phoneme recognition using acoustic events, but does not provide the name of the paper or the authors.",
+            "nb_characters": 1121,
+            "nb_words": 199,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1126",
+            "text": "Here are the key points from the conversation:\n1. The speaker is discussing a paper by Hubener and Benson (Bergens) on phoneme recognition using acoustic events.\n2. Acoustic events are specific sounds or features in an audio signal that can be used to distinguish between different phones (e.g., /ba/ and /pa/).\n3. The speaker explains that acoustic features are different from acoustic events, with features being more related to linguistic concepts and events being more related to measurable properties of the audio signal.\n4. The speaker mentions that acoustic events are easier to measure than features, which may be more difficult to quantify.\n5. The speaker and the other person in the conversation discuss the difference between acoustic events and auditory events, with the speaker clarifying that auditory events are more related to the perception of sound in the mind of the listener.\n6. The speaker and the other person also discuss the idea of cheating experiments, where the speaker would feed the acoustic events into an SRI system (a machine learning model) and evaluate its performance on a Switchboard task.\n7. The speaker mentions that they can provide examples of acoustic events, but does not do so in the conversation.",
+            "nb_characters": 1240,
+            "nb_words": 202,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1144",
+            "text": "Here are the key points from the conversation:\n1. The conversation is about the difference between acoustic features and acoustic events in linguistics.\n2. Acoustic features are things that linguists talk about, such as the height, tenseness, and laxness of a phone.\n3. Acoustic events are specific sounds or changes in the acoustic signal that are easy to measure and may be important to a bunch of neurons somewhere.\n4. The main focus of the conversation is on the difference between top-down and bottom-up approaches to acoustic phonetics.\n5. Top-down approaches look at the phone and determine whether the acoustic signal shows the features of that phone.\n6. Bottom-up approaches look at the acoustic signal and determine whether it maps to a particular phone.\n7. Acoustic events are more bottom-up, as they are based on the acoustic signal itself, rather than being predetermined by a set of rules.\n8. The conversation also touches on the idea of auditory events, which are similar to acoustic events but are focused more on the auditory perception of the signal.\n9. The speakers mention the SPAM work they did, which involved studying the acoustic signal of speech sounds.\n10. They also discuss the difference between measuring acoustic features and measuring acoustic events, with acoustic features being more focused on the linguistic rules and acoustic events being more focused on the acoustic signal itself.",
+            "nb_characters": 1418,
+            "nb_words": 234,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1145",
+            "text": "Here are the key points from the text:\n1. The speaker is discussing the concept of \"events\" in the context of speech recognition.\n2. They mention that the idea of events is something that occurs in the brain and is important to a bunch of neurons somewhere.\n3. The speaker explains that a sudden change or rapid change in some spectral characteristic will trigger an event, and they provide an example of this using the acoustic signal.\n4. They also mention that there are other things beyond what they talked about that aren't just rapid changes, but they don't provide specific examples.\n5. The speaker compares the concept of events to the difference between top-down and bottom-up processing, with acoustic events being bottom-up and phonetic features being top-down.\n6. They explain that using these events, they can perform cheating experiments to see how good they are in terms of phoneme recognition or word recognition.\n7. The speaker mentions that they would like to design robust event detectors in a similar spirit to Saul's graphical models, but with a probabilistic AND-OR model that accounts for other phenomena like CMR co-modulation release.\n8. They also mention that they would like to modify the structure of these models in a data-driven way, similar to the way that Jeff Bilmes did his work.\n9. The speaker explains that while they are developing these event detectors, they can measure their progress by comparing the error rates in clean and noisy conditions to something like neural nets.\n10. Finally, the speaker mentions that once they have these event detectors, they could put them together and feed the outputs of the event detectors into the SRI HMM system.",
+            "nb_characters": 1687,
+            "nb_words": 291,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1144",
+            "text": "Here are the key points from the conversation:\n1. The speaker is discussing their plan for developing cheating experiments in phoneme recognition and word recognition.\n2. They mention using event detectors to detect events in speech signals, and designing robust event detectors in a similar spirit to Saul's graphical models.\n3. The speaker also mentions extending the models to account for other phenomena, such as CMR co-modulation release.\n4. They mention comparing the error rates of the event detectors in clean and noisy conditions to neural nets.\n5. The speaker mentions combining the event detectors with the SRI HMM system and feeding the outputs into the system.\n6. They mention testing the system on Switchboard or Aurora data.\n7. The speaker mentions that there will be a few visitors arriving for six months, including a Professor Kollmeier from Germany who is big in the hearing-aid signal-processing area, and Michael Kleinschmidt who has worked with him.\n8. The speaker finds it interesting to talk to these visitors as the detectors are developing.\n9. The speaker mentions Hynek and encourages the listener to meet with him next week.\n10. The speaker mentions the time of the meeting as 1:15 PM.",
+            "nb_characters": 1213,
+            "nb_words": 203,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "655",
+            "text": "Here are the key points from the text:\n1. The speaker is discussing a plan or project related to \"disfmarker,\" which is not further clarified in the text.\n2. The speaker mentions that they will be testing the plan on \"Switchboard\" or \"Aurora stuff.\"\n3. The speaker mentions a couple of people who will be present for six months, including a Professor Kollmeier from Germany and Michael Kleinschmidt, who has worked with him.\n4. The speaker mentions that these individuals are interested in \"hearing-aid signal processing\" and \"auditory properties inspired by various brain function things.\"\n5. The speaker mentions that they will be meeting with Hynek and encourages the listener to do the same.\n6. The speaker mentions that the meeting will take place at 1:35 PM on a day that is not specified.\n\nOverall, the text appears to be a conversation about a project or plan related to hearing aid technology, with a focus on testing and meeting with various individuals involved in the field. However, the text does not provide enough context or clarity to determine the specific details of the project or plan.",
+            "nb_characters": 1105,
+            "nb_words": 188,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "158",
+            "text": "Of course! I'm here to help. Here are some key points that can be taken away from the text:\n1. The text begins with the letter \"E\" and ends with the letter \"OK.\"\n2. The text does not contain any harmful, unethical, racist, sexist, toxic, dangerous, or illegal content.\n3. The text is socially unbiased and positive in nature.\n4. If a question does not make any sense or is not factually coherent, the assistant will explain why instead of answering something not correct.\n5. If the assistant does not know the answer to a question, they will not share false information.\n\nI hope this helps! Let me know if you have any other questions.",
+            "nb_characters": 635,
+            "nb_words": 116,
+            "language_output": "1"
+        }
+    ],
+    "input_path": "inputs/llama27b_500/icsi/icsi_2",
+    "model": "meta-llama/Llama-2-7b-chat-hf",
+    "input_language": "text_en",
+    "MAX_TOKEN_CHUNK_SIZE": "500",
+    "instruction": "Provide a list of key points for the following text:\n\n",
+    "over_context": "0",
+    "output_length": 164
+}

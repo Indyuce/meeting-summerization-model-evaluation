@@ -1,0 +1,43 @@
+{
+    "chunks": [
+        {
+            "success": "1",
+            "input_length": "880",
+            "text": "Key points from the text:\n1. Increasing calls for food and other aid to Ethiopia and Somalia due to real food insecurity in Eastern Ethiopia and ongoing tensions in Mogadishu, Somalia.\n2. Humanitarian aid organizations are saying that there are regions in Ethiopia and Somalia where people are experiencing food insecurity, particularly in Eastern Ethiopia where there has been rebel activity.\n3. The Ethiopian government has closed off some areas, making it difficult for pastoralists to sell their livestock, and there has not been enough food raised in the region to feed the people.\n4. There have been reports of violence in Mogadishu, Somalia, including the deaths of three soldiers over the weekend.\n5. The situation in Mogadishu appears to be deteriorating, with ongoing tensions between transitional government forces and insurgents, and a lack of medical facilities to treat the injured.\n6. Two major conferences have taken place in Somalia and the transitional government's enemies, former members of the Islamic Courts Union, have also held a conference.",
+            "nb_characters": 1065,
+            "nb_words": 168,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1626",
+            "text": "Key points from the text:\n1. Increasing calls for food and other aid to Ethiopia and Somalia due to real food insecurity in Eastern Ethiopia, particularly in regions of Somali origin with rebel activity.\n2. Violence in Mogadishu, Somalia, including the death of three soldiers over the weekend, and ongoing tensions between transitional government forces, Ethiopian forces, and insurgents.\n3. Reports of al-Qaida members being spotted in Somalia's breakaway republics, and anti-terrorism efforts in the region, including the U.S. pursuit of top al-Qaida suspects.\n4. U.S. Ambassador Michael Ranneberger's comments on the U.S. collaboration with other East African states on anti-terrorism, including the use of domestic human rights issues and other sensitive topics.\n5. Kenya's efforts at anti-corruption, and the U.S. view on this issue, with Ranneberger stating that it is a misperception that the U.S. is abetting efforts to derail anti-corruption efforts in Kenya.",
+            "nb_characters": 969,
+            "nb_words": 159,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1303",
+            "text": "Here are the key points from the text:\n1. The text discusses the efforts of 300 delegates to coordinate their anti-government efforts in Somalia and the presence of al-Qaida members in the region.\n2. The US Ambassador to Somalia, Michael Ranneberger, comments on the US's anti-terrorism efforts in the region and the lack of US combat forces on the ground in Somalia.\n3. Ranneberger also addresses the perception that the US is abetting efforts to derail anti-corruption efforts in Kenya, clarifying that there has been no tradeoff between US aid and Kenya's cooperation in anti-terrorism efforts.\n4. Ranneberger acknowledges Kenya's progress in governmental reform and anti-corruption efforts but expresses disappointment that high-profile corruption cases have yet to come to justice.\n5. The text notes that as long as these issues continue to be in the public eye, the perception of a tradeoff between US aid and anti-corruption efforts may persist.",
+            "nb_characters": 952,
+            "nb_words": 161,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "557",
+            "text": "Here are the key points from the text:\n1. The US Ambassador to Kenya has denied any trade-offs or quid pro quo deals with the Kenyan government in exchange for their anti-corruption efforts.\n2. The Ambassador has emphasized that the US does not condone corruption and will not tolerate it, regardless of the country's efforts to combat it.\n3. The Ambassador acknowledged that Kenya has made some progress in governmental reform and anti-corruption efforts, but noted that high-level cases such as the Anglo Leasing and Goldenberg scandals have not resulted in any convictions or justice.\n4. The Ambassador expressed disappointment that these cases have not come to fruition and emphasized the need for cooperation from the judiciary and government to address these issues.\n5. The Ambassador acknowledged that the perception of trade-offs between the US and Kenya may continue as long as these issues remain unresolved.\n6. The correspondent, Gwen Thompkins, spoke with the Ambassador from Nairobi, Kenya.",
+            "nb_characters": 1003,
+            "nb_words": 164,
+            "language_output": "1"
+        }
+    ],
+    "input_path": "inputs/llama27b_750/mediasum/mediasum_0",
+    "model": "meta-llama/Llama-2-7b-chat-hf",
+    "input_language": "text_en",
+    "MAX_TOKEN_CHUNK_SIZE": "750",
+    "instruction": "Provide a list of key points for the following text:\n\n",
+    "over_context": "0",
+    "output_length": 242
+}

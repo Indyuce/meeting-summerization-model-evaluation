@@ -1,0 +1,51 @@
+{
+    "chunks": [
+        {
+            "success": "1",
+            "input_length": "608",
+            "text": "Here are the key points from the text:\n1. Increasing calls for food and other aid to Ethiopia and Somalia due to food insecurity in Eastern Ethiopia.\n2. Reports of more violence in Mogadishu, Somalia, including the killing of three soldiers over the weekend.\n3. The situation in Mogadishu appears to be deteriorating.\n4. Humanitarian aid organizations are concerned about the food insecurity in the region, particularly in areas with a lot of rebel activity.\n5. Ethiopia has been experiencing food insecurity due to a lack of access to markets and a lack of food raised in the region.\n6. The government's efforts to bring food into the area of Eastern Ethiopia are not enough to feed the people.\n7. The situation in Mogadishu is deteriorating, with reports of violence and the killing of soldiers.\n8. The United States has made comments on anti-terrorism efforts in East Africa, but the specific details of these comments are not provided in the text.",
+            "nb_characters": 951,
+            "nb_words": 163,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1099",
+            "text": "Key points from the text:\n1. Increasing calls for food and other aid to Ethiopia and Somalia due to food insecurity and violence in Mogadishu.\n2. Reports of more violence in Mogadishu, including the death of three soldiers, and an ongoing conflict between transitional government forces and insurgents.\n3. A dearth of medical facilities in Mogadishu to deal with injured people, with Ugandan peacekeepers offering medical services to Somalis on the ground.\n4. A recent reconciliation congress in Somalia aimed at creating conditions of peace in the area, as well as an alternate conference of the transitional government's enemies, former members of the Islamic Courts Union.\n5. Reports of al-Qaida members being spotted in Somalia's breakaway republics, and a U.S. ambassador making comments about anti-terrorism efforts in the region.\n6. The situation in Ethiopia and Somalia is complex and multifaceted, involving food insecurity, violence, and ongoing political tensions.\n7. The international community, including the U.S., is involved in providing aid and support to the region, but the scale of the crisis is significant and ongoing.",
+            "nb_characters": 1139,
+            "nb_words": 181,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1101",
+            "text": "Here are the key points from the text:\n1. There is ongoing fighting in Mogadishu between transitional government forces, Ethiopian forces, and insurgents, resulting in a large number of casualties.\n2. The Ugandan peacekeepers have offered medical services to Somalis on the ground, but it is not enough to meet the medical needs of the population.\n3. There have been reports of al-Qaida members being spotted in Somalia's breakaway republics, and the US is pursuing three high-value targets in the region.\n4. The US Ambassador to Somalia, Michael Ranneberger, has stated that there are no US combat forces on the ground in Somalia, but the US is collaborating with other East African states to combat terror in the region.\n5. The US is working with Ethiopia, Uganda, and Kenya to combat terrorism, but there is a growing perception among people in the region that the US is willing to look the other way on certain domestic human rights issues in exchange for their cooperation.\n6. Ambassador Ranneberger was asked about the US's view on Kenya's efforts at anti-corruption, and he acknowledged that corruption is a significant issue in Kenya but did not provide any further comment.",
+            "nb_characters": 1182,
+            "nb_words": 202,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1084",
+            "text": "Here are the key points from the text:\n1. The US is not confirming whether Saleh Naban was killed or not, and they are still in pursuit of the other two high-value targets.\n2. Ambassador Ranneberger reiterated that there are no US combat forces on the ground in Somalia.\n3. The US has made partners of several East African countries, including Ethiopia, Uganda, and Kenya, to combat terror in the region.\n4. The US is not making any trades with these countries in exchange for their cooperation in fighting terrorism.\n5. Ambassador Ranneberger acknowledged that Kenya has made progress in efforts to improve governance and fight corruption, but there are still high-level cases pending, such as the Goldenberg and Anglo Leasing scandals, that have not come to fruition.\n6. The US is disappointed that these cases have not come to fruition and requires cooperation from the judiciary and others as well as the government.\n7. The perception that the US is making trades with these countries in exchange for their cooperation in fighting terrorism is likely to continue as long as these issues stay in the public eye.",
+            "nb_characters": 1114,
+            "nb_words": 190,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "628",
+            "text": "Sure, here are the key points from the text:\n1. The US Ambassador to Kenya, Ranneberger, is addressing the perception that the US is abetting efforts to derail anti-corruption efforts in Kenya.\n2. Ranneberger clarifies that there has been no tradeoff between US aid and silence on corruption issues in Kenya.\n3. He emphasizes that the US has never had any discussions with the Kenyan government or President about tilting towards or being quiet on corruption issues in exchange for US aid.\n4. Ranneberger acknowledges that Kenya has made progress in efforts to improve governance and fight corruption, but notes that high-level cases such as the Goldenberg and Anglo Leasing scandals have not come to justice.\n5. He expresses disappointment that these cases have not come to fruition and emphasizes the need for cooperation from the judiciary and government to address these issues.\n6. Ranneberger notes that as long as these issues continue to be in the public eye, the perception that the US is making trades will continue.",
+            "nb_characters": 1025,
+            "nb_words": 171,
+            "language_output": "1"
+        }
+    ],
+    "input_path": "inputs/llama27b_500/mediasum/mediasum_0",
+    "model": "meta-llama/Llama-2-7b-chat-hf",
+    "input_language": "text_en",
+    "MAX_TOKEN_CHUNK_SIZE": "500",
+    "instruction": "Provide a list of key points for the following text:\n\n",
+    "over_context": "0",
+    "output_length": 244
+}
