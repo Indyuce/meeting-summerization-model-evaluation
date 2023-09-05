@@ -1,0 +1,35 @@
+{
+    "chunks": [
+        {
+            "success": "1",
+            "input_length": "898",
+            "text": "Key points from the text:\n1. The concept of adventure on the high seas is appealing, but it also means sailing beyond the reach of law and order, where criminal activities such as piracy, murder, exploitation, sea slavery, and gun running are prevalent.\n2. The ocean is essential for human consumption, as 90% of what we consume, from iPhones to running shoes, comes across the sea on cargo vessels, and 50% of the oxygen we breathe is produced by the oceans.\n3. The global fishing industry is not sustainable, as companies use illegal and inhumane methods to save money, including hiring unpaid crews, using captive labor, and fishing in protected waters.\n4. The reality of the fishing industry is hidden from consumers, with tales of people working in terrible conditions, including enslaved workers who are fishing on boats with depraved conditions.\n5. Investigative reporter Ian Urbina has reported extensively on these issues, including the story of Lang Long, a Cambodian man who was sold into slavery by a trafficker and spent three years captive aboard a Thai fishing trawler.",
+            "nb_characters": 1084,
+            "nb_words": 179,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1592",
+            "text": "Here are the key points from the text:\n1. The ocean is essential to human life, providing 90% of the things we consume, including oxygen, seafood, and the temperature stabilization for climate change.\n2. The global fishing industry is plagued by illegal activities, including human trafficking, exploitation, and dumping, which have severe consequences for the ocean and its inhabitants.\n3. The reality of the fishing industry is far from sustainable and ethical, with hidden costs and inhumane conditions for workers, including sea slavery and shackling.\n4. The ocean's health is deteriorating due to illegal dumping and industrial-level fishing, leading to species extinction and collapsing fish stocks.\n5. To address these issues, there needs to be a political will to raise the bar on human rights and environmental laws and enforcement, as well as pressure from consumers to clean up supply chains and demand more ethical practices.\n6. The book \"The Outlaw Ocean\" by Ian Urbina highlights the urgent need for action and raises awareness of the issues facing the ocean and its inhabitants.\n7. Urbina's work has changed his personal habits, including not eating seafood or meat, and he encourages others to do the same.\n8. The media has a role in systematically covering urgent stories, such as the issues in the ocean, and spreading awareness to find more worthy topics.",
+            "nb_characters": 1374,
+            "nb_words": 224,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "848",
+            "text": "Here are the key points from the text:\n1. The book \"The Outlaw Ocean\" by Ian Urbina is about the illegal activities that occur on the high seas, including human trafficking, illegal fishing, and dumping of toxic waste.\n2. The author was able to track the story of a fishing boat called the \"Lang Long\" that was involved in illegal fishing and was eventually rescued by a supply vessel.\n3. The ocean is facing numerous environmental threats, including illegal dumping, overfishing, and the collapse of fishing stocks.\n4. The author believes that there are small, achievable actions that can be taken to address these issues, such as pressuring governments and companies to improve their environmental and human rights practices.\n5. Working on the book has changed the author's personal habits, including not eating seafood or meat.\n6. The author believes that there are many other important stories that are not receiving enough attention in the media.",
+            "nb_characters": 951,
+            "nb_words": 157,
+            "language_output": "1"
+        }
+    ],
+    "input_path": "inputs/llama27b_750/mediasum/mediasum_2",
+    "model": "meta-llama/Llama-2-7b-chat-hf",
+    "input_language": "text_en",
+    "MAX_TOKEN_CHUNK_SIZE": "750",
+    "instruction": "Provide a list of key points for the following text:\n\n",
+    "over_context": "0",
+    "output_length": 222
+}

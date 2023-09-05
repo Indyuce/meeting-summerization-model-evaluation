@@ -1,0 +1,331 @@
+{
+    "chunks": [
+        {
+            "success": "1",
+            "input_length": "902",
+            "text": "Here are the key points from the conversation:\n1. The conversation is about a project and the excitement around it.\n2. The speaker is trying to avoid crashing the project by not starting and stopping it repeatedly.\n3. The speaker mentions a \"disfmarker\" several times, but it is not clear what it refers to.\n4. The speaker suggests mapping the location of the project to a specific marker without requiring people to give their names each time.\n5. The conversation touches on the idea of having a meeting agenda and discussing mundane and research-related topics separately.\n6. The speaker suggests holding any mundane points for later and focusing on the research-related topics during the meeting.\n7. The conversation includes several instances of the speaker pausing and restarting their thoughts.\n8. The speaker mentions printing out a large number of documents related to the project.\n9. The speaker expresses surprise at forgetting to add something to the project.\n10. The speaker makes an agenda suggestion to prioritize research-related topics during the meeting.",
+            "nb_characters": 1071,
+            "nb_words": 174,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1632",
+            "text": "Here are the key points from the conversation:\n1. The group is discussing how to improve their meetings to make them more productive and efficient.\n2. They are considering ways to prioritize the agenda and allocate time for each topic.\n3. Some members are suggesting that they should send any mundane or procedural items by email before the meeting so that they can focus on research-related topics during the meeting.\n4. They are also discussing the importance of clarity and precision in their communication, especially when it comes to technical terms and concepts.\n5. One member mentions that they have been working on a project related to inference structures and wants to discuss it further.\n6. Another member suggests that they should have a preliminary discussion of some of the other research areas they are thinking about doing.\n7. They also mention that they want to give Jane an opportunity to contribute to the discussion.\n8. The group agrees that they should go around the room and ask each person to share their thoughts and ideas.\n9. They also agree that they should try to keep the meeting focused and on track.",
+            "nb_characters": 1128,
+            "nb_words": 193,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1605",
+            "text": "Here are the key points from the conversation:\n1. The speaker is discussing a meeting they had with someone named Dan Ellis, where they talked about using data from a recording to train a machine learning model.\n2. Dan Ellis mentioned that he had done some work on inference structures and how they relate to language.\n3. The speaker and Dan Ellis discussed the idea of building in a mechanism for understanding language, and how this could be useful for the recording they were discussing.\n4. Dan Ellis gave an example of how inference structures can be used to understand the meaning of a sentence, such as \"Joe slipped and John had washed the floor.\"\n5. The speaker and Dan Ellis identified several types of inference structures in the transcript they were reviewing, including the use of space and downsampling.\n6. The speaker mentioned that Dan Ellis's interest in the recording may be related to using it as a data source or training material for his research on inference structures.\n7. The conversation ended with the speaker and Dan Ellis discussing the potential for their interests to intersect and how they could work together on the project.",
+            "nb_characters": 1154,
+            "nb_words": 198,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1616",
+            "text": "* The speaker is discussing a conversation they had with someone named Dan Ellis about the use of language and the need to build in mechanisms for understanding language.\n* Dan Ellis gave an example of how people might draw inferences from language, such as when someone says \"Joe slipped\" and it is inferred that they are referring to someone named Joe who fell.\n* The speaker identified several types of inferences that are involved in understanding language, including:\n\t+ Inference based on context: understanding the meaning of a word or phrase based on the situation in which it is used.\n\t+ Inference based on prior knowledge: drawing conclusions based on what you already know about a topic.\n\t+ Inference based on implications: understanding the implications of a statement or action.\n* The speaker mentioned that Dan Ellis was interested in using this information for his own purposes, but they were unsure what those purposes were.\n* The conversation then turned to the idea of using text as a data source or training material.\n* The speaker and the other person in the conversation were trying to determine if there was any common ground between their interests and Dan Ellis's interests.\n* The speaker mentioned that transcripts of speech probably have more of these inferences than prepared writing, but it depends on what the prepared writing was.",
+            "nb_characters": 1360,
+            "nb_words": 218,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1640",
+            "text": "Here are the key points from the conversation:\n1. The speaker is discussing a project with someone named Jane, where they are looking at data to see if there is anything that could be useful for a future project.\n2. The speaker mentions that they had a meeting with someone named Dan, who was interested in looking at some of the data they have.\n3. The speaker is unsure if Dan is interested in the same thing as the speaker and Jane, and they are trying to determine if there is anything that could be useful for both of them.\n4. The speaker mentions that Dan was talking about something related to disk space, but they are not sure what it means in the context of the conversation.\n5. The speaker and Jane are discussing the possibility of using text from meetings as a way to gain insights into the conversation.\n6. The speaker mentions that they have been talking about \"he\" without mentioning the person's name, and they are concerned that this could make it difficult to understand the context of the conversation later on.\n7. The speaker and Jane are discussing the potential usefulness of using text from meetings for speech understanding and indexing.\n8. The speaker mentions that Morgan uses \"you\" and \"you\" in their speech, which could also be a problem for understanding the context of the conversation.",
+            "nb_characters": 1315,
+            "nb_words": 233,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1634",
+            "text": "Here are the key points from the conversation:\n1. The speakers are discussing the challenges of understanding who is being referred to when someone says \"he\" or \"him\" in a conversation.\n2. They mention that in some cases, the context of the conversation can make it clear who is being referred to, but in other cases, it may not be clear without additional information.\n3. They discuss the idea that backchannel cues, such as gaze and facial expressions, can provide clues about who is being referred to.\n4. They mention that in some cases, the speakers may intentionally avoid using names in order to avoid revealing information about the person being referred to.\n5. They discuss the potential challenges of indexing or speech understanding in situations where the identity of the person being referred to is not clear.\n6. They mention that the speakers are using microphones that are arranged in a way that makes it difficult to tell who the speaker is looking at based on the acoustics.\n7. They discuss the idea that even though the speakers may not be able to pick up on the identity of the person being referred to through acoustics, they may still be able to infer it based on other cues, such as the context of the conversation or the speaker's body language.",
+            "nb_characters": 1267,
+            "nb_words": 222,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1611",
+            "text": "Here are the key points from the conversation:\n1. The group is discussing the use of names in conversation and the potential for slander.\n2. They mention that Morgan, in particular, tends to look at people when speaking to them.\n3. They discuss the possibility of using acoustic cues to determine who someone is looking at based on their voice.\n4. They mention that lawyers are a sensitive topic and that they have been discussing it a lot.\n5. They discuss the issue of identifying individuals in publications and the potential for slander.\n6. They mention that it is important to be careful not to mention names in order to avoid slander.\n7. They discuss the idea of adapting their language to avoid using names and instead using more general terms.\n8. They mention that there are legal implications to consider when discussing sensitive topics.\n9. They express the importance of being mindful of the language they use and the potential impact it could have on others.\n10. They agree that it is better to be safe than sorry when it comes to discussing sensitive topics and using language that could potentially be harmful or slanderous.",
+            "nb_characters": 1137,
+            "nb_words": 196,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1621",
+            "text": "Here are the key points from the conversation:\n1. The speaker is discussing the use of names in a conversation and how it can be sensitive.\n2. The speaker mentions that they were overreacting when they were talking about a specific person.\n3. The speaker and the other person in the conversation are discussing the importance of not mentioning names in order to avoid slander.\n4. The speaker suggests that it would be adaptive and wise to not mention names in order to avoid any potential slander.\n5. The other person in the conversation agrees that it is important to be careful when mentioning names in order to avoid any potential slander.\n6. The speaker and the other person in the conversation discuss the possibility of using inference structures in order to avoid mentioning names.\n7. The speaker mentions that they don't remember which part of the conversation they were referring to when they mentioned a specific person.\n8. The other person in the conversation helps to clarify the context of the conversation and the speaker's intended meaning.\n9. The conversation continues with the speaker and the other person discussing the use of names in conversation and the importance of being careful when mentioning them in order to avoid any potential slander.",
+            "nb_characters": 1265,
+            "nb_words": 214,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1574",
+            "text": "Here are the key points from the text:\n1. The conversation is about a meeting where the speakers are discussing how to mark overlapping speech in transcripts.\n2. One of the speakers, C, suggests that they should mark every time someone says a name, but the others disagree and think it's not a good policy.\n3. They discuss the possibility of using inference structures to determine who is being referred to in a sentence.\n4. They also talk about the downsampling of the audio and the inference structures for Lokendra and Dan.\n5. The speakers agree that it's ambiguous and okay to make inferences, but they need to be careful when labeling acoustic events.\n6. One of the speakers, D, reminds the group that their first objective is to study the overlapping zone in speech recordings.\n7. D also mentions that they have found over 1,000 acoustic events in the first session they transcribed, including breaths, aspirations, and talk.\n8. The speakers discuss the different names they use to label nonspeech sounds.\n9. D mentions that they would like to study if they can find good parameters to detect overlapping speech.\n10. The speakers agree to test these parameters with other acoustic events.",
+            "nb_characters": 1194,
+            "nb_words": 206,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1563",
+            "text": "Here are the key points from the conversation:\n1. The speaker is transcribing a recording of speech and is trying to identify and label different acoustic events, including overlapping speech.\n2. The speaker has found over 1,000 acoustic events in one session, including breaths, aspirations, and other sounds.\n3. The speaker is interested in studying the overlapping zone in speech, where two or more people are talking at the same time.\n4. The speaker has found that almost three hundred of the acoustic events in one session are overlapping speech.\n5. The speaker is considering different ways to label and analyze the acoustic events, including using different parameters such as pitch and difference.\n6. The speaker is also considering the possibility of using machine learning algorithms to help with the analysis.\n7. The conversation also touches on the issue of how to handle overlaps involving multiple people, and how to define and label different types of acoustic events.",
+            "nb_characters": 983,
+            "nb_words": 159,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1626",
+            "text": "Here are the key points from the conversation:\n1. The speaker is studying overlapping speech events in a recording of three people talking.\n2. The speaker defines an acoustic event as a period where three speakers are talking together, with overlapping speech.\n3. The speaker considers one event for the entire duration of the overlapping zone, regardless of the number of speakers involved.\n4. The speaker distinguishes between the beginning and end of an event, but does not distinguish between the number of speakers involved in the overlapping zone.\n5. The speaker uses the term \"overlapping zone\" to describe the period where multiple speakers are talking together.\n6. The speaker mentions that there are three hundred overlapping speech events in one session, and almost three hundred in another session.\n7. The speaker is asked how many overlaps there were in a particular section of the recording, and responds that there were three overlaps in that section.\n8. The speaker is asked how they define an event, and responds that they consider the entire duration of the overlapping zone to be one event.\n9. The speaker is asked if they distinguish between the beginning and end of an event, and responds that they do not.\n10. The speaker is asked if they consider the entire length of the overlapping zone to be an event, and responds that they do.",
+            "nb_characters": 1354,
+            "nb_words": 228,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1636",
+            "text": "Here are the key points from the conversation:\n1. The speaker is discussing the concept of acoustic events and how they are defined.\n2. The speaker considers an acoustic event to be a continuous region where there is only one voice speaking at a time.\n3. The speaker distinguishes between the beginning and ending marks of an event, but does not consider the entire length of the event to be an event.\n4. The speaker does not make a distinction between the number of speakers in an event, as long as there is only one voice speaking at a time.\n5. The speaker considers silence to be a part of an acoustic event, as it is not always easy to distinguish between speech and silence.\n6. The speaker estimates that there were around 8 acoustic events per minute in a particular recording, with each event lasting around 45 seconds.\n7. The speaker notes that there were around 1,000 acoustic events in a 12-minute recording, with around 80% of them being speech.\n8. The speaker does not consider taps to be acoustic events, as they are not continuous speech.\n9. The speaker does not make a distinction between speech and silence in terms of the number of speakers, as long as there is only one voice speaking at a time.\n10. The speaker considers acoustic events to include all types of sound, including speech and silence.",
+            "nb_characters": 1316,
+            "nb_words": 237,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1646",
+            "text": "Here are the key points from the conversation:\n1. The speakers are discussing the difference between speech and acoustic events in a speech signal.\n2. They are using a mixture of speech and silence to study the differences between the two.\n3. They are using a threshold of 80% silence to determine when an event is speech or acoustic.\n4. They found that the speech signal collected by a different microphone is different from the mixed file, with more acoustic events.\n5. They suggest that it's possible to evaluate the system using the speech file collected by the different microphone, but it's important to consider the acoustic events that are not present in the mixed file.\n6. They mention that the reason they generated the mixed file was for IBM to do word-level transcription, not speech event transcription.\n7. They think it's a good idea to consider acoustic events in the study of speech signals.",
+            "nb_characters": 907,
+            "nb_words": 159,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1648",
+            "text": "Here are the key points from the conversation:\n1. The speaker is discussing the differences between using close-talking mikes and far-field mikes for speech event transcription.\n2. The speaker found that the close-talking mikes captured different speech events than the far-field mikes, even though they were recorded at the same time.\n3. The speaker suggests that it's important to use the appropriate type of mike for the task at hand, as the results of the transcription may be affected by the type of mike used.\n4. The speaker mentions that if someone wants to do speech event transcription, they should use the mixed signals, which include both the close-talking and far-field mikes.\n5. The speaker agrees that it's necessary to put the transcription on the speech file collected by the objective signal to be accurate.\n6. The speaker suggests that in the future, it may be necessary to analyze and process the signal collected by the real mike in order to correct any initial segmentation errors.\n7. The speaker mentions that there are other phenomena that may be useful to study using close-talking mikes, such as overlap between speakers.\n8. The speaker suggests that using a combination of close-talking and far-field mikes, time-aligned, could be a good approach for studying speech events.\n9. The speaker mentions that some of the nonspeech sounds, such as paper rustling, may not be captured by the close-talking mikes.\n10. The speaker agrees that it's important to consider the type of mike used and the task at hand when evaluating the results of speech event transcription.",
+            "nb_characters": 1588,
+            "nb_words": 275,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1646",
+            "text": "Here are the key points from the conversation:\n1. The speakers are discussing the importance of using different types of microphones to capture speech in a meeting or conversation.\n2. They mention that using a close-talking microphone can help to capture the speech of individual speakers, but it may not be useful for studying overlapping speech.\n3. They discuss the idea of using a distant microphone to capture the speech of all speakers in a meeting, but this may not be practical or realistic in all situations.\n4. They mention that there are other phenomena that are going on at the same time during a meeting, such as paper rustling or other background noise, that may be important to study.\n5. They discuss the idea of using a combination of close-talking and distant microphones to capture the speech of individual speakers and the overall conversation.\n6. They mention that there are some challenges to studying overlapping speech, such as the fact that it can be difficult to distinguish between the speech of different speakers.\n7. They discuss the idea of using normalization techniques to help to identify the speech of individual speakers.\n8. They mention that there are some limitations to using normalization techniques, such as the fact that they may not work well in situations where there is a lot of background noise.\n9. They discuss the idea of using machine learning algorithms to help to identify the speech of individual speakers.\n10. They mention that there are some challenges to using machine learning algorithms, such as the fact that they may not work well in situations where there is a lot of variability in the speech of different speakers.",
+            "nb_characters": 1673,
+            "nb_words": 283,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1642",
+            "text": "Here are the key points from the conversation:\n1. The speaker is working on a project to process overlapping speech in a meeting recording.\n2. The speaker is using a mixture of close-talking mikes, which can cause confusion with noise.\n3. The speaker is trying to study people overlapping each other in the meeting.\n4. The speaker has found that the normalization done by Jane (a previous transcriber) is low, and there are a lot of vocalsounds in the files.\n5. The speaker thinks it's probably that a lot of the vocalsounds are from one talker in the meeting.\n6. The speaker wants to process only the pauses in the files, as it's more realistic.\n7. The speaker is not sure if it's a good idea, but they think it'll be a lot harder.\n8. The speaker was working with data that had already been transcribed by Jane.\n9. The speaker wants to use Jane's transcription as a reference for their own work.\n10. The speaker is not interested in the words transcribed in the files, but rather the information about the overlapping zone.\n11. The speaker wants to label the beginning and end of the overlapping zone with a temporal mark.\n12. The speaker took twelve hours to mark the forty-five minutes of recording, including learning about what they wanted to do.",
+            "nb_characters": 1251,
+            "nb_words": 230,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1633",
+            "text": "Here are the key points from the conversation:\n1. The speaker is working on transcribing a meeting that lasted 45 minutes, and they have already transcribed 12 minutes of it.\n2. The speaker is using a tool called \"Jane\" to mark the overlaps in the speech, and they have marked 12 minutes of the meeting so far.\n3. The speaker is concerned about the accuracy of Jane's labels, and they want to compare their temporal marks with Jane's marks to make sure there are no errors.\n4. The speaker thinks that there may be errors in their own marks, and they want to correct them by comparing with Jane's marks.\n5. The speaker mentions that Jane was doing word-level transcription, and they were not concerned with exactly when an overlap started and stopped.\n6. The speaker mentions that there are 300 speaker overlaps in the 45-minute meeting.\n7. The speaker is unsure how accurate Jane's labels are, and they want to check their own marks against Jane's to make sure they are accurate.",
+            "nb_characters": 979,
+            "nb_words": 180,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1622",
+            "text": "Here are the key points from the conversation:\n1. The speaker is discussing a transcription project with someone named Jane, who marked overlaps in a recording.\n2. The speaker is unsure if Jane marked all the overlaps in the recording, as there were 300 speaker overlaps.\n3. The speaker wants to check Jane's markings to make sure she didn't miss any overlaps.\n4. The speaker is considering comparing their own temporal marks with Jane's marks to identify any errors.\n5. The speaker is concerned about the time it takes to mark overlaps and wants to find a way to speed up the process.\n6. The speaker suggests only marking speaker overlaps and not other events to speed up the process.\n7. The speaker is open to considering the suggestion and wants to discuss it further.",
+            "nb_characters": 771,
+            "nb_words": 138,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1633",
+            "text": "Here are the key points from the conversation:\n1. The speaker is working on transcribing a video of a conversation between several people.\n2. The speaker is using a tool to mark overlapping speech, but it is time-consuming and they are finding many overlaps.\n3. The speaker suggests only marking speaker overlaps instead of other events, which could speed up the process.\n4. The listener agrees and suggests that marking only speaker overlaps would be a good idea.\n5. The speaker mentions that there is a lot of noise in the video, including fans, taps, and paper rustling, which makes it difficult to mark the overlaps accurately.\n6. The listener agrees that it is a worthwhile thing to study, but it takes a lot of time to mark all of these things.\n7. The speaker suggests that they can study more as a distinct phenomenon the overlapping of people talking, rather than marking all of the other events.\n8. The listener agrees and suggests that the speaker only needs to mark speaker overlaps to have a reasonable amount of data.\n9. The speaker mentions that they are using a tool to infer speaker overlap from the relative energy in the audio, but they are not sure if this is accurate.\n10. The listener agrees that it is a good idea to use a tool to infer speaker overlap, but they are not sure if it is accurate.",
+            "nb_characters": 1316,
+            "nb_words": 238,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1650",
+            "text": "Here are the key points from the conversation:\n1. The speaker is discussing the process of marking speaker overlap in a conversation.\n2. The speaker suggests that the current method of marking speaker overlap by hand is time-consuming and may not be the most efficient way to do it.\n3. The speaker mentions that there are other ways to infer speaker overlap, such as using the relative energy in the far-field microphone.\n4. The speaker suggests that it may be faster and more accurate to use automated methods to detect speaker overlap, such as using machine learning algorithms to analyze the audio data.\n5. The speaker mentions that there are limitations to using automated methods, such as the need for high-quality transcriptions and the potential for errors in the transcriptions.\n6. The speaker discusses the idea of using a combination of automated and manual methods to detect speaker overlap, with the manual method serving as a ground truth for the automated method.\n7. The speaker mentions that the bottleneck in the current process is the transcription step, and that there is a need for more efficient methods for transcribing conversations.\n8. The speaker discusses the potential benefits of using automated methods for detecting speaker overlap, such as increased accuracy and faster processing times.",
+            "nb_characters": 1317,
+            "nb_words": 216,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1644",
+            "text": "Here are the key points from the conversation:\n1. The speaker is discussing the idea of using manual marking to improve the accuracy of a speech recognition system.\n2. The system is currently using automatic measures such as energy and LPC residuals to detect speech, but these are not always accurate.\n3. The speaker suggests that getting ground truth data from close-talking mikes could be a way to improve the accuracy of the system.\n4. The speaker mentions that they have discussed this idea before and that it would be useful to have someone look at the data to get a better understanding of what the system is doing.\n5. The speaker mentions that they have a program that can do this, but it is not perfect and there are still some issues to be worked out.\n6. The speaker mentions that the bottleneck is currently the transcription process and that they have more data than they have transcriptions for.\n7. The speaker mentions that they are working on a program to infer form the close-talking mikes where the on-off points of speech are and then use this information to train the system.\n8. The speaker mentions that they are also working on a program to detect speech from a far-field microphone and that this is a simple program that takes a threshold based on the volume and then does a median filter and looks for runs.\n9. The speaker mentions that they have not yet worked on the program for importing the data into the user interface that they have, Transcriber.\n10. The speaker mentions that they need the Meeting Recorder query stuff to be working in order to have the necessary data to improve the system.",
+            "nb_characters": 1621,
+            "nb_words": 292,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1623",
+            "text": "Here are the key points from the conversation:\n1. The speaker is working on a project to detect speaker overlaps in a meeting recording.\n2. They are using a threshold-based approach to detect overlaps, but are having trouble getting it to work correctly.\n3. They have tried using a program written by Dan to handle bleedthrough, but have not had success with it.\n4. They are considering using a cross-correlation filter to clean up the data before running it through their program.\n5. They want to have someone with experience marking the overlaps from a human standpoint to speed up the process.\n6. They have discussed using a median filter and looking for runs of speech to detect overlaps.\n7. They are hoping to have Adam compare the automatic detection to the human-marked data to see what differences there are.\n8. They have done something similar to this at a previous job and it worked well.\n9. They are considering using an energy detector to improve the accuracy of the detection.\n10. They are unsure of how to improve the accuracy of the detection without more research or a literature search.",
+            "nb_characters": 1103,
+            "nb_words": 194,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1609",
+            "text": "Here are the key points from the conversation:\n1. The speakers are discussing a script for a program that needs to handle bleedthrough, which is when one person's speech overlaps with another person's speech.\n2. They mention a cross-correlation filter that could be used to clean up the speech, but they haven't tried it before.\n3. They discuss the idea of having someone with experience marking the speech from a human standpoint to help improve the program.\n4. They mention that they want to try the simple thing first and see what it does before adding any complex refinements.\n5. They discuss the idea of having someone speed up their work by getting the speaker overlaps for a shorter period of time, such as forty-five minutes, so they can have more examples to work with.\n6. They mention that they have tried something similar to this at one of their previous jobs and it worked pretty well.\n7. They discuss the idea of using a median filter with runs to detect overlaps.\n8. They mention that they don't have a patent on the method they are discussing.\n9. They discuss the idea of co-opting the method or using it as a starting point for their own development.\n10. They mention that the speaker has gone through additional levels of development beyond what was tried and tested.\n111. They discuss the idea of using different parameters for the median filter, such as a good window size, to improve the results.\n12. They mention that the statistics they have are for twelve minutes of speech and they expect there to be around seventy-five overlaps in that time.\n13. They ask the speaker how many overlaps they found in their twelve minutes of speech.",
+            "nb_characters": 1657,
+            "nb_words": 299,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1614",
+            "text": "Here are the key points from the conversation:\n1. The group is discussing the transcription of a meeting and the possibility of using a proprietary algorithm to generate possibilities and then selecting the best one.\n2. The algorithm was developed by someone who used to work for the government, but the group does not have a patent on it.\n3. The group is considering whether to co-opt the algorithm or use a different approach.\n4. They are also discussing the amount of data they have and the amount of transcribed data they have, with some members expressing a desire to get a feel for this information.\n5. They mention a forty-five-minute piece of transcribed data that was sent to IBM for comparison, as well as a larger piece that has been recorded and put on CD-ROM and sent to IBM.\n6. They discuss the number of meetings that have been recorded, with some members suggesting it is around ten meetings.\n7. The group mentions a problem with missing files that is preventing them from moving forward with the algorithm.",
+            "nb_characters": 1023,
+            "nb_words": 183,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1634",
+            "text": "* The conversation is about transcribing meetings and recording them for analysis.\n* The group is discussing the amount of data they have recorded so far, which is around 12-13 hours.\n* They are planning to record more meetings, including a morning meeting that started a week or two ago, and a network services and applications group that has agreed to have their meetings recorded.\n* They are aiming to record around 3-4 meetings per week, each lasting around an hour.\n* They are also discussing the issue of missing files and how it is affecting the transcription process.\n* Some members of the group are concerned about the amount of data they have recorded and how it will be used.\n* They are considering the possibility of collecting around 50-60 hours of data, which would be around 20-30% of the total amount of data recorded.\n* They are unsure if they will be able to reach their goal of recording 3-4 meetings per week, as they will find out tomorrow whether they can do it or not.",
+            "nb_characters": 991,
+            "nb_words": 175,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1632",
+            "text": "Here are the key points from the conversation:\n1. The Meeting Recorder is recording meetings and has recorded around 12-13 hours of content so far.\n2. The team is only recording this one meeting and not any others.\n3. They are planning to start recording the natural language guys' meetings next week.\n4. There are scattered other meetings in the data, but the majority is meeting meetings.\n5. The team is aiming to collect around 50-60 hours of data.\n6. The morning group is highly motivated and working on connected digits.\n7. They have scripts to help with the transcription of the digits, but they haven't been using them.\n8. Someone is interested in doing adaptation for the Meeting Recorder.\n9. One possible thing Don could do is block echo cancellation to try to get rid of far-field effects.\n10. The party line has been that echo cancellation is not the right way to handle the situation, as people move around.",
+            "nb_characters": 919,
+            "nb_words": 165,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1628",
+            "text": "Here are the key points from the conversation:\n1. The speaker is discussing the idea of using block echo cancellation to improve the quality of the audio in meetings.\n2. The speaker mentions that the party line has been to avoid echo cancellation because people move around and it's not a simple echo, but rather room acoustics.\n3. The speaker suggests that someone could try to do a serious job of echo cancellation by taking the far-field and close-field mike signals and applying good echo cancellation.\n4. The speaker mentions that there have been some nice talks recently by Lucent on block echo cancellation.\n5. The speaker asks if someone could try to get rid of the artifacts when doing block echo cancellation.\n6. The speaker explains that the difference between block echo cancellation and constructing a linear filter is that the former tries to subtract off the aspects of the signal that are different between the close-talk and distant signals.\n7. The speaker mentions that there is a distance between the close and distant mikes, and after the time delay, there are various reflections.\n8. The speaker expresses interest in having someone try to do a good serious job of echo cancellation.",
+            "nb_characters": 1204,
+            "nb_words": 207,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1647",
+            "text": "Here are the key points from the conversation:\n1. The speaker is discussing the challenges of echo cancellation in speech recognition, particularly when there are multiple speakers or a lot of background noise.\n2. The speaker mentions that traditional echo cancellation techniques involve creating a clean signal and then subtracting it from the original signal, but this can be impractical in some cases.\n3. The speaker proposes a different approach, which is to use a filter to eliminate some of the effects of the echo, but not to completely remove it.\n4. The speaker mentions that this approach has been used in telephony and is considered the obvious thing to do in situations where the speaker will be far from the microphone.\n5. The speaker also mentions that there have been some nice talks recently by Lucent on the topic of block echo cancellation, which appeals to them.\n6. The speaker then goes on to discuss the differences between linear filters and non-linear filters, and how they can be used for echo cancellation.\n7. The speaker also mentions that there are some constraints that need to be taken into account when using echo cancellation, such as the distance between the close and distant mikes.\n8. The speaker concludes by saying that echo cancellation is a clean up thing and is commonly done in telephony.",
+            "nb_characters": 1328,
+            "nb_words": 225,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1648",
+            "text": "* Key points:\n1. The speaker is discussing echo cancellation in telephony, specifically the process of adjusting a filter to subtract echoes from speech.\n2. The speaker explains that the goal of echo cancellation is to reduce the effect of echoes on speech, but it's not possible to completely remove them.\n3. The speaker mentions that there are different types of echoes, including direct and indirect echoes, and that echo cancellation is used to reduce the effect of indirect echoes.\n4. The speaker discusses the limitations of echo cancellation, including the fact that it's not practical to completely remove echoes in noisy or reverberant environments.\n5. The speaker mentions that Brian Kingsbury's work is an example of a different approach to echo cancellation, which is to use a different type of algorithm to reduce echoes.\n6. The speaker notes that echo cancellation algorithms typically adjust weights to produce the desired effect, but in noisy environments, the algorithm may not be able to accurately determine the correct weights.\n7. The speaker mentions that inversion of the room acoustics is another approach to echo cancellation, but it's difficult to perform this inversion in practice.",
+            "nb_characters": 1208,
+            "nb_words": 195,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1630",
+            "text": "Here are the key points from the conversation:\n1. The speaker is discussing the challenges of developing a system for speech recognition in noisy environments.\n2. They mention that they are using a \"disfmarker\" approach, which is not a standard term in the field. It is possible that this is a misspelling or a made-up term.\n3. The speaker mentions that they are trying to develop a system that can handle reverberation and echo cancellation, but they are facing technical challenges.\n4. They mention that they are using a \"party line\" approach, which is not a standard term in the field. It is possible that this is a made-up term.\n5. The speaker mentions that they are working on a project with Brian Kingsbury, who is also working on a related project.\n6. They mention that they are trying to develop a system that can handle long reverberation times and delays, but they are facing technical challenges.\n7. The speaker mentions that they are using a \"complete inversion\" approach, which is not a standard term in the field. It is possible that this is a made-up term.\n8. They mention that they are skeptical of echo cancellation and are instead using a feature-based approach.\n9. The speaker mentions that they are trying to develop a system that is more stable in the presence of room reverberation.\n10. They mention that they are working on a revised consent form for human subjects, but they are facing practical challenges.",
+            "nb_characters": 1431,
+            "nb_words": 251,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1632",
+            "text": "Here are the key points from the conversation:\n1. The speaker is discussing the challenges of inverting a system transfer function, which is a mathematical process used to estimate the original system output from the observed system output.\n2. The speaker mentions that the system transfer function can be unstable when inverted, leading to ringing and instability.\n3. The speaker and the other person in the conversation (Brian) are working on a project to record meetings and analyze the data to understand how interactions happen in meetings.\n4. They are using a consent form for participants to sign, which will be valid for a certain number of meetings.\n5. The speaker mentions that they have an hour of transcribed data, twelve hours of recorded data that is not transcribed, and they plan to record more data over the next few months.\n6. The conversation also touches on the idea of recording meetings with strong differences of opinion, but the speaker notes that it may be difficult to record these meetings and people may cancel out afterwards.\n7. The speaker mentions the KPFA idea, which is not further clarified in the conversation.",
+            "nb_characters": 1145,
+            "nb_words": 191,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1639",
+            "text": "Here are the key points from the conversation:\n1. The group is discussing the possibility of recording meetings in a different way, such as using lapel mikes or recording with friends in broadcast media.\n2. They are considering recording meetings at UW, but it may not be the same setup as they have been using.\n3. They want to get more data, especially for political reasons.\n4. They are interested in recording meetings with strong emotional aspects or conflicts.\n5. They had some good recordings earlier in the semester.\n6. They are considering inviting friends in broadcast media to record some of their shows here.\n7. They are not as averse to wearing head-mounted mikes as they were before.\n8. They think it would be fantastic to get more data this way.",
+            "nb_characters": 759,
+            "nb_words": 133,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1629",
+            "text": "Here are the key points from the conversation:\n1. The group is considering using local broadcast media to record additional data, as they are not able to use found data and the current setup does not provide the desired characteristics.\n2. They are looking into inviting friends in broadcast media to record multi-channel audio, which could provide more diverse data.\n3. The group is also considering collecting data from radio and television stations, as they already have stuff worked out related to legal issues and permissions.\n4. The goal is to collect significantly more than 100 hours of data, with the current rate of collection they will get close to that goal this semester.\n5. They are trying to think about what kinds of projects they can do now versus six months from now, and how that will impact their data collection.\n6. The group is exploring primitive measures to get a feeling for the scatter plots and using the data they have collected so far.",
+            "nb_characters": 964,
+            "nb_words": 167,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1637",
+            "text": "Here are the key points from the conversation:\n1. The speaker is discussing the collection of data for a project with a colleague.\n2. They mention that they want to collect at least 30-50 hours of data, but they don't know if they will be able to reach that goal.\n3. The speaker mentions that they don't have the transcripts back from IBM yet, which is making it difficult to know how much data they will have to work with.\n4. The colleague suggests that they should focus on exploratory work now and save more in-depth analysis for later.\n5. The speaker agrees and mentions that they don't want to spend too much time on the project before they have enough data to make it worthwhile.\n6. The colleague suggests that they could collect more data in the spring, but the speaker is unsure about how much data they will have to work with by then.\n7. The speaker mentions that they want to avoid artificial constructions in their data collection and instead focus on real discussions between people.\n8. The colleague suggests that they could stage political debates as a way to collect more data.\n9. The speaker agrees that this could be a good idea, but they are unsure about how to proceed.",
+            "nb_characters": 1188,
+            "nb_words": 220,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1648",
+            "text": "Here are the key points from the conversation:\n1. The project is collecting audio data for a corpus of conversations, with the goal of having 25-30 hours of data by January.\n2. The data collection will involve multiple people having conversations in a room, with the goal of capturing natural, spontaneous speech.\n3. The project is considering holding additional meetings or debates to collect more data, but it is not clear if these will be transcribed or not.\n4. The project is worried about the transcription process taking too long and delaying the project's timeline.\n5. The project is considering using close-talking mikes to collect data without the headsets, but it is not clear if this will be possible or useful.\n6. The project is concerned about the logistics of collecting data, including getting people to come in and set up the equipment.\n7. The project is considering holding additional meetings or debates to collect more data, but it is not clear if these will be transcribed or not.\n8. The project is worried about the transcription process taking too long and delaying the project's timeline.\n9. The project is considering using close-talking mikes to collect data without the headsets, but it is not clear if this will be possible or useful.\n10. The project is concerned about the logistics of collecting data, including getting people to come in and set up the equipment.",
+            "nb_characters": 1392,
+            "nb_words": 239,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1632",
+            "text": "Here are the key points from the conversation:\n1. The team is discussing the collection of audio data for a research project, specifically the use of headphones and close-talking mikes.\n2. Some members are concerned about the amount of time and effort required to transcribe the audio data, while others believe it's important to have the data for the project.\n3. The team mentions the possibility of holding additional meetings to collect more data, but it's unclear how this would address the issue of transcription time.\n4. One member suggests that the team could collect data without using the headphones and close-talking mikes, but this would limit the amount of data that can be collected.\n5. Another member mentions that the team could use a different approach to collect data, such as using a different type of audio recording device.\n6. The team discusses the potential benefits of having more data, even if it's not fully transcribed, including the ability to answer research questions and make the project look more comprehensive.\n7. Some members express concerns about the amount of time and effort required to transcribe the data, while others believe it's important to have the data for the project.\n8. The team discusses the possibility of sending the audio data to IBM for transcription, but it's unclear when this will happen.\n9. Some members mention that they are burning two CDs a day with the audio data, which is about all they can do with the time they have.\n10. The team agrees that it's important to have the data for the project, but there is a need for a more efficient way to collect and transcribe the data.",
+            "nb_characters": 1636,
+            "nb_words": 288,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1619",
+            "text": "Here are the key points from the conversation:\n1. The issue is that they are not able to send the ten hours of audio recordings to IBM as promised.\n2. They have been burning two CDs a day, which is the best they can do with the time they have.\n3. They will send the recordings early next week.\n4. They will check with IBM to see if they have received the recordings.\n5. They are volunteering their time and have a lot of other things to do.\n6. They have not received any response from IBM regarding the recordings.\n7. They are making cassettes for the recordings and handing them over to someone who will do the digitizing.\n8. The amount of work involved in digitizing the recordings is not going to be a big deal for them.\n9. They are experiencing pipeline issues.\n10. They have lunch meetings where people eat their lunch downstairs and may not want to be recorded.\n11. They have a lot of chatting meetings that are not recorded.\n12. They should check with Mari again regarding duplicating the recordings.\n13. There are a lot of different meetings at UW that they could record.\n14. The notion of recording any of Chuck's meetings is still a possibility.\n15. Jerry is open to the idea of recording the meetings but they need to talk about it later.\n16. They have two speech meetings, one network meeting, and one Jerry was open to it but they are not involved in their work.\n17. People may feel constrained if they are not involved in the work.\n18. It may get better if they don't have them do the digits all the time.",
+            "nb_characters": 1519,
+            "nb_words": 287,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1630",
+            "text": "Here are the key points from the conversation:\n1. The group is discussing the idea of recording meetings at ICSI to get more data for their research.\n2. They mention that some people are not interested in recording their meetings, and they don't want to make anyone feel constrained or uncomfortable.\n3. They suggest offering lunch in exchange for people having their meetings at ICSI.\n4. They discuss the potential for getting subjects from campus to come down and participate in meetings.\n5. They mention that it's difficult to get people from the State of California to participate in recordings.\n6. They mention that some people are interested in speech recognition and want to use it for their research.\n7. They discuss the possibility of having meetings at ICSI, but they are unsure if it will be feasible.\n8. They mention that they will try to get some scattered information from this and that.",
+            "nb_characters": 901,
+            "nb_words": 156,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1547",
+            "text": "Here are the key points from the conversation:\n1. The group is discussing the possibility of recording meetings in a conference room using distant microphones.\n2. They are considering asking people to come down from campus to participate in the meetings.\n3. They are also thinking of offering lunch in exchange for their participation.\n4. Some people are hesitant about the idea of recording meetings, citing concerns about confidentiality and the potential for the recordings to be released to the public.\n5. They mention that they have better contacts in radio than in television, and suggest that they could potentially get more lively discussions from radio recordings.\n6. They discuss the possibility of asking people to record an extra channel of a distant mike, but are unsure if they would be willing to do so.\n7. They mention that they are running low on disk space and should probably wrap up the meeting soon.\n8. They decide to leave the microphones on for a moment until the meeting leader turns them off.",
+            "nb_characters": 1017,
+            "nb_words": 172,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "806",
+            "text": "Here are the key points from the conversation:\n1. The speaker is interested in recording distant mike data for language learning.\n2. They have better contacts in radio than in television.\n3. They think they could get a lot of lively discussions from the radio ones.\n4. The speaker is not sure how they record the distant mike data, but they must record from individual sources.\n5. They don't want to ask the people they know to record an extra channel of a distant mike.\n6. The speaker thinks the people they know might be intrigued enough by the idea to record it.\n7. They want to make sure there is at least one place where the distant mike stuff is available.\n8. The speaker is running out of disk space.\n9. They think it's a good way to end a meeting.\n10. The speaker's microphone crashed when they turned it off.",
+            "nb_characters": 817,
+            "nb_words": 155,
+            "language_output": "1"
+        }
+    ],
+    "input_path": "inputs/llama27b_750/icsi/icsi_0",
+    "model": "meta-llama/Llama-2-7b-chat-hf",
+    "input_language": "text_en",
+    "MAX_TOKEN_CHUNK_SIZE": "750",
+    "instruction": "Provide a list of key points for the following text:\n\n",
+    "over_context": "0",
+    "output_length": 203
+}

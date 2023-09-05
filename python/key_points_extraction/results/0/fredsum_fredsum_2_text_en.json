@@ -1,0 +1,43 @@
+{
+    "chunks": [
+        {
+            "success": "1",
+            "input_length": "897",
+            "text": "Here are the key points from the text:\n1. Valérie Pécresse and Éric Zemmour are debating Emmanuel Macron's proposal to raise the legal retirement age to 65.\n2. Pécresse accuses Macron of emptying the treasury, but now he's filling it up again with his proposal.\n3. Pécresse believes that Macron's program is not courageous and doesn't address the country's economic issues.\n4. Zemmour supports raising the retirement age to 64 but doesn't provide any details on how he would fund his program.\n5. Pécresse proposes to reform unemployment insurance, cut civil service jobs, and increase the minimum pension to net minimum wage.\n6. Zemmour accuses Pécresse of copy-pasting Macron's proposals.",
+            "nb_characters": 689,
+            "nb_words": 118,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1486",
+            "text": "Sure, here are the key points from the text:\n1. Valérie Pécresse and Éric Zemmour are debating on a current event related to Emmanuel Macron's proposal to raise the legal retirement age to 65.\n2. Pécresse accuses Zemmour of not making any substantial reforms and only proposing cuts related to immigration, which wouldn't be enough to cover deficits and implement fundamental reforms.\n3. Zemmour responds by saying that he has been proposing to raise the retirement age to 64, which would save approximately 20 billion euros.\n4. Pécresse acknowledges that there are sectors where hiring needs to be assessed, such as the justice system and healthcare, but Zemmour argues that cuts need to be made in a systematic and methodical way.\n5. Zemmour also proposes to merge the territorial council, departmental council, and regional council to save money, which would result in savings of 20 billion euros.\n6. Pécresse and Zemmour disagree on the amount of savings from cutting social benefits for non-European non-contributors, with Pécresse estimating it at 4 billion euros and Zemmour estimating it at 20 billion euros.",
+            "nb_characters": 1116,
+            "nb_words": 184,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1357",
+            "text": "Here are the key points from the conversation:\n1. Valerie Pecresse criticizes Eric Zemmour for not proposing sufficient reforms to address France's economic challenges.\n2. Zemmour responds by pointing out that he has proposed specific reforms, such as raising the retirement age and cutting social benefits for non-European non-contributors, which could save twenty billion euros.\n3. Pecresse counters that these proposals are not enough and that Zemmour's program is unfunded.\n4. Zemmour acknowledges that his program may not include all the details that Pecresse would like, but argues that he has a systematic method for assessing the needs of different sectors and making cuts where necessary.\n5. Pecresse expresses frustration that Zemmour has not announced specific job cuts in his program, despite promising to do so.\n6. Zemmour defends his program by pointing out that he has a track record of implementing reforms in the past and that he has proposed a reduction system for the corporate tax.\n7. Pecresse argues that the economy is not just about cutting costs, but also about creating wealth and jobs.\n8. Zemmour acknowledges that he has not been elected president, but argues that his program is more realistic and feasible than some of the promises made by other candidates.\n9. Pecresse responds by pointing out that she has a track record of implementing reforms and saving money in her region, and that she is not just making empty promises.\n10. Zemmour concludes by saying that he will make reforms if elected, but that he will not make promises that he cannot keep.",
+            "nb_characters": 1581,
+            "nb_words": 263,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "768",
+            "text": "Here are the key points from the text:\n1. Foreigners in France are eligible to receive the RSA (Réference Salariale Adaptée) after five years of residence, not immediately.\n2. There is a significant amount of social fraud in France, with estimates ranging from €15-45 billion.\n3. The government's program aims to ease economic burdens and create wealth through tax cuts and a reduction system for the corporate tax.\n4. The government has announced job cuts in the past, but the exact number is not specified in the text.\n5. The previous president, Nicolas Sarkozy, did make job cuts, but the current president, Emmanuel Macron, has not.\n6. The candidate, Eric Zemmour, has promised to make reforms, but the text does not specify what those reforms are or how they will be funded.\n7. The state is not bankrupt, despite what some politicians have claimed in the past, and France has a significant amount of debt.\n8. The government needs to make reforms to address the country's economic challenges.",
+            "nb_characters": 996,
+            "nb_words": 171,
+            "language_output": "1"
+        }
+    ],
+    "input_path": "inputs/llama27b_750/fredsum/fredsum_2",
+    "model": "meta-llama/Llama-2-7b-chat-hf",
+    "input_language": "text_en",
+    "MAX_TOKEN_CHUNK_SIZE": "750",
+    "instruction": "Provide a list of key points for the following text:\n\n",
+    "over_context": "0",
+    "output_length": 253
+}

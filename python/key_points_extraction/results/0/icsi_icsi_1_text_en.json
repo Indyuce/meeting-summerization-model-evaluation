@@ -1,0 +1,131 @@
+{
+    "chunks": [
+        {
+            "success": "1",
+            "input_length": "901",
+            "text": "Here are the key points from the conversation:\n1. The speaker is discussing the results of a comparison between different types of matching conditions for a Danish language model.\n2. The speaker mentions that they received the results from Stephane and will be sharing them with the team.\n3. The speaker pauses and seems to struggle to find the right words, indicating that they may not be sure of the accuracy of the information they are sharing.\n4. The speaker mentions that there are some discrepancies in the results, with some cases staying the same, improving, or getting worse depending on the matching conditions.\n5. The speaker mentions that there is a mystery surrounding the ICSI OGI one, as they are not able to get the same numbers as the straight features.\n6. The speaker mentions that Sunil is working on trying to check everything.\n7. The speaker asks when the team will be leaving on Sunday.\n\nOverall, the conversation seems to be focused on discussing the results of a comparison between different types of matching conditions for a Danish language model, with some confusion and uncertainty around the accuracy of the results.",
+            "nb_characters": 1145,
+            "nb_words": 193,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1634",
+            "text": "* The conversation is about a comparison of different systems for reducing error rates in a particular task.\n* The speaker is discussing the results of a comparison of different systems with a colleague, and they are trying to determine the best approach.\n* The speaker mentions that there are some good proposals, but they are not sure what the best combination of things is.\n* They mention that there are things that the other systems are doing that they are not, and vice versa.\n* The speaker is unsure of how much better the best system is than their own system, and they mention that there is still work to be done to determine this.\n* They also mention that the only results they have so far are development set results, and they are interested in seeing how the systems perform on an evaluation set.\n* The speaker is respectful and professional throughout the conversation, and they are focused on finding the best solution for the task at hand.",
+            "nb_characters": 952,
+            "nb_words": 163,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1635",
+            "text": "Here are the key points from the conversation:\n1. The team is discussing the results of a speech recognition evaluation test and how they compare to other systems.\n2. They mention that the best result so far is around 50% reduction in word error rate, while the worst system still reduced the error rate by 33%.\n3. There are several systems being evaluated, including one from French Telecom and Alcatel, which performed well on both the development and evaluation sets.\n4. The team is considering how to combine the best ideas from different systems to improve performance while also reducing the amount of resources used.\n5. They mention that spectral subtraction is one of the techniques used by the French Telecom and Alcatel system, but there are other components to their approach as well.\n6. The team is eager to see the final results of the evaluation test to determine the best course of action.",
+            "nb_characters": 904,
+            "nb_words": 155,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1617",
+            "text": "Here are the key points from the conversation:\n1. The development set had a best result of about 50% reduction in word error rate.\n2. The best system among all the ones tested was able to reduce the error rate by about 54%.\n3. The other systems had lower error rate reductions, but still within a reasonable range.\n4. There was a lot of variation in the results across different test sets and systems.\n5. The French Telecom and Alcatel systems were the two best performers, but they had some differences in their approaches.\n6. The main difference between the two systems was the use of spectral subtraction and cepstral mean subtraction.\n7. The mean was adapted during speech, but not during silence.\n8. Some people have done similar things to what the French Telecom and Alcatel systems did, but with slight variations.\n9. The only caveat to combining different approaches is that they need to be mindful of the amount of memory and CPU used.\n10. There was no reporting of experiments done with the models as an experiment.\n11. The filtering used in their approach led to a reduction in the bandwidth in the modulation spectrum, which allowed for a reduced transmission rate.\n12. The first time the results were reported, they were misstated, with the same amount of reduction in the bandwidth.",
+            "nb_characters": 1296,
+            "nb_words": 225,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1608",
+            "text": "Here are the key points from the conversation:\n1. The speaker is discussing a system for transmitting audio data over a communication channel, and how it is similar to cepstral mean subtraction.\n2. The system uses a filtering technique to reduce the bandwidth in the modulation spectrum, which allows for a reduced transmission rate.\n3. The speaker mentions that the system was tested with a repeat count, but the results were misreported.\n4. The speaker notes that in practice, the system would transmit at a rate of 2400 bits per second, not 4800 bits per second as reported.\n5. The speaker mentions that there are still bugs to be traced down and that the development set results are due the day before the meeting.\n6. The speaker suggests that the differences in the system's behavior in California and Oregon may be due to an electricity shortage.",
+            "nb_characters": 852,
+            "nb_words": 147,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1621",
+            "text": "Here are the key points from the conversation:\n1. The speaker is discussing a system for testing errors in a software development process.\n2. The system is using a \"disfmarker\" term, which is not defined in the conversation.\n3. The speaker mentions that the system is creating 2400 bits per second, but they are actually creating 4800 bits per second due to a phony count.\n4. The speaker discusses the importance of standards in the development process and mentions that the meeting is scheduled for the 13th or 14th of the month.\n5. The speaker mentions that they will have to stop the testing the day before the meeting to avoid any issues.\n6. The speaker discusses the possibility of combining different systems to create a standard.\n7. The speaker mentions that the filtering process is different on the terminal and server sides.\n8. The speaker mentions that the VAD stuff they both had was similar, but they had some kind of online normalization.\n9. The speaker mentions that the main different between the two systems is the filtering.",
+            "nb_characters": 1042,
+            "nb_words": 179,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1628",
+            "text": "Here are the key points from the conversation:\n1. The team is discussing the development of a new standard for a specific task, and there are different opinions on how to approach it.\n2. Some team members think that the standard should be based on the best existing system, while others believe that it should be a combination of different systems.\n3. There are concerns about the resources required to implement the standard, and the potential for it to be too complex or time-consuming.\n4. The team is considering the idea of adding a filter to the standard to improve its performance, but there are questions about the amount of memory and CPU required for this.\n5. Some team members are skeptical about the need for a new standard, and believe that the existing systems are sufficient.\n6. There is a discussion about the potential benefits of having a standard, including the ability to sell products and the opportunity for ongoing improvement.\n7. The team is considering the possibility of having two different standards, one for the terminal side and one for the server side, in order to accommodate different systems and resources.\n8. There is a mention of a previous meeting where the team discussed this topic and made some decisions, but it is not clear what those decisions were.\n9. The team is interested in hearing the opinions of other team members on the issue.",
+            "nb_characters": 1377,
+            "nb_words": 238,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1648",
+            "text": "* The conversation is about improving speech recognition for noisy speech\n* The speaker is discussing the idea of adding a filter to the server-side to improve the recognition of phonemes in noisy speech\n* The speaker mentions that they are working on this already and that Su-Sunil is trying to put some kind of filtering in the vocalsound\n* The speaker notes that sometimes people are anxious to get a standard out there, but it's not final even if they declared a standard\n* The speaker mentions that standards are always optional and that people often work on new standards while an old standard is in place\n* The speaker expresses interest in hearing the other person's thoughts on where to go from this point\n* The speaker mentions that they tried a lot of things in a hurry but didn't really look at what was happening with the noise and where it was coming from\n* The speaker suggests looking at the data and seeing if there are any patterns in the errors\n* The speaker mentions that most of the errors are within phoneme classes and that it could be interesting to see if it's still true when there is noise\n* The speaker suggests having a large gain by looking at improving the recognition of phoneme classes, rather than individual phonemes\n* The speaker notes that some of the numbers are still horrible, even with all of the processing, but that taking the best cases and looking at the well-matched German and Danish cases afterward could be a good starting point.",
+            "nb_characters": 1478,
+            "nb_words": 261,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1647",
+            "text": "Here are the key points from the conversation:\n1. The speaker is almost done with a project, but there are some issues with the results.\n2. The speaker is interested in hearing the assistant's thoughts on how to improve the project.\n3. The speaker mentions that they tried a lot of things quickly, but they are now willing to take their time and not rush things.\n4. The speaker mentions that they are looking at the data and trying to understand what is causing the degradation.\n5. The assistant mentions that they think the confusion matrices are different when there is noise compared to clean speech.\n6. The speaker mentions that they are interested in improving the recognition of phoneme classes, rather than individual phonemes.\n7. The speaker mentions that they are getting error rates of around 8-9% for the best cases.\n8. The speaker mentions that they are using a realistic database with real noise conditions, rather than artificially added noise.\n9. The assistant mentions that the training is done on different conditions and microphones, and the testing is done on different microphones and conditions as well.\n10. The speaker mentions that they are interested in hearing the assistant's thoughts on how to improve the project.",
+            "nb_characters": 1241,
+            "nb_words": 210,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1630",
+            "text": "* The conversation is about a machine learning model for speech recognition, specifically for phone numbers.\n* The model is trained on a dataset of people speaking phone numbers, with different microphones and conditions.\n* The model is not performing well on a test set, with an error rate of around 9%.\n* The reason for this is that the training and test sets are not well-matched, with different microphones and conditions.\n* The training set is a realistic database of people speaking phone numbers, but the test set is a different microphone and condition.\n* The model is not able to generalize well to the test set because of this mismatch.\n* The conversation mentions that the optimistic view is that the model will perform well on a real-world application, but this is not the case.\n* The model is not good enough for a real system, even on the development set.\n* The conversation also mentions that there is still work to be done to improve the model.",
+            "nb_characters": 960,
+            "nb_words": 163,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1591",
+            "text": "Here are the key points from the conversation:\n1. The speaker is discussing a research project related to speech recognition and noise robustness.\n2. The project involves training a speech recognition system to recognize speech in noisy environments, with the goal of improving the system's ability to recognize speech in real-world scenarios.\n3. The speaker mentions that the system they are working on is a \"highly mismatched\" case, which means that the training data is not perfectly aligned with the test data.\n4. The speaker notes that the system is not yet optimal, but they are optimistic about its potential.\n5. The speaker mentions that even the optimistic view on the system's performance is not good enough for a real-world application.\n6. The speaker discusses the issue of choosing the best single numbers for the system, and how Alcatel was not able to get good results even with the best numbers.\n7. The speaker mentions that they still have work to do on the system, and that they are considering trying again with an articulatory feature.\n8. The speaker notes that there were a lot of times when they tried something and it didn't work right away, even though they had an intuition that there should be something there.\n9. The speaker mentions that one idea they tried was low-pass filtering to cepstrum, but it wasn't MSG and it was a small improvement with a big added complication, so they dropped it.\n10. The speaker notes that Barry will be continuing to work on multi-band things as well.",
+            "nb_characters": 1511,
+            "nb_words": 266,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1600",
+            "text": "* The conversation is about speech recognition and the challenges of working with speech data.\n* The speaker is discussing the importance of improving speech recognition systems.\n* The speaker mentions that they have been working on a project to improve the accuracy of speech recognition systems, and they have seen some promising results.\n* The speaker mentions that they have tried various approaches, including using different types of filters and working with a second stream.\n* The speaker notes that even with these improvements, the results are still not perfect and there is still much work to be done.\n* The speaker mentions that they are interested in exploring new ideas and approaches to improve speech recognition, such as using learning articulatory features and working with multi-band information.\n* The speaker notes that the results of their work are still not good enough to be used in real-world situations, but they are making progress.\n* The speaker mentions that they are excited about the potential of the Aurora data and the new digit set coming from recordings in this room to help improve speech recognition systems.\n* The speaker notes that even with these improvements, the results are still not perfect and there is still much work to be done.\n* The speaker mentions that they are interested in exploring new ideas and approaches to improve speech recognition, such as using learning articulatory features and working with multi-band information.\n* The speaker notes that the results of their work are still not good enough to be used in real-world situations, but they are making progress.",
+            "nb_characters": 1621,
+            "nb_words": 259,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1634",
+            "text": "Here are the key points from the conversation:\n1. The speaker is inspired by Larry Saul's work on learning articulatory features in speech recognition.\n2. The speaker is working with a new data set that includes recordings from a room in the building, which they are excited about.\n3. The speaker mentions that the results they have achieved so far are not perfect, but they are still happy with the progress they have made.\n4. The speaker and their colleagues have been experimenting with using data from multiple languages to train the neural network, but they have not had much success with this approach.\n5. The speaker mentions that there may be something wrong with their approach, perhaps in the way they are labeling the data.\n6. The speaker suggests that hand-labeled data from other languages could be useful for improving the performance of the neural network.\n7. The speaker is not sure if they will be able to obtain hand-labeled data from other languages.",
+            "nb_characters": 969,
+            "nb_words": 168,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1565",
+            "text": "Here are the key points from the conversation:\n1. The team is discussing the challenges of training a neural network for a speech recognition task, particularly when dealing with multiple languages and different acoustic conditions.\n2. They mention the idea of using multiple nets trained on different data, but it's not clear if this is the best approach.\n3. They discuss the potential benefits of using hand-labeled data for training the neural network.\n4. They mention the notion of combining multiple nets trained on different data, but it's not clear if this is the best approach.\n5. They discuss the potential advantages of having different nets for different acoustic conditions.\n6. They mention the idea of using different nets for different languages, but it's not clear if this is the best approach.\n7. They discuss the potential benefits of having multiple nets for different acoustic conditions.\n8. They mention the idea of using a single net that has different acoustic conditions, but it's not clear if this is the best approach.\n9. They discuss the potential advantages of having different nets for different languages.\n10. They mention the idea of using different nets for different acoustic conditions, but it's not clear if this is the best approach.\n111. They discuss the potential benefits of having multiple nets for different acoustic conditions.\n12. They mention the idea of using a single net that has different acoustic conditions, but it's not clear if this is the best approach.\n13. They discuss the potential advantages of having different nets for different languages.\n14. They mention the idea of using different nets for different acoustic conditions.\n15. They discuss the potential benefits of having multiple nets for different acoustic conditions.\n16. They mention the idea of using a single net that has different acoustic conditions, but it's not clear if this is the best approach.\n17. They discuss the potential advantages of having different nets for different languages.\n18. They mention the idea of using different nets for different acoustic conditions.\n19. They discuss the potential benefits of having multiple nets for different acoustic conditions.\n20. They mention the idea of using a single net that has different acoustic conditions, but it's not clear if this is the best approach.",
+            "nb_characters": 2331,
+            "nb_words": 385,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "825",
+            "text": "Here are the key points from the conversation:\n1. The speaker is discussing the use of multiple nets trained on different data for speech recognition.\n2. The speaker mentions that one form of different data is from different languages, but the other form is acoustic conditions rather than training them all up in one.\n3. The speaker is unsure if it would be better to have multiple nets or not, and raises this question.\n4. The speaker mentions that Mike Shire's thesis raised this question regarding reverberation.\n5. The speaker mentions that sometimes it might be better to do things differently, but they are not sure for sure.\n6. The speaker mentions that the next meeting will be skipped due to the speaker's travel plans.\n7. The speaker mentions that the main topic of the meeting will be the speaker sharing what happened.\n8. The speaker mentions that the group should discuss digits before the meeting.\n9. The speaker mentions that the group should turn off the machine and say nasty things.\n10. The speaker mentions that the group should go ahead and discuss digits.",
+            "nb_characters": 1077,
+            "nb_words": 187,
+            "language_output": "1"
+        }
+    ],
+    "input_path": "inputs/llama27b_750/icsi/icsi_1",
+    "model": "meta-llama/Llama-2-7b-chat-hf",
+    "input_language": "text_en",
+    "MAX_TOKEN_CHUNK_SIZE": "750",
+    "instruction": "Provide a list of key points for the following text:\n\n",
+    "over_context": "0",
+    "output_length": 239
+}
