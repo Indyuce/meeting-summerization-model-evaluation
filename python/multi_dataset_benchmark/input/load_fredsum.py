@@ -39,6 +39,12 @@ for folder_name in folder_names:
         break
 
     print('Reading', folder_name)
+
+    target_file_path = 'fredsum/sample_' + str(counter) + '.txt'
+    counter += 1
+    if os.path.isfile(target_file_path):
+        print('-- ' + target_file_path + ' already exists, skipping.')
+        continue
     
     summaries = []
     for i in range(1, 5):
@@ -58,10 +64,8 @@ for folder_name in folder_names:
 
     json_object = to_json(transcript, summaries)
 
-    target_file = open('fredsum/sample_' + str(counter) + '.txt', 'w', encoding='utf-8')
+    target_file = open(target_file_path, 'w', encoding='utf-8')
     target_file.write(json_object)
     target_file.close()
-
-    counter += 1
 
 print('Done! ')
