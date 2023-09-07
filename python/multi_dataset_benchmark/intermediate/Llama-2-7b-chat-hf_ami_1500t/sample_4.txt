@@ -1,0 +1,39 @@
+The meeting is a final detailed design meeting for a remote control with the following features:
+* A snowman-shaped design
+* No LCD display
+* No talk-back functionality
+* Kinetic power and battery
+* Rubber buttons with internal LEDs for backlighting
+* A jog-dial
+* Incorporation of the slogan "Ninja Homer, made in Japan"
+* A number pad
+* A small LCD panel with simple graphics to display functionally what the user is doing
+* A button for accessing advanced functions, which are hidden from the user but can be accessed through the LCD panel and jog-dial
+* Dimensions of about 10 centimeters in height
+* Colours available are a foggy yellow that lights up when the button is pushed, and a red button that can be used as the power button and send a stand-by signal if held for two seconds.
+
+The text describes a remote control design for a TV, with a focus on its button layout and functionality. The remote has a power button, a jog-dial, and several other buttons for controlling the TV's volume, channels, and other settings. The designers are considering adding advanced functions such as contrast, brightness, and color adjustment, as well as input selection for connecting external devices like a VCR. The remote also has a single or double-curved case design, with the option for special colors. The designers are discussing the use of plastic and rubber materials for the buttons and whether to include rubber in the buttons. They are also considering the color options for the remote and the interface design.
+
+The text describes a conversation between a product manager (PM), a user interface (UI) designer, and an engineer (ID) discussing the design of a product with a large sheet of rubber and 12 buttons underneath. They are trying to determine how to reduce the cost of the product while still meeting the design requirements. They consider various options, including removing the LCD panel and advanced chip, using regular chips instead, and using different colors for the buttons. They also discuss the possibility of embossing the logo on the buttons, which could add to the cost. In the end, they decide to remove the LCD panel and advanced chip, use regular chips, and use only one button with a special form.
+
+The goal of the prototype design was to create a low-profile device that was deep enough to be comfortable to hold in one's hands, rather than wide and flat. The team discussed the dimensions of the device, with the consensus being that it should be about two and a half centimeters thick. They also discussed the button grid, with the idea of stylizing it or using a different concept to make it more visually appealing. The team agreed to evaluate the design using a set-up in PowerPoint, with the criteria being the points of discussion from the beginning of the meeting. They will review the design using this criteria and decide if they are satisfied with it.
+
+The group is rating the design of a remote control based on various design goals and market research. They are using a rating system of 1-7, with 1 being the highest and 7 being the lowest. The ratings are as follows:
+* Stylish look and feel: 5
+* Control high tech innovation: 3
+* Style reflects a fruit inspired colour, design: 2
+* Soft and spongy: 5
+* Company logo: 7
+* Within budget: 8
+
+The group has discussed and agreed upon a rating of 69-70% efficacy of their original design goals, translating to a rating of approximately 31% on a scale of 1-100.
+
+The text describes a meeting where a group of people are discussing their creative input in a project. They are asked to evaluate their own creativity and how it was used in the project, and to provide their opinions on four specific points. The group members express that they feel constrained by the guidelines and restrictions given to them, and that their creativity is only able to go so far within those constraints. They also mention that the room they are in is institutional and not very conducive to creativity, but that their ideas come alive when they leave the room and come back to discuss them later.
+
+The group discussed various constraints they face in their brainstorming meetings, including time limits, structured processes, and limited room for creativity. They agreed that the current format restricts their ability to think outside the box and come up with innovative ideas. They also mentioned that the use of technology, such as shared folders, can slow down communication and make it difficult to collaborate. Additionally, they mentioned that effective leadership involves giving team members room for freedom and delegation, but also providing guidance and direction. They agreed that the current leadership style is too controlling and turns individuals into predetermined mechanisms rather than allowing for free thinking. Finally, they discussed the importance of teamwork and the need to be able to communicate and collaborate outside of meetings in order to be more creative and productive.
+
+The team discussed the challenges they faced during their recent meeting, particularly with regards to collaboration and communication. They found that the tools provided to them were not conducive to teamwork, as they were designed as individual tools rather than collaborative ones. The team members expressed that they would have benefited from a more interactive and dynamic toolset, such as a digital whiteboard, which would have allowed them to work together more effectively. They also mentioned that the use of PowerPoint presentations took up a lot of time and could have been handled verbally instead. Additionally, the team found the digital pens to be clunky and disruptive, as they had to constantly switch between pens and paper. Overall, the team felt that a more collaborative and interactive toolset would have improved their meeting experience.
+
+The conversation revolves around a group of people discussing their experiences and opinions on using computers and technology during meetings. They mention the advantages and disadvantages of using computers, such as the ability to quickly access information and the potential for distraction. They also discuss the idea of having a single computer for the group instead of each person having their own computer, and how this could potentially improve the efficiency of the meeting. Additionally, they touch on the topic of new ideas and how they are often difficult to come up with, especially when working on a team-based project. The conversation ends with the group discussing a logo they have designed for the project, which features a cartoon character called "Ninja Homer."
+
+The conversation revolves around the topic of Play-Doh, a modeling compound used for creative purposes. The speakers discuss the tactile nature of Play-Doh, how it engages the senses beyond sight, and how it can help with conceptualizing and being creative. They also mention that Play-Doh is non-toxic and can be used by children, and that some Play-Doh products are even edible. The speakers agree that Play-Doh is a helpful tool for the creative process and that it becomes tangible in a way that other mediums do not.
