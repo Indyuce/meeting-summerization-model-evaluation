@@ -1,0 +1,1 @@
+This inference batch is aimed at testing XGEN on summarization with sliding window. There is no French summarization at all.

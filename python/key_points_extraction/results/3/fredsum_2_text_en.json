@@ -1,0 +1,51 @@
+{
+    "chunks": [
+        {
+            "success": "1",
+            "input_length": "536",
+            "text": "\n\n1. Valérie Pécresse and Éric Zemmour are discussing a proposal made by Emmanuel Macron, who is currently leading in polls for the French presidency.\n2. Macron has proposed raising the legal retirement age to 65, which is not currently the case.\n3. Pécresse has accused Macron of emptying the treasury in the past and now claims that he is filling it up again.\n4. Pécresse is asked if she appreciates Macron's measure as it deserves, to which she replies that it is important but not the only issue.\n5. Zemmour argues that 150 billion is an estimate for his unfunded expenses, while Pécresse counters that he only proposes reforms to raise the retirement age to 64.\n6. Pécresse is asked if she will apply a reform to raise the retirement age to 65 as president, and if she will tell the French people that \"as president, retirement will be at sixty-five\".",
+            "nb_characters": 856,
+            "nb_words": 153,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "959",
+            "text": "\n\n1. Valérie Pécresse and Éric Zemmour are discussing the retirement age proposal by Emmanuel Macron, who is currently leading in polls.\n2. Pécresse has accused Macron of emptying the treasury, but now he is filling it up again by raising the legal retirement age to 65.\n3. Pécresse is asked if she appreciates Macron's measure, to which she responds that it is not a major economic issue, as Zemmour's program has unfunded expenses of a thousand billion euros.\n4. Pécresse also proposes raising the retirement age to 64, but only as part of a comprehensive reform package.\n5. Zemmour counters that he has proposed raising the retirement age to 64 for years, and that his program would save 20 billion euros.\n6. The debate shifts to immigration and Zemmour's proposed cuts to immigration spending.",
+            "nb_characters": 797,
+            "nb_words": 137,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "965",
+            "text": "\n\n* The speaker is discussing a reform proposal for retirement benefits in France.\n* The reform would increase the minimum pension to 1,000 euros, and would also increase the widow's pension from 54% to 75%.\n* The speaker also proposes to increase the net minimum wage so that no retiree would retire without it.\n* The proposal is criticized by other candidates, who argue that the speaker has not provided specific details or a plan for implementing the reforms.\n* The speaker also proposes increasing the retirement age to 64 and cutting expenses related to immigration, which he claims would save 20 billion euros.\n* The speaker also proposes merging the territorial council and the regional council, which he claims would save 10% of 40 billion euros, or 4 billion euros.\n* The speaker also proposes cutting social benefits for non-European non-contributors, which he claims would save 15 billion euros.\n* The speaker also proposes a program to ease economic burdens with 30 billion in tax cuts for production, which he claims will create wealth.\n* The speaker is accused of making promises without providing specific details or a plan for implementing them.\n* The speaker also proposes increasing the corporate tax threshold, which he claims will create economic activity and wealth.\n* The speaker is accused of making promises without providing specific details or a plan for implementing them.",
+            "nb_characters": 1400,
+            "nb_words": 223,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "896",
+            "text": " 1. The speaker is discussing the topic of government promises and the need for a systematic approach to making decisions.\n2. They acknowledge that there will be sectors where hiring is necessary, such as the justice system and healthcare.\n3. The speaker disagrees with the idea of making promises without a plan, and suggests that a strict assessment of needs is necessary.\n4. They mention that there are budgetary savings to be made, including cutting social benefits for non-European non-contributors and fighting against social fraud.\n5. They also propose merging the territorial council and regional council to save money.\n6. The speaker mentions that there is a program to ease economic burdens with tax cuts for production and a reduction system for the corporate tax.\n7. They also mention that there are plans to cut jobs, but it is not clear how many jobs will be cut or where they will come from.\n8. The speaker mentions that the CSG (General Social Contribution) and hospital will not be compensated, and that this is necessary in order to announce the planned job cuts.\n9. The speaker also mentions that previous presidents, such as Nicolas Sarkozy and François Fillon, have made similar promises, but have not followed through with them.\n10. The speaker also mentions that Eric Zemmour's program is unfunded and lacks a systematic approach.",
+            "nb_characters": 1353,
+            "nb_words": 227,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "407",
+            "text": "\n\n1. The speaker is discussing job cuts and the need for economic reforms.\n2. The speaker mentions that the CSG (General Social Contribution) and the hospital will not be compensated if job cuts are made.\n3. The speaker mentions that they have already announced job cuts in their region and saved two billion euros.\n4. The speaker mentions that the economy is important for a country's power and that Eric Zemmour's program is unfunded.\n5. The speaker mentions that François Fillon has said that the state is bankrupt, but the country has more debt now.\n6. The speaker mentions that they are at a breaking point and need to make reforms.\n7. The speaker mentions that they are not Emmanuel Macron, but similar in their promises to cut jobs and save money.\n8. The speaker mentions that they are not sure if people will believe their promises.\n9. The speaker mentions that Eric Zemmour does not support reforms.",
+            "nb_characters": 908,
+            "nb_words": 160,
+            "language_output": "1"
+        }
+    ],
+    "input_path": "inputs/XGen7b8k_500/fredsum/fredsum_2",
+    "model": "Salesforce/xgen-7b-8k-inst",
+    "input_language": "text_en",
+    "MAX_TOKEN_CHUNK_SIZE": "500",
+    "instruction": "Provide a list of key points for the following text:\n\n",
+    "over_context": "0",
+    "output_length": 205
+}

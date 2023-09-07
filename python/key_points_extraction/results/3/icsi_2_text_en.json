@@ -1,0 +1,291 @@
+{
+    "chunks": [
+        {
+            "success": "1",
+            "input_length": "551",
+            "text": "*************\n\n* The speaker is discussing a meeting agenda and the expected attendance of a person named Hynek.\n* The speaker suggests that at least for this meeting, people should attend even though the speaker won't be there on Thursday and Friday.\n* The speaker mentions that they don't have any Czech accent yet, and suggests that they should work on that.\n* The speaker asks what the agenda for next week will be, and if there are any new ideas for the Meeting Recorder project.\n* The speaker mentions that adjusting the scaling and insertion penalty sorta stuff is an idea that they had, and that they played around with it.\n* The speaker also mentions that when dealing with noisy data, there are lots of insertions, and that they tried adjusting the insertion penalties.\n* The speaker also mentions that they don't have any new ideas for the Meeting Recorder project.\n* The speaker ends by saying that they are going to work on the Czech accent.",
+            "nb_characters": 954,
+            "nb_words": 163,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1020",
+            "text": "以下是有关这段记录的关键点：\n\n1. Hynek将在下周三到五（星期一至五，并在下周六和下周日）到来，而且说明他将在这段时间内没有外出。\n2. 在这次会议中，他们需要继续工作，因为他们还没有掌握捷克语的口语。\n3. 在探讨排序算法时，他们提到应该尝试调节排序和插入排序的参数，因为在高度不平衡情况下，它们会产生大量的插入。\n4. 在某些情况下，这种调节可能会改善性能，但是在一般情况下，它并不帮助。\n5. 在某些情况下，他们可能需要进行更多的实验，以确定更好的方法。",
+            "nb_characters": 233,
+            "nb_words": 25,
+            "language_output": "2"
+        },
+        {
+            "success": "1",
+            "input_length": "1017",
+            "text": "以下是有关“Mel Cepstrum”和语言模型的关键点：\n\n1. Mel Cepstrum是一种声学方法，用于分析声学特性。\n2. 在一个好匹配的情况下，Mel Cepstrum的表现很好。\n3. 在进行更多游戏方面，可以进行更多操作。\n4. 不管语言类型如何，在第一个级别上，使用相同数量的状态并不会提高性能。\n5. 在高噪音环境中，需要进行更多调整，以便适应这些情况。\n6. 在进行实验方面，需要考虑更多因素，如Gauss模型数量和时间范围。\n7. 在调整后，可以进行实验来测试改进的效果。",
+            "nb_characters": 248,
+            "nb_words": 30,
+            "language_output": "2"
+        },
+        {
+            "success": "1",
+            "input_length": "1044",
+            "text": "\n\n1. The speaker is discussing an experiment to improve the performance of a speech recognition system in noisy environments.\n2. The system is not supposed to adjust the back-end, but anyone using it would do so anyway.\n3. The speaker suggests adjusting the insertion penalties to make the system better at handling larger time windows and noise.\n4. They have found in the past that increasing the insertion penalty helps with this.\n5. The experiment is to run the front-end like normal and tweak the settings to see how much of a difference it makes.\n6. The speaker means \"our front-end\" refers to the Aurora-two system with a version that Stephane has that is the current best version.\n7. The speaker is interested in how much improvement the system can make when adjusted for noisy conditions.\n8. The speaker did not remember the specific numbers for the well-matched case and would need to do more research to find them.\n9. The speaker is willing to do the research for next week.\n10. The speaker suggests getting someone else to help if they are running behind on the project.",
+            "nb_characters": 1081,
+            "nb_words": 193,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1040",
+            "text": "以下是问题的关键点：\n\n1. 在一次对话中，两个人讨论了语音信号处理的问题。\n2. 用户问友人员是否知道如何计算不同条件下的语音信号。\n3. 友人回答了这个问题，表达了他们已经知道如何计算语音信号，并且希望另一个人能够帮助他们。\n4. 友人表达了想要知道的信息，包括如何计算不同条件下的语音信号，以及可能存在的差异。\n5. 用户表达了希望能够获得更多信息的想法。",
+            "nb_characters": 181,
+            "nb_words": 16,
+            "language_output": "2"
+        },
+        {
+            "success": "1",
+            "input_length": "1040",
+            "text": " 1. The speaker is requesting information from the other person about front-end, or initial, calculations for an unspecified project.\n2. The other person agrees to provide the information.\n3. The speaker mentions that they will have time to work on the project and play with the silence model.\n4. The other person agrees and suggests that the speaker could have the information for next week when Hynek is present.\n5. The speaker expresses interest in understanding how the different models work and how they affect the insertion penalty.\n6. The other person explains that the insertion penalty is affected by the range of values in the model and suggests taking a root or dividing by a certain number to change the scale of the numbers.\n7. The speaker expresses interest in understanding the different ways to handle the insertion penalty and how they relate to the language and acoustic models.\n8. The other person suggests that if the speaker knows the value of the insertion penalty, they can determine what range the numbers should be in to match it.\n9. The speaker expresses curiosity as to why it would be interesting to find out if they are off in their calculations.\n10. The other person mentions that in noisy cases, there are lots of insertions and the insertion number is quite high.",
+            "nb_characters": 1295,
+            "nb_words": 223,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1047",
+            "text": "\n\n* The speaker is discussing the idea of using a language model to find out if they are \"way off\" in their acoustic model.\n* They mention that the insertion penalty is similar to other ways of handling the problem of differences between different candidates from the acoustic model.\n* They also mention that in noisy cases, they are seeing lots of insertions, and that the insertion number is quite high.\n* They ask for a typical number of insertions, but do not know the answer.\n* They also mention that in the past, numbers of insertions were half the number of deletions, but that both numbers were small compared to substitutions.\n* They also mention that they talked about this issue when someone from OGI came down to visit.\n* The whole problem with insertions was that people were saying that a voice activity detector would be useful because all the silence that was getting through was causing insertions.",
+            "nb_characters": 915,
+            "nb_words": 153,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1038",
+            "text": "*************\n\n* Aurora front-end\n* Robust front-end\n* Balance\n* Disfmarker\n* Insertions\n* Deletions\n* Substitutions\n* Numbers\n* Voice activity detector\n* Silence\n* Range\n* Symptoms\n* Wrong range\n* Conditions\n* Noise\n* Better handle\n* Stable value\n* Features\n* Pick\n* More stable\n* Aurora\n* OGI\n* Voice activity\n* Silence\n* Insertions\n* Deletions\n* Substitutions\n* Numbers\n* Symptoms\n* Range\n* Wrong range\n* Noise\n* Better handle\n* Stable value\n* Features\n* Pick\n* More stable\n* Aurora\n* OGI\n* Voice activity\n* Silence\n* Insertions\n* Deletions\n* Substitutions\n* Numbers\n* Symptoms\n* Range\n* Wrong range\n* Noise\n* Better handle\n* Stable value\n* Features\n* Pick\n* More stable\n* Aurora\n* OGI\n* Voice activity\n* Silence\n* Insertions\n* Deletions\n* Substitutions\n* Numbers\n* Symptoms\n* Range\n* Wrong range\n* Noise\n* Better handle\n* Stable value\n* Features\n* Pick\n* More stable\n* Aurora\n* OGI\n* Voice activity\n* Silence\n* Insertions\n* Deletions\n* Substitutions\n* Numbers\n* Symptoms\n* Range\n* Wrong range\n* Noise\n* Better handle\n* Stable value\n* Features\n* Pick\n* More stable\n* Aurora\n* OGI\n* Voice activity\n* Silence\n* Insertions\n* Deletions\n* Substitutions\n* Numbers\n* Symptoms\n* Range\n* Wrong range\n* Noise\n* Better handle\n* Stable value\n* Features\n* Pick\n* More stable\n* Aurora\n* OGI\n* Voice activity\n* Silence\n* Insertions\n* Deletions\n* Substitutions\n* Numbers\n* Symptoms\n* Range\n* Wrong range\n* Noise\n* Better handle\n* Stable value\n* Features\n* Pick\n* More stable\n* Aurora\n* OGI\n* Voice activity\n* Silence\n* Insertions\n* Deletions\n* Substitutions\n* Numbers\n* Symptoms\n* Range\n* Wrong range\n* Noise\n* Better handle\n* Stable value\n* Features\n* Pick\n* More stable\n* Aurora\n* OGI\n* Voice activity\n* Silence\n* Insertions\n* Deletions\n* Substitutions\n* Numbers\n* Symptoms\n* Range\n* Wrong range\n* Noise\n* Better handle\n* Stable value\n* Features\n* Pick\n* More stable\n* Aurora\n* OGI\n* Voice activity\n* Silence\n* Insertions\n* Deletions\n* Substitutions\n* Numbers\n* Symptoms\n* Range\n* Wrong range\n* Noise\n* Better handle\n* Stable value\n* Features\n* Pick\n* More stable\n* Aurora\n* OGI\n* Voice activity\n* Silence\n* Insertions\n* Deletions\n* Substitutions\n* Numbers\n* Symptoms\n* Range\n* Wrong range\n* Noise\n* Better handle",
+            "nb_characters": 2202,
+            "nb_words": 244,
+            "language_output": "2"
+        },
+        {
+            "success": "1",
+            "input_length": "1032",
+            "text": "*************\n\n* The speaker discusses the topic of insertions in speech recognition systems, and how they are a symptom of a problem with the range of the system.\n* The speaker notes that while some insertions may be less critical, the system's substitutions tend to go up as well, and that the most obvious thing to address is the insertions themselves.\n* The speaker suggests that the system may be more stable if it is adjusted to operate in a more stable range of features.\n* The speaker notes that in the past, the system's scaling factors were rarely adjusted, but that in a real situation, the scaling factors can be adjusted in the back-end.\n* The speaker notes that while it is possible to adjust the scaling factors in the back-end, it is important to note that the system should not be adjusted for different conditions.\n* The speaker notes that it may be a good idea to map the system's range to the range that it gets in the well-matched case.\n* The speaker notes that the system should be adjusted to operate in a stable range of features.\n* The speaker notes that in the past, the scaling factors were rarely adjusted, but that in a real situation, the scaling factors can be adjusted in the back-end.\n* The speaker notes that the system should not be adjusted for different conditions.\n* The speaker notes that it may be a good idea to map the system's range to the range that it gets in the well-matched case.",
+            "nb_characters": 1427,
+            "nb_words": 258,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1006",
+            "text": "以下是问题的关键点：\n\n1. 在实际情况下，可以通过调整后端的调节因子来调整调节因子。\n2. 如果您拥有适当的前端，则可以保持它在适当范围内。\n3. 如果您需要进行评估，则可以获得更多分数，如果您进行了细微的调整。\n4. 如果您知道了确切的适当范围，则它可能是稳定的，并且不应该尝试调整。\n5. 如果您不知道确切的适当范围，则不应该尝试调整。\n6. 如果您需要进行调整，则应该根据调节因子的范围来选择。\n7. 如果您需要进行游戏调整，则可以通过调整后端的调节因子来获得更好的数字。\n8. 如果您需要进行游戏调整，则应该根据调节因子的范围来选择。\n9. 如果您需要进行游戏调整，则可能需要根据调节因子的范围来选择。\n10. 如果您需要进行游戏调整，则可能需要根据调节因子的范围来�",
+            "nb_characters": 339,
+            "nb_words": 33,
+            "language_output": "2"
+        },
+        {
+            "success": "1",
+            "input_length": "1010",
+            "text": "\n\n1. The speaker is discussing the evaluation of a game with a disfmarker, which is a tool used to map everything into a certain range.\n2. The speaker suggests that they should explore the space and take a look at the disfmarker to see if they are off or not.\n3. The speaker mentions that there may be people outside of the tight-knit community who are not accepting that the rules are being followed.\n4. The speaker suggests that they should determine whether the disfmarker is being used correctly or not.\n5. The speaker mentions that they should find ways to compensate for any mistakes made in the front-end of the game.\n6. The speaker asks what new developments there are with the speaker and what old developments have developed over the last week or two.\n7. The speaker mentions that they have been working on a report.\n8. The speaker mentions that they do not have any results yet from their work with the disfmarker.",
+            "nb_characters": 925,
+            "nb_words": 168,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1043",
+            "text": "\n\n* The speakers are discussing a project related to voice detection and analysis\n* The project has been ongoing for a week or two, and the speakers have been working on a report related to the project\n* There is no new development in the project, and the speakers are still working on the report\n* The project involves using the FFT spectrum and mel filter bank spectrum to detect the difference between voice and non-voice, and using the auto-correlation function and the variance of the auto-correlation function to improve the robustness of the voice detection algorithm\n* The speakers are still in the process of training a neural network for the project, and they don't have the results of the AURO for Aurora yet.",
+            "nb_characters": 720,
+            "nb_words": 124,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1042",
+            "text": "以下是文本的关键点：\n\n* 当前正在进行的实验是对Aurora的实验。\n* 目标是使用深度学习检测音频中的声音和无声部分。\n* 实验中使用的技术有FFT矩阵和Mel调色器网格等。\n* 实验进展不如预期，无法得到结果。\n* 实验结果个别情况下很少有结论可以得出。\n* 实验结果很多情况下是非结构化的，需要结构化。\n* 实验结果需要结合多个来源。\n* 实验结果需要结合多个来源。\n* 实验需要结合多个来源。\n* 实验需要结合多个来源。\n* 实验需要结合多个来源。\n* 实验需要结合多个来源。\n* 实验需要结合多个来源。\n* 实验需要结合多个来源。\n* 实验需要结合多个来源。\n* 实验需要结合多个来源。\n* 实验需要结合多个来源。\n* 实验需要结合多个来源。\n* 实验需要结合多个来源。\n* 实验需要结合多个来源。\n*",
+            "nb_characters": 357,
+            "nb_words": 23,
+            "language_output": "2"
+        },
+        {
+            "success": "1",
+            "input_length": "1038",
+            "text": "以下是问题的关键点：\n\n* 创建报告的目的是为了更好地理解实验结果。\n* 创建报告的目标是为了更好地理解实验结果。\n* 创建报告的目标是为了更好地理解实验结果。\n* 创建报告的目标是为了更好地理解实验结果。\n* 创建报告的目标是为了更好地理解实验结果。\n* 创建报告的目标是为了更好地理解实验结果。\n* 创建报告的目标是为了更好地理解实验结果。\n* 创建报告的目标是为了更好地理解实验结果。\n* 创建报告的目标是为了更好地理解实验结果。\n* 创建报告的目标是为了更好地理解实验结果。\n* 创建报告的目标是为了更好地理解实验结果。\n* 创建报告的目标是为了更好地理解实验结果。\n* 创建报告的目标是为了更好地理解实验结果。\n* 创建报告的目标是为了更好地理解实验结果。\n* 创建报告的目标是�",
+            "nb_characters": 345,
+            "nb_words": 16,
+            "language_output": "2"
+        },
+        {
+            "success": "1",
+            "input_length": "1033",
+            "text": "以下是问题的关键点：\n\n* 用户希望暂停一下，确认数据是否在状态中，以便其他人可以访问它。\n* 用户认为在提交报告时不是好的时间，因为这段时间会花费在整理和校对上。\n* 在提交报告之前，已经开始进行其他事情。\n* 提交报告之前，已经开始进行其他事情。\n* 提交报告之前，已经开始进行其他事情。\n* 提交报告之前，已经开始进行其他事情。\n* 提交报告之前，已经开始进行其他事情。\n* 提交报告之前，已经开始进行其他事情。\n* 提交报告之前，已经开始进行其他事情。\n* 提交报告之前，已经开始进行其他事情。\n* 提交报告之前，已经开始进行其他事情。\n* 提交报告之前，已经开始进行其他事情。\n* 提交报告之前，已经开始进行其他事情。\n* 提交报告之前，已经开始进行其他事情。\n* 提交报告之前，已经开始进行其他事情。\n* 提交报�",
+            "nb_characters": 363,
+            "nb_words": 33,
+            "language_output": "2"
+        },
+        {
+            "success": "1",
+            "input_length": "1039",
+            "text": "\n\n* Aurora experiments have three conditions with different noises\n* System performs well on seen and unseen noises and on seen and unseen noises\n* System's performance is good, even though the improvement wasn't so good\n* It is not clear whether adding noises from SpeechDat-Car will be permitted\n* OGI did this for voice activity detector for VAD\n* Italian, Spanish, English, Finnish, German, Danish were development data\n* Evaluation data was Spanish, German, Danish\n* Performance on German was good, even though improvement wasn't so good\n* It doesn't appear that going to a different language will hurt performance\n* It's tuned more than a simple system that needs no particular noise\n* It's not really what this contest is\n* OK to use system from SpeechDat-Car\n* It's probably something that experiment designers didn't think about\n* Most people are doing signal processing, not systems that use data to build models.",
+            "nb_characters": 923,
+            "nb_words": 150,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1048",
+            "text": "\n\n* The speaker is discussing a topic related to language modeling and machine translation.\n* They mention that the German language was used as a source language for machine translation in a previous contest, and that the improvement in performance was not great but the raw performance was good.\n* They mention that there is no particular noise required for the task and that it is tuned more than a simple white noise or similar.\n* They mention that the contest designers did not think about the use of data to build models and that most people used signal processing instead.\n* They mention that they used data in Aurora one and the designers of Aurora two knew that they were doing that.\n* They mention that they should double check if it's OK to use data from other languages and that they should discuss it with someone.\n* They mention that they don't have speaker information for the training utterances.",
+            "nb_characters": 911,
+            "nb_words": 156,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1022",
+            "text": "以下是關鍵詞清單：\n\n* Aurora\n* training utterances\n* speaker information\n* gender\n* vocal tract length normalization\n* fixed back-end\n* feature vector\n* separate streams\n* disfmarker\n* topic\n* Hynek\n* optimization\n* system\n* whole system\n* fixed back-end\n* feature vector\n* separate streams\n* disfmarker\n* topic\n* Hynek\n* optimization\n* system\n* whole system\n* fixed back-end\n* feature vector\n* separate streams\n* disfmarker\n* topic\n* Hynek\n* optimization\n* system\n* whole system\n* fixed back-end\n* feature vector\n* separate streams\n* disfmarker\n* topic\n* Hynek\n* optimization\n* system\n* whole system\n* fixed back-end\n* feature vector\n* separate streams\n* disfmarker\n* topic\n* Hynek\n* optimization\n* system\n* whole system\n* fixed back-end\n* feature vector\n* separate streams\n* disfmarker\n* topic\n* Hynek\n* optimization\n* system\n* whole system\n* fixed back-end\n* feature vector\n* separate streams\n* disfmarker\n* topic\n* Hynek\n* optimization\n* system\n* whole system\n* fixed back-end\n* feature vector\n* separate streams\n* disfmarker\n* topic\n* Hynek\n* optimization\n* system\n* whole system\n* fixed back-end\n* feature vector\n* separate streams\n* disfmarker\n* topic\n* Hynek\n* optimization\n* system\n* whole system\n* fixed back-end\n* feature vector\n* separate streams\n* disfmarker\n* topic\n* Hynek\n* optimization\n* system\n* whole system\n* fixed back-end\n* feature vector\n* separate streams\n* disfmarker\n* topic\n* Hynek\n* optimization\n* system\n* whole system\n* fixed back-end\n* feature vector\n* separate streams\n* disfmarker\n* topic\n* Hynek\n* optimization\n* system\n* whole system\n* fixed back-end\n* feature vector\n* separate streams\n* disfmarker\n* topic\n* Hynek\n* optimization\n* system\n* whole system\n* fixed back-end\n* feature vector\n* separate streams\n* disfmarker\n* topic\n* Hynek\n* optimization\n* system\n* whole system\n* fixed back-end\n* feature vector\n* separate streams\n* disfmarker\n* topic\n* Hynek\n* optimization\n* system\n* whole system\n* fixed back-end\n* feature vector\n* separate streams\n* disfmarker\n* topic\n* Hynek\n* optimization\n* system\n* whole system\n* fixed back-end\n* feature vector\n* separate streams\n* disfmarker\n* topic\n* Hynek\n* optimization\n* system\n* whole system\n* fixed back-end\n* feature",
+            "nb_characters": 2191,
+            "nb_words": 253,
+            "language_output": "2"
+        },
+        {
+            "success": "1",
+            "input_length": "1006",
+            "text": "以下是问题的关键点：\n\n* 当人们讨论发音系统时，提到了男性、女性、银行卡卡牌PIN等词汇。\n* 在讨论过程中，人们提到可以利用性别、性别特定网络和口腔长度调整等信息来优化系统。\n* 在系统中，可以使用两个独立的流，每个流都包含男性和女性的信息。\n* 在系统中，可以使用两个独立的流，每个流都包含男性和女性的信息。\n* 在系统中，可以使用两个独立的流，每个流都包含男性和女性的信息。\n* 在系统中，可以使用两个独立的流，每个流都包含男性和女性的信息。\n* 在系统中，可以使用两个独立的流，每个流都包含男性和女性的信息。\n* 在系统中，可以使用两个独立的流，每个流都包含男性和女性的信息。\n* 在系统中，可以使用两个独立的流，每个流都包含男性和女性的信息。\n* 在系统中，可以使用两个独立的流，每个流都包含男性�",
+            "nb_characters": 355,
+            "nb_words": 32,
+            "language_output": "2"
+        },
+        {
+            "success": "1",
+            "input_length": "1035",
+            "text": "以下是问题的关键点：\n\n* 当前状态：用户状态F（F为发音人）提出了一个想法，并表达了其意义不大的担忧。\n* 提出的想法：用户F提出了某种类似于Vocal Tract Length Normalization的想法，可以使用一个概率计算机模型来计算每个发音的概率。这个模型可以是一个混合函数Gaussians的结构，并且可以根据每个发音的概率分成不同的概率范围的策略。\n* 担忧：用户E表达了一些担忧，如果这种方法在每毫秒只有200毫秒的时间内实现并且没有调整统计引擎，这将是一个昂贵的和难以实现的方法。\n* 相似的工作：用户E提到了BBN在早期工作中做过一些类似于Vocal Tract Length Normalization的工作，并且提到其他人也可能做过。\n* 问题：用户E提出了一些问题，如果这种方法在每毫秒只有200毫秒的时间内实现并且没有调整统计引擎，这将是一个昂贵的和难以实现的方法。\n* 答案：用户E和�",
+            "nb_characters": 411,
+            "nb_words": 30,
+            "language_output": "2"
+        },
+        {
+            "success": "1",
+            "input_length": "1048",
+            "text": "以下是问题的关键点：\n\n1. 在哪里需要进行特定于时间的计算？\n2. 如何快速完成男女指示和类型计算？\n3. 在第三质谱中，第三质谱中的第三质谱中的第三质谱中的第三质谱中的第三质谱中的第三质谱中的第三质谱中的第三质谱中的第三质谱中的第三质谱中的第三质谱中的第三质谱中的第三质谱中的第三质谱中的第三质谱中的第三质谱中的第三质谱中的第三质谱中的第三质谱中的第三质谱中的第三质谱中的第三质谱中的第三质谱中的第三质谱中的第三质谱中的第三质谱中的第三质谱中的第三质谱中的第三质谱中的第三质谱中的第三质谱中的第三质谱中的第三质谱中的第三质谱中的第三质谱中的第三质谱中的第三质谱中的第三质谱中的第三质谱中的第三质谱中的第三质谱中的第三质谱中的第三质谱中的第三质谱中的第三质谱中的第三质谱中的第三质谱中的第三质谱",
+            "nb_characters": 348,
+            "nb_words": 8,
+            "language_output": "2"
+        },
+        {
+            "success": "1",
+            "input_length": "1041",
+            "text": "以下是问题的关键点：\n\n1. 一个模型可以捕捉多个声音的概率分布，这些声音包括发音方式（voiced/unvoiced）和性别（male/female）。\n2. 声音的发音方式和性别是相互独立的，因此可以独立地训练模型来捕捉这两种信息。\n3. 声音的性别是一个简单的分类，因为只有两种可能的发音方式（voiced/unvoiced），而且可以通过把声音归类为这两种方式来获得相应的概率分布。\n4. 在实践中，可以使用MSG或PLP特征来训练模型，并使用它们在不同数据集上的表现相似。\n5. MSG特征可能更敏感于不同录音条件，因此在使用MSG特征训练的模型之前，应该确保它们在不同数据集上的表现是相似的。\n6. 在实践中，可以使用MSG特征训练的模型在TIMIT和SpeechDat-Car数据集上表现相似，但在使用MSG特征训练的SpeechDat-Car数据集上表现不如PLP特征。\n7. 在训练模型时，应该考虑使用不同的训练集来",
+            "nb_characters": 417,
+            "nb_words": 35,
+            "language_output": "2"
+        },
+        {
+            "success": "1",
+            "input_length": "1043",
+            "text": "以下是问题的关键点：\n\n1. MSG (MS Noise Spectrogram)是什么？它在TIMIT和SpeechDat-Car数据集上的表现如何？\n2. 网络在使用MSG特征时的表现如何？为什么在SpeechDat-Car数据集上的表现不如使用PLP特征？\n3. 问题是什么？如何理解问题？\n4. 问题的解决方案？\n5. MSG特征的缺陷？如何改善它们的表现？\n6. 问题的推理方式？\n7. 网络在TIMIT和SpeechDat-Car数据集上的表现的差异？\n8. 网络在TIMIT和SpeechDat-Car数据集上的表现的差异是什么？\n9. 网络在TIMIT和SpeechDat-Car数据集上的表现的差异是因为什么？\n10. 网络在TIMIT和SpeechDat-Car数据集上的表现的差异是否影响了它们在语音识别中的表现？\n11. 网络在TIMIT和SpeechDat-Car数据集上的表现的差异是否影响了它们在语音合成中的表现？\n12. 网络在TIMIT和SpeechDat-Car数据集上的表现的差异是否影响了它们在语音分类中的表现？\n13. 网络在TIMIT和SpeechDat-Car数据集上的表现的差异是否影响了它",
+            "nb_characters": 519,
+            "nb_words": 44,
+            "language_output": "2"
+        },
+        {
+            "success": "1",
+            "input_length": "1045",
+            "text": "\n\n* MSG (Mel Frequency Cepstral Coefficients) is different from PLP (Pitch Linear Predictive Phoneme) and mel cepstrum\n* MSG is a feature used in speech recognition that represents the spectrum of a speech signal in mel frequency bins\n* PLP and mel cepstrum are features used in music information retrieval that represent the spectrum of a signal in the time and frequency domains, respectively\n* The range of the features used in speech recognition is different from the range of the features used in music information retrieval\n* It is important to consider how adjustments to the features used in speech recognition affect the results of speech recognition tasks\n* The use of tandem features, such as PLP and MSG, in speech recognition allows for estimation of post-posterior probabilities\n* The values fed into HTK (Harmonic Tagging and Labeling) are not necessarily log probabilities, but they are similar in nature\n* The values fed into HTK are not necessarily normalized\n* It is important to consider the values that come out of the net when using tandem features in speech recognition.",
+            "nb_characters": 1093,
+            "nb_words": 173,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1041",
+            "text": "*************\n\n* The speaker is discussing the use of log probabilities in speech recognition\n* Log probabilities do not tell you the sum of the logs, only the probabilities\n* The likelihood or transformation of the log probabilities is important\n* The log probabilities are fed into HTK and are not normalized after the KLT transformation\n* The speaker is unsure if taking the square root or cube root of the log probabilities will have a good or bad effect\n* The speaker is unsure if the log probabilities coming out of the MSG are close to a discrete cosine transformation\n* The speaker is unsure if the log probabilities coming out of the MSG will be radically different from those of mel cepstrum or PLP",
+            "nb_characters": 708,
+            "nb_words": 118,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1046",
+            "text": ".....................................\n\n* The speaker is discussing the effectiveness of the KLT (Kernel Linear Transform) insertion penalty in speech recognition algorithms.\n* They mention that the insertion penalty is used to prevent over-smoothing in the recognition process.\n* The speaker notes that the size of the log probability probabilities (log probs) affects the effectiveness of the insertion penalty, with larger log probs resulting in less effect.\n* They also mention that the KLT is similar to a discrete cosine transformation (DCT) and that the scale of the results may not be radically changed by the KLT.\n* The speaker suggests that without adjusting anything, the first thing to look at would be the substitutions, insertions, and deletions in the data and compare the r ratio (ratio of insertions to deletions) between the two cases.\n* They also mention that the KLT may not always work and that some problems are harder than others.\n* The speaker suggests that even if the KLT works, it could break in some cases.\n* They also mention that spectral subtraction is another method that could be used in speech recognition.",
+            "nb_characters": 1139,
+            "nb_words": 177,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1035",
+            "text": "\n\n* The speaker is discussing a speech recognition system and its limitations.\n* They mention a technique called \"disfmarker\" which is used to compare the number of insertions, deletions, and substitutions between two speech samples.\n* If the difference in the ratio of insertions and deletions is large, it may indicate that the system is in the direction of correcting the speech.\n* The speaker also mentions that the system works sometimes but doesn't always work and has issues with digit and speech data.\n* They suggest trying out spectral subtraction as an alternative to disfmarker.\n* The speaker also mentions that integrating spectral subtraction into the system would require a lot of changes to the existing system, which is already quite complex.\n* The speaker suggests that they should discuss this with Hynek next week.\n* The speaker also asks how the other person's work is going.",
+            "nb_characters": 895,
+            "nb_words": 142,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1030",
+            "text": "以下是问题的关键点：\n\n1. Ericsson 公司的系统中已经安装了预处理器 Spectral Subtraction，然后是其他预处理器的操作，如检测语言类型和静音状态。\n2. 需要在这些预处理器之前进行线性叠加，以减少音乐性噪音和噪声的增加。\n3. 需要在线上进行调整，以便能够减少噪音和噪声的影响。\n4. 需要在线进行计算，以便能够减少噪音和噪声的影响。\n5. Ericsson 公司的系统中已经安装了预处理器 Spectral Subtraction，然后是其他预处理器的操作，如检测语言类型和静音状态。\n6. 需要在这些预处理器之前进行线性叠加，以减少音乐性噪音和噪声的增加。\n7. 需要在线进行调整，以便能够减少噪音和噪声的影响。\n8. 需要在线进行计算，以便能够减少噪音和噪声的影响。\n9. Ericsson 公司的系统中已经安装了预处理器 Spectral Subtraction，然后是其他预处理器的操作�",
+            "nb_characters": 413,
+            "nb_words": 39,
+            "language_output": "2"
+        },
+        {
+            "success": "1",
+            "input_length": "1045",
+            "text": "\n\n* The speaker is starting to write code for their work, but they don't have any results yet.\n* They would like to talk to Hynek when he is available, and the speaker is unsure of his schedule.\n* The speaker asks if anyone knows what Hynek's schedule will be like.\n* Hynek will be available for three days, and the speaker is looking forward to connecting with him and others in the room.\n* The speaker mentions that they won't be available for a faculty retreat on Thursday and Friday.\n* The speaker will try to connect with Hynek and others on Wednesday, but they are unsure of how it will go.\n* The speaker mentions that they have a lot of time to talk to Hynek and others, and they are looking forward to it.\n* The speaker mentions that they won't have to do two returns for tax purposes, as they won't have Canadian income.\n* The speaker mentions that they will still have a bit of Canadian income, but it will be less complicated.\n* The speaker mentions that they will not have to declare their American income on their Canadian return.\n* The speaker asks if anyone would like to say something about their work.\n* The speaker mentions that they are looking at phonetic events and will be meeting with John Ohala and Chuck to talk more about them.\n* The speaker mentions that they have a plan of attack and will be executing it.\n* The speaker mentions that they are all gathered together and would like to wave their hands, but they are unsure if that is allowed.\n* The speaker mentions that they are looking forward to connecting with Hynek and others.",
+            "nb_characters": 1559,
+            "nb_words": 281,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1045",
+            "text": "\n* The speaker is discussing a paper by Hubener and Cardson Benson Bernds-Berndsen from the University of Hamburg and Bielefeld.\n* They are discussing the idea of acoustic events, which are different from acoustic features.\n* The speaker suggests that they want to create a set of acoustic events that can distinguish between phones and words.\n* They plan to hand-label or derive these events from hand-labeled phone targets.\n* They want to use these events to do cheating experiments with an SRI system and evaluate its performance on a Switchboard task.\n* The speaker mentions that they can give an example of twenty-odd events.\n* The speaker also mentions that they can provide more details about the paper if needed.\n* The speaker and the other person discuss the difference between acoustic features and acoustic events.\n* The speaker mentions that they think of acoustic events as things that linguists talk about.\n* The speaker and the other person agree to discuss the paper further and provide more details if needed.",
+            "nb_characters": 1026,
+            "nb_words": 166,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1033",
+            "text": "\n\n* The speaker is discussing acoustic events and how they can be used to distinguish between phones and words\n* They mention a paper by Hubener and Cardson Benson Berndsen that talks about phoneme recognition using acoustic events\n* The speaker gives an example of twenty odd events and explains the difference between acoustic features and acoustic events\n* Acoustic events are easier to measure than acoustic features and are used in the SPAM work\n* The speaker also mentions \"avents\" which are auditory events with an A at the front that are important to a bunch of neurons somewhere\n* A sudden change or rapid change in spectral characteristic can trigger neurons to fire.",
+            "nb_characters": 677,
+            "nb_words": 109,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1031",
+            "text": "**********\n\n* The speaker is discussing the difference between features based on data and those that are not.\n* They mention that in some cases, features for phones like height, tenseness, and laxness may not be easy to measure in the acoustic signal.\n* They contrast this with acoustic events, which are fairly easy to measure.\n* The speaker suggests that there is a difference between top-down and bottom-up approaches to analyzing phonetic features.\n* They mention that using events can allow for cheating experiments to assess the effectiveness of phones in phoneme recognition and word recognition.\n* The speaker plans to use the same approach as Saul, using a probabilistic AND-OR model for designing robust event detectors.",
+            "nb_characters": 730,
+            "nb_words": 114,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1042",
+            "text": "**********\n\n* The speaker is discussing phonetic features and acoustic events with someone named F\n* F talks about how phonetic features, such as phone types, are top-down in the sense that they are based on the phone's intended features, while acoustic events are bottom-up in that they are based on the actual signal\n* F also mentions that phonetic features can be mapped to different phones depending on context, and that acoustic events can also change depending on context\n* The speaker mentions that they want to use these events to perform phoneme recognition and word recognition experiments and design robust event detectors using a probabilistic AND-OR model similar to the one Saul has used\n* The speaker also mentions that they can measure their progress by comparing error rates in clean and noisy conditions to neural nets\n* The speaker mentions that they want to put the event detectors into the HMM system and test it on Switchboard or Aurora data\n* The speaker also mentions that there will be a couple of people staying for six months",
+            "nb_characters": 1052,
+            "nb_words": 176,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "833",
+            "text": "*************\n\n* A is working on event detectors to detect speech in noisy conditions\n* A wants to modify the structure of the models in a data-driven way\n* A is measuring the error rates in clean and noisy conditions to compare with neural nets\n* A wants to combine the outputs of the event detectors with the SRI HMM system and test on Switchboard or Aurora\n* A is planning to put the event detectors together with the SRI HMM system and test on Switchboard or Aurora\n* A is working on a plan to detect speech in noisy conditions\n* A is working with Jeff Bilmes and is measuring the error rates in clean and noisy conditions to compare with neural nets\n* A is measuring the error rates in clean and noisy conditions to compare with neural nets\n* A is working on event detectors to detect speech in noisy conditions\n* A is working on event detectors to detect speech in noisy conditions\n* A is working on event detectors to detect speech in noisy conditions\n* A is working on event detectors to detect speech in noisy conditions\n* A is working on event detectors to detect speech in noisy conditions\n* A is working on event detectors to detect speech in noisy conditions\n* A is working on event detectors to detect speech in noisy conditions\n* A is working on event detectors to detect speech in noisy conditions\n* A is working on event detectors to detect speech in noisy conditions\n* A is working on event detectors to detect speech in noisy conditions\n* A is working on event detectors to detect speech in noisy conditions\n* A is working on event detectors to detect speech in noisy conditions\n* A is working on event detectors to detect speech in noisy conditions\n* A is working on event detectors to detect speech in noisy conditions\n* A is working on event detectors to detect speech in noisy conditions\n* A is working on event detectors to detect speech in noisy conditions\n* A is working on event detectors to detect speech in noisy conditions\n* A is working on event detectors to detect speech in noisy conditions\n* A is working on event detectors to detect speech in noisy conditions\n* A is working on event detectors to detect speech in noisy conditions\n* A is working on event detectors to detect speech in noisy conditions\n* A is working on event detectors to detect speech in noisy conditions\n* A is working on event detectors to detect speech in noisy conditions\n* A is working on event detectors to detect speech in noisy conditions\n* A is working on event detectors to detect speech in noisy conditions\n* A is working on event detectors to detect speech in noisy conditions\n* A is working on event detectors to detect speech in noisy conditions\n* A is working on event detectors to detect speech in noisy conditions\n* A is working on event detectors to detect speech in noisy conditions\n* A is working on event detectors to detect speech in noisy conditions\n* A is working on event detectors to detect speech in noisy conditions\n* A is working on event detectors to detect speech in noisy conditions\n* A is working on event detectors to detect speech in noisy conditions\n* A is working on event detectors to detect speech in noisy conditions\n* A is working on event detectors to detect speech in noisy conditions\n* A is working on event detectors to detect speech in noisy conditions\n* A is working on event detectors to detect speech in noisy conditions\n* A is working on event detectors to detect speech in noisy conditions\n* A is working on event detectors",
+            "nb_characters": 3477,
+            "nb_words": 595,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "336",
+            "text": "\n\n1. The speaker mentions auditory properties inspired by various brain function things.\n2. The speaker thinks it would be interesting to talk to someone who looks at interesting things in the different ways of looking at spectra in order to get various speech properties out.\n3. The speaker has a short meeting, but it's OK.\n4. The speaker encourages others to meet with Hynek next week.\n5. The speaker starts at 1:35:17 and it is 17 minutes long.",
+            "nb_characters": 448,
+            "nb_words": 81,
+            "language_output": "1"
+        }
+    ],
+    "input_path": "inputs/XGen7b8k_500/icsi/icsi_2",
+    "model": "Salesforce/xgen-7b-8k-inst",
+    "input_language": "text_en",
+    "MAX_TOKEN_CHUNK_SIZE": "500",
+    "instruction": "Provide a list of key points for the following text:\n\n",
+    "over_context": "0",
+    "output_length": 105
+}

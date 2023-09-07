@@ -1,0 +1,51 @@
+{
+    "chunks": [
+        {
+            "success": "1",
+            "input_length": "540",
+            "text": "\n\n1. Farai Chideya is reporting on the Africa Update for NPR.\n2. This week, there have been increasing calls for food and other aid to Ethiopia and Somalia, as well as reports of more violence in Mogadishu.\n3. Gwen Thompkins, NPR's East Africa correspondent, is joining Farai to discuss these issues.\n4. Ethiopia and Somalia are experiencing food insecurity, particularly in Eastern Ethiopia, due to the closure of markets and lack of food production.\n5. There is ongoing violence in Mogadishu, Somalia, between transitional government forces and Ethiopian forces against insurgents.\n6. The situation in Mogadishu is deteriorating, with an increasing number of casualties and a lack of medical facilities to treat the injured.",
+            "nb_characters": 726,
+            "nb_words": 115,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "964",
+            "text": "\n\n* Farai Chideya is reporting on the Africa Update for NPR\n* Ethiopia and Somalia are experiencing increasing calls for food and other aid\n* Humanitarian aid organizations are reporting that the region is experiencing real food insecurity, particularly in Eastern Ethiopia\n* The government has closed off certain areas to prevent pastoralists from selling their livestock\n* The situation in Mogadishu, Somalia is also deteriorating as there is violence between government forces and Ethiopian forces against insurgents\n* The Ugandan peacekeepers have offered medical services to Somalis, but it is not enough to deal with the number of people in need\n* There are reports of al-Qaida suspects being spotted in Somalia's breakaway republics\n* The U.S. Ambassador to Kenya, Michael Ranneberger, had comments on the anti-terrorism efforts in East Africa\n* Saleh Ali Saleh Naban, a top al-Qaida suspect, was reportedly killed last week, but this has not been substantiated.",
+            "nb_characters": 969,
+            "nb_words": 148,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "951",
+            "text": "\n\n1. Ugandan peacekeepers in Somalia are offering medical services to Somalis on the ground who need them.\n2. Fighting in Somalia comes after two major conferences, one for reconciliation and the other for the enemies of the transitional government.\n3. There have been reports of al-Qaida members being spotted in Somalia's breakaway republics.\n4. The U.S. is actively pursuing three high-value targets in Somalia, including Saleh Ali Saleh Naban, who was reportedly killed last week.\n5. The U.S. Ambassador to Kenya, Michael Ranneberger, reiterated that there are no U.S. combat forces on the ground in Somalia.\n6. The U.S. is collaborating with other East African states, including Ethiopia, Uganda, and Kenya, to combat terrorism in the region.\n7. The cooperation between the U.S. and East African states has led to a growing perception that the U.S. is willing to look the other way on certain domestic human rights issues.\n8. The U.S. Ambassador to Kenya, Michael Ranneberger, responded to a question about Kenya's anti-corruption efforts by stating that there has been no tradeoff between helping the U.S. in Somalia and being quiet on corruption in Kenya.\n9. The Ambassador emphasized that the U.S. has never had a discussion with Kenyan government officials about making concessions on corruption in exchange for support on Somalia.\n10. The Ambassador also stated that the U.S. is committed to supporting anti-corruption efforts in Kenya.",
+            "nb_characters": 1446,
+            "nb_words": 245,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "796",
+            "text": "\n\n1. The speaker is discussing the U.S. government's efforts to combat terrorism in East Africa, specifically in Somalia.\n2. Ambassador Ranneberger has been reiterating that there are no U.S. combat forces on the ground in Somalia at this point.\n3. The speaker asks Ambassador Ranneberger about U.S. collaboration with other East African states on anti-terrorism.\n4. Ambassador Ranneberger explains that the U.S. has made partners of Ethiopia, Uganda, and Kenya, among other countries, to combat terrorism in the region.\n5. The speaker asks about the U.S.'s view on Kenya's efforts at anti-corruption.\n6. Ambassador Ranneberger responds that there is a perception that the U.S. is abetting efforts to derail anti-corruption efforts in Kenya.\n7. Ambassador Ranneberger clarifies that there has been no tradeoff between U.S. support for anti-terrorism efforts and Kenya's anti-corruption efforts.\n8. The speaker acknowledges that Kenya has made substantial progress in efforts to improve governance and fight corruption.\n9. The speaker notes that the high-profile cases of the Anglo Leasing and Goldenberg scandals have not been brought to justice, which may contribute to the perception that the U.S. is making trades.\n10. The speaker concludes by asking if this perception will continue as long as these issues remain in the public eye.",
+            "nb_characters": 1336,
+            "nb_words": 223,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "322",
+            "text": "\n\n* Kenya has been praised by the UN for its anti-corruption efforts\n* However, the country has not brought anyone to justice for the Goldenberg and Anglo Leasing scandals\n* The US government has been accused of making trades with Kenya in exchange for cooperation on other issues\n* The US government has acknowledged that the high-level corruption cases have not been resolved, but that it requires cooperation from the judiciary and other government agencies\n* The US government has expressed disappointment that the cases have not been resolved, but has also acknowledged that progress is being made in the fight against corruption in Kenya.",
+            "nb_characters": 644,
+            "nb_words": 102,
+            "language_output": "1"
+        }
+    ],
+    "input_path": "inputs/XGen7b8k_500/mediasum/mediasum_0",
+    "model": "Salesforce/xgen-7b-8k-inst",
+    "input_language": "text_en",
+    "MAX_TOKEN_CHUNK_SIZE": "500",
+    "instruction": "Provide a list of key points for the following text:\n\n",
+    "over_context": "0",
+    "output_length": 123
+}

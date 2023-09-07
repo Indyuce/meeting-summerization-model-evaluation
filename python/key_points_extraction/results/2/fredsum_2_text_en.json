@@ -1,0 +1,43 @@
+{
+    "chunks": [
+        {
+            "success": "1",
+            "input_length": "799",
+            "text": "\n\n1. Valérie Pécresse and Éric Zemmour are both candidates for the French presidency.\n2. Emmanuel Macron, the current president, has proposed raising the legal retirement age to 65.\n3. Pécresse has accused Macron of emptying the treasury and now he is filling it up again.\n4. Zemmour has a program with 150 billion in unfunded expenses and proposes to raise the retirement age to 64, but only does one reform.\n5. Pécresse says she will raise the retirement age to 65 and will reform unemployment insurance, state, and cut 200,000 civil service jobs.\n6. Pécresse also proposes to increase widow's pension from 54% to 75% for widows with incomplete careers.\n7. Zemmour responds that Pécresse's proposal is copy-pasting and not substantial.",
+            "nb_characters": 737,
+            "nb_words": 125,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1541",
+            "text": "\n\n1. Valérie Pécresse and Éric Zemmour are discussing the topic of raising the legal retirement age to 65 in France.\n2. Pécresse accuses Macron of emptying the treasury and then filling it up again with the current proposal.\n3. Zemmour's program has an estimated 150 billion in unfunded expenses.\n4. Pécresse believes that the measure as it deserves is not a good one.\n5. Zemmour proposes to raise the retirement age to 64, but Pécresse disagrees, stating that it is not enough to reform.\n6. Pécresse proposes to reform unemployment insurance, civil service jobs, and the state.\n7. Zemmour proposes to remove the RSA for foreigners, but Pécresse disagrees, stating that it is not funded.\n8. Pécresse proposes a net minimum pension of 1000 euros, while Zemmour proposes a minimum wage.\n9. Zemmour proposes to increase widow's pension from 54% to 75% for widows with incomplete careers.\n10. Pécresse and Zemmour disagree on the need for fundamental reforms and the effectiveness of their proposed solutions.",
+            "nb_characters": 1005,
+            "nb_words": 167,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1057",
+            "text": "\n\n1. Eric Zemmour proposes raising the retirement age to 64 to save approximately €20 billion.\n2. Zemmour suggests a systematic assessment of needs and job cuts in certain sectors, such as healthcare and the justice system.\n3. Zemmour's opponent, Valerie Pecresse, acknowledges the need for hiring in certain sectors, but argues that promises of large job cuts should be made with caution.\n4. Pecresse's opponent, Eric Zemmour, argues that Pecresse's program is unfunded and lacks a systematic method for making cuts.\n5. Zemmour proposes merging the territorial and regional councils to save €40 billion.\n6. Zemmour suggests cutting social benefits for non-European non-contributors to save an additional €20 billion.\n7. Zemmour argues that the fight against social fraud can save up to €45 billion, but the Court of Auditors estimates the savings at only €15 billion.\n8. Zemmour proposes a program of tax cuts for production and a reduction in the corporate tax to create economic activity and wealth.\n9. Pecresse and Zemmour disagree on the funding of their programs and the need for large job cuts.\n10. Pecresse argues that she has a track record of making cuts in her region, while Zemmour argues that he has a program that is not unfunded.",
+            "nb_characters": 1244,
+            "nb_words": 209,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "315",
+            "text": "\n\n* Mr. Bouleau thanks EZ for his efforts\n* EZ mentions that Mr. Sarkozy, Nicolas Sarkozy, did the same thing as Emmanuel Macron, Emmanuel Macron promised to cut jobs by 150,000\n* VP mentions that he, VP, promised to cut jobs by 10% in his region and saved 2 billion euros\n* EZ asks why VP is talking about cutting jobs, as it's not secondary to the economy\n* VP mentions that Eric Zemmour's program is unfunded\n* EZ mentions that François Fillon said the state was bankrupt, but we have more debt now\n* VP mentions that we need reforms, but Eric Zemmour does not",
+            "nb_characters": 563,
+            "nb_words": 102,
+            "language_output": "1"
+        }
+    ],
+    "input_path": "inputs/XGen7b8k_750/fredsum/fredsum_2",
+    "model": "Salesforce/xgen-7b-8k-inst",
+    "input_language": "text_en",
+    "MAX_TOKEN_CHUNK_SIZE": "750",
+    "instruction": "Provide a list of key points for the following text:\n\n",
+    "over_context": "0",
+    "output_length": 148
+}

@@ -1,0 +1,35 @@
+{
+    "chunks": [
+        {
+            "success": "1",
+            "input_length": "747",
+            "text": "ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum consectetur.",
+            "nb_characters": 451,
+            "nb_words": 69,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1336",
+            "text": "\n\n1. The concept of adventure on the high seas is popular, but once a ship leaves its shore, it is beyond the reach of law and order.\n2. Piracy, murder, exploitation, sea slavery, gun running, and intentional dumping are widespread and diverse criminal activities that occur beyond the reach of law and order off the shore.\n3. Investigative reporter Ian Urbina continued reporting after his 2015 multi-part series for The New York Times.\n4. The criminal activities off the shore are so extensive and diverse that Urbino's new book, \"The Outlaw Ocean,\" contains his reporting.\n5. The ocean is a vital part of the planet, both in terms of its use as a means of transportation and its role in providing food and oxygen.\n6. The global fishing industry is a multi-billion dollar industry, but it is often plagued by hidden costs, including illegal activities such as slavery and the capture of protected fish.\n7. The ocean is not in good health, with illegal dumping turning it into a trash can and causing environmental damage.\n8. There are isolated, achievable things that can be done to improve the health of the ocean, including instigating more political will from governments and pressuring companies to clean up their supply chains.\n9. Working on this book and previous reporting has changed Urbino's habits, including his decision to not eat seafood or meat.\n10. The book \"The Outlaw Ocean\" by Ian Urbina is a comprehensive look at the criminal activities that occur off the shore.",
+            "nb_characters": 1484,
+            "nb_words": 255,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "642",
+            "text": "\n\n* Lang Long attempted to put his life back together after being treated badly by people on the ocean.\n* The ocean is receiving treatment that is also terrifying, such as illegal dumping.\n* The health of the ocean is not great, and it is especially bad due to the vastness and lack of policing.\n* The ocean is not indestructible and self-replenishing, and dumping of oil and industrial level fishing has caused systemic contamination and the collapse of fishing stocks.\n* There are isolated, achievable things that can be done to improve the health of the ocean, such as instigating more of a political will from governments to raise the bar on human rights and environmental laws and enforcement when ships come into port.\n* The market and consumers can also play a role in pressuring companies to clean up their supply chains and know what was entailed in getting products to the shelves or plates.\n* Working on this book and previous stories has changed the speaker's habits, including not eating seafood or meat.\n* The speaker's book is called \"The Outlaw Ocean.\"",
+            "nb_characters": 1068,
+            "nb_words": 180,
+            "language_output": "1"
+        }
+    ],
+    "input_path": "inputs/XGen7b8k_750/mediasum/mediasum_2",
+    "model": "Salesforce/xgen-7b-8k-inst",
+    "input_language": "text_en",
+    "MAX_TOKEN_CHUNK_SIZE": "750",
+    "instruction": "Provide a list of key points for the following text:\n\n",
+    "over_context": "0",
+    "output_length": 224
+}

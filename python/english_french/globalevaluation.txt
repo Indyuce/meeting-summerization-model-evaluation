@@ -1,0 +1,281 @@
+Nombre moyen de mots dans les résumés gold sur les 5 corpus: 58.353
+
+
+===== Batch n°4 =====
+This inference batch is aimed at testing Llama 2 chat on summarization. There is no French summarization at all.
+
+--- Cohérence ---
+Nombre de réponses cohérentes: 22/25
+Par dataset:                       (cela comprend aussi les générations qui ont échoué, notamment avec fredsum sur XGen)
+  * dialogsum : 3/5 réponses cohérentes.
+  * samsum : 4/5 réponses cohérentes.
+  * mediasum : 5/5 réponses cohérentes.
+  * xsum : 5/5 réponses cohérentes.
+  * fredsum : 5/5 réponses cohérentes.
+
+--- Métriques ---
+Moyenne des métriques sur les données cohérentes:
+ - rouge2 : 0.097 +/- 0.065      (moyenne sur toutes les données: 0.093 +/- 0.062)
+ - bertscore : 0.228 +/- 0.109      (moyenne sur toutes les données: 0.218 +/- 0.106)
+ - rougel : 0.183 +/- 0.069      (moyenne sur toutes les données: 0.18 +/- 0.066)
+Nombre moyen de mots générés: 235.364
+
+Par corpus:
+  *** dialogsum ***
+ - rouge2 : 0.159 +/- 0.096       (moyenne sur 3/5 échantillons)
+ - bertscore : 0.335 +/- 0.122       (moyenne sur 3/5 échantillons)
+ - rougel : 0.255 +/- 0.097       (moyenne sur 3/5 échantillons)
+   Taux de compression moyen sur le corpus: 0.791 +/- 0.557       Rapport moyen taille du gold sur taille du généré: 0.205 +/- 0.138
+   Nombre moyen de mots === Texte : 285.667 +/- 62.308 === Gold : 32.0 +/- 9.539 === Généré : 226.0 +/- 197.616
+
+  *** samsum ***
+ - rouge2 : 0.113 +/- 0.065       (moyenne sur 4/5 échantillons)
+ - bertscore : 0.245 +/- 0.095       (moyenne sur 4/5 échantillons)
+ - rougel : 0.2 +/- 0.055       (moyenne sur 4/5 échantillons)
+   Taux de compression moyen sur le corpus: 0.608 +/- 0.302       Rapport moyen taille du gold sur taille du généré: 0.328 +/- 0.129
+   Nombre moyen de mots === Texte : 188.75 +/- 139.896 === Gold : 35.25 +/- 13.525 === Généré : 114.75 +/- 58.733
+
+  *** mediasum ***
+ - rouge2 : 0.071 +/- 0.06       (moyenne sur 5/5 échantillons)
+ - bertscore : 0.169 +/- 0.162       (moyenne sur 5/5 échantillons)
+ - rougel : 0.149 +/- 0.068       (moyenne sur 5/5 échantillons)
+   Taux de compression moyen sur le corpus: 0.446 +/- 0.214       Rapport moyen taille du gold sur taille du généré: 0.311 +/- 0.305
+   Nombre moyen de mots === Texte : 659.6 +/- 80.946 === Gold : 59.0 +/- 34.029 === Généré : 294.2 +/- 155.88
+
+  *** xsum ***
+ - rouge2 : 0.044 +/- 0.017       (moyenne sur 5/5 échantillons)
+ - bertscore : 0.18 +/- 0.081       (moyenne sur 5/5 échantillons)
+ - rougel : 0.125 +/- 0.015       (moyenne sur 5/5 échantillons)
+   Taux de compression moyen sur le corpus: 0.334 +/- 0.091       Rapport moyen taille du gold sur taille du généré: 0.198 +/- 0.031
+   Nombre moyen de mots === Texte : 445.8 +/- 161.382 === Gold : 28.8 +/- 1.643 === Généré : 148.8 +/- 30.178
+
+  *** fredsum ***
+ - rouge2 : 0.126 +/- 0.013       (moyenne sur 5/5 échantillons)
+ - bertscore : 0.258 +/- 0.046       (moyenne sur 5/5 échantillons)
+ - rougel : 0.218 +/- 0.018       (moyenne sur 5/5 échantillons)
+   Taux de compression moyen sur le corpus: 0.38 +/- 0.17       Rapport moyen taille du gold sur taille du généré: 0.517 +/- 0.287
+   Nombre moyen de mots === Texte : 960.8 +/- 217.693 === Gold : 150.8 +/- 52.471 === Généré : 365.2 +/- 184.13
+
+
+===== Batch n°1 =====
+This inference batch is aimed at testing XGen 8bit on summarization. We shall compare his performance on French and on English
+
+--- Cohérence ---
+Nombre de réponses cohérentes: 20/20
+Par dataset:                       (cela comprend aussi les générations qui ont échoué, notamment avec fredsum sur XGen)
+  * dialogsum : 5/5 réponses cohérentes.
+  * samsum : 5/5 réponses cohérentes.
+  * mediasum : 5/5 réponses cohérentes.
+  * xsum : 5/5 réponses cohérentes.
+  * fredsum : 0/0 réponses cohérentes.
+
+--- Métriques ---
+Moyenne des métriques sur les données cohérentes:
+ - rouge2 : 0.094 +/- 0.055      (moyenne sur toutes les données: 0.094 +/- 0.055)
+ - bertscore : 0.247 +/- 0.102      (moyenne sur toutes les données: 0.247 +/- 0.102)
+ - rougel : 0.193 +/- 0.059      (moyenne sur toutes les données: 0.193 +/- 0.059)
+Nombre moyen de mots générés: nan
+
+Par corpus:
+  *** dialogsum ***
+ - rouge2 : 0.127 +/- 0.043       (moyenne sur 5/5 échantillons)
+ - bertscore : 0.317 +/- 0.049       (moyenne sur 5/5 échantillons)
+ - rougel : 0.217 +/- 0.074       (moyenne sur 5/5 échantillons)
+   Taux de compression moyen sur le corpus: 0.412 +/- 0.087       Rapport moyen taille du gold sur taille du généré: 0.293 +/- 0.108
+   Nombre moyen de mots === Texte : 256.2 +/- 59.893 === Gold : 29.2 +/- 7.05 === Généré : 105.6 +/- 32.455
+
+  *** samsum ***
+ - rouge2 : 0.122 +/- 0.06       (moyenne sur 5/5 échantillons)
+ - bertscore : 0.293 +/- 0.038       (moyenne sur 5/5 échantillons)
+ - rougel : 0.215 +/- 0.025       (moyenne sur 5/5 échantillons)
+   Taux de compression moyen sur le corpus: 0.512 +/- 0.36       Rapport moyen taille du gold sur taille du généré: 0.369 +/- 0.081
+   Nombre moyen de mots === Texte : 193.8 +/- 121.679 === Gold : 37.6 +/- 12.837 === Généré : 99.2 +/- 22.276
+
+  *** mediasum ***
+ - rouge2 : 0.069 +/- 0.05       (moyenne sur 5/5 échantillons)
+ - bertscore : 0.177 +/- 0.146       (moyenne sur 5/5 échantillons)
+ - rougel : 0.164 +/- 0.059       (moyenne sur 5/5 échantillons)
+   Taux de compression moyen sur le corpus: 0.177 +/- 0.017       Rapport moyen taille du gold sur taille du généré: 0.506 +/- 0.296
+   Nombre moyen de mots === Texte : 659.6 +/- 80.946 === Gold : 59.0 +/- 34.029 === Généré : 116.8 +/- 13.33
+
+  *** xsum ***
+ - rouge2 : 0.058 +/- 0.04       (moyenne sur 5/5 échantillons)
+ - bertscore : 0.201 +/- 0.085       (moyenne sur 5/5 échantillons)
+ - rougel : 0.176 +/- 0.066       (moyenne sur 5/5 échantillons)
+   Taux de compression moyen sur le corpus: 0.245 +/- 0.184       Rapport moyen taille du gold sur taille du généré: 0.379 +/- 0.224
+   Nombre moyen de mots === Texte : 445.8 +/- 161.382 === Gold : 28.8 +/- 1.643 === Généré : 109.0 +/- 73.376
+
+  *** fredsum ***
+ - rouge2 : nan +/- nan       (moyenne sur 0/0 échantillons)
+ - bertscore : nan +/- nan       (moyenne sur 0/0 échantillons)
+ - rougel : nan +/- nan       (moyenne sur 0/0 échantillons)
+   Taux de compression moyen sur le corpus: nan +/- nan       Rapport moyen taille du gold sur taille du généré: nan +/- nan
+   Nombre moyen de mots === Texte : nan +/- nan === Gold : nan +/- nan === Généré : nan +/- nan
+
+
+===== Batch n°3 =====
+This inference batch is aimed at testing MPT7B on summarization. There is no French summarization at all.
+
+--- Cohérence ---
+Nombre de réponses cohérentes: 13/25
+Par dataset:                       (cela comprend aussi les générations qui ont échoué, notamment avec fredsum sur XGen)
+  * dialogsum : 3/5 réponses cohérentes.
+  * samsum : 1/5 réponses cohérentes.
+  * mediasum : 3/5 réponses cohérentes.
+  * xsum : 2/5 réponses cohérentes.
+  * fredsum : 4/5 réponses cohérentes.
+
+--- Métriques ---
+Moyenne des métriques sur les données cohérentes:
+ - rouge2 : 0.061 +/- 0.038      (moyenne sur toutes les données: 0.065 +/- 0.041)
+ - bertscore : 0.166 +/- 0.135      (moyenne sur toutes les données: 0.128 +/- 0.12)
+ - rougel : 0.167 +/- 0.059      (moyenne sur toutes les données: 0.149 +/- 0.063)
+Nombre moyen de mots générés: 106.538
+
+Par corpus:
+  *** dialogsum ***
+ - rouge2 : 0.051 +/- 0.04       (moyenne sur 3/5 échantillons)
+ - bertscore : 0.212 +/- 0.076       (moyenne sur 3/5 échantillons)
+ - rougel : 0.163 +/- 0.041       (moyenne sur 3/5 échantillons)
+   Taux de compression moyen sur le corpus: 0.552 +/- 0.223       Rapport moyen taille du gold sur taille du généré: 0.199 +/- 0.102
+   Nombre moyen de mots === Texte : 253.0 +/- 64.117 === Gold : 26.667 +/- 10.599 === Généré : 139.667 +/- 29.838
+
+  *** samsum ***
+ - rouge2 : 0.115 +/- 0.056       (moyenne sur 1/5 échantillons)
+ - bertscore : 0.246 +/- 0.125       (moyenne sur 1/5 échantillons)
+ - rougel : 0.206 +/- 0.069       (moyenne sur 1/5 échantillons)
+   Taux de compression moyen sur le corpus: 0.671 +/- nan       Rapport moyen taille du gold sur taille du généré: 0.285 +/- nan
+   Nombre moyen de mots === Texte : 225.0 +/- nan === Gold : 43.0 +/- nan === Généré : 151.0 +/- nan
+
+  *** mediasum ***
+ - rouge2 : 0.046 +/- 0.054       (moyenne sur 3/5 échantillons)
+ - bertscore : 0.092 +/- 0.096       (moyenne sur 3/5 échantillons)
+ - rougel : 0.15 +/- 0.073       (moyenne sur 3/5 échantillons)
+   Taux de compression moyen sur le corpus: 0.174 +/- 0.034       Rapport moyen taille du gold sur taille du généré: 0.535 +/- 0.421
+   Nombre moyen de mots === Texte : 680.333 +/- 46.694 === Gold : 58.333 +/- 35.921 === Généré : 118.333 +/- 31.214
+
+  *** xsum ***
+ - rouge2 : 0.063 +/- 0.02       (moyenne sur 2/5 échantillons)
+ - bertscore : 0.269 +/- 0.182       (moyenne sur 2/5 échantillons)
+ - rougel : 0.178 +/- 0.064       (moyenne sur 2/5 échantillons)
+   Taux de compression moyen sur le corpus: 0.176 +/- 0.04       Rapport moyen taille du gold sur taille du généré: 0.359 +/- 0.211
+   Nombre moyen de mots === Texte : 578.0 +/- 206.475 === Gold : 30.5 +/- 0.707 === Généré : 102.0 +/- 57.983
+
+  *** fredsum ***
+ - rouge2 : 0.063 +/- 0.042       (moyenne sur 4/5 échantillons)
+ - bertscore : 0.116 +/- 0.125       (moyenne sur 4/5 échantillons)
+ - rougel : 0.168 +/- 0.074       (moyenne sur 4/5 échantillons)
+   Taux de compression moyen sur le corpus: 0.062 +/- 0.065       Rapport moyen taille du gold sur taille du généré: 4.724 +/- 3.765
+   Nombre moyen de mots === Texte : 1035.0 +/- 162.735 === Gold : 163.75 +/- 39.836 === Généré : 64.0 +/- 60.022
+
+
+===== Batch n°0 =====
+This inference batch is aimed at testing this code. It helped debugging. it was performed with a 4bit quantized version of XGen 7B. One take away is that for 4 out of the 5 fredsum texts, there was too many tokens (above 1800)
+
+--- Cohérence ---
+Nombre de réponses cohérentes: 16/20
+Par dataset:                       (cela comprend aussi les générations qui ont échoué, notamment avec fredsum sur XGen)
+  * dialogsum : 2/5 réponses cohérentes.
+  * samsum : 4/5 réponses cohérentes.
+  * mediasum : 0/0 réponses cohérentes.
+  * xsum : 5/5 réponses cohérentes.
+  * fredsum : 5/5 réponses cohérentes.
+
+--- Métriques ---
+Moyenne des métriques sur les données cohérentes:
+ - rouge2 : 0.103 +/- 0.056      (moyenne sur toutes les données: 0.096 +/- 0.056)
+ - bertscore : 0.24 +/- 0.09      (moyenne sur toutes les données: 0.199 +/- 0.138)
+ - rougel : 0.191 +/- 0.049      (moyenne sur toutes les données: 0.179 +/- 0.061)
+Nombre moyen de mots générés: nan
+
+Par corpus:
+  *** dialogsum ***
+ - rouge2 : 0.107 +/- 0.051       (moyenne sur 2/5 échantillons)
+ - bertscore : 0.258 +/- 0.208       (moyenne sur 2/5 échantillons)
+ - rougel : 0.194 +/- 0.086       (moyenne sur 2/5 échantillons)
+   Taux de compression moyen sur le corpus: 0.417 +/- 0.11       Rapport moyen taille du gold sur taille du généré: 0.28 +/- 0.071
+   Nombre moyen de mots === Texte : 265.0 +/- 72.125 === Gold : 31.0 +/- 8.485 === Généré : 110.5 +/- 2.121
+
+  *** samsum ***
+ - rouge2 : 0.141 +/- 0.08       (moyenne sur 4/5 échantillons)
+ - bertscore : 0.289 +/- 0.14       (moyenne sur 4/5 échantillons)
+ - rougel : 0.217 +/- 0.047       (moyenne sur 4/5 échantillons)
+   Taux de compression moyen sur le corpus: 0.45 +/- 0.567       Rapport moyen taille du gold sur taille du généré: 0.455 +/- 0.211
+   Nombre moyen de mots === Texte : 186.0 +/- 139.052 === Gold : 36.25 +/- 14.408 === Généré : 83.75 +/- 12.685
+
+  *** mediasum ***
+ - rouge2 : nan +/- nan       (moyenne sur 0/0 échantillons)
+ - bertscore : nan +/- nan       (moyenne sur 0/0 échantillons)
+ - rougel : nan +/- nan       (moyenne sur 0/0 échantillons)
+   Taux de compression moyen sur le corpus: nan +/- nan       Rapport moyen taille du gold sur taille du généré: nan +/- nan
+   Nombre moyen de mots === Texte : nan +/- nan === Gold : nan +/- nan === Généré : nan +/- nan
+
+  *** xsum ***
+ - rouge2 : 0.047 +/- 0.015       (moyenne sur 5/5 échantillons)
+ - bertscore : 0.171 +/- 0.085       (moyenne sur 5/5 échantillons)
+ - rougel : 0.133 +/- 0.021       (moyenne sur 5/5 échantillons)
+   Taux de compression moyen sur le corpus: 0.309 +/- 0.13       Rapport moyen taille du gold sur taille du généré: 0.234 +/- 0.096
+   Nombre moyen de mots === Texte : 445.8 +/- 161.382 === Gold : 28.8 +/- 1.643 === Généré : 137.6 +/- 45.753
+
+  *** fredsum ***
+ - rouge2 : 0.129 +/- 0.021       (moyenne sur 5/5 échantillons)
+ - bertscore : 0.263 +/- 0.051       (moyenne sur 5/5 échantillons)
+ - rougel : 0.227 +/- 0.02       (moyenne sur 5/5 échantillons)
+   Taux de compression moyen sur le corpus: 0.142 +/- 0.033       Rapport moyen taille du gold sur taille du généré: 0.865 +/- 0.209
+   Nombre moyen de mots === Texte : 960.8 +/- 217.693 === Gold : 116.8 +/- 30.507 === Généré : 136.4 +/- 26.188
+
+
+===== Batch n°2 =====
+This inferenee batch is aimed at testing XGen on summarization. We shall compare his performance on French and on English
+
+--- Cohérence ---
+Nombre de réponses cohérentes: 9/21
+Par dataset:                       (cela comprend aussi les générations qui ont échoué, notamment avec fredsum sur XGen)
+  * dialogsum : 2/5 réponses cohérentes.
+  * samsum : 2/5 réponses cohérentes.
+  * mediasum : 1/5 réponses cohérentes.
+  * xsum : 3/5 réponses cohérentes.
+  * fredsum : 1/1 réponses cohérentes.
+
+--- Métriques ---
+Moyenne des métriques sur les données cohérentes:
+ - rouge2 : 0.113 +/- 0.071      (moyenne sur toutes les données: 0.05 +/- 0.072)
+ - bertscore : 0.282 +/- 0.11      (moyenne sur toutes les données: -0.171 +/- 0.433)
+ - rougel : 0.2 +/- 0.058      (moyenne sur toutes les données: 0.099 +/- 0.104)
+Nombre moyen de mots générés: 100.667
+
+Par corpus:
+  *** dialogsum ***
+ - rouge2 : 0.141 +/- 0.093       (moyenne sur 2/5 échantillons)
+ - bertscore : 0.361 +/- 0.343       (moyenne sur 2/5 échantillons)
+ - rougel : 0.223 +/- 0.128       (moyenne sur 2/5 échantillons)
+   Taux de compression moyen sur le corpus: 0.404 +/- 0.208       Rapport moyen taille du gold sur taille du généré: 0.284 +/- 0.117
+   Nombre moyen de mots === Texte : 265.0 +/- 72.125 === Gold : 29.0 +/- 5.657 === Généré : 107.0 +/- 24.042
+
+  *** samsum ***
+ - rouge2 : 0.069 +/- 0.038       (moyenne sur 2/5 échantillons)
+ - bertscore : 0.251 +/- 0.452       (moyenne sur 2/5 échantillons)
+ - rougel : 0.177 +/- 0.101       (moyenne sur 2/5 échantillons)
+   Taux de compression moyen sur le corpus: 0.411 +/- 0.928       Rapport moyen taille du gold sur taille du généré: 0.343 +/- 0.277
+   Nombre moyen de mots === Texte : 219.0 +/- 214.96 === Gold : 28.5 +/- 19.092 === Généré : 90.0 +/- 16.971
+
+  *** mediasum ***
+ - rouge2 : 0.202 +/- 0.088       (moyenne sur 1/5 échantillons)
+ - bertscore : 0.306 +/- 0.45       (moyenne sur 1/5 échantillons)
+ - rougel : 0.273 +/- 0.119       (moyenne sur 1/5 échantillons)
+   Taux de compression moyen sur le corpus: 0.241 +/- nan       Rapport moyen taille du gold sur taille du généré: 0.719 +/- nan
+   Nombre moyen de mots === Texte : 532.0 +/- nan === Gold : 92.0 +/- nan === Généré : 128.0 +/- nan
+
+  *** xsum ***
+ - rouge2 : 0.069 +/- 0.049       (moyenne sur 3/5 échantillons)
+ - bertscore : 0.212 +/- 0.452       (moyenne sur 3/5 échantillons)
+ - rougel : 0.161 +/- 0.08       (moyenne sur 3/5 échantillons)
+   Taux de compression moyen sur le corpus: 0.171 +/- 0.059       Rapport moyen taille du gold sur taille du généré: 0.34 +/- 0.01
+   Nombre moyen de mots === Texte : 505.333 +/- 192.762 === Gold : 29.333 +/- 2.082 === Généré : 86.333 +/- 4.509
+
+  *** fredsum ***
+ - rouge2 : 0.191 +/- nan       (moyenne sur 1/1 échantillons)
+ - bertscore : 0.373 +/- nan       (moyenne sur 1/1 échantillons)
+ - rougel : 0.246 +/- nan       (moyenne sur 1/1 échantillons)
+   Taux de compression moyen sur le corpus: 0.114 +/- nan       Rapport moyen taille du gold sur taille du généré: 1.264 +/- nan
+   Nombre moyen de mots === Texte : 1095.0 +/- nan === Gold : 158.0 +/- nan === Généré : 125.0 +/- nan

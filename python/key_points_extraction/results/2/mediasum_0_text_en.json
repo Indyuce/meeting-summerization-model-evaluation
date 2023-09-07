@@ -1,0 +1,43 @@
+{
+    "chunks": [
+        {
+            "success": "1",
+            "input_length": "783",
+            "text": "\n\n* Farai Chideya is reporting on the Africa Update for NPR.\n* Ethiopia and Somalia are experiencing increasing calls for food and other aid.\n* Humanitarian aid organizations say regions of Ethiopia and Somalia are experiencing food insecurity due to rebel activity and government restrictions on markets.\n* Mogadishu, Somalia is experiencing violence with three soldiers killed over the weekend and ongoing tensions between transitional government forces and Ethiopian forces.\n* The situation in Mogadishu is deteriorating with ongoing fighting, a lack of medical facilities, and an increase in al-Qaida suspects.\n* There were two major conferences in Somalia, one aimed at creating conditions of peace and the other aimed at coordinating efforts against the transitional government and Ethiopian forces.",
+            "nb_characters": 805,
+            "nb_words": 115,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1504",
+            "text": "\n\n* Ethiopia and Somalia are experiencing food insecurity and humanitarian aid organizations are saying that there were regions of Ethiopia and Somalia that are experiencing real food insecurity, particularly in Eastern Ethiopia.\n* There have been increasing calls for food aid in Ethiopia and Somalia.\n* The situation in Mogadishu, Somalia is deteriorating and there is ongoing violence between the transitional government forces and Ethiopian forces against those insurgents who are challenging their authority.\n* There are reports of al-Qaida suspects being spotted in Somalia's breakaway republics.\n* The U.S. Ambassador to Kenya, Michael Ranneberger, had some comments about anti-terrorism efforts in East Africa, including that there are no U.S. combat forces on the ground in Somalia at this point.\n* The U.S. has made partners of Ethiopia, Uganda, and Kenya to combat terror in the region.\n* The U.S. is willing to look the other way on certain domestic human rights issues and other issues that government leaders in these countries would like to sweep under the carpet.\n* There have been money laundering scandals, the Anglo Leasing scandal, as well as the Goldenberg scandal, which have shown that some political leaders have been involved in these scandals and yet no one or no big ticket person has ever come to justice.\n* The U.S. is not making any tradeoff with Kenya in return for cooperation on anti-terrorism efforts.\n* The U.S. is applauding Kenya for its anti-corruption efforts so far.\n* Kenya has won an award from the U.N. for governmental reform.",
+            "nb_characters": 1570,
+            "nb_words": 255,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "977",
+            "text": "\n\n1. Saleh Ali Saleh Naban, a top al-Qaida suspect, was reportedly killed last week, but the reports have not been substantiated.\n2. Michael Ranneberger, the U.S. Ambassador to Kenya, commented on the reports, saying that the U.S. is still in pursuit of the other two high-value targets.\n3. Ranneberger reiterated that there are no U.S. combat forces on the ground in Somalia.\n4. The U.S. has made partners with Ethiopia, Uganda, and Kenya to combat terrorism in the region, but there is a growing perception that the U.S. is willing to look the other way on certain domestic human rights issues.\n5. Ranneberger was asked about Kenya's anti-corruption efforts and corrected the perception that the U.S. is making trades with Kenya in return for cooperation on terrorism.\n6. Kenya has made substantial progress in efforts to improve governance and fight corruption, but has yet to bring anyone to justice for the big ticket corruption scandals, including the Anglo Leasing and Goldenberg scandals.\n7. The perception that the U.S. is making trades with Kenya in return for cooperation on terrorism will continue as long as these issues stay in the public eye.",
+            "nb_characters": 1157,
+            "nb_words": 202,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "256",
+            "text": " 1. Kenya has yet to bring anyone to justice for the Goldenberg money laundering scandal and the Anglo Leasing scandal, which are considered big ticket items.\n2. According to the speaker, the country is making substantial progress in efforts to improve governance and fight corruption.\n3. Although there are cases pending, the high-level cases of Anglo Leasing and Goldenberg have not yet been brought to fruition.\n4. The speaker believes that cooperation between the judiciary, government, and others is necessary for the cases to be brought to fruition.\n5. The perception that the US is making trades will continue as long as these issues continue to stay in the public eye.\n6. The speaker thanks Gwen Thompkins for speaking with them from Nairobi, Kenya.",
+            "nb_characters": 757,
+            "nb_words": 125,
+            "language_output": "1"
+        }
+    ],
+    "input_path": "inputs/XGen7b8k_750/mediasum/mediasum_0",
+    "model": "Salesforce/xgen-7b-8k-inst",
+    "input_language": "text_en",
+    "MAX_TOKEN_CHUNK_SIZE": "750",
+    "instruction": "Provide a list of key points for the following text:\n\n",
+    "over_context": "0",
+    "output_length": 160
+}

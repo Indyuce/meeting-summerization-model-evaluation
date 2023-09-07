@@ -1,0 +1,43 @@
+{
+    "chunks": [
+        {
+            "success": "1",
+            "input_length": "543",
+            "text": "\n\n* The concept of adventure on the high seas has captured our imagination, with people often leaving their land and sailing away to explore the horizon.\n* However, once a ship leaves its shore, it is sailing beyond the reach of law and order, and criminal activity such as piracy, murder, and exploitation can occur.\n* Investigative reporter Ian Urbina continued reporting on this issue after his 2015 New York Times series, and his new book, \"The Outlaw Ocean,\" contains his findings.\n* The ocean is an essential part of the planet, with 90% of what we consume, including iPhones and running shoes, coming through cargo ships, and 50% of the oxygen we breathe being produced by the oceans. Seafood is also a source of protein for much of the planet.\n* The global fishing industry is often perceived as being able to fish sustainably and legally, but this is not the reality. Hidden costs, such as illegal activities and inhumane treatment of workers, are often used to save money and deliver products to consumers at a lower cost.\n* Urbina's book highlights these hidden costs, including the use of captive labor and illegal fishing practices.\n* The ocean is also a crucial part of the planet in terms of climate change, as it acts as a temperature stabilizer.",
+            "nb_characters": 1262,
+            "nb_words": 213,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1012",
+            "text": "ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "nb_characters": 439,
+            "nb_words": 68,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "846",
+            "text": "一些关键点：\n\n1. 人们在劳动场所中工作，被迫做奴隶，从渔船上捕捉到一种残酷的情况，说明渔业在海洋中存在许多问题。\n2. 一个柬埔寨人的渔夫，名叫拉龙，在泰国渔业中工作三年之久。\n3. 渔业中的奴隶拘束，导致海洋的健康状况严重。\n4. 海洋的健康状况不算好，特别是因为这种犯罪行为，海洋被视为无人管理的大物群，而且有许多渔业公司不经过警告被查封。\n5. 渔业是不可持续的，导致世界各地捕捉到的鱼类数量崩溃，物种正在消失。\n6. 渔业的经营者应该控制自己的生产流程，并且消费者也应该提醒公司要求更准确的产品来源。",
+            "nb_characters": 256,
+            "nb_words": 25,
+            "language_output": "2"
+        },
+        {
+            "success": "1",
+            "input_length": "377",
+            "text": "\n\n* The text discusses the issue of ships coming into port and the role that governments, the market, and consumers can play in addressing human rights and environmental concerns.\n* The speaker has changed their habits as a result of working on the book and previous story, including reducing their consumption of meat and seafood.\n* The speaker has also realized the importance of covering urgent stories that are not being adequately covered by the media.\n* The speaker's book is called \"The Outlaw Ocean.\"",
+            "nb_characters": 508,
+            "nb_words": 82,
+            "language_output": "1"
+        }
+    ],
+    "input_path": "inputs/XGen7b8k_500/mediasum/mediasum_2",
+    "model": "Salesforce/xgen-7b-8k-inst",
+    "input_language": "text_en",
+    "MAX_TOKEN_CHUNK_SIZE": "500",
+    "instruction": "Provide a list of key points for the following text:\n\n",
+    "over_context": "0",
+    "output_length": 102
+}

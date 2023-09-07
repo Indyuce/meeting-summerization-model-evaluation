@@ -1,0 +1,67 @@
+Batch 0: This inference batch is aimed at testing this code. It helped debugging. it was performed with a 4bit quantized version of XGen 7B. One take away is that for 4 out of the 5 fredsum texts, there was too many tokens (above 1800)
+Le batch 0 contient 28/36 échantillons cohérents.
+Parmi les échantillons incohérents, 4/8 correspondent à une question française
+Parmi les réponses écrites en français, 1/1 des questions sont écrites en français
+Parmi les réponses écrites en anglais, 16/27 des questions sont écrites en anglais
+
+Moyennes questions françaises, réponses françaises (1 échantillons):
+Rouge 2: 0.057 +/- nan ---- Rouge L: 0.09 +/- nan ---- BertScore: -0.064 +/- nan
+
+Moyennes questions anglaises, réponses anglaises (16 échantillons):
+Rouge 2: 0.103 +/- 0.056 ---- Rouge L: 0.191 +/- 0.049 ---- BertScore: 0.24 +/- 0.056
+
+Moyennes questions françaises, réponses anglaises (11 échantillons):
+Rouge 2: 0.063 +/- 0.034 ---- Rouge L: 0.137 +/- 0.059 ---- BertScore: 0.163 +/- 0.125
+
+Taux de compression questions anglaises réponses anglaises: 0.381 +/- 0.345
+Taux de compression questions françaises réponses anglaises: 0.773 +/- 0.377
+Taux de compression questions françaises réponses françaises: 0.63 +/- nan
+
+Moyenne du nombre de mots générés pour réponses anglaises questions anglaises :120.375 +/- 36.452
+Moyenne du nombre de mots générés pour réponses anglaises questions françaises :209.909 +/- 128.32
+
+
+Batch 2: This inferenee batch is aimed at testing XGen on summarization. We shall compare his performance on French and on English
+Le batch 2 contient 25/41 échantillons cohérents.
+Parmi les échantillons incohérents, 4/16 correspondent à une question française
+Parmi les réponses écrites en français, 5/5 des questions sont écrites en français
+Parmi les réponses écrites en anglais, 9/20 des questions sont écrites en anglais
+
+Moyennes questions françaises, réponses françaises (5 échantillons):
+Rouge 2: 0.056 +/- 0.036 ---- Rouge L: 0.116 +/- 0.043 ---- BertScore: -0.067 +/- 0.106
+
+Moyennes questions anglaises, réponses anglaises (9 échantillons):
+Rouge 2: 0.113 +/- 0.071 ---- Rouge L: 0.2 +/- 0.058 ---- BertScore: 0.282 +/- 0.071
+
+Moyennes questions françaises, réponses anglaises (11 échantillons):
+Rouge 2: 0.05 +/- 0.043 ---- Rouge L: 0.143 +/- 0.057 ---- BertScore: 0.148 +/- 0.134
+
+Taux de compression questions anglaises réponses anglaises: 0.39 +/- 0.446
+Taux de compression questions françaises réponses anglaises: 0.539 +/- 0.324
+Taux de compression questions françaises réponses françaises: 0.446 +/- 0.194
+
+Moyenne du nombre de mots générés pour réponses anglaises questions anglaises :100.667 +/- 19.906
+Moyenne du nombre de mots générés pour réponses anglaises questions françaises :173.455 +/- 77.402
+
+
+Batch 1: This inference batch is aimed at testing XGen 8bit on summarization. We shall compare his performance on French and on English
+Le batch 1 contient 39/40 échantillons cohérents.
+Parmi les échantillons incohérents, 1/1 correspondent à une question française
+Parmi les réponses écrites en français, 7/7 des questions sont écrites en français
+Parmi les réponses écrites en anglais, 20/32 des questions sont écrites en anglais
+
+Moyennes questions françaises, réponses françaises (7 échantillons):
+Rouge 2: 0.065 +/- 0.031 ---- Rouge L: 0.154 +/- 0.065 ---- BertScore: -0.002 +/- 0.086
+
+Moyennes questions anglaises, réponses anglaises (20 échantillons):
+Rouge 2: 0.094 +/- 0.055 ---- Rouge L: 0.193 +/- 0.059 ---- BertScore: 0.247 +/- 0.055
+
+Moyennes questions françaises, réponses anglaises (12 échantillons):
+Rouge 2: 0.045 +/- 0.029 ---- Rouge L: 0.14 +/- 0.063 ---- BertScore: 0.137 +/- 0.143
+
+Taux de compression questions anglaises réponses anglaises: 0.385 +/- 0.273
+Taux de compression questions françaises réponses anglaises: 0.737 +/- 0.305
+Taux de compression questions françaises réponses françaises: 0.319 +/- 0.223
+
+Moyenne du nombre de mots générés pour réponses anglaises questions anglaises :107.65 +/- 39.236
+Moyenne du nombre de mots générés pour réponses anglaises questions françaises :203.333 +/- 94.652

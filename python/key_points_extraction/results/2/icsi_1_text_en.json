@@ -1,0 +1,131 @@
+{
+    "chunks": [
+        {
+            "success": "1",
+            "input_length": "800",
+            "text": "\n\n* The speaker is discussing the results of a study with Stephane.\n* The speaker received results from Stephane and also thinks that they may hear about other results later that day.\n* The speaker mentions that there were some other very good results that they will compare to.\n* The speaker mentions that they received results from other systems besides the ICSI OGI one.\n* The speaker wants to compare the results from other systems to their own results.\n* The speaker mentions that the overall number for Danish results didn't improve, but there were some cases where it got better or worse.\n* The speaker mentions that there is still a mystery regarding the Danish results.\n* The speaker mentions that they have a little time to check on the mystery.\n* The speaker asks when the other people will leave.\n* The speaker mentions that they will hear about other results later that day.\n* The speaker mentions that they have a day or so until Saturday midnight to check on the results.\n* The speaker mentions that they received results from other systems besides the ICSI OGI one.\n* The speaker wants to compare the results from other systems to their own results.\n* The speaker mentions that the overall number for Danish results didn't improve, but there were some cases where it got better or worse.\n* The speaker mentions that there is still a mystery regarding the Danish results.\n* The speaker mentions that they have a little time to check on the mystery.\n* The speaker asks when the other people will leave.\n* The speaker mentions that they will hear about other results later that day.\n* The speaker mentions that they have a day or so until Saturday midnight to check on the results.",
+            "nb_characters": 1694,
+            "nb_words": 286,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1539",
+            "text": "\n\n* D is discussing results from a project with A\n* D got results from Stephane and wants to compare to other results\n* D thinks there might be other results later today\n* D wants to see what other systems are like\n* A is unsure about the results from OGI\n* D and A have some time to work on this\n* D and A will hold off on making a decision until after the mystery of the OGI results is resolved\n* Overall, the results are not as good as they could be, but there is still potential for improvement\n* The average improvement is around 40-49% on different tasks\n* There are good things in other proposals that D is unsure about\n* D wants to see if a combination of different methods is the best approach\n* D and A will wait until after the mystery of the OGI results is resolved before making a decision.",
+            "nb_characters": 803,
+            "nb_words": 150,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1524",
+            "text": "\n\n* The speaker is discussing a project related to speech recognition and is considering whether to hold off on a task until better results are obtained.\n* The speaker mentions that the current results are not bad, even though there are still some errors.\n* The speaker also mentions that other systems are doing things between roughly a third and half of the errors being eliminated, and that the best results are in the range of roughly a third to two-thirds of the errors being eliminated.\n* The speaker mentions that they don't know who had the best result on the development set, but that the two systems proposed by a combination of French Telecom and Alcatel did well.\n* The speaker also mentions that they haven't seen final results for the evaluation set yet.\n* The speaker mentions that the main thing that the two systems used was spectral subtraction, but there were also some modifications to the cepstral parameters.\n* The speaker also mentions that they think that the methods they are using can reduce the error rate from around 9% to around 6%.\n* The speaker also mentions that they think that one of the things that Hynek was talking about was understanding what was in the other good proposals and trying to see if what should ultimately be proposed is some combination of things.\n* The speaker also mentions that they think that the best system so far was around 50% on the development set, and that the best result of any system was around 54%.\n* The speaker also mentions that there was less of a huge range of results in Aurora one compared to this project.\n* The speaker also mentions that the worst system on the development set still reduced the error rate by around 33%.\n* The speaker also mentions that they think that it is a good time to look at what's really going on and see if there's a way to combine the best ideas while not blowing up the amount of resources used.",
+            "nb_characters": 1900,
+            "nb_words": 337,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1527",
+            "text": "\n\n* The speaker is discussing a test of speech recognition systems\n* The test had a \"reduction in word error rate\" as a key point\n* The systems being tested had varying levels of error reduction, with some systems performing much better than others\n* The worst performing system still reduced error rate by 33% in the development set\n* The speaker suggests that it may be a good idea to look at the best ideas from the systems that performed well and combine them while also being mindful of resource usage\n* The speaker mentions that the two best performing systems were from a combination of French Telecom and Alcatel and used spectral subtraction and cepstral mean subtraction\n* The speaker also mentions that some other systems used spectral subtraction and cepstral mean subtraction but with different approaches to adapting the mean during speech and silence.",
+            "nb_characters": 866,
+            "nb_words": 140,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1510",
+            "text": "以下是问题的关键点：\n\n1. 循环研究中使用的技术方法，包括模拟噪声和离散化近似。\n2. 循环研究中的参数，如时间步长、离散化精度和噪声级别。\n3. 循环研究中的结果，如参数估计值和可靠性分析。\n4. 循环研究中的工作流程，如编程语言和计算机系统。\n5. 循环研究中的结果可用于提高移动设备的通信能力。\n6. 循环研究中的参与者，如研究团队成员和专家评审人员。\n7. 循环研究中的实验方法，如模拟噪声和离散化近似。\n8. 循环研究中的结果可用于提高移动设备的通信能力。\n9. 循环研究中的工作流程，如编程语言和计算机系统。\n10. 循环研究中的结果可用于提高移动设备的通信能力。",
+            "nb_characters": 289,
+            "nb_words": 29,
+            "language_output": "2"
+        },
+        {
+            "success": "1",
+            "input_length": "1503",
+            "text": "\n\n* The speaker is discussing a project they worked on to test a software system\n* They mention that there was a need to fit into a certain software testing framework, which led to the creation of a \"phoney\" test to meet the requirements\n* The speaker mentions that if they were to put the system into the real world, it would perform at 24.4 bits per second, not the 48.8 bits per second claimed\n* The speaker also mentions that there is a standards process that needs to be followed, and that the results of the test set are due the day before the meeting takes place\n* The speaker also mentions that they will have to stop the testing process the day before the meeting takes place\n* The speaker also mentions that they will be traveling further than some of the other team members, so they will have to complete the testing process quicker\n* The speaker also mentions that they will be discussing the results of the test set in the meeting that takes place on the following Tuesday\n* The speaker also mentions that they think the meeting is on the thirteenth, and that the results are due the day before the meeting.",
+            "nb_characters": 1120,
+            "nb_words": 202,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1521",
+            "text": "\n\n1. The speaker is discussing the development of a standard for speech recognition technology.\n2. They mention a bug in the current system that is causing errors in the recognition process.\n3. They plan to end up with the same kind of sheets as before, but with the missing columns filled in.\n4. The speaker mentions that it might be advantageous to combine different systems if they can achieve the same goals.\n5. The speaker also mentions that they are working on adding a filter to the current system and that it should not take a lot of memory or CPU.\n6. The speaker suggests that they should take what the other systems have done and add a filter to it.\n7. The speaker also mentions that they are not sure if the combination of different systems will work well or not.\n8. The speaker mentions that standards are always optional and that they might not know enough to declare a standard.\n9. The speaker also mentions that they may become experts on the particular standards process once they attend the meeting.\n10. The speaker asks for the listener's thoughts on the matter.",
+            "nb_characters": 1080,
+            "nb_words": 194,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1516",
+            "text": "\n\n* The speaker is discussing a project related to speech recognition and is considering ways to improve the accuracy of the system.\n* They mention that one approach is to use filters and add them to the server side of the system.\n* They also mention that it would be ideal to have a combination of filters and other methods to improve the accuracy of the system.\n* The speaker mentions that the process of creating a standard for speech recognition has been ongoing for some time and people may want to declare a standard despite not knowing enough yet.\n* The speaker also mentions that standards can be optional and that it is not final if a standard is declared.\n* The speaker is interested in hearing the thoughts of the other person about where to go from here and if they should back off from the project and take their time to explore the speech recognition process.\n* The other person mentions that they will look at the speech data from the databases and explore the causes of the degradation in accuracy.\n* They also mention that most of the errors are within phoneme classes and that improving recognition of phoneme classes could be an important step in improving the accuracy of the system.\n* The speaker mentions that even with the best cases, some of the numbers are still horrible and that improving the recognition of phoneme classes could be a simpler and more important problem.\n* The speaker also mentions that they are considering using filters to improve the accuracy of the system.\n* The other person mentions that they are also considering the well-matched German and Danish cases and that the kind of numbers they are getting are about 8-9% error per digit which is obviously not usable.",
+            "nb_characters": 1712,
+            "nb_words": 294,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1463",
+            "text": "\n\n* The speaker is discussing the quality of speech recognition in noisy environments with a colleague.\n* The colleague suggests taking a closer look at the speech data to see where the errors are occurring and how they differ in clean and noisy speech.\n* The speaker agrees that this could be a simpler and more effective approach than rushing to try new methods.\n* The colleague also notes that the recognition of phoneme classes, rather than individual phonemes, could be an important factor in improving speech recognition in noisy environments.\n* The speaker agrees and suggests that looking at the confusion matrices of speech recognition in noisy environments could provide valuable insights.\n* The colleague also mentions that the best cases of speech recognition in noisy environments are still not very good and that the numbers they are getting are around 8-9% error per digit.\n* The speaker notes that this is not usable and that speech recognition in noisy environments is still a challenging problem.\n* The colleague also mentions that the speech database they are using is realistic and that the training is done on different conditions and microphones.\n* The speaker agrees and suggests that if they only used the close microphones, the results should be much better.\n* The colleague also mentions that the mismatched conditions, such as different driving conditions, also affect the speech recognition results.\n* The speaker nods and agrees with the colleague's points.",
+            "nb_characters": 1486,
+            "nb_words": 233,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1481",
+            "text": "\n\n* The speaker is discussing a topic related to speech recognition technology.\n* They mention that if a phone number has ten digits, the caller is likely to get it right every now and then.\n* The speaker also mentions that the database used for speech recognition is realistic and close to real-life conditions.\n* However, the speaker notes that the training and testing conditions are not always the same, which can affect the accuracy of the results.\n* The speaker also mentions that even with the best single numbers, the results are not always good enough for a real system.\n* The speaker concludes that there is still work to be done in the field of speech recognition.\n* The speaker asks if anyone has any thoughts about what else they would like to do if they had more time.",
+            "nb_characters": 782,
+            "nb_words": 135,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1529",
+            "text": "*************\n\n* The speaker is discussing a topic related to speech recognition and the challenges of developing a system that can accurately recognize speech in noisy environments.\n* They mention a scenario in which a person is trying to call out a telephone number in their car, and the background noise makes it difficult to hear the person clearly.\n* They also mention the idea of \"clean speech training\" as a way to improve speech recognition in noisy environments.\n* The speaker notes that even though the best single numbers for a speech recognition system may not be good enough for a real system, the system still has a lot of work to do in order to improve its accuracy.\n* The speaker also mentions that they are working on multi-band features as a way to improve speech recognition.\n* The speaker and another person discuss the challenges of developing a speech recognition system and the need for further research in this area.\n* They also mention the importance of testing and evaluating the performance of a speech recognition system.",
+            "nb_characters": 1049,
+            "nb_words": 173,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1530",
+            "text": "\n\n* The speakers are discussing their experience working with data from the Aurora project.\n* They mention trying different techniques and not getting good results, but still seeing some improvement.\n* They discuss the importance of realism in data and how it can be difficult to achieve.\n* They mention that they are not used to working with this kind of data and should take a closer look.\n* They mention that the results are still poor, but much better than they were in the past.\n* They mention that the data is from a realistic room situation with noise and reflections.\n* They mention that the data is still difficult to achieve good results with.\n* They mention that they are not used to working with this kind of data and should take a closer look.\n* They mention that the data is from a realistic room situation with noise and reflections.\n* They mention that the data is still difficult to achieve good results with.\n* They mention that they are not used to working with this kind of data and should take a closer look.\n* They mention that the data is from a realistic room situation with noise and reflections.\n* They mention that the data is still difficult to achieve good results with.\n* They mention that they are not used to working with this kind of data and should take a closer look.\n* They mention that the data is from a realistic room situation with noise and reflections.\n* They mention that the data is still difficult to achieve good results with.\n* They mention that they are not used to working with this kind of data and should take a closer look.\n* They mention that the data is from a realistic room situation with noise and reflections.\n* They mention that the data is still difficult to achieve good results with.\n* They mention that they are not used to working with this kind of data and should take a closer look.\n* They mention that the data is from a realistic room situation with noise and reflections.\n* They mention that the data is still difficult to achieve good results with.\n* They mention that they are not used to working with this kind of data and should take a closer look.\n* They mention that the data is from a realistic room situation with noise and reflections.\n* They mention that the data is still difficult to achieve good results with.\n* They mention that they are not used to working with this kind of data and should take a closer look.\n* They mention that the data is from a realistic room situation with noise and reflections.\n* They mention that the data is still difficult to achieve good results with.\n* They mention that they are not used to working with this kind of data and should take a closer look.\n* They mention that the data is from a realistic room situation with noise and reflections.\n* They mention that the data is still difficult to achieve good results with.\n* They mention that they are not used to working with this kind of data and should take a closer look.\n* They mention that the data is from a realistic room situation with noise and reflections.\n* They mention that the data is still difficult to achieve good results with.\n* They mention that they are not used to working with this kind of data and should take a closer look.\n* They mention that the data is from a realistic room situation with noise and reflections.\n* They mention that the data is still difficult to achieve good",
+            "nb_characters": 3369,
+            "nb_words": 587,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1532",
+            "text": "*************\n\n* The speaker is discussing a data set called Aurora and a new digit set coming from recordings in the room.\n* The results are still terrible but have a thirty to sixty percent error rate reduction.\n* The speaker likes that it is a realistic room situation with both terms in noise and reflections.\n* The speaker is not used to working with this kind of data and should have a closer look.\n* The speaker is also interested in experiments using data from multiple languages to train the neural net.\n* The speaker mentions that hand-labeled data is the best way to work with the data.\n* The speaker also mentions that having multiple nets trained on different data could be helpful.\n* The speaker asks if it would be better to have multiple nets or just have acoustic conditions.",
+            "nb_characters": 792,
+            "nb_words": 135,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "1266",
+            "text": "\n\n* The speakers are discussing a project related to using neural networks for language processing.\n* They mention using hand-labeled data and experimenting with training multiple neural nets on different data to see if it improves performance.\n* They also discuss the idea of using data from multiple languages to train the neural net, but find that it is difficult to obtain hand-labeled data from other languages.\n* They also mention a question raised by Mike Shire's thesis about whether having multiple neural nets trained on different data would be better or not.\n* The speakers plan to meet again in two weeks and discuss what happened in the meantime.\n* They plan to skip the next meeting and instead discuss digits during the next meeting.\n* The speakers plan to turn off the machine and say \"the real nasty things\" at the end of the meeting.\n* The speakers mention that they will discuss other experiments during the next meeting.\n* The speakers mention that they will discuss the topic of using data from multiple languages to train the neural net during the next meeting.\n* The speakers mention that they will discuss the topic of using multiple neural nets trained on different data during the next meeting.\n* The speakers mention that they will discuss the topic of using hand-labeled data during the next meeting.\n* The speakers mention that they will discuss the topic of using digits during the next meeting.\n* The speakers mention that they will discuss the topic of using the real nasty things during the next meeting.\n* The speakers mention that they will discuss the topic of turning off the machine during the next meeting.\n* The speakers mention that they will discuss the topic of the real nasty things during the next meeting.\n* The speakers mention that they will discuss the topic of the real nasty things during the next meeting.\n* The speakers mention that they will discuss the topic of the real nasty things during the next meeting.\n* The speakers mention that they will discuss the topic of the real nasty things during the next meeting.\n* The speakers mention that they will discuss the topic of the real nasty things during the next meeting.\n* The speakers mention that they will discuss the topic of the real nasty things during the next meeting.\n* The speakers mention that they will discuss the topic of the real nasty things during the next meeting.\n* The speakers mention that they will discuss the topic of the real nasty things during the next meeting.\n* The speakers mention that they will discuss the topic of the real nasty things during the next meeting.\n* The speakers mention that they will discuss the topic of the real nasty things during the next meeting.\n* The speakers mention that they will discuss the topic of the real nasty things during the next meeting.\n* The speakers mention that they will discuss the topic of the real nasty things during the next meeting.\n* The speakers mention that they will discuss the topic of the real nasty things during the next meeting.\n* The speakers mention that they will discuss the topic of the real nasty things during the next meeting.\n* The speakers mention that they will discuss the topic of the real nasty things during the next meeting.\n* The speakers mention that they will discuss the topic of the real nasty things during the next meeting.\n* The speakers mention that they will discuss the topic of the real nasty things during the next meeting.\n* The speakers mention that they will discuss the topic of the real nasty things during",
+            "nb_characters": 3535,
+            "nb_words": 594,
+            "language_output": "1"
+        },
+        {
+            "success": "1",
+            "input_length": "536",
+            "text": "\n\n* Mike Shire raised the question of reverberation in relation to disfmarker.\n* It is not known for sure whether it is better to do disfmarker in certain cases.\n* It is not known whether disfmarker is effective in certain cases.\n* The speaker will not be present at the meeting next week.\n* The speaker will be returning to the US on a Sunday.\n* The meeting will be held in Amsterdam.\n* The main topic of discussion will be the speaker sharing what happened.\n* The speaker suggests that if there is nothing else to discuss, they should turn off the machine and say nasty things.\n* The group agrees to do digits first before discussing other topics.",
+            "nb_characters": 649,
+            "nb_words": 111,
+            "language_output": "1"
+        }
+    ],
+    "input_path": "inputs/XGen7b8k_750/icsi/icsi_1",
+    "model": "Salesforce/xgen-7b-8k-inst",
+    "input_language": "text_en",
+    "MAX_TOKEN_CHUNK_SIZE": "750",
+    "instruction": "Provide a list of key points for the following text:\n\n",
+    "over_context": "0",
+    "output_length": 153
+}
