@@ -1,26 +1,47 @@
-input_path,rouge2,rougel,bertscore,nb_words_input,nb_words_gold,nb_words_generated,success,over_context,output_language,input_language,consistency,description,dataset
-dialogsum_1_text_en.json,0.0205128205128205,0.1099999999999999,0.0901099815964698,218,19,179,1,0,1,1,0,Repeats the text but tells it is a summary,dialogsum
-dialogsum_2_text_en.json,0.2727272727272727,0.3731343283582089,0.4094326794147491,327,38,454,1,0,1,1,1,,dialogsum
-dialogsum_3_text_en.json,0.072463768115942,0.1986754966887417,0.314147800207138,214,21,120,1,0,1,1,1,,dialogsum
-dialogsum_4_text_en.json,0.1304347826086956,0.1925925925925926,0.2826100885868072,316,37,104,1,0,1,1,1,,dialogsum
-dialogsum_5_text_en.json,0.0786026200873362,0.1818181818181818,0.190278023481369,206,34,197,1,0,1,1,0,Repeats text,dialogsum
-fredsum_1_text_en.json,0.1084905660377358,0.2078651685393258,0.2217274457216262,947,204,228,1,0,1,1,1,Paragraphs given,fredsum
-fredsum_2_text_en.json,0.1307901907356948,0.2005420054200541,0.2123086154460907,865,114,520,1,0,1,1,1,Paragraphs,fredsum
-fredsum_3_text_en.json,0.1228070175438596,0.2325581395348837,0.2960606217384338,1095,158,473,1,0,1,1,1,paragrphs,fredsum
-fredsum_4_text_en.json,0.1444695259593679,0.2426966292134831,0.3165842592716217,1233,196,494,1,0,1,1,1,paragrphs,fredsum
-fredsum_5_text_en.json,0.1237113402061855,0.2085308056872037,0.2445113360881805,664,82,111,1,0,1,1,1,Ne comprend pas bien la conversation dit qu'il y a 2 perosnnes,fredsum
-mediasum_1_text_en.json,0.050179211469534,0.092526690391459,0.2191528975963592,725,28,254,1,0,1,1,1,paragraphs Bon résumé mais peut etre quelques inventions,mediasum
-mediasum_2_text_en.json,0.031578947368421,0.125,-0.0756109207868576,733,49,469,1,0,1,1,1,,mediasum
-mediasum_3_text_en.json,0.1634615384615384,0.2285714285714286,0.3764448761940002,532,92,129,1,0,1,1,1,très bon,mediasum
-mediasum_4_text_en.json,0.0970149253731343,0.2148148148148148,0.1679617166519165,664,98,173,1,0,1,1,1,très bon,mediasum
-mediasum_5_text_en.json,0.0140845070422535,0.0833333333333333,0.1564638167619705,644,28,446,1,0,1,1,1,Bon,mediasum
-samsum_1_text_en.json,0.087378640776699,0.1923076923076923,0.1534852534532547,214,47,172,1,0,1,1,0,Répète le dialogue,samsum
-samsum_2_text_en.json,0.0909090909090909,0.2051282051282051,0.2364652454853058,371,42,115,1,0,1,1,1,,samsum
-samsum_3_text_en.json,0.2222222222222222,0.2857142857142857,0.3853473663330078,92,41,83,1,0,1,1,1,,samsum
-samsum_4_text_en.json,0.0590717299578059,0.1338912133891213,0.1610958874225616,225,43,197,1,0,1,1,1,Paragraphes et résume en tant qu'assistant: I'm here to help if you have any,samsum
-samsum_5_text_en.json,0.0779220779220779,0.1772151898734177,0.196262702345848,67,15,64,1,0,1,1,1,Bon,samsum
-xsum_1_text_en.json,0.0268456375838926,0.1059602649006622,0.0462606847286224,360,27,125,1,0,1,1,1,Bon même si pas vraiment succint,xsum
-xsum_2_text_en.json,0.045045045045045,0.1160714285714285,0.2058026641607284,432,31,194,1,0,1,1,1,Manque quelques infos et pour le coup pourrait faire beaucoup plus succint,xsum
-xsum_3_text_en.json,0.0568181818181818,0.1235955056179775,0.1649199277162552,724,30,149,1,0,1,1,1,Bon résumé,xsum
-xsum_4_text_en.json,0.0279720279720279,0.1379310344827586,0.2527354061603546,316,28,118,1,0,1,1,1,Bon résumé pas de répétitions inutiles mais pourrait être plus efficace dans les tournures de phrase,xsum
-xsum_5_text_en.json,0.0655737704918033,0.1405405405405405,0.2296333312988281,397,28,158,1,0,1,1,1,,xsum
+,input_path,rouge2,rougel,bertscore,nb_words_input,nb_words_gold,nb_words_generated,success,over_context,output_language,input_language,consistency,description,dataset,context_mistake,speaker_inversion,formulation_mistake,citation_invention,negation,mix,supported_invention,unsupported_invention,smart_hallucination,hallucination
+0,dialogsum_1_text_en.json,0.0205128205128205,0.1099999999999999,0.0901099815964698,218,19,179,1,0,1,1,0,Repeats the text but tells it is a summary,dialogsum,0.0,0,0,0,0,0,0,0.0,0,"Annonce un résumé puis se répète
+"
+1,dialogsum_2_text_en.json,0.2727272727272727,0.3731343283582089,0.4094326794147491,327,38,454,1,0,1,1,1,,dialogsum,0.0,0,0,0,0,0,0,0.0,0,"RAS
+"
+2,dialogsum_3_text_en.json,0.072463768115942,0.1986754966887417,0.314147800207138,214,21,120,1,0,1,1,1,,dialogsum,0.0,0,0,0,0,0,0,0.0,0,"RAS
+"
+3,dialogsum_4_text_en.json,0.1304347826086956,0.1925925925925926,0.2826100885868072,316,37,104,1,0,1,1,1,,dialogsum,0.0,0,0,0,0,0,0,0.0,0,"RAS
+"
+4,dialogsum_5_text_en.json,0.0786026200873362,0.1818181818181818,0.190278023481369,206,34,197,1,0,1,1,0,Repeats text,dialogsum,0.0,0,0,0,0,0,0,0.0,0,"Annonce un résumé puis se répète
+"
+5,fredsum_1_text_en.json,0.1084905660377358,0.2078651685393258,0.2217274457216262,947,204,228,1,0,1,1,1,Paragraphs given,fredsum,0.0,0,0,0,0,0,0,0.0,0,"RAS
+"
+6,fredsum_2_text_en.json,0.1307901907356948,0.2005420054200541,0.2123086154460907,865,114,520,1,0,1,1,1,Paragraphs,fredsum,0.0,0,0,0,0,0,0,0.0,0,"RAS mais un peu long et quelques répétitions, pas condensé
+"
+7,fredsum_3_text_en.json,0.1228070175438596,0.2325581395348837,0.2960606217384338,1095,158,473,1,0,1,1,1,paragrphs,fredsum,0.0,0,0,0,0,0,0,0.0,0,"Mouais, très indicatif
+"
+8,fredsum_4_text_en.json,0.1444695259593679,0.2426966292134831,0.3165842592716217,1233,196,494,1,0,1,1,1,paragrphs,fredsum,0.0,0,0,0,0,0,0,0.5,0,"Petit contresens, AP ne disagree pas avec EC sinon RAS"
+9,fredsum_5_text_en.json,0.1237113402061855,0.2085308056872037,0.2445113360881805,664,82,111,1,0,1,1,1,Ne comprend pas bien la conversation dit qu'il y a 2 perosnnes,fredsum,1.0,0,0,0,0,0,0,1.0,0,"The text is a conversation between two people, P1 and FB il y en a 4, d'autres hallucinations"
+10,mediasum_1_text_en.json,0.050179211469534,0.092526690391459,0.2191528975963592,725,28,254,1,0,1,1,1,paragraphs Bon résumé mais peut etre quelques inventions,mediasum,0.0,0,0,0,0,0,0,0.0,0,"RAS
+"
+11,mediasum_2_text_en.json,0.031578947368421,0.125,-0.0756109207868576,733,49,469,1,0,1,1,1,,mediasum,0.0,0,0,0,0,0,0,0.0,0,"Excellent
+"
+12,mediasum_3_text_en.json,0.1634615384615384,0.2285714285714286,0.3764448761940002,532,92,129,1,0,1,1,1,très bon,mediasum,0.0,0,0,0,0,0,0,0.0,0,"Très bon
+"
+13,mediasum_4_text_en.json,0.0970149253731343,0.2148148148148148,0.1679617166519165,664,98,173,1,0,1,1,1,très bon,mediasum,0.0,0,0,0,0,0,0,0.0,0,"Très bon
+"
+14,mediasum_5_text_en.json,0.0140845070422535,0.0833333333333333,0.1564638167619705,644,28,446,1,0,1,1,1,Bon,mediasum,0.0,0,0,0,0,0,0,0.0,0,"Excellent
+"
+15,samsum_1_text_en.json,0.087378640776699,0.1923076923076923,0.1534852534532547,214,47,172,1,0,1,1,0,Répète le dialogue,samsum,0.0,0,0,0,0,0,0,0.0,0,"Annonce un résumé puis se répète
+"
+16,samsum_2_text_en.json,0.0909090909090909,0.2051282051282051,0.2364652454853058,371,42,115,1,0,1,1,1,,samsum,0.0,0,0,0,0,0,0,0.0,0,"Très bon
+"
+17,samsum_3_text_en.json,0.2222222222222222,0.2857142857142857,0.3853473663330078,92,41,83,1,0,1,1,1,,samsum,0.0,0,0,0,0,0,0,0.0,0,"Très bon
+"
+18,samsum_4_text_en.json,0.0590717299578059,0.1338912133891213,0.1610958874225616,225,43,197,1,0,1,1,1,Paragraphes et résume en tant qu'assistant: I'm here to help if you have any,samsum,0.0,0,0,0,0,0,0,1.0,0,"Trop linéaire, reprend la structure du dialogue, long, qques erreurs"
+19,samsum_5_text_en.json,0.0779220779220779,0.1772151898734177,0.196262702345848,67,15,64,1,0,1,1,1,Bon,samsum,0.0,0,0,0,0,0,0,0.0,0,"RAS
+"
+20,xsum_1_text_en.json,0.0268456375838926,0.1059602649006622,0.0462606847286224,360,27,125,1,0,1,1,1,Bon même si pas vraiment succint,xsum,0.0,0,0,0,0,0,0,0.0,0,"RAS
+"
+21,xsum_2_text_en.json,0.045045045045045,0.1160714285714285,0.2058026641607284,432,31,194,1,0,1,1,1,Manque quelques infos et pour le coup pourrait faire beaucoup plus succint,xsum,0.0,0,0,0,0,0,0,0.0,0,"Pas mal de répétitions mais ok
+"
+22,xsum_3_text_en.json,0.0568181818181818,0.1235955056179775,0.1649199277162552,724,30,149,1,0,1,1,1,Bon résumé,xsum,0.0,0,0,0,0,0,0,0.0,0,"Très bon
+"
+23,xsum_4_text_en.json,0.0279720279720279,0.1379310344827586,0.2527354061603546,316,28,118,1,0,1,1,1,Bon résumé pas de répétitions inutiles mais pourrait être plus efficace dans les tournures de phrase,xsum,0.0,0,0,0,0,0,0,0.0,0,"Très bon
+"
+24,xsum_5_text_en.json,0.0655737704918033,0.1405405405405405,0.2296333312988281,397,28,158,1,0,1,1,1,,xsum,0.0,0,0,0,0,0,0,0.0,0,RAS

@@ -3,23 +3,23 @@ RAS
 Extractif, mais trop long, reprend tout le dialogue
 Répète le dialogue
 Répète le dialogue
-Hallucine, ne comprend pas l'opposition, et quelques répétitions
+Hallucine, ne comprend pas l'opposition, et quelques répétitions@0:1 7:2
 Ne comprend pas l'instruction, et donne son avis en une phrase
-Sur 3 informations, une hallucination
+Sur 3 informations, une hallucination@7:1
 Une suele phrase répétée 2 fois A LIRE ELELELELeELELELELELELELLLLLLLLLLLLLLLLLLLLLLLLLLLLLL
 Répète le texte après avoir annnoncé un résumé
 Répète le dialogue
-Hallucine la fin, dit l'inverse de ce que c'est réellement
+Hallucine la fin, dit l'inverse de ce que c'est réellement@4:1.5
 Reprend et paraphrase énormément le texte de départ
 RAS
 RAS
 Répète le dialogue
 Répète le dialogue
 Répète le dialogue
-Hallucine Kate is in the UK, inverse Ola et Kate, autres halluicnations mineures
+Hallucine Kate is in the UK, inverse Ola et Kate, autres halluicnations mineures@7:1 1:1.5
 Répète le dialogue
 Paraphrase
 2 phrases très similaires sur 4 sinon ok
-Utilise ses connaissances: hallucine 2016 et feb 11th, Thursday, CNN, Jake Tapper, bref tout le contexte
+Utilise ses connaissances: hallucine 2016 et feb 11th, Thursday, CNN, Jake Tapper, bref tout le contexte@8:3
 Ne comprend pas l'instruction résumé, paraphrase.
 Ne comprend pas l'instruction résumé, paraphrase.

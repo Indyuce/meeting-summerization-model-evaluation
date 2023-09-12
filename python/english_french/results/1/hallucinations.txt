@@ -1,39 +1,39 @@
 RAS
-Les enchaînements ne sont pas logiques (admit au lieu d'un reply). 2 voire 4 phrases très similaires (répétitions)
-Pas bien compris le texte: on dirait qu'il ne comprend pas que c'est un dialogue. l'autre le décourage et n'essaie pas vraiment de l'aider
-Très exhaustif car reprend à peu près la structure du texte avec bcp de mots. mais ne capte pas que l'autre décourage et que le speaker finit par abandonner
+Les enchaînements ne sont pas logiques (admit au lieu d'un reply). 2 voire 4 phrases très similaires (répétitions)@2:1
+Pas bien compris le texte: on dirait qu'il ne comprend pas que c'est un dialogue. l'autre le décourage et n'essaie pas vraiment de l'aider@0:1
+Très exhaustif car reprend à peu près la structure du texte avec bcp de mots. mais ne capte pas que l'autre décourage et que le speaker finit par abandonner@0:0.5
 RAS
-Structures de phrase répétitives. hallucination: "P1 agrees and mentions that they also like to try cocktails. but P2 suggests that they should stick to beer as it is better for their health"
-Inversion (Speaker != Cleo) "The speaker suggests asking the students in the political science class to go to the demonstration"
-Grosse inversion Simon Cleo tout du long. en + : "Cleo suggests that he can still contribute to the cause by speaking out as a responsible citizen" grosse hallucination
+Structures de phrase répétitives. hallucination: "P1 agrees and mentions that they also like to try cocktails. but P2 suggests that they should stick to beer as it is better for their health"@7:1
+Inversion (Speaker != Cleo) "The speaker suggests asking the students in the political science class to go to the demonstration"@1:1
+Grosse inversion Simon Cleo tout du long. en + : "Cleo suggests that he can still contribute to the cause by speaking out as a responsible citizen" grosse hallucination@1:2
 RAS
-Hallucination : a perdu son passeport lors de son séjour à l'hôtel
+Hallucination : a perdu son passeport lors de son séjour à l'hôtel@7:1
 Manque qques infos mais correct
 Correct mais très indicatif
 Très bon
-Full hallucination. mixe les équipes. "The team. known as the \"Cinderella\"". la fin est bonne mais indicative
+Full hallucination. mixe les équipes. "The team. known as the \"Cinderella\"". la fin est bonne mais indicative@1:1 5:1.5
 RAS
-Presque RAS (formulations bof)
-Une hallucination: "but benefits Fijians who have access to clean water."
+Presque RAS (formulations bof)@2:0.5
+Une hallucination: "but benefits Fijians who have access to clean water."@4:1
 RAS. bonne analyse à la fin
 RAS
 RAS mais long
-Donne les dates sans dire que les invitations ont été refusées. Invente la date 15th. la date 17th. Bref mal traité
-invente next night = 19th. invente breakfast. bref trop d'invention. comprend pas bien
+Donne les dates sans dire que les invitations ont été refusées. Invente la date 15th. la date 17th.Bref mal traité@7:2
+invente next night = 19th. invente breakfast. bref trop d'invention. comprend pas bien@7:2
 RAS
-Trop de détails. mêle le 1er sujet de conversation et le 2ème. invente des choses
+Trop de détails. mêle le 1er sujet de conversation et le 2ème. invente des choses@7:1 5:1
 RAS
 RAS
-Pas mal d'hallucinations. dit que les deux locuteurs sont à Cuba. mixe qualité d'écharpe / qualité de chemise
+Pas mal d'hallucinations. dit que les deux locuteurs sont à Cuba. mixe qualité d'écharpe / qualité de chemise@0:1 5:1 7:0.5
 unconsistent
 RAS
-Laura said she was not upset. mauvaise compréhension
+Laura said she was not upset. mauvaise compréhension@7:1
 RAS mais trop court en terme d'infos
 Répète bcp trop le texte original
-L'aéroport a été saboté. le modèle dit qu'il a été attaqué par les forces offensives hallucination: The airstrikes have caused some damage to the buildings at the sugar factory
+L'aéroport a été saboté. le modèle dit qu'il a été attaqué par les forces offensives hallucination: The airstrikes have caused some damage to the buildings at the sugar factory @7:1 5:2
 Beaucoup trop de texte. juste une répétition
 Correct. mais manque qques infos (qui contre Trump ?)
-"Les trois hommes ont attaqué le candidat principal Donald Trump" ça fait 4 hommes ... il y en a que 3
+"Les trois hommes ont attaqué le candidat principal Donald Trump" ça fait 4 hommes ... il y en a que 3@0:0.5
 RAS
 Pas mal
 RAS

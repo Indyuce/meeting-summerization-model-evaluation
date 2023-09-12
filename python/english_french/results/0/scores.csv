@@ -1,41 +1,63 @@
-input_path,rouge2,rougel,bertscore,nb_words_input,nb_words_gold,nb_words_generated,success,over_context,output_language,input_language,consistency,description,dataset
-dialogsum_1_text_en.json,0.0,0.0,-0.2381180375814438,218,22,1,1,0,1,1,0,-1,dialogsum
-dialogsum_1_text_fr.json,0.087719298245614,0.1551724137931034,0.2538379728794098,218,17,99,1,0,1,0,1,-1,dialogsum
-dialogsum_2_text_en.json,0.09375,0.1705426356589147,0.1378592401742935,327,46,212,1,0,1,1,0,Mixes the instruction and the text like if the user's question was part of the text,dialogsum
-dialogsum_2_text_fr.json,0.0441176470588235,0.1052631578947368,0.0835634171962738,327,38,372,1,0,1,0,0,Starts with a summary but then rewrite the dialogue,dialogsum
-dialogsum_3_text_en.json,0.0909090909090909,0.1791044776119403,0.2098502516746521,214,25,109,1,0,1,1,1,-1,dialogsum
-dialogsum_3_text_fr.json,0.0461538461538461,0.1172161172161172,0.1394742578268051,214,21,241,1,0,1,0,1,Takes back the discourse structure in a narrative way more than summarizes,dialogsum
-dialogsum_4_text_en.json,0.1224489795918367,0.2083333333333333,0.3058485090732574,316,37,112,1,0,1,1,1,-1,dialogsum
-dialogsum_4_text_fr.json,0.1148325358851674,0.1895734597156398,0.2874749004840851,316,32,179,1,0,1,0,1,-1,dialogsum
-dialogsum_5_text_en.json,0.1260504201680672,0.2,0.1648909747600555,206,34,206,1,0,1,1,0,Repeats the text,dialogsum
-dialogsum_5_text_fr.json,0.0338983050847457,0.1666666666666666,0.2328753471374511,206,30,90,1,0,1,0,1,-1,dialogsum
-fredsum_1_text_en.json,0.1158301158301158,0.2222222222222222,0.2679743468761444,947,135,122,1,0,1,1,1,-1,fredsum
-fredsum_1_text_fr.json,0.0,0.0,-4.925074577331543,947,164,-1,0,-1,1,0,-1,-1,fredsum
-fredsum_2_text_en.json,0.1504424778761061,0.2280701754385964,0.1888932734727859,865,114,111,1,0,1,1,1,-1,fredsum
-fredsum_2_text_fr.json,0.0,0.0,-4.925074577331543,865,200,-1,0,-1,1,0,-1,-1,fredsum
-fredsum_3_text_en.json,0.1488095238095238,0.2603550295857987,0.2856070399284363,1095,158,179,1,0,1,1,1,-1,fredsum
-fredsum_3_text_fr.json,0.0,0.0,-4.925074577331543,1095,191,-1,0,-1,1,0,-1,-1,fredsum
-fredsum_4_text_en.json,0.1255230125523012,0.2142857142857142,0.3275986909866333,1233,95,141,1,0,1,1,1,-1,fredsum
-fredsum_4_text_fr.json,0.0,0.0,-4.925074577331543,1233,95,-1,0,-1,1,0,-1,-1,fredsum
-fredsum_5_text_en.json,0.102803738317757,0.2077922077922077,0.2469629794359207,664,82,129,1,0,1,1,1,-1,fredsum
-fredsum_5_text_fr.json,0.088560885608856,0.1736111111111111,0.2576009333133697,664,82,187,1,0,1,0,1,-1,fredsum
-samsum_1_text_en.json,0.081967213114754,0.2096774193548387,0.2185415625572204,214,47,77,1,0,1,1,1,-1,samsum
-samsum_1_text_fr.json,0.0310880829015544,0.0757314974182443,-0.07150399684906,214,47,534,1,0,1,0,0,-1,samsum
-samsum_2_text_en.json,0.1732283464566929,0.2325581395348837,0.3344309628009796,371,42,87,1,0,1,1,1,-1,samsum
-samsum_2_text_fr.json,0.0717948717948718,0.1928934010152284,0.2221515923738479,371,42,155,1,0,1,0,1,-1,samsum
-samsum_3_text_en.json,0.2363636363636364,0.2678571428571428,0.4301247894763946,92,41,71,1,0,1,1,1,-1,samsum
-samsum_3_text_fr.json,0.1126760563380281,0.2222222222222221,0.27874755859375,92,41,103,1,0,1,0,1,-1,samsum
-samsum_4_text_en.json,0.0446096654275092,0.1623616236162361,0.0728272944688797,225,43,225,1,0,1,1,0,-1,samsum
-samsum_4_text_fr.json,0.022140221402214,0.1318681318681318,-0.0074972752481698,225,43,224,1,0,1,0,0,-1,samsum
-samsum_5_text_en.json,0.0707964601769911,0.1565217391304348,0.1719411462545395,67,15,100,1,0,1,1,1,-1,samsum
-samsum_5_text_fr.json,0.036697247706422,0.0900900900900901,0.0772022679448127,67,15,96,1,0,1,0,1,-1,samsum
-xsum_1_text_en.json,0.0242424242424242,0.1077844311377245,0.0206868145614862,360,27,140,1,0,1,1,1,-1,xsum
-xsum_1_text_fr.json,0.0157068062827225,0.0520833333333333,-0.0752369165420532,360,27,357,1,0,1,0,1,-1,xsum
-xsum_2_text_en.json,0.0546448087431694,0.1189189189189189,0.2175071537494659,432,31,154,1,0,1,1,1,-1,xsum
-xsum_2_text_fr.json,0.0574162679425837,0.0904761904761904,-0.0642949044704437,552,36,348,1,0,0,0,1,peu de compression,xsum
-xsum_3_text_en.json,0.0519480519480519,0.141025641025641,0.1846440285444259,724,30,126,1,0,1,1,1,-1,xsum
-xsum_3_text_fr.json,0.0313111545988258,0.0584795321637426,-0.0276571735739707,724,30,483,1,0,1,0,1,Reprend énormément le texte d'origine et peu de compression,xsum
-xsum_4_text_en.json,0.0412371134020618,0.1616161616161616,0.2229613959789276,316,28,71,1,0,1,1,1,-1,xsum
-xsum_4_text_fr.json,0.0579710144927536,0.0864553314121037,0.1501040756702423,316,28,319,1,0,1,0,1,-1,xsum
-xsum_5_text_en.json,0.0627802690582959,0.1333333333333333,0.2068494409322738,397,28,197,1,0,1,1,1,-1,xsum
-xsum_5_text_fr.json,0.0,0.0465116279069767,-0.3890799582004547,523,34,6,1,0,0,0,0,S arrête au milieu de la première phrase,xsum
+,input_path,rouge2,rougel,bertscore,nb_words_input,nb_words_gold,nb_words_generated,success,over_context,output_language,input_language,consistency,description,dataset,context_mistake,speaker_inversion,formulation_mistake,citation_invention,negation,mix,supported_invention,unsupported_invention,smart_hallucination,hallucination
+0,dialogsum_1_text_en.json,0.0,0.0,-0.2381180375814438,218,22,1,1,0,1,1,0,-1,dialogsum,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0,"
+"
+1,dialogsum_1_text_fr.json,0.087719298245614,0.1551724137931034,0.2538379728794098,218,17,99,1,0,1,0,1,-1,dialogsum,0.0,0.5,0.0,0.0,0.0,0.0,0,0.0,0,Petites confusions entre les locuteurs
+2,dialogsum_2_text_en.json,0.09375,0.1705426356589147,0.1378592401742935,327,46,212,1,0,1,1,0,Mixes the instruction and the text like if the user's question was part of the text,dialogsum,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0,"
+"
+3,dialogsum_2_text_fr.json,0.0441176470588235,0.1052631578947368,0.0835634171962738,327,38,372,1,0,1,0,0,Starts with a summary but then rewrite the dialogue,dialogsum,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0,"
+"
+4,dialogsum_3_text_en.json,0.0909090909090909,0.1791044776119403,0.2098502516746521,214,25,109,1,0,1,1,1,-1,dialogsum,0.0,0.5,0.0,0.0,0.0,0.5,0,0.0,0,"Quelques inversions dans l'ordre de la parole (P1 replied that... Alors qu'il l'a dit avant et donc pas en réponse). ""Where they can get 5$ pitchers for 10$"", mélange."
+5,dialogsum_3_text_fr.json,0.0461538461538461,0.1172161172161172,0.1394742578268051,214,21,241,1,0,1,0,1,Takes back the discourse structure in a narrative way more than summarizes,dialogsum,0.0,1.0,0.0,0.0,0.0,0.0,0,1.0,0,"""P2 responds that he can usually drink 2 beers"" inversion entre P1 et P2, une aussi après. 10-15 dollar drinks for 15 dollars. Pauvreté des formulations, qui reprennent énoncé par énoncé. Résumé général à la fin, ""trying to encourage each other to drink less."" faux."
+6,dialogsum_4_text_en.json,0.1224489795918367,0.2083333333333333,0.3058485090732574,316,37,112,1,0,1,1,1,-1,dialogsum,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0,"parfait
+"
+7,dialogsum_4_text_fr.json,0.1148325358851674,0.1895734597156398,0.2874749004840851,316,32,179,1,0,1,0,1,-1,dialogsum,0.0,0.0,1.0,0.0,0.0,0.0,0,2.0,0,"Inversion Simon et Cleo (P1, P2) durable, 190 devient over 90, mauvaise articulation, arguments mal retransmis. ""Cleo agrees to join him and they plan to have lunch on the bus"" hallucination totale"
+8,dialogsum_5_text_en.json,0.1260504201680672,0.2,0.1648909747600555,206,34,206,1,0,1,1,0,Repeats the text,dialogsum,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0,"
+"
+9,dialogsum_5_text_fr.json,0.0338983050847457,0.1666666666666666,0.2328753471374511,206,30,90,1,0,1,0,1,-1,dialogsum,0.0,0.5,0.0,0.0,0.0,0.0,0,0.0,0,"""and keep a lookout for it"", non l'employé lui dit que c'est lui qui va keep a lookout (hallucination légère)"
+10,fredsum_1_text_en.json,0.1158301158301158,0.2222222222222222,0.2679743468761444,947,135,122,1,0,1,1,1,-1,fredsum,1.0,0.0,1.0,0.0,0.0,0.0,0,0.0,0,"""The proposal is criticized for targeting young people, particularly those who earn a lot of money"" pas vraiment, par target mais avantager. ""The speaker"" comme si il n'y en avait qu'un -> pb avec le dialogue"
+11,fredsum_1_text_fr.json,0.0,0.0,-4.925074577331543,947,164,-1,0,-1,1,0,-1,-1,fredsum,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0,"
+"
+12,fredsum_2_text_en.json,0.1504424778761061,0.2280701754385964,0.1888932734727859,865,114,111,1,0,1,1,1,-1,fredsum,1.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0,The speaker mauvaise identification.
+13,fredsum_2_text_fr.json,0.0,0.0,-4.925074577331543,865,200,-1,0,-1,1,0,-1,-1,fredsum,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0,"
+"
+14,fredsum_3_text_en.json,0.1488095238095238,0.2603550295857987,0.2856070399284363,1095,158,179,1,0,1,1,1,-1,fredsum,0.0,2.0,0.0,0.0,0.0,0.0,0,0.0,0,"Inversion des locuteurs forte, attribue une phrase à chirac alors que c'est le présentateur"
+15,fredsum_3_text_fr.json,0.0,0.0,-4.925074577331543,1095,191,-1,0,-1,1,0,-1,-1,fredsum,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0,"
+"
+16,fredsum_4_text_en.json,0.1255230125523012,0.2142857142857142,0.3275986909866333,1233,95,141,1,0,1,1,1,-1,fredsum,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0,"correct
+"
+17,fredsum_4_text_fr.json,0.0,0.0,-4.925074577331543,1233,95,-1,0,-1,1,0,-1,-1,fredsum,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0,"
+"
+18,fredsum_5_text_en.json,0.102803738317757,0.2077922077922077,0.2469629794359207,664,82,129,1,0,1,1,1,-1,fredsum,0.0,0.0,0.0,0.0,1.0,0.0,0,1.0,0,Candidat au second tour des présidentielles: faux. s'oppose à l'opposé de la loi: faux.
+19,fredsum_5_text_fr.json,0.088560885608856,0.1736111111111111,0.2576009333133697,664,82,187,1,0,1,0,1,-1,fredsum,0.0,0.0,0.0,0.0,1.0,0.0,0,0.0,0,"FB penserait que la propriété par des grosses netreprises des médias n'est pas un pb, faux."
+20,samsum_1_text_en.json,0.081967213114754,0.2096774193548387,0.2185415625572204,214,47,77,1,0,1,1,1,-1,samsum,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0,"
+"
+21,samsum_1_text_fr.json,0.0310880829015544,0.0757314974182443,-0.07150399684906,214,47,534,1,0,1,0,0,-1,samsum,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0,"
+"
+22,samsum_2_text_en.json,0.1732283464566929,0.2325581395348837,0.3344309628009796,371,42,87,1,0,1,1,1,-1,samsum,0.0,0.5,0.0,0.0,0.0,0.0,0,0.0,0,Deirdre suggests they invite Kira faux (inversion)
+23,samsum_2_text_fr.json,0.0717948717948718,0.1928934010152284,0.2221515923738479,371,42,155,1,0,1,0,1,-1,samsum,0.0,1.0,0.0,0.0,0.0,1.0,0,0.0,0,"Inversion, Deirdre ne suggère pas. Hallucination: Beth tells Deirdre she is studying to be a beautician, mixe ses potentielles études qu'elle rejette avec ce qu'elle aspire."
+24,samsum_3_text_en.json,0.2363636363636364,0.2678571428571428,0.4301247894763946,92,41,71,1,0,1,1,1,-1,samsum,0.0,0.0,0.5,0.0,0.0,0.0,0,0.0,0,Ton mal restitué
+25,samsum_3_text_fr.json,0.1126760563380281,0.2222222222222221,0.27874755859375,92,41,103,1,0,1,0,1,-1,samsum,0.0,0.0,0.0,0.0,0.0,1.0,0,0.0,0,the company will be happy to pay once the bill is settled pas de sens
+26,samsum_4_text_en.json,0.0446096654275092,0.1623616236162361,0.0728272944688797,225,43,225,1,0,1,1,0,-1,samsum,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0,"
+"
+27,samsum_4_text_fr.json,0.022140221402214,0.1318681318681318,-0.0074972752481698,225,43,224,1,0,1,0,0,-1,samsum,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0,"
+"
+28,samsum_5_text_en.json,0.0707964601769911,0.1565217391304348,0.1719411462545395,67,15,100,1,0,1,1,1,-1,samsum,0.0,0.0,0.0,0.0,0.0,0.0,0,0.5,0,"Laura then asks where he is going faux. Laura asks what she means faux, what he means. Paul is sorry and says he is reprend littéralement le script. "
+29,samsum_5_text_fr.json,0.036697247706422,0.0900900900900901,0.0772022679448127,67,15,96,1,0,1,0,1,-1,samsum,0.0,0.0,0.0,0.0,0.0,0.0,0,1.0,0,"Laura tells him that she is not upset faux, elle l'est"
+30,xsum_1_text_en.json,0.0242424242424242,0.1077844311377245,0.0206868145614862,360,27,140,1,0,1,1,1,-1,xsum,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0,"
+"
+31,xsum_1_text_fr.json,0.0157068062827225,0.0520833333333333,-0.0752369165420532,360,27,357,1,0,1,0,1,-1,xsum,0.0,0.0,0.0,1.0,0.0,0.0,0,0.0,0,"Mauvaise gestion des citations, copie du texte originale"
+32,xsum_2_text_en.json,0.0546448087431694,0.1189189189189189,0.2175071537494659,432,31,154,1,0,1,1,1,-1,xsum,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0,"Excellent
+"
+33,xsum_2_text_fr.json,0.0574162679425837,0.0904761904761904,-0.0642949044704437,552,36,348,1,0,0,0,1,peu de compression,xsum,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0,"Reprend bcp trop le etxte
+"
+34,xsum_3_text_en.json,0.0519480519480519,0.141025641025641,0.1846440285444259,724,30,126,1,0,1,1,1,-1,xsum,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0,"Bon
+"
+35,xsum_3_text_fr.json,0.0313111545988258,0.0584795321637426,-0.0276571735739707,724,30,483,1,0,1,0,1,Reprend énormément le texte d'origine et peu de compression,xsum,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0,"Trop long, reprend trop le texte
+"
+36,xsum_4_text_en.json,0.0412371134020618,0.1616161616161616,0.2229613959789276,316,28,71,1,0,1,1,1,-1,xsum,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0,"Top
+"
+37,xsum_4_text_fr.json,0.0579710144927536,0.0864553314121037,0.1501040756702423,316,28,319,1,0,1,0,1,-1,xsum,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0,"reformulation, paraphrase
+"
+38,xsum_5_text_en.json,0.0627802690582959,0.1333333333333333,0.2068494409322738,397,28,197,1,0,1,1,1,-1,xsum,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0,"good
+"
+39,xsum_5_text_fr.json,0.0,0.0465116279069767,-0.3890799582004547,523,34,6,1,0,0,0,0,S arrête au milieu de la première phrase,xsum,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0,S'arrête en plein milieu de phrase

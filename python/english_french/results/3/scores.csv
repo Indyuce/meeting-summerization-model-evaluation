@@ -1,26 +1,45 @@
-input_path,rouge2,rougel,bertscore,nb_words_input,nb_words_gold,nb_words_generated,success,over_context,output_language,input_language,consistency,description,dataset
-dialogsum_1_text_en.json,0.0571428571428571,0.1360544217687074,0.2506538927555084,218,17,125,1,0,1,1,1,-1,dialogsum
-dialogsum_2_text_en.json,0.0769230769230769,0.2179487179487179,0.2729542851448059,327,38,120,1,0,1,1,1,-1,dialogsum
-dialogsum_3_text_en.json,0.0203045685279187,0.1359223300970873,0.1117206662893295,214,25,174,1,0,1,1,1,"Too long, takes back the text but with hallucinations",dialogsum
-dialogsum_4_text_en.json,0.0776119402985074,0.1246290801186943,0.1306536793708801,316,37,300,1,0,1,1,0,Repeats the text,dialogsum
-dialogsum_5_text_en.json,0.1295546558704453,0.1927710843373493,0.1333260536193847,206,34,215,1,0,1,1,0,Repeats the text,dialogsum
-fredsum_1_text_en.json,0.0692041522491349,0.1924398625429553,0.1754614561796188,947,135,152,1,0,1,1,1,Très bon résumé,fredsum
-fredsum_2_text_en.json,0.0533333333333333,0.0897435897435897,0.0088399974629282,865,200,22,1,0,1,1,1,"Statement en une ligne du modèle, pas compris l'instruction et dit n'imp",fredsum
-fredsum_3_text_en.json,0.1222222222222222,0.2747252747252747,0.2783241271972656,1095,124,52,1,0,1,1,1,"Beaucoup trop court, trop incomplet",fredsum
-fredsum_4_text_en.json,0.0088495575221238,0.1159420289855072,0.0,1233,196,30,1,0,2,1,1,Une phrase répétée 2 fois,fredsum
-fredsum_5_text_en.json,0.0842105263157894,0.1361256544502617,0.018082246184349,664,82,296,1,0,1,1,0,Répétitions du texte,fredsum
-mediasum_1_text_en.json,0.0198675496688741,0.0429042904290429,0.0618605576455593,725,28,578,1,0,1,1,0,Répétitions du texte,mediasum
-mediasum_2_text_en.json,0.0199004975124378,0.1083743842364532,-0.0497022494673728,733,49,154,1,0,1,1,1,-1,mediasum
-mediasum_3_text_en.json,0.1262135922330097,0.1642512077294686,0.1727403402328491,532,92,322,1,0,1,1,0,Répétitions du texte,mediasum
-mediasum_4_text_en.json,0.1041666666666666,0.2371134020618557,0.1662764251232147,664,98,96,1,0,1,1,1,-1,mediasum
-mediasum_5_text_en.json,0.015267175572519,0.1052631578947368,0.1586004495620727,644,28,105,1,0,1,1,1,-1,mediasum
-samsum_1_text_en.json,0.0837696335078534,0.2176165803108808,0.0426549017429351,214,47,146,1,0,1,1,0,Répétitions du texte,samsum
-samsum_2_text_en.json,0.0440097799511002,0.1021897810218978,-0.0011445978889241,371,42,369,1,0,1,1,0,Répétitions du texte,samsum
-samsum_3_text_en.json,0.1395348837209302,0.2442748091603053,0.2340584397315979,92,41,90,1,0,1,1,0,Répétitions du texte,samsum
-samsum_4_text_en.json,0.1145833333333333,0.2061855670103093,0.2458469867706298,225,43,151,1,0,1,1,1,-1,samsum
-samsum_5_text_en.json,0.0,0.097560975609756,0.0,67,15,67,1,0,2,1,0,Répétitions du texte,samsum
-xsum_1_text_en.json,0.0155844155844155,0.0568475452196382,-0.0666010528802871,360,27,360,1,0,1,1,0,Répétitions du texte,xsum
-xsum_2_text_en.json,0.0666666666666666,0.217391304347826,0.4387292265892029,432,31,61,1,0,1,1,1,-1,xsum
-xsum_3_text_en.json,0.0584795321637426,0.1387283236994219,0.0982909798622131,724,30,143,1,0,1,1,1,-1,xsum
-xsum_4_text_en.json,0.0526315789473684,0.0930232558139534,0.1565718799829483,316,28,316,1,0,1,1,0,Répétitions du texte,xsum
-xsum_5_text_en.json,0.056338028169014,0.0747663551401869,0.1571065783500671,397,28,400,1,0,1,1,0,Répétitions du texte,xsum
+,input_path,rouge2,rougel,bertscore,nb_words_input,nb_words_gold,nb_words_generated,success,over_context,output_language,input_language,consistency,description,dataset,context_mistake,speaker_inversion,formulation_mistake,citation_invention,negation,mix,supported_invention,unsupported_invention,smart_hallucination,hallucination
+0,dialogsum_1_text_en.json,0.0571428571428571,0.1360544217687074,0.2506538927555084,218,17,125,1,0,1,1,1,-1,dialogsum,0.0,0.0,0,0,0.0,0,0,0.0,0.0,"RAS
+"
+1,dialogsum_2_text_en.json,0.0769230769230769,0.2179487179487179,0.2729542851448059,327,38,120,1,0,1,1,1,-1,dialogsum,0.0,0.0,0,0,0.0,0,0,0.0,0.0,"RAS
+"
+2,dialogsum_3_text_en.json,0.0203045685279187,0.1359223300970873,0.1117206662893295,214,25,174,1,0,1,1,1,"Too long, takes back the text but with hallucinations",dialogsum,0.0,0.0,0,0,0.0,0,0,0.0,0.0,"Extractif, mais trop long, reprend tout le dialogue
+"
+3,dialogsum_4_text_en.json,0.0776119402985074,0.1246290801186943,0.1306536793708801,316,37,300,1,0,1,1,0,Repeats the text,dialogsum,0.0,0.0,0,0,0.0,0,0,0.0,0.0,"Répète le dialogue
+"
+4,dialogsum_5_text_en.json,0.1295546558704453,0.1927710843373493,0.1333260536193847,206,34,215,1,0,1,1,0,Repeats the text,dialogsum,0.0,0.0,0,0,0.0,0,0,0.0,0.0,"Répète le dialogue
+"
+5,fredsum_1_text_en.json,0.0692041522491349,0.1924398625429553,0.1754614561796188,947,135,152,1,0,1,1,1,Très bon résumé,fredsum,1.0,0.0,0,0,0.0,0,0,2.0,0.0,"Hallucine, ne comprend pas l'opposition, et quelques répétitions"
+6,fredsum_2_text_en.json,0.0533333333333333,0.0897435897435897,0.0088399974629282,865,200,22,1,0,1,1,1,"Statement en une ligne du modèle, pas compris l'instruction et dit n'imp",fredsum,0.0,0.0,0,0,0.0,0,0,0.0,0.0,"Ne comprend pas l'instruction, et donne son avis en une phrase
+"
+7,fredsum_3_text_en.json,0.1222222222222222,0.2747252747252747,0.2783241271972656,1095,124,52,1,0,1,1,1,"Beaucoup trop court, trop incomplet",fredsum,0.0,0.0,0,0,0.0,0,0,1.0,0.0,"Sur 3 informations, une hallucination"
+8,fredsum_4_text_en.json,0.0088495575221238,0.1159420289855072,0.0,1233,196,30,1,0,2,1,1,Une phrase répétée 2 fois,fredsum,0.0,0.0,0,0,0.0,0,0,0.0,0.0,"Une suele phrase répétée 2 fois A LIRE ELELELELeELELELELELELELLLLLLLLLLLLLLLLLLLLLLLLLLLLLL
+"
+9,fredsum_5_text_en.json,0.0842105263157894,0.1361256544502617,0.018082246184349,664,82,296,1,0,1,1,0,Répétitions du texte,fredsum,0.0,0.0,0,0,0.0,0,0,0.0,0.0,"Répète le texte après avoir annnoncé un résumé
+"
+10,mediasum_1_text_en.json,0.0198675496688741,0.0429042904290429,0.0618605576455593,725,28,578,1,0,1,1,0,Répétitions du texte,mediasum,0.0,0.0,0,0,0.0,0,0,0.0,0.0,"Répète le dialogue
+"
+11,mediasum_2_text_en.json,0.0199004975124378,0.1083743842364532,-0.0497022494673728,733,49,154,1,0,1,1,1,-1,mediasum,0.0,0.0,0,0,1.5,0,0,0.0,0.0,"Hallucine la fin, dit l'inverse de ce que c'est réellement"
+12,mediasum_3_text_en.json,0.1262135922330097,0.1642512077294686,0.1727403402328491,532,92,322,1,0,1,1,0,Répétitions du texte,mediasum,0.0,0.0,0,0,0.0,0,0,0.0,0.0,"Reprend et paraphrase énormément le texte de départ
+"
+13,mediasum_4_text_en.json,0.1041666666666666,0.2371134020618557,0.1662764251232147,664,98,96,1,0,1,1,1,-1,mediasum,0.0,0.0,0,0,0.0,0,0,0.0,0.0,"RAS
+"
+14,mediasum_5_text_en.json,0.015267175572519,0.1052631578947368,0.1586004495620727,644,28,105,1,0,1,1,1,-1,mediasum,0.0,0.0,0,0,0.0,0,0,0.0,0.0,"RAS
+"
+15,samsum_1_text_en.json,0.0837696335078534,0.2176165803108808,0.0426549017429351,214,47,146,1,0,1,1,0,Répétitions du texte,samsum,0.0,0.0,0,0,0.0,0,0,0.0,0.0,"Répète le dialogue
+"
+16,samsum_2_text_en.json,0.0440097799511002,0.1021897810218978,-0.0011445978889241,371,42,369,1,0,1,1,0,Répétitions du texte,samsum,0.0,0.0,0,0,0.0,0,0,0.0,0.0,"Répète le dialogue
+"
+17,samsum_3_text_en.json,0.1395348837209302,0.2442748091603053,0.2340584397315979,92,41,90,1,0,1,1,0,Répétitions du texte,samsum,0.0,0.0,0,0,0.0,0,0,0.0,0.0,"Répète le dialogue
+"
+18,samsum_4_text_en.json,0.1145833333333333,0.2061855670103093,0.2458469867706298,225,43,151,1,0,1,1,1,-1,samsum,0.0,1.5,0,0,0.0,0,0,1.0,0.0,"Hallucine Kate is in the UK, inverse Ola et Kate, autres halluicnations mineures"
+19,samsum_5_text_en.json,0.0,0.097560975609756,0.0,67,15,67,1,0,2,1,0,Répétitions du texte,samsum,0.0,0.0,0,0,0.0,0,0,0.0,0.0,"Répète le dialogue
+"
+20,xsum_1_text_en.json,0.0155844155844155,0.0568475452196382,-0.0666010528802871,360,27,360,1,0,1,1,0,Répétitions du texte,xsum,0.0,0.0,0,0,0.0,0,0,0.0,0.0,"Paraphrase
+"
+21,xsum_2_text_en.json,0.0666666666666666,0.217391304347826,0.4387292265892029,432,31,61,1,0,1,1,1,-1,xsum,0.0,0.0,0,0,0.0,0,0,0.0,0.0,"2 phrases très similaires sur 4 sinon ok
+"
+22,xsum_3_text_en.json,0.0584795321637426,0.1387283236994219,0.0982909798622131,724,30,143,1,0,1,1,1,-1,xsum,0.0,0.0,0,0,0.0,0,0,0.0,3.0,"Utilise ses connaissances: hallucine 2016 et feb 11th, Thursday, CNN, Jake Tapper, bref tout le contexte"
+23,xsum_4_text_en.json,0.0526315789473684,0.0930232558139534,0.1565718799829483,316,28,316,1,0,1,1,0,Répétitions du texte,xsum,0.0,0.0,0,0,0.0,0,0,0.0,0.0,"Ne comprend pas l'instruction résumé, paraphrase.
+"
+24,xsum_5_text_en.json,0.056338028169014,0.0747663551401869,0.1571065783500671,397,28,400,1,0,1,1,0,Répétitions du texte,xsum,0.0,0.0,0,0,0.0,0,0,0.0,0.0,"Ne comprend pas l'instruction résumé, paraphrase."
